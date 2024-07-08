@@ -342,15 +342,11 @@ http://145.239.5.177:8080/525/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png" group-title="RMC SPORT",RMC 3
 http://145.239.5.177:8080/526/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
-http://145.239.5.177:8080/512/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1+
 http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="RMC SPORT",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="RMC SPORT",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jp" group-title="RMC SPORT", Canal+ Sports 1
 http://145.239.5.177:8080/537/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjJf/canalPlusSportTwo.png" group-title="RMC SPORT", CANAL+ SPORT 2
@@ -362,8 +358,6 @@ http://185.59.221.131:8081/live/canalsport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png" group-title="RMC SPORT", CANAL+ SPORT 5
 http://185.59.221.131:8081/live/canalsport5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3VW381R" group-title="RMC SPORT", 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 2
@@ -372,16 +366,6 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg" group-title="RMC SPORT",RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 🇫🇷ᴴᴰ
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1 🇫🇷ᴴᴰ 🟤
-https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 2 🇫🇷ᴴᴰ 🟤
-https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
-#EXTINF:-1 group-title="RMC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 1 Fr (89)
-http://89.187.179.242:1626/canal+sport
-#EXTINF:-1 group-title="RMC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 2 Fr (89)
-http://89.187.179.242:12183/canal+sport2
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3xYLaRh
