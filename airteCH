@@ -343,6 +343,12 @@ http://145.239.5.177:8080/525/index.m3u8
 http://145.239.5.177:8080/526/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
 http://51.178.65.238/BeinSport/mono.m3u8
+#EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/U8pfdBx.png",🇫🇷 beIN SPORTS 1
+https://kusnadipepenk.github.io/ntn/bs1.m3u8
+#EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/Q3RKGkX.png",🇫🇷 beIN SPORTS 2
+https://kusnadipepenk.github.io/ntn/bs2.m3u8
+#EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/JSMD6Pc.png",🇫🇷 beIN SPORTS 3
+https://kusnadipepenk.github.io/ntn/bs4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="RMC SPORT",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="RMC SPORT",SPORT EN FRANCE
