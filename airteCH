@@ -349,8 +349,21 @@ http://51.178.65.238/BeinSport/mono.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="RMC SPORT",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3VW381R" group-title="RMC SPORT", Canal Sports 3
+
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjJf/canalPlusSportTwo.png" group-title="RMC SPORT", Canal+ Sports 1
+http://145.239.5.177:8080/537/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3VW381R" group-title="RMC SPORT", CANAL+ SPORT 2
 http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjNf/canalPlusSportsThree.jpg" group-title="RMC SPORT", CANAL+ SPORT 3
+http://185.59.221.131:8081/live/canalsport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/M18zMDM4MjcwMjJf/canalplusquatre.png" group-title="RMC SPORT", CANAL+ SPORT 4
+http://185.59.221.131:8081/live/canalsport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png" group-title="RMC SPORT", CANAL+ SPORT 5
+http://185.59.221.131:8081/live/canalsport5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3VW381R" group-title="RMC SPORT", 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 2
