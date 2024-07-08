@@ -554,6 +554,29 @@ https://7pal.short.gy/event4
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NDZfNTMxNjA2NzVf/supersportmaximo1.jpeg" group-title="SPORT VIP 🏆", SUPER SPORT MAXIMO 1
+http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NDZfNTMxNTc0NTZf/supersportactions.png" group-title="SPORT VIP 🏆", SUPER SPORT ACTION
+http://185.59.221.131:8081/live/supersportaction/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NDZfNTMxNTg5ODNf/supersportblitz.jpeg" group-title="SPORT VIP 🏆", SUPER SPORT BLITZ
+http://185.59.221.131:8081/live/supersportblitz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0Mzk0ODRf/novasports1.png" group-title="SPORT VIP 🏆", Nova Sports 1
+http://5.9.148.210:8888/re-nvsp1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0Mzk0ODlf/novasports2.png" group-title="SPORT VIP 🏆", Nova Sports 2
+http://5.9.148.210:8888/re-nvsp2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0Mzk0OTFf/novasports3.png" group-title="SPORT VIP 🏆", Nova Sports 3
+http://5.9.148.210:8888/re-nvsp3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0Mzk0OTJf/novasports4.png" group-title="SPORT VIP 🏆", Nova Sports 4
+http://5.9.148.210:8888/re-nvsp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18zMDM4MjYzNDdf/novasportcinq.png" group-title="SPORT VIP 🏆", Nova Sports 5
+http://5.9.148.210:8888/re-nvsp5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18zMDM4MjYzNDhf/novasportsix.png" group-title="SPORT VIP 🏆", Nova Sports 6
+http://5.9.148.210:8888/re-nvsp6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0NDE4NThf/seriesA.jpeg" group-title="SPORT VIP 🏆", FUTBOLL MATCH
+http://194.143.148.28/MatchFutbol1/index.m3u8
+
+
+
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport_1_HD
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eleven_Sports_1_HD
