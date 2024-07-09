@@ -154,15 +154,15 @@ http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/9bded1e6945161e616123b8923181894.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d24f2e60aa54ee21aaa01b2bc556f74b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
-
+https://humsab.xyz/IN_E4/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/54a4076dfc9d009fe16cfc14201da51b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
-
+https://humsab.xyz/IN_E5/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/7ffd9ece9f7e59e829836f87e8945664.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 SD
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/eb0e117cce54ec1d8303b56e960df416.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 SD
-
+https://humsab.xyz/IN_E7/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/343481b25c8d2850885038dd80a25f49.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 SD
-
+https://humsab.xyz/IN_E8/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d9feee33174cc89b0c9ce28acc58991d.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 SD
 
 
@@ -417,6 +417,21 @@ http://181.215.205.107:1234/stream/tod/abd1?u=uae02&p=c1c0fafc22209e4f81d172e9a3
 http://181.215.205.107:1234/stream/tod/abd2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+#EXTINF:-1 tvg-logo="" group-title="SSC SPORT",  SSC SPORTS 1
+https://homeip.biz/KSA_SSC1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SSC SPORT",  SSC SPORTS 2
+https://homeip.biz/KSA_SSC2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SSC SPORT",  SSC SPORTS 3
+https://homeip.biz/KSA_SSC3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SSC SPORT",  SSC SPORTS 4
+https://homeip.biz/KSA_SSC4/index.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="SSC SPORT",  SSC SPORTS 5
+https://homeip.biz/KSA_SSC5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SSC SPORT",  SSC SPORTS 6
+https://homeip.biz/KSA_SSC6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SSC SPORT",  SSC SPORTS 7
+https://homeip.biz/KSA_SSC7/index.m3u8
+
 
 
 
@@ -664,6 +679,17 @@ http://5.9.148.210:8888/re-nvsp5/index.m3u8
 http://5.9.148.210:8888/re-nvsp6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0NDE4NThf/seriesA.jpeg" group-title="SPORT VIP 🏆", FUTBOLL MATCH
 http://194.143.148.28/MatchFutbol1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 5
+http://212.102.60.231/TSN_5/index.m3u8
+
 
 
 
