@@ -22,9 +22,6 @@ https://bit.ly/3OG5wq7
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
@@ -119,47 +116,21 @@ http://181.215.205.107:1234/stream/tod/bein2sd?u=uae02&p=c1c0fafc22209e4f81d172e
 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
-https://stream1.freetv.fun/bein-1-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
-https://stream1.freetv.fun/bein-2-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+++
-https://stream1.freetv.fun/bein-3-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+++
-https://stream1.freetv.fun/bein-4-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+++
-https://stream1.freetv.fun/bein-5-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+++
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",beIN SPORTS 1
-http://homeip.biz/IN_AE1/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",beIN SPORTS 2
-http://humsab.xyz/IN_E2/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",beIN SPORTS 3
-http://humsab.xyz/IN_E3/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 4
-http://humsab.xyz/IN_E4/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 5
-http://humsab.xyz/IN_E5/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 6
-http://humsab.xyz/IN_E6/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 7
-http://humsab.xyz/IN_E7/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 8
-http://humsab.xyz/IN_E8/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4cuvPKz" group-title="BEIN SPORT بين سبور",BEIN SPORT SD
+https://homeip.biz/AR_E1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/1210a745cb5095b85623c80b55f40115.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 SD
-http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
+http://homeip.biz/AR_BE1UHD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/ccfb43f324d93f1de1d8d0762c3a5236.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 SD
-http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/9bded1e6945161e616123b8923181894.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
-http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d24f2e60aa54ee21aaa01b2bc556f74b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
 https://humsab.xyz/IN_E4/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/54a4076dfc9d009fe16cfc14201da51b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
 https://humsab.xyz/IN_E5/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/7ffd9ece9f7e59e829836f87e8945664.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 SD
-
+http://humsab.xyz/IN_E6/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/eb0e117cce54ec1d8303b56e960df416.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 SD
 https://humsab.xyz/IN_E7/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/343481b25c8d2850885038dd80a25f49.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 SD
@@ -168,124 +139,60 @@ https://humsab.xyz/IN_E8/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports3.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
-http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 HD
-http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
-http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 HD
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 HD
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 HD
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 http://cdn.footballii.ir:8080/hls2/bein1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
 http://cdn.footballii.ir:8080/hls2/bein2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzgvG8G/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzgvG8G/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
 http://cdn.footballii.ir:8080/hls2/bein3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/dJ8jk2N/4hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/dJ8jk2N/4hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
 http://cdn.footballii.ir:8080/hls2/bein4.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n8kZRrQ/5hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n8kZRrQ/5hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
 http://cdn.footballii.ir:8080/hls2/bein5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 http://cdn.footballii.ir:8080/hls2/bein6.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
-http://31.222.238.38/appleSA-bein-1-fhd/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️
-http://31.222.238.38/appleSA-bein-2-fhd/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️
-http://31.222.238.38/appleSA-bein-3-fhd/video.m3u8
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️⚽️
-http://hamidfm2024.ddns.net:1988/Bein1HD-Hamidfm2024/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️⚽️
-http://hamidfm2024.ddns.net:1988/Bein2HD-Hamidfm2024/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️⚽️
-http://hamidfm2024.ddns.net:1988/Bein3HD-Hamidfm2024/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️⚽️⚽️
-http://hamidfm2024.ddns.net:1988/Bein1Sd-Hamidfm2024/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️⚽️⚽️
-http://hamidfm2024.ddns.net:1988/Bein2Sd-Hamidfm2024/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️⚽️⚽️
-http://hamidfm2024.ddns.net:1988/Bein3Sd-Hamidfm2024/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports6.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 LOW
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 LOW
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-https://pufa.vercel.app/home/1424
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT SD1
-https://pufa.vercel.app/home/24
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-https://pufa.vercel.app/home/1425
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT SD2
-https://pufa.vercel.app/home/25
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-https://pufa.vercel.app/home/1426
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT SD3
-https://pufa.vercel.app/home/26
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
-https://pufa.vercel.app/home/1427
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT SD4
-https://pufa.vercel.app/home/27
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
-https://pufa.vercel.app/home/1428
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT SD5
-https://pufa.vercel.app/home/28
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
-https://pufa.vercel.app/home/1429
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORT XTRA HD1
-https://pufa.vercel.app/home/1421
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORT XTRA SD1
-https://pufa.vercel.app/home/21
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORT XTRA HD
-https://pufa.vercel.app/home/1422
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORT XTRA SD2
-https://pufa.vercel.app/home/22
-
-
 
 
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono.bein" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max1
@@ -700,6 +607,8 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yNjUzMDI0OTlf/madrid" group-title="SPORT VIP 🏆", Real Madrid TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORT VIP 🏆",MU TV
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTgzNTc3NTRf/granndStand.jpg" group-title="SPORT VIP 🏆", SUPER SPORTS
 http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NDZfNTMxNjA2NzVf/supersportmaximo1.jpeg" group-title="SPORT VIP 🏆", SUPER SPORT MAXIMO 1
@@ -732,6 +641,38 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 5
 http://212.102.60.231/TSN_5/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/dKYbaNp.png" group-title="SPORT VIP 🏆", Sony Ten 1
+http://homeip.biz/SPTEN1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" group-title="SPORT VIP 🏆", Sony Ten 2
+http://homeip.biz/IN_SNT2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" group-title="SPORT VIP 🏆", Sony Ten 3
+http://homeip.biz/tenso3/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dKnx3cG.png" group-title="SPORT VIP 🏆", Sony Ten 5
+http://homeip.biz/livso/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="SPORT VIP 🏆", A Sports
+http://homeip.biz/PK_PS/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/dFVFrgI.png" ,Super Sports Cricket 
+http://homeip.biz/AF_S_CR/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dKaHo67.jpg" ,Willow Cricket 
+http://humsab.xyz/Wi_Cr/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dK1dr3Q.jpg" ,Sky Sports Football 
+http://jafupro.com:80/live/1234567890/1234567890/12999.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dKaJCOJ.webp" ,SuperSport Football 
+http://homeip.biz/AF_S_FOOTIMER/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dKaR0IR.jpg" , Sky Sports Mix
+http://homeip.biz/IN_mixsp/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dFQKhRj.jpg" ,Sky Sports Action 
+http://homeip.biz/IN_AC/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dK15jSI.jpg" ,Sky Sports Main Event 
+https://jafupro.com:443/live/George12/George12/13001.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dFQfuLB.jpg" ,SuperSport Grandstand 
+http://homeip.biz/AF_S_G/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dK1XSpf.webp" ,Bein Sports Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 
 
