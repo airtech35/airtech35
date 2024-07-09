@@ -542,23 +542,6 @@ https://7pal.short.gy/event4
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg" group-title="SPORT VIP 🏆", ESPN 1
 http://185.59.221.131:8081/live/espn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg" group-title="SPORT VIP 🏆", ESPN 2
@@ -653,28 +636,24 @@ http://homeip.biz/tenso3/index.m3u8
 http://homeip.biz/livso/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="SPORT VIP 🏆", A Sports
 http://homeip.biz/PK_PS/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/dFVFrgI.png" ,Super Sports Cricket 
+#EXTINF:-1 tvg-logo="https://iili.io/dFVFrgI.png" group-title="SPORT VIP 🏆", Super Sports Cricket 
 http://homeip.biz/AF_S_CR/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKaHo67.jpg" ,Willow Cricket 
+#EXTINF:-1 tvg-logo="https://iili.io/dKaHo67.jpg" group-title="SPORT VIP 🏆", Willow Cricket 
 http://humsab.xyz/Wi_Cr/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK1dr3Q.jpg" ,Sky Sports Football 
+#EXTINF:-1 tvg-logo="https://iili.io/dK1dr3Q.jpg" group-title="SPORT VIP 🏆", Sky Sports Football 
 http://jafupro.com:80/live/1234567890/1234567890/12999.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKaJCOJ.webp" ,SuperSport Football 
+#EXTINF:-1 tvg-logo="https://iili.io/dKaJCOJ.webp" group-title="SPORT VIP 🏆", SuperSport Football 
 http://homeip.biz/AF_S_FOOTIMER/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKaR0IR.jpg" , Sky Sports Mix
+#EXTINF:-1 tvg-logo="https://iili.io/dKaR0IR.jpg" group-title="SPORT VIP 🏆", Sky Sports Mix
 http://homeip.biz/IN_mixsp/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dFQKhRj.jpg" ,Sky Sports Action 
+#EXTINF:-1 tvg-logo="https://iili.io/dFQKhRj.jpg" group-title="SPORT VIP 🏆", Sky Sports Action 
 http://homeip.biz/IN_AC/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK15jSI.jpg" ,Sky Sports Main Event 
+#EXTINF:-1 tvg-logo="https://iili.io/dK15jSI.jpg" group-title="SPORT VIP 🏆", Sky Sports Main Event 
 https://jafupro.com:443/live/George12/George12/13001.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dFQfuLB.jpg" ,SuperSport Grandstand 
+#EXTINF:-1 tvg-logo="https://iili.io/dFQfuLB.jpg" group-title="SPORT VIP 🏆", SuperSport Grandstand 
 http://homeip.biz/AF_S_G/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK1XSpf.webp" ,Bein Sports Xtra
+#EXTINF:-1 tvg-logo="https://iili.io/dK1XSpf.webp" group-title="SPORT VIP 🏆", Bein Sports Xtra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-
 
 
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport_1_HD
