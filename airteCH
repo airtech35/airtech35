@@ -119,50 +119,6 @@ http://181.215.205.107:1234/stream/tod/bein2sd?u=uae02&p=c1c0fafc22209e4f81d172e
 
 
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 1
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 2
-https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 3
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 4
-https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 5
-https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 6
-https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 7
-https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 8
-https://headlinessportsfoot.com/chunklist/hlsch8.m3u
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 9
-https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 10
-https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 11
-https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 12
-https://headlinessportsfoot.com/chunklist/hlsch12m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 13
-https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 14
-https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 15
-https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 16
-https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 17
-https://headlinessportsfoot.com/chunklist/hlsch17.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 18
-https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 19
-https://headlinessportsfoot.com/chunklist/hlsch19.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور", LIVE 24 SPORT 20
-https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
 https://stream1.freetv.fun/bein-1-sports-1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
@@ -346,6 +302,48 @@ https://7pal.short.gy/itv1en
 https://7pal.short.gy/spersppl
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://i.imgur.com/HsolYfq.png" group-title="UEFA_EURO_2024", EURO2024-TSN1-FHD
 https://7pal.short.gy/tsn1ca
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 1
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 2
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 3
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 4
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 5
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 6
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 7
+https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 8
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 9
+https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 10
+https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 11
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 12
+https://headlinessportsfoot.com/chunklist/hlsch12m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 13
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 14
+https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 15
+https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 16
+https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 17
+https://headlinessportsfoot.com/chunklist/hlsch17.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 18
+https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 19
+https://headlinessportsfoot.com/chunklist/hlsch19.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 20
+https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
 
 
 
