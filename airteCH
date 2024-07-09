@@ -49,11 +49,7 @@ https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="BEIN SPORT بين سبور",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  1 IR
-https://v/hls/tv3/tv3.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  1 IR+
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  1 IR++
-https://lenz.ayassport.ir/wh7f454c46tw2474804582_-1612534433/PLTV/88888888/224/3221226935/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1
 https://live1.beinconnect.us:5443/YallaGoalApp/streams/beINSports1Max.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2
