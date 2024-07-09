@@ -287,6 +287,8 @@ http://145.239.5.177:8080/524/index.m3u8
 http://145.239.5.177:8080/525/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png" group-title="RMC SPORT",RMC 3
 http://145.239.5.177:8080/526/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3WddU58" group-title="RMC SPORT",TF1HD
+http://homeip.biz/FR_TF1HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
 http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/U8pfdBx.png",🇫🇷 beIN SPORTS 1
