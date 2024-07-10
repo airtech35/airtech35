@@ -38,6 +38,8 @@ https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
 http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 
+http://live2.sawaghost1.xyz/streams_cach/185560.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 1
 https://sportina.app/osat-max1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 2
@@ -50,6 +52,8 @@ https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  1 IR
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  1 IR+
+https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1
 https://live1.beinconnect.us:5443/YallaGoalApp/streams/beINSports1Max.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2
@@ -2670,22 +2674,8 @@ http://tv2.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKfH3KI.png" group-title="Children أطفال ",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/4bmvVmV" group-title="Children أطفال ",DISNEY_JR
-http://170.254.18.108/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3wFZPDo" group-title="Children أطفال ",DISNEY
-http://170.254.18.108/DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/44KNaf3" group-title="Children أطفال ",DISCOVERY_KIDS
-http://170.254.18.109/DISCOVERY_KIDS/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3K6tFUz" group-title="Children أطفال ",Cartoonito
-http://170.254.18.108/CARTOONITO/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3V6eKjL" group-title="Children أطفال ",Baby First
-http://170.254.18.109/BABYFIRST/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/4bMWEc5" group-title="Children أطفال ",TreeHouse
-http://170.254.18.109/TREEHOUSE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/246vm7R.png" group-title="Children أطفال ",ZooMoo HD
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QfwNoFU.png" group-title="Children أطفال ",Moonbug HD
-https://moonbug-rokuus.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/48KWzEB" group-title="Children أطفال ",Kids1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/48KWzEB" group-title="Children أطفال ",Kids2
@@ -2700,26 +2690,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=225
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/48KWzEB" group-title="Children أطفال ",Kids7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="Children أطفال ",TIJI-in-French
-https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="Children أطفال ",TRT Cocuk(Turki)
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="Children أطفال ",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="ext" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/YMdvQBi.png" group-title="Children أطفال ", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-id="AghapyKids.us" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="Children أطفال ",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Children أطفال ",Brat TV
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DuckTV.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Children أطفال ",Duck TV
-https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Children أطفال ",Kidoodle TV
-https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsClick.us" tvg-logo="https://i.imgur.com/yg7MHn9.png" group-title="Children أطفال ",KidsClick
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Children أطفال ",Moonbug Kids
@@ -2742,24 +2722,14 @@ https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="Children أطفال ", Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://imgur.com/3bvMvx2.png",🇧🇷 🧒➾ Família [Rakuten]
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png",🧒➾ Duck tv 
 http://iptv.prosto.tv:7000/ch209/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/escola.png",🇧🇷 🧒➾ Tv Escolaᴴᴰ
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png",🇧🇷 🧒➾ Toon Goggles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://sck.pm/sc9k",🇪🇸 🧒➾ TVG Infantil
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",🇪🇸 🧒➾ Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",🇪🇸 🧒➾ Cartoon Network Latino 2
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",🇪🇸 🧒➾ Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Children أطفال " tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",🇺🇸 🧒➾ Tortues Ninja [Pluto]
@@ -5785,7 +5755,7 @@ https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="40" group-title="🇹🇷Turkey" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40", Cartoon Network HD
 https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷Turkey" logo="https://bit.ly/43rEPvV", TRT COCUK HD YEDEK
-https://mn-nl.mncdn.com/blutv_trtcocuk_2/smil:trtcocuk.smil/chunklist.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/3MpMSmP"tvg-id="" group-title="🇹🇷Turkey",TV 100 HD
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="🇹🇷Turkey",TV NET HD
