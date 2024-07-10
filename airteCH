@@ -3272,16 +3272,12 @@ http://95.216.180.111:1935/live/35/index.m3u8
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="🇮🇶العراق IRAQ",Zagros🇮🇶
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JIH7PQ" group-title="🇮🇶العراق IRAQ",🇮🇶قناة دجلة طرب
-https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="🇮🇶العراق IRAQ",Dijlah fm
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="🇮🇶العراق IRAQ",iNEWS🇮🇶
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="🇮🇶العراق IRAQ",iNEWS🇮🇶
 http://95.216.180.111:1935/live/34/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="🇮🇶العراق IRAQ",ALetejah TV🇮🇶
-http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="🇮🇶العراق IRAQ",ALetejah TV🇮🇶
 http://95.216.180.111:1935/live/33/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Xe8g08" group-title="🇮🇶العراق IRAQ",AlGhadeer🇮🇶
@@ -3320,8 +3316,6 @@ https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40YbAj7" group-title="🇮🇶العراق IRAQ",Al Iraqia News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",الرابعه
-https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="🇮🇶العراق IRAQ",IRAQ 24 HD
 http://5.253.46.190:7004/play/a0ap
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="🇮🇶العراق IRAQ",IRAQ EDU KIDS
@@ -3411,52 +3405,15 @@ https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
 #EXTINF:17 tvg-id=""tvg-name="ERE TV" tvg-country="FR"tvg-language="French" tvg-logo="https://www.free.fr/assets/s3/905_4ed665f2e7.png" group-title="🇲🇦المغربMAROCCO",ERE TV
 https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇦المغربMAROCCO",Radio Nationale الإذاعة الوطنية 🇲🇦
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sr2jXyj/tamazigh.png" group-title="🇲🇦المغربMAROCCO",Radio Amazigh 🇲🇦الإذاعة الأمازيغية
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k8Q8Z2z/med6.png" group-title="🇲🇦المغربMAROCCO",Radio Med6 🇲🇦راديو القرآن الكريم
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PYP8y8B/rinter.png" group-title="🇲🇦المغربMAROCCO",Radio Inter 🇲🇦الإذاعة الدولية
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCGdtJr/agadir.png" group-title="🇲🇦المغربMAROCCO",Radio Agadir إذاعة أغادير 🇲🇦
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_agadir/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zQWc34V/hoceima.png" group-title="🇲🇦المغربMAROCCO",Radio El Hoceima 🇲🇦إذاعة الحسيمة
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XjBWjPR/tetouan.png" group-title="🇲🇦المغربMAROCCO",Radio Tetouan🇲🇦إذاعة تطوان
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4p5pXCz/tanger.png" group-title="🇲🇦المغربMAROCCO",Radio Tanger 🇲🇦إذاعة طنجة
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DRmHmDF/fess.png" group-title="🇲🇦المغربMAROCCO",Radio Fes 🇲🇦إذاعة فاس
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Cnjpz0J/merrakash.png" group-title="🇲🇦المغربMAROCCO",Radio Merrakesh 🇲🇦إذاعة مراكش
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h29nBJq/rcasa.png" group-title="🇲🇦المغربMAROCCO",Radio Casa 🇲🇦إذاعة الدار البيضاء
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/12Z4gk4/oujda.png" group-title="🇲🇦المغربMAROCCO",Radio Oujda 🇲🇦إذاعة وجدة
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0rZPz6m/mekness.png" group-title="🇲🇦المغربMAROCCO",Radio Mekness 🇲🇦إذاعة مكناس
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇦المغربMAROCCO",Radio Laayoune إذاعة العيون 
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NS8YJh0/med-radio.png" group-title="🇲🇦المغربMAROCCO",Med Radio🇲🇦
-https://streamer.eagrpservices.com//audio//medradio.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HGDwLZx/chadafm.png" group-title="🇲🇦المغربMAROCCO",Chada FM🇲🇦
-https://live-reflector.ice.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/16Rr2gf/radio-mars.png" group-title="🇲🇦المغربMAROCCO",Radio Mars🇲🇦
-https://streamer.eagrpservices.com/audio/radiomars.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wss1Y02/hitradio.png" group-title="🇲🇦المغربMAROCCO",HIT Radio🇲🇦
 https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7Jzv1Zq/rsoleil.png" group-title="🇲🇦المغربMAROCCO",Radio Soleil🇲🇦
-https://radiosoleil.ice.infomaniak.ch/radiosoleil-32.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2sWLDn6/capradio.png" group-title="🇲🇦المغربMAROCCO",CAP Radio🇲🇦
-https://streamer.eagrpservices.com/audio/capradio.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pXzw2Vz/mfmradio.png" group-title="🇲🇦المغربMAROCCO",MFM Radio 🇲🇦
-https://streamer.eagrpservices.com/audio/mfmradio.ogg
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rZjkDqX/medinafm.png" group-title="🇲🇦المغربMAROCCO",Medina FM🇲🇦
 https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PwYz4T6/aswat.png" group-title="🇲🇦المغربMAROCCO",Radio Aswat 🇲🇦
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
@@ -3466,25 +3423,15 @@ https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="🇹🇳تونسTUNISIE",WATANIA 2+
 https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="🇹🇳تونسTUNISIE",NESSMA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="🇹🇳تونسTUNISIE",Shems FM🇹🇳
-https://radio.shemsfm.net/shems
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="🇹🇳تونسTUNISIE",TUNISIE 🇹🇳راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TlJdrN" group-title="🇹🇳تونسTUNISIE", قناة الزيتونة
-https://video1.getstreamhosting.com:1936/8320/8320/chunklist.m3u8
-
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="🇹🇳تونسTUNISIE",iFm
-https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="🇹🇳تونسTUNISIE",moziq
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="🇹🇳تونسTUNISIE",sahel
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 type="video" tvg-logo="" group-title="🇹🇳تونسTUNISIE",ZitounaTV
-https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇩🇿الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
@@ -3496,15 +3443,10 @@ https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
 http://162.212.178.69:4242/bysid/808
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
-
-
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Ekta TV
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Eiman TV
 http://154.58.202.131:8000/play/a03y
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Mahadra
 http://154.58.202.185:8000/play/a0a7
-
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Medina
 http://154.58.202.185:8000/play/a0ai
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Mourabitoune
@@ -3521,7 +3463,6 @@ http://154.58.202.131:8000/play/a03o
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Wataniya
 http://154.58.202.185:8000/play/a0ad
-
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elbeshara Tv
@@ -3532,10 +3473,8 @@ http://154.58.202.131:8000/play/a03l
 http://154.58.202.131:8000/play/a01t
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR
 http://154.58.202.131:8000/play/a04h
-
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR-HD
 http://154.58.202.131:8000/play/a04r
-
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elmouritania HD
 http://154.58.202.185:8000/play/a0a4
 
@@ -3549,22 +3488,14 @@ https://master.starmena-cloud.com/hls/almasar.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ziDRnP" group-title="🇱🇾ليبياLIBYA",JamahiriyaTV
-https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48OMM0L" group-title="🇱🇾ليبياLIBYA",Libya Mostakbal
 https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",RTV Lebda
-https://media1.livaat.com/live/Lebda_TV/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKPflu" group-title="🇱🇾ليبياLIBYA",NEW_LIBYA_News
-https://media1.livaat.com/NEW_LIBYA_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA", قناة الوطنيه
 http://162.212.178.70:4442/bysid/7.ts
-
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
 http://154.58.202.185:8000/play/a05y
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
 http://154.58.202.131:8000/play/a04g
-
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwataniya
 http://154.58.202.185:8000/play/a05w
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwatnya
@@ -3581,8 +3512,6 @@ http://154.58.202.131:8000/play/a04e
 http://154.58.202.185:8000/play/a05z
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya WTV HD
 http://154.58.202.131:8000/play/a01s
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
 http://5.253.46.190:7004/play/a0d4
 #EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
@@ -3598,25 +3527,21 @@ http://154.58.202.131:8000/play/a01s
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar HD
 http://5.253.46.190:7002/play/a0bj
 
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Alzrga
-https://media1.livaat.com/Alzrga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",tayba
-https://mn-nl.mncdn.com/tayba/live/chunklist.m3u8?v=93532509
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3mYx4wY" group-title="🇸🇩السودانSUDAN",Sudan TV🇸🇩
 http://162.212.178.69:4242/bysid/803
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Tayba TV
-https://mn-nl.mncdn.com/tayba/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Dabanga TV
-https://cdn-cf.dabangasudan.org/hls/stream.m3u8
+https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",SUDAN TV
 http://45.65.112.49:8000/play/a0nd
-
 #EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Basic Edu
 http://154.58.202.131:8000/play/a02k
-#EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Secondary Edu
-http://154.58.202.131:8000/play/a02l
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
 https://bit.ly/3xYLaRh
@@ -3680,18 +3605,16 @@ https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/in
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="🇸🇦السعودية Saudi-Arabia",Saudi TV 1🇸🇦
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40HBpTq" group-title="🇸🇦السعودية Saudi-Arabia",AL Ekhbaria +🇸🇦
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40HBpTq" group-title="🇸🇦السعودية Saudi-Arabia",AL Ekhbaria 🇸🇦
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🇸🇦السعودية Saudi-Arabia",Iqraa🇸🇦
 https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🇸🇦السعودية Saudi-Arabia",Iqraa Europe Africa🇸🇦
-https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Md9nOO" group-title="🇸🇦السعودية Saudi-Arabia",مكة TV🇸🇦
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2hA2D" group-title="🇸🇦السعودية Saudi-Arabia",Quran🇸🇦
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NFINYW" group-title="🇸🇦السعودية Saudi-Arabia",Al Sunnah 🇸🇦
-https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+https://sbc-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NaBoD9" group-title="🇸🇦السعودية Saudi-Arabia",thaqafeyyah 🇸🇦
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
 
@@ -3732,10 +3655,8 @@ https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",Baynounah TV🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42hg5WH" group-title="🇦🇪الامارات EMIRATES",AL-Jaleyah tv🇦🇪
-https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45kiVLx" group-title="🇦🇪الامارات EMIRATES",alaan🇦🇪
-https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
+https://github.com/Sibprod/streams/raw/1b6605b50f727112cbde08318ad110c10172fbd2/ressources/dm/py/hls/alaantv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48CjOAO" group-title="🇦🇪الامارات EMIRATES",ALshallalc TV
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/433PAV1" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
