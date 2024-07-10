@@ -3101,7 +3101,7 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="LEBANON لبنان",ONE TV LBN🇱🇧
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3K6JafH" group-title="LEBANON لبنان",صوت لبنان
-https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+https://l3.itworkscdn.net/itwaudio/9054/stream
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HvKNl6" group-title="LEBANON لبنان",Al Wifak🇱🇧
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45uanRO" group-title="LEBANON لبنان",Spilebanon
