@@ -3661,8 +3661,7 @@ https://github.com/Sibprod/streams/raw/1b6605b50f727112cbde08318ad110c10172fbd2/
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/433PAV1" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
 https://cdn.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/433PAV1" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪 +
-http://5.253.46.190:7001/play/a0cu/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="🇦🇪الامارات EMIRATES",Weyyak Action  [VPN AR]
@@ -3686,19 +3685,15 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3G57c98" group-title="🇾🇪اليمن Yemen",Yemen Today🇾🇪
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3G6WAGJ" group-title="🇾🇪اليمن Yemen",Almasira TV🇾🇪
-https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher🇾🇪
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ab7uKT" group-title="🇾🇪اليمن Yemen",Suhail TV🇾🇪
-http://82.212.74.98:8000/live/hls/7726.m3u8
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/395hNAB" group-title="🇾🇪اليمن Yemen",Yemen Shabab🇾🇪
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYXzDd" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44eNh0z" group-title="🇾🇪اليمن Yemen",🇾🇪عدن المستقلة
-https://rpn3.bozztv.com/ssh101/ssh101/aictv1/chunks.m3u8
-
-
+https://ssh101-fl.bozztv.com/ssh101/aictv1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Documentary
 http://154.58.202.131:8000/play/a03p
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Education TV
@@ -3707,6 +3702,7 @@ http://154.58.202.131:8000/play/a03r
 http://154.58.202.131:8000/play/a03u
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Aden TV
 http://154.58.202.131:8000/play/a03x
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",Kuwait TV🇰🇼
 https://bit.ly/3xYLaRh
@@ -5404,8 +5400,6 @@ https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="🇹🇷Turkey",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
