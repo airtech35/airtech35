@@ -5400,8 +5400,10 @@ https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="🇹🇷Turkey",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
+http://hw1.jemtv.com/app/trt1/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+http://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/12037070.png" group-title="🇹🇷Turkey",TRT TÜRK
@@ -5422,12 +5424,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="" group-title="🇹🇷Turkey",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8014035.png" group-title="🇹🇷Turkey",TRT EBA TV ELKOKUL
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8014037.png" group-title="🇹🇷Turkey",TRT EBA TV ORTAOKUL
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8014050.png" group-title="🇹🇷Turkey",TRT EBA TV LISE
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷Turkey",ATV
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷Turkey",ATV (backup)
@@ -5435,7 +5431,7 @@ https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷Turkey",ATV (backup)
 https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="🇹🇷Turkey",A2 ᵁᴴᴰ⁺
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/60
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="🇹🇷Turkey",STAR TV UHD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="🇹🇷Turkey",STAR TV HD
