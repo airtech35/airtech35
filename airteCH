@@ -97,14 +97,12 @@ http://179.124.14.153:8080/19/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+7
 http://tv.streams.baikal-telecom.net:8080/MatchArena/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="BEIN SPORT بين سبور",beIN SPORTS News HD
-http://181.215.205.107:1234/stream/tod/beinews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://38.180.26.144:1234/stream/bein/beinnews?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nrr8W6y/beinsportsmax1hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1 HD
-http://181.215.205.107:1234/stream/tod/bein?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://38.180.26.144:1234/stream/bein/beinmx1?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf5D3JR/beinsportsmax2hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 2 HD
-http://181.215.205.107:1234/stream/tod/bein2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://38.180.26.144:1234/stream/bein/beinmx2?u=test2&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpXCZjw/beinsportsmax3hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 3 HD
 http://181.215.205.107:1234/stream/tod/bein3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1
@@ -1034,6 +1032,29 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3DF4NAn
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2TLvLB.png" group-title="OSNtv",OSN Showcase HD
+http://181.215.205.107:1234/stream/osn/osnshowcase?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0n5E8A7.png" group-title="OSNtv",OSN Comedy HD
+http://181.215.205.107:1234/stream/osn/osncomedy?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCnbjp0.png" group-title="OSNtv",OSN Movies Premium HD
+http://181.215.205.107:1234/stream/osn/osnmoviespremium?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNb7Air.png" group-title="OSNtv",OSN Popup HD
+http://181.215.205.107:1234/stream/osn/osnpopuprocky?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnVAt3q.png" group-title="OSNtv",OSN Movies Action HD
+http://181.215.205.107:1234/stream/osn/osnmoviesaction?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkbeb30.png" group-title="OSNtv",OSN Movies Hollywood HD
+http://181.215.205.107:1234/stream/osnmovieshollywod?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGVg4wc.png" group-title="OSNtv",OSN Movies Family HD
+http://181.215.205.107:1234/stream/osn/osnmoviesfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTRfxcG.png" group-title="OSNtv",OSN Kidzone HD
+http://181.215.205.107:1234/stream/osn/osnkidzone?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulpX490.png" group-title="OSNtv", OSN News HD
+http://181.215.205.107:1234/stream/osn/osnnews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6E6XKk.png" group-title="OSNtv",OSN Discovery HD
+http://181.215.205.107:1234/stream/osn/discovery?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EH2boc6.png" group-title="OSNtv",OSN Nat Geo HD
+http://181.215.205.107:1234/stream/osn/natgeo?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
 
 
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="https://bit.ly/3VnkeqW", مسلسل شباب البومب
@@ -1317,33 +1338,6 @@ https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Weyyak VIP VPN AR",Weyyak Drama
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Stc TV VIP", Stc TV VIP
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Stc TV VIP",  النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb3AEFh.png" group-title="Stc TV VIP",Stctv Cinema HD
-http://181.215.205.107:1234/stream/sct/stctvcinema?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUa8jdP.png" group-title="Stc TV VIP",Stctv Drama HD 
-http://181.215.205.107:1234/stream/sct/stctvdrama?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnZRkak.png" group-title="Stc TV VIP",Stctv Family HD 
-http://181.215.205.107:1234/stream/sct/stctvfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yrMi096.png" group-title="Stc TV VIP",Stctv kids HD
-http://181.215.205.107:1234/stream/sct/stctvkids?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xm49tRb.png" group-title="Stc TV VIP",beIN Series 1 HD
-http://181.215.205.107:1234/stream/tod/beinsr1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0FUjTO4.png" group-title="Stc TV VIP",beIN Series 2 HD
-http://181.215.205.107:1234/stream/tod/beinsr2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1Zpjy/beinmovies1.png" group-title="Stc TV VIP",beIN Moveis 1 HD
-http://181.215.205.107:1234/stream/tod/beinmv1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3DxnWS/beinmovies2.png" group-title="Stc TV VIP",beIN Moveis 2 HD
-http://181.215.205.107:1234/stream/tod/beinmv2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eg3g0E3.png" group-title="Stc TV VIP",beIN Movies 3 HD
-http://181.215.205.107:1234/stream/tod/beinmv3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid Net VIP", باقة شاهد نت 
