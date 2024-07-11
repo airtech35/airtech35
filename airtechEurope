@@ -6318,51 +6318,51 @@ https://www.tntendirect.com/cherie25/live/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"France 2
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",France 2
 http://185.59.221.131:8081/live/france2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"France 3
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",France 3
 http://185.59.221.131:8081/live/france3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"France
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",France
 http://185.59.221.131:8081/live/france4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"France 5
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",France 5
 http://185.59.221.131:8081/live/france5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"C8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",C8
 http://185.59.221.131:8081/live/c8/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"TMC
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",TMC
 http://185.59.221.131:8081/live/tmc/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"TF1
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",TF1
 http://185.59.221.131:8081/live/hd1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"TF1
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",TF1
 http://185.59.221.131:8081/live/tf1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Gulli
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Gulli
 http://185.59.221.131:8081/live/gulli/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Disney XD
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Disney XD
 http://185.59.221.131:8081/live/disneyxd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Cine Premier
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Cine Premier
 http://185.59.221.131:8081/live/cinepremier/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Cartoon Network
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Cartoon Network
 http://185.59.221.131:8081/live/disney/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Cartoon Network
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Cartoon Network
 http://185.59.221.131:8081/live/cartoonnetwork/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE" AB 1
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE", AB 1
 http://185.59.221.131:8081/live/ab1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE" 6TER
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE", 6TER
 http://185.59.221.131:8081/live/6ter/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Teva
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Teva
 http://185.59.221.131:8081/live/teva/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"M6
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",M6
 http://185.59.221.131:8081/live/m6/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"W9
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",W9
 http://185.59.221.131:8081/live/w9/playlist.m3u8
-#EXTINF:-1,MTV
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",MTV
 http://185.59.221.131:8081/live/mtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"NRJ 12
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",NRJ 12
 http://185.59.221.131:8081/live/nrj12/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"TRACE URBAN
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",TRACE URBAN
 http://185.59.221.131:8081/live/traceurban/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Paris Premiere
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Paris Premiere
 http://185.59.221.131:8081/live/parispremiere/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE"Nickelodeon
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Nickelodeon
 http://185.59.221.131:8081/live/nickelodeon/playlist.m3u8
 
 
