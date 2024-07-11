@@ -1573,6 +1573,33 @@ http://31.200.241.16:1234/stream/movistar/mseries?u=drm02&p=c1c0fafc22209e4f81d1
 http://31.200.241.16:1234/stream/movistar/maction?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="baltijos-lt" group-title="vip channels1",BTV HD LT
+http://82.64.147.221:9981/stream/channelid/733963121?ticket=211980C8E181246F4E7ED1D07BAF5122C8A95B5A&profile=pass
+#EXTINF:0 tvg-id="ext" group-title="vip channels1",Comedy Central Family HU
+http://82.64.147.221:9981/stream/channelid/1515610830?ticket=09BE5DE39F1FEB8186D1ED7CD6DC63C20B11AB94&profile=pass
+#EXTINF:0 tvg-id="CT4Sport.cz" group-title="vip channels1",CT Sport HD
+http://82.64.147.221:9981/stream/channelid/1057549704?ticket=5FCFDED46C003D01143ED352D2CE4C9149955DE4&profile=pass
+#EXTINF:0 tvg-id="DasErste.de" group-title="vip channels1",Das Erste HD
+http://82.64.147.221:9981/stream/channelid/849355709?ticket=888DEE288F6A96C99E7AA9EEE679050B89D31809&profile=pass
+#EXTINF:0 tvg-id="LA1.es" group-title="vip channels1",La 1 HD
+http://82.64.147.221:9981/stream/channelid/1426766279?ticket=CDF9E9B4C8BA42D136101BB47B44759BD27B01A7&profile=pass
+#EXTINF:0 tvg-id="ext" group-title="vip channels1",Nickelodeon Global Europe
+http://82.64.147.221:9981/stream/channelid/293078690?ticket=F59F43D76DC7B44956490FD40028C9BD5C1A158F&profile=pass
+#EXTINF:0 tvg-id="ext" group-title="vip channels1",Nickelodeon/7+
+http://82.64.147.221:9981/stream/channelid/1106317355?ticket=FFF01028385F0B356FABAEC4A59CB8264607150D&profile=pass
+#EXTINF:0 tvg-id="NPO1.nl" group-title="vip channels1",NPO 1
+http://82.64.147.221:9981/stream/channelid/977097938?ticket=A40646D246B85BCD19A3BEE97200F0F65AF46B64&profile=pass
+#EXTINF:0 tvg-id="Rai1.it" group-title="vip channels1",Rai 1 HD
+http://82.64.147.221:9981/stream/channelid/1030263084?ticket=3950123628FD62A9886F33259EB39F686B493DB1&profile=pass
+#EXTINF:0 tvg-id="rtp1.pt" group-title="vip channels1",RTP 1
+http://82.64.147.221:9981/stream/channelid/1415907817?ticket=7A38EBDC7AE2BEBCDD0CA8AEF1317B891BC02C1C&profile=pass
+#EXTINF:0 tvg-id="ext" group-title="vip channels1",TVCG 1
+http://82.64.147.221:9981/stream/channelid/534816815?ticket=B3E57C16D6AEA69B4062C59F82035D5E56CDFE21&profile=pass
+#EXTINF:0 tvg-id="ZDF.de" group-title="vip channels1",ZDF HD
+http://82.64.147.221:9981/stream/channelid/510148391?ticket=7681E28BA9D6D71664DAA31B33EC602A43F7175F&profile=pass
+
+
 #EXTINF:0 tvg-id="ext" group-title="Rakuten_TV",AfricaNews (EU)
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Rakuten_TV",AFV Family (EU)
