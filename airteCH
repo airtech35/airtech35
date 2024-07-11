@@ -302,6 +302,30 @@ http://185.59.221.131:8081/live/canalsport5/playlist.m3u8
 http://145.239.5.177:8080/556/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", CANAL+ SPORT 360
 http://145.239.5.177:8080/561/index.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Canal+ Sports 2
+http://185.59.221.131:8081/live/canalsport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Blitz
+http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Action
+http://185.59.221.131:8081/live/supersportaction/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Blitz
+http://185.59.221.131:8081/live/supersportblitz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", NBA TV
+http://185.59.221.131:8081/live/nbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", ESPN Sports 2
+http://185.59.221.131:8081/live/espn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", BEIN SPORTS 3 FR
+http://145.239.5.177:8080/514/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Bein EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Eurosports 1
+http://145.239.5.177:8080/529/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Eurosports 1
+http://136.243.82.42:808/premium641/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", WWE
+http://185.59.221.131:8081/live/wwe/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
