@@ -47,21 +47,6 @@ https://sportina.app/osat-max2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 1
 https://kooraliveml.xyz/hls/0/stream.m3u8
 
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",beIN SPORTS MAX 1 FHD
-https://local.mejarserver.com/g-1/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",beIN SPORTS MAX 1 HD
-https://local.mejarserver.com/g-1-hd/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",beIN SPORTS MAX 1 SD
-https://local.mejarserver.com/g-1-sd/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj", beIN SPORTS MAX 2 FHD
-https://local.mejarserver.com/g-2/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj", beIN SPORTS MAX HD
-https://local.mejarserver.com/g-2-hd/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj", beIN SPORTS MAX SD
-https://local.mejarserver.com/g-2-sd/index.m3u8
-
-
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="BEIN SPORT بين سبور",TRT 1
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="BEIN SPORT بين سبور",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
