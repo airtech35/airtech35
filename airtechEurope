@@ -218,6 +218,32 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 1 HD
+http://217.27.239.226:8888/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 2 HD
+http://217.27.239.226:8888/play/2/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 3 HD
+http://217.27.239.226:8888/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 4 HD
+http://217.27.239.226:8888/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 5 HD
+http://217.27.239.226:8888/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",SBS 6 HD
+http://217.27.239.226:8888/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 7 HD
+http://217.27.239.226:8888/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NET 5 HD
+http://217.27.239.226:8888/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",DisneyXDVeronicaHD
+http://217.27.239.226:8888/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 8 HD
+http://217.27.239.226:8888/play/10/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",SBS 9 HD
+http://217.27.239.226:8888/play/11/index.m3u8
+
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="🇳🇱Netherlands",1Twente TV 
 https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A1TV.nl" tvg-logo="https://i.imgur.com/JZ1oTM2.png" group-title="🇳🇱Netherlands",A1 TV  
