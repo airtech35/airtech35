@@ -47,9 +47,11 @@ https://sportina.app/osat-max2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 1
 https://kooraliveml.xyz/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="BEIN SPORT بين سبور",TRT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/ITV1_logo.png" group-title="BEIN SPORT بين سبور",Itv 1 EN
+http://homeip.biz/IN_1T/tracks-v1a1/mono.m3u8?token=accff43c212ff5f179b0ea089c129f9a
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="BEIN SPORT بين سبور",TRT 1 TR
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
-#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="BEIN SPORT بين سبور",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="BEIN SPORT بين سبور",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ TR
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  1 IR
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
@@ -190,59 +192,12 @@ http://cdn.footballii.ir:8080/hls2/bein6.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
 
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 1
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 2
-https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 3
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 4
-https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 5
-https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 6
-https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 7
-https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 8
-https://headlinessportsfoot.com/chunklist/hlsch8.m3u
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 9
-https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 10
-https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 11
-https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 12
-https://headlinessportsfoot.com/chunklist/hlsch12m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 13
-https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 14
-https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 15
-https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 16
-https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 17
-https://headlinessportsfoot.com/chunklist/hlsch17.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 18
-https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 19
-https://headlinessportsfoot.com/chunklist/hlsch19.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Lioxh0" group-title="LIVE 24 SPORT", LIVE 24 SPORT 20
-https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
-
-
-
 
 
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="BEIN SPORTS TR",BEIN SPORTS HABER ʜᴅ
@@ -264,6 +219,43 @@ https://canlitvulusal.xyz/live/fbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="BEIN SPORTS TR",TAY TV ʜᴅ
 https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="BEIN SPORTS TR",TRT Spor Yildiz
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="http://assets.tvcdn.net/192450f9-3d32-4754-967f-7c8128934963.png" group-title="BEIN SPORTS TR",TRT 3 Spor
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="BEIN SPORTS TR",A Spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="BEIN SPORTS TR",Sports TV
+http://stream.tvcdn.net/spor/sports-tv.m3u8
+#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="BEIN SPORTS TR",Tivibu Spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="BEIN SPORTS TR",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="BEIN SPORTS TR",GS TV
+http://stream.tvcdn.net/spor/gs-tv.m3u8
+#EXTINF:-1 tvg-id="TAYTV.tr" tvg-logo="http://assets.tvcdn.net/11ab0508-b919-4623-bd4d-08c46946cf8e.png" group-title="BEIN SPORTS TR",Tay TV
+http://stream.tvcdn.net/spor/tay-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a2dae974-7ee1-4a22-90ca-6dc9f06cb3a8.png" group-title="BEIN SPORTS TR",ByHorses TV
+http://stream.tvcdn.net/spor/byhorses-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" group-title="BEIN SPORTS TR",Bric ve Satranc TV
+http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="BEIN SPORTS TR",Fit Yasa TV
+http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="BEIN SPORTS TR",Ziraat Turkiye Kupasi TV
+http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 1
+http://homeip.biz/FR_RMCSPORT1HD/mpegts?token=c01ad747e2984aa493ca3fda56718a3a
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 2
+http://homeip.biz/FR_RMCSPORT2HD/mpegts?token=c01ad747e2984aa493ca3fda56718a3a
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 3
+http://homeip.biz/FR_RMCSPORT3HD/mpegts?token=e149046101bda38c8fba76bf209cc492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="RMC SPORT",Foot+ 24/24
+http://homeip.biz/FR_FOOT24HD/mpegts?token=8998bf655ada2e926662099c9da0be56
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg" group-title="RMC SPORT",RMC 1
 http://145.239.5.177:8080/524/index.m3u8
@@ -324,7 +316,26 @@ http://136.243.82.42:808/premium641/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", WWE
 http://185.59.221.131:8081/live/wwe/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://mljgjnnhejtw.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/id:a75166cbd3df23e55d8e585a9a8c13bb/https://sports.mymarketplace.co.ke/7lxofw1656964140.png" group-title="RMC SPORT",Supersport Football
+http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/cwxvau1592206077.png" group-title="RMC SPORT", Super Sport 1
+http://homeip.biz/AF_SUP1/mpegts?token=508fc96a6af351967698aaadbffb05ed 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="RMC SPORT",Super SportVariety 1
+http://homeip.biz/AF_SV3/mpegts?token=e660fc0e36b4c4d74ca32ab665b63bb7
+#EXTINF:-1 tvg-logo="https://imgcdn.myt.mu/revolution/internet-and-tv/dstv/dstv_logos/H27.png" group-title="RMC SPORT",SuperSport Variety 2
+http://homeip.biz/AF_SV2TIM/mpegts?token=968aa493e397981bd9ed5f40146d4e87
+#EXTINF:-1 tvg-logo="https://www.placemyad.co.za/wp-content/uploads/logo-23.png" group-title="RMC SPORT",Suoersport GrandStand
+http://homeip.biz/AF_S_G/tracks-v1a1/mono.m3u8?token=819cf2fc918d35599b6d3e1812e3d2a9
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="RMC SPORT",SuperSport Rugby
+http://homeip.biz/Nano_SP_Rug/tracks-v1a1/mono.m3u8?token=532f5ea8511d42d02ee98c912eab9759
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",Canal+ Sport 1
+http://homeip.biz/FR_CANALplus/mpegts?token=75f429a8e152a62d5a9b346d3567ba82
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="RMC SPORT",Canal+ Sport 2
+http://homeip.biz/AF_CANL2/mpegts?token=910f9657787327caf3e57d2db4238afe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Canal%2B_Sport_3_PL.svg" group-title="RMC SPORT",Canal+ Sport 3
+http://homeip.biz/AF_CANL3/mpegts?token=2537527b441bea813c33b188f333ec19
+#EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="RMC SPORT",Infosport
+http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
@@ -343,6 +354,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" group-title="RMC SPORT",JOURNAL DU GOLF
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3xYLaRh
