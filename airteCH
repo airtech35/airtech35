@@ -21,7 +21,10 @@ https://bit.ly/3rYm5G5
 https://bit.ly/3OG5wq7
 
 
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Wf8S8K" group-title="❖ EURO 2024",EURO 24 ★Ajyal TV 🇵🇸
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Wf8S8K" group-title="❖ EURO 2024",EURO 24 ★Ajyal TV+ 🇵🇸
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
 
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/DASERSTE(ARD).png",EURO 24 ★ DE ARD FHD🏆
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -89,6 +92,9 @@ https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
 http://flusonic-5.platinum-tv.com/max_1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/QpM9BxUuCp1xemtxht587CH7fOq0fqyTI6cgNXtj97hKGcODqern1WkDR0pAFkzrYvIifJ8foXPPUGTS5EUNXg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_playlist.m3u
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
 http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 
