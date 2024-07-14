@@ -63,7 +63,10 @@ http://homeip.biz/IN_1T/tracks-v1a1/mono.m3u8?token=accff43c212ff5f179b0ea089c12
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/UK/ITV.png",EURO 24 ★ UK ITV 1 FHD🏆
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1566&extension=ts
 
-
+#EXTINF:0 group-title="❖ EURO 2024" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  0 🏆
+http://homeip.biz/IN_B1/mpegts
+#EXTINF:0 group-title="❖ EURO 2024" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  0 🏆
+http://homeip.biz/IN_1T/mpegts
 
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="❖ EURO 2024",Rai 1
