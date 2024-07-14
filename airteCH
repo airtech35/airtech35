@@ -28,14 +28,23 @@ https://s6.hopslan.com/rtlq2/tracks-v1a1/mono.m3u8
 http://178.219.128.68:64888/RTL
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/RTLHD.png",EURO 24 ★ DE RTL FHD🏆
 https://ma.anixa.tv/clips/stream/rtl/playlist.php
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/RTLHD.png",EURO 24 ★ DE RTL FHD🏆
+https://s6.hopslan.com/rtlq2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ZDFHD.png",EURO 24 ★ DE ZDF HD🏆
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ZDFHD.png",EURO 24 ★ DE ZDF FHD🏆
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ZDFHD.png",EURO 24 ★ DE ZDF FHD🏆
+https://s6.hopslan.com/zdf1111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/DASERSTE(ARD).png",EURO 24 ★ DE ARD FHD🏆
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/DASERSTE(ARD).png",EURO 24 ★ DE ARD FHD🏆
+https://s6.hopslan.com/ard11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",EURO 24 ★ DE SERVUS TV FHD🏆
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a152.png",EURO 24 ★ OS ORF 1 FHD🏆
+https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/AUSTRALIA/npo1.png",EURO 24 ★ NL NPO 1 FHD🏆
 http://82.64.147.221:9981/stream/channelid/977097938?ticket=A40646D246B85BCD19A3BEE97200F0F65AF46B64&profile=pass
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/AUSTRALIA/npo1.png",EURO 24 ★ NL NPO 1 FHD🏆
