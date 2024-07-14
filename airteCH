@@ -67,6 +67,8 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1566&extensi
 http://homeip.biz/IN_B1/mpegts
 #EXTINF:0 group-title="❖ EURO 2024" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  0 🏆
 http://homeip.biz/IN_1T/mpegts
+#EXTINF:0 group-title="❖ EURO 2024" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  0 🏆
+https://v4.thetvapp.to/hls/WNYWDT1_high.m3u8?token=ZtiVySsP8b6BRfgiqlzGGw&expires=1721001064
 
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="❖ EURO 2024",Rai 1
@@ -105,9 +107,12 @@ https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 http://flusonic-5.platinum-tv.com/max_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/QpM9BxUuCp1xemtxht587CH7fOq0fqyTI6cgNXtj97hKGcODqern1WkDR0pAFkzrYvIifJ8foXPPUGTS5EUNXg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_playlist.m3u
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
+https://n.kora-sa.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
 http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
+https://n.kora-sa.live/hls/2/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 
 http://live2.sawaghost1.xyz/streams_cach/185560.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 1
