@@ -56,6 +56,10 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/UK/ITV.png",EURO 24 ★ UK ITV 1 FHD🏆
 http://homeip.biz/IN_1T/tracks-v1a1/mono.m3u8?token=accff43c212ff5f179b0ea089c129f9a
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/UK/ITV.png",EURO 24 ★ UK ITV 1 FHD🏆
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1566&extension=ts
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/2560px-ITV2_logo_2022.svg.png",EURO 24 ★ UK ITV 2 FHD🏆
+http://homeip.biz/IN_2T/tracks-v1a1/2024/06/15/13/07/32-06000.ts?token=07a9f023af0bbc45d87f3713b1a93050
 
 #EXTINF:-1 group-title="FR ❖ GENERALE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",FR ★ TF1 FHD ◉🏆
 http://homeip.biz/FR_TF1HD/index.m3u8
