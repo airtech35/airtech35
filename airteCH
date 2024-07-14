@@ -61,10 +61,19 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1566&extensi
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/2560px-ITV2_logo_2022.svg.png",EURO 24 ★ UK ITV 2 FHD🏆
 http://homeip.biz/IN_2T/tracks-v1a1/2024/06/15/13/07/32-06000.ts?token=07a9f023af0bbc45d87f3713b1a93050
 
-#EXTINF:-1 group-title="FR ❖ GENERALE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",FR ★ TF1 FHD ◉🏆
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",FR ★ TF1 FHD ◉🏆
 http://homeip.biz/FR_TF1HD/index.m3u8
-#EXTINF:-1 group-title="FR ❖ GENERALE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",FR ★ TF1 FHD ◉🏆
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png",FR ★ TF1 FHD ◉🏆
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="❖ EURO 2024",Rai 1
+http://154.54.220.67:34780/play/a046
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="❖ EURO 2024",Rai 1
+http://45.65.112.49:8000/play/a078
+
+#EXTINF:0 tvg-id="CT4Sport.cz" group-title="❖ EURO 2024",CT Sport HD
+http://82.64.147.221:9981/stream/channelid/1057549704?ticket=5FCFDED46C003D01143ED352D2CE4C9149955DE4&profile=pass
 
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png",EURO 24 ★ SUPERSPORT FOOTBALL FHD🏆
 http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
