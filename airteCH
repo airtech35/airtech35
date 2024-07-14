@@ -46,8 +46,7 @@ http://164.132.206.27:8000/stream/csat/la14k?u=skyit&p=c1c0fafc22209e4f81d172e9a
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/LA1HD.png",EURO 24 ★ ES LA 1 FHD🏆
 https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/LA1HD.png",EURO 24 ★ ES LA 1 FHD🏆
-
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/ASIA/TURKEY/TRT_1.png",EURO 24 ★ TR TRT 1 FHD🏆
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/ASIA/TURKEY/TRT_1.png",EURO 24 ★ TR TRT 1 FHD🏆
@@ -78,9 +77,9 @@ http://82.64.147.221:9981/stream/channelid/1057549704?ticket=5FCFDED46C003D01143
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png",EURO 24 ★ SUPERSPORT FOOTBALL FHD🏆
 http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/TVP1.png",EURO 24 ★ PL TVP 1 FHD🏆
-http://free.jokertv.eu:8765/stream-forwarder/TVP1
+http://178.219.128.68:64889/TVP1HD
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/POLONIA/TVP2.png",EURO 24 ★ PL TVP 2 FHD🏆
-http://free.jokertv.eu:8765/stream-forwarder/TVP2
+http://178.219.128.68:64889/TVP2HD
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/BULGARIA/BNT1.png",EURO 24 ★ BG BNT 1 FHD🏆
 http://87.120.179.187:8000/play/a007
 
