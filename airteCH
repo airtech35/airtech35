@@ -42,6 +42,8 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://s6.hopslan.com/ard11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",EURO 24 ★ DE SERVUS TV FHD🏆
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",EURO 24 ★ DE SERVUS TV FHD🏆++
+https://s5.tv24livestream1.de/conv/go/srf2/chunks.m3u81a.doc
 
 #EXTINF:-1 group-title="❖ EURO 2024" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a152.png",EURO 24 ★ OS ORF 1 FHD🏆
 https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8
