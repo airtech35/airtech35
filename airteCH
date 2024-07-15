@@ -3788,8 +3788,6 @@ http://baskhd.ddns.net:40/live/Eurokurd/chunklist.m3u8
 http://85.237.89.6:9590/live/SOZQURAN/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", BEFRIN
 http://avrstream.com:1935/live/BEFRIN-HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", SPEDA
@@ -3818,6 +3816,9 @@ http://85.237.89.6:9590/ku/local-ISTAR-Folklor-TimeSheft/tracks-v1a1/mono.m3u8
 http://avrstream.com:1935/live/KoyaHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Sahar Kurdi
 http://95.216.180.111:1935/live/103/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", LIVE 24 SPORT GLOBAL HD
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+
 
 
 
