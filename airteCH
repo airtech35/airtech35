@@ -3778,7 +3778,7 @@ http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://bit.ly/4d3aSpY" group-title="KURDISH",AshurSat
 https://5afd52b55ff79.streamlock.net/AshurSat/myStream2023-05/chunklist.m3u8
-#EXTINF:-1 tvg-id="Nohadra TV" tvg-name="Nohadra TV" tvg-logo="" group-title="KURDI",Nohadra TV
+#EXTINF:-1 tvg-id="Nohadra TV" tvg-name="Nohadra TV" tvg-logo="" group-title="KURDISH",Nohadra TV
 https://ip.nohadraserver.com:3785/live/nohadratvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Eurokurd
 http://baskhd.ddns.net:40/live/Eurokurd/chunklist.m3u8
