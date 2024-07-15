@@ -3818,6 +3818,10 @@ http://avrstream.com:1935/live/KoyaHD/chunklist.m3u8
 http://95.216.180.111:1935/live/103/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", LIVE 24 SPORT GLOBAL HD
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", GEWHER
+http://avrstream.com:1935/live/Gewher-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Channel 8 kurdish
+https://live.channel8.com/Channel8-Kurdish/tracks-v2a1/mono.m3u8
 
 
 
