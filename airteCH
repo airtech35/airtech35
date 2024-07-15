@@ -10074,6 +10074,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TENIS 🇮🇳
+http://50.7.218.122:80/sp2hd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TV2 🇪🇸
@@ -10081,7 +10083,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TELEDEPORTE 🇪🇸
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TRT1 🇹🇷
-https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORT 1 MAX 🇶🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORT 1 MAX 🇶🇦
@@ -10150,6 +10152,8 @@ http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",beIN SPORTS 3 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",LENZ SPORT 🇸🇦
+https://lenz.ayassport.ir/wh7f454c46tw3607774381_-1389173487/PLTV/88888888/224/3221226979/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Sport 6 (HR) 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",HYP 🇪🇸
