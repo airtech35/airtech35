@@ -3776,11 +3776,14 @@ http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://bit.ly/419HTup" group-title="KURDISH",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://bit.ly/4d3aSpY" group-title="KURDISH",AshurSat
+https://5afd52b55ff79.streamlock.net/AshurSat/myStream2023-05/chunklist.m3u8
+#EXTINF:-1 tvg-id="Nohadra TV" tvg-name="Nohadra TV" tvg-logo="" group-title="KURDI",Nohadra TV
+https://ip.nohadraserver.com:3785/live/nohadratvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Eurokurd
+http://baskhd.ddns.net:40/live/Eurokurd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Soz Quran
+http://85.237.89.6:9590/live/SOZQURAN/mono.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻Radio Music راديو",radioshamfm
 http://radioshamfm.grtvstream.com:8400/;
