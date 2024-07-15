@@ -74,17 +74,11 @@ https://humsab.xyz/IN_E8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzgvG8G/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/dJ8jk2N/4hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n8kZRrQ/5hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
@@ -104,15 +98,10 @@ https://humsab.xyz/IN_E8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT SD1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT SD2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT SD3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT SD4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT SD5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 
 
@@ -267,10 +256,6 @@ http://homeip.biz/AF_CANL2/mpegts?token=910f9657787327caf3e57d2db4238afe
 http://homeip.biz/AF_CANL3/mpegts?token=2537527b441bea813c33b188f333ec19
 #EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="RMC SPORT",Infosport
 http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
