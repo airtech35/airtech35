@@ -44,8 +44,6 @@ https://stream.tvpure.net/ch1_720/video.m3u8
 https://stream.tvpure.net/ch2_720/video.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  6 🏆
 http://homeip.biz/IN_B1/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  7 🏆
-http://homeip.biz/IN_1T/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
 http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",CT Sport (CZ)
