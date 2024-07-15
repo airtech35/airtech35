@@ -30,8 +30,10 @@ https://bit.ly/3gj9PK5
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a07s
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0 🏆
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",max_1 🏆
 http://flusonic-5.platinum-tv.com/max_1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",max_2 🏆
+http://flusonic-5.platinum-tv.com/max_2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1 🏆
 https://n.kora-sa.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
@@ -39,17 +41,17 @@ https://n.kora-sa.live/hls/2/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3 🏆
 http://live2.sawaghost1.xyz/streams_cach/185560.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 4 🏆
-https://stream.tvpure.net/ch1_720/video.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
-https://stream.tvpure.net/ch2_720/video.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT  6 🏆
 http://homeip.biz/IN_B1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
+https://live2.sawaghost1.xyz/streams_cach/185579.m3u8
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",SERVUS TV FHD
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
 http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",CT Sport (CZ)
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Qaz Sport
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4cuvPKz" group-title="BEIN SPORT بين سبور",BEIN SPORT SD
 https://homeip.biz/AR_E1/index.m3u8
@@ -74,9 +76,13 @@ https://humsab.xyz/IN_E8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
+https://stream.tvpure.net/ch1_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
+https://stream.tvpure.net/ch2_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzgvG8G/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
+https://stream.tvpure.net/ch3_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/dJ8jk2N/4hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
+https://stream.tvpure.net/ch4_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n8kZRrQ/5hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 
