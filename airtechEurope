@@ -2078,38 +2078,44 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/English%20club%20HD.png",English Club TVᴴᴰ 🇬🇧
+
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/English%20club%20HD.png",English Club TVᴴᴰ 🇬🇧
 http://iptv.prosto.tv:7000/ch206/video.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 🇬🇧
-http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 🇬🇧
-http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 🇬🇧
-http://88.208.226.9:9981/stream/channelid/213933282?ticket=C4C751092BB83BE658FDE456EB3117A3F9BDC6A4&profile=pass
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
-http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/BBC_First_2022.svg",BBC First 🇬🇧🇵🇱
-http://124.29.225.205:8000/play/a05f/index.m3u8
-#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://horseandcountry.tv/img/logo/hnc-desktop-white.png",Horse and Countryᴴᴰ 🇬🇧 🟤
+#EXTINF:-1 tvg-id="ITV1HD.uk" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv1
+#EXTINF:-1 tvg-id="ITV2HD.uk" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv2
+#EXTINF:-1 tvg-id="ITV3HD.uk" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/ITV3_logo_2022.svg",ITV3ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv3
+#EXTINF:-1 tvg-id="ITV4HD.uk" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://api.tv.init7.net/media/logos/ITV4.png",ITV4ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv4
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f1/Drama_(TV_channel)_logo.png",Dramaᴴᴰ 🇬🇧
+http://87.120.142.8:17000/drama
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BBC_Brit.svg",BBC Brit 🇬🇧🇵🇱
+http://178.219.128.68:64889/BBCBRITHD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://horseandcountry.tv/img/logo/hnc-desktop-white.png",Horse and Countryᴴᴰ 🇬🇧 🟤
 https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/emergency!.webp",Emergency!ᴴᴰ 🇬🇧 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/emergency!.webp",Emergency!ᴴᴰ 🇬🇧 🟤
 https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b23f4f8eacf2433bf8ac6cf851477a97.png",4 Emergencyᴴᴰ 🇬🇧 🟤
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Emergency.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/EntertainmentHub.png",Entertainment Hubᴴᴰ 🇬🇧 🟤
-https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TheChatShow.jpg",The ChatShowᴴᴰ 🇬🇧 🟤
+#EXTINF:-1 tvg-id="63c1384e829c850007922ca4" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png",5 Emergency Rescueᴴᴰ 🇬🇧 🟤
+https://jmp2.uk/PlutoTV/63c1384e829c850007922ca4-alt.m3u8
+#EXTINF:-1 tvg-id="636adc255bcf470007d6e0e2" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png",BBC Top Gear 🇬🇧 🟤
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TheChatShow.jpg",The ChatShowᴴᴰ 🇬🇧 🟤
+https://jmp2.uk/SamsungTVPlus/GBBD1900003JT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TheChatShow.jpg",The ChatShowᴴᴰ 🇬🇧 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-#EXTINF:-1 format="auto" tvg-name="" tvg-id="RealStories.uk" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RealStories.webp",Real Storiesᴴᴰ 🇬🇧 🟤
-https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/af/BBC_Home.png/revision/latest?cb=20220214001102",BBC Home 🇬🇧 🟤
-https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951178
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png",BBC Home & Garden 🇬🇧 🟤
-https://bit.ly/3Hr3qXD?profile=inspirationlivetv.m3u8
-#EXTINF:-1 format="auto" tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png",BBC Top Gear 🇬🇧 🟤
-https://bit.ly/3RdZw9d?profile=inspirationlivetv.m3u8
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HomesUndertheHammer.jpg",Homes Under the Hammer 🇬🇧 🟤
-https://all3media-homes-under-the-hammer-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="60f5d389985a0c0007357304" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png",BritBox Mysteriesᴴᴰ 🇬🇧 🟤
+https://sck.pm/q5ay?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/EntertainmentHub.png",Entertainment Hubᴴᴰ 🇬🇧 🟤
+https://jmp2.uk/SamsungTVPlus/GBBC2300003ZQ.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="INBA4900009BL" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RealStories.webp",Real Storiesᴴᴰ 🇬🇧 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgnl/playlist.m3u8
+#EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png",BBC Home & Garden 🇬🇧 🟤
+https://bit.ly/3Hr3qXD?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="GBBC900013K9" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HomesUndertheHammer.jpg",Homes Under the Hammer 🇬🇧 🟤
+https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
+
 
 
 
