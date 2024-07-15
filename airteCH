@@ -3722,6 +3722,8 @@ https://kurdsat.akamaized.net/hls/stream_0.m3u8
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R0uhPwR.png" group-title="KURDISH",NRT 1 HD
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Amozhgary TV
+https://media.streambrothers.com:1936/8332/8332/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KUk7o2T.png" group-title="KURDISH",Payam TV
 https://media2.streambrothers.com:1936/8218/8218/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Kurdsaradio TV
@@ -3784,6 +3786,8 @@ https://ip.nohadraserver.com:3785/live/nohadratvlive.m3u8
 http://baskhd.ddns.net:40/live/Eurokurd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Soz Quran
 http://85.237.89.6:9590/live/SOZQURAN/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻Radio Music راديو",radioshamfm
 http://radioshamfm.grtvstream.com:8400/;
