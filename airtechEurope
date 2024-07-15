@@ -6647,32 +6647,18 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇪🇸Spain",spania TV
 https://bit.ly/3xYLaRh
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸Spain",TVE LA 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸Spain",TVE LA 1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸Spain",TVE LA 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸Spain",TVE LA 2
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸Spain",TVE 24 H
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸Spain",TVE 24 H
 https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg" group-title="🇪🇸Spain",TVE TDP
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg" group-title="🇪🇸Spain",TVE TDP
-https://ztnr.rtve.es/ztnr/1712295.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="🇪🇸Spain",TVE CLAN
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="🇪🇸Spain",TVE CLAN
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="🇪🇸Spain",TVE SOMOS CINE
-https://ztnr.rtve.es/ztnr/5836726.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="🇪🇸Spain",TVE SOMOS CINE
-https://ztnr.rtve.es/ztnr/6909845.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸Spain",RTVE
-https://ztnr.rtve.es/ztnr/5562351.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸Spain",RTVE
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸Spain",EURONEWS ES
@@ -6713,20 +6699,8 @@ https://cdnlive.codev8.net/rtvalive/channel1.smil/playlist.m3u8
 https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png" group-title="🇪🇸Spain",ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸Spain",LA 1 CANARIAS
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸Spain",LA 2 CANARIAS
-https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸Spain",24 H CANARIAS
-https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N7tznnD/cmm.jpg" group-title="🇪🇸Spain",CASTILLA MEDIA
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸Spain",LA 1 CATALUNYA
-https://ztnr.rtve.es/ztnr/3293681.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸Spain",LA 2 CATALUNYA
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸Spain",24 H CATALUNYA
-https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg" group-title="🇪🇸Spain",TV3 CATALUNYA INT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg" group-title="🇪🇸Spain",TV3 CATALUNYA 24H
@@ -6846,12 +6820,7 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Emporda.es" tvg-logo="https://i.imgur.com/ojQ6wzX.png" group-title="🇪🇸Spain",Canal 10 Empordà  
 http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="🇪🇸Spain",Canal 24 Horas 
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="Canal24HorasCanarias.es" tvg-logo="https://i.imgur.com/tiv24xx.png" group-title="🇪🇸Spain",Canal 24 Horas Canarias 
-https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="Canal24HorasCatalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" group-title="🇪🇸Spain",Canal 24 Horas Catalunya 
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+
 #EXTINF:-1 tvg-id="Canal33Madrid.es" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="🇪🇸Spain",Canal 33 Madrid  
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1 tvg-id="Canal56.es" tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="🇪🇸Spain",Canal 56  
@@ -6872,8 +6841,6 @@ http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/A9TmimD.png" group-title="🇪🇸Spain",Canal Sur Andalucía 
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="🇪🇸Spain",Clan TVE  [ VPN ]
-https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇸Spain",Comedia Made in Spain  
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
 #EXTINF:-1 tvg-id="Condavision.es" tvg-logo="https://i.imgur.com/dlrazec.png" group-title="🇪🇸Spain",Condavisión  
@@ -6945,14 +6912,9 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 
 #EXTINF:-1 tvg-id="JuntadeCastillayLeon.es" tvg-logo="https://i.imgur.com/hGR3tv9.png" group-title="🇪🇸Spain",Junta de Castilla y León  
 https://16escalones-live2.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="🇪🇸Spain",La 1  [ VPN ]
-https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="🇪🇸Spain",La 1 Canarias  [ VPN ]
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="🇪🇸Spain",La 2 
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="🇪🇸Spain",La 2 Canarias 
-https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/512px-Logo_TVE-2.svg.png" group-title="🇪🇸Spain",La 2 Catalunya [ VPN ]
 https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
 
