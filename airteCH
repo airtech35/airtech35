@@ -3800,6 +3800,24 @@ https://speda.dwasat.com/upload/images/spedadrama.m3u8
 http://live.amedradyotv.net:2020/hls/ferat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", NRT 2
 http://198.100.158.231:1935/live/nrt2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", ZED TV
+http://85.237.89.6:9590/ku/local-ZED-HD-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", PAYAM
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", ALA HD
+http://avrstream.com:1935/live/ala-hd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", RAM-TV
+http://85.237.89.6:9590/live/RAM-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", halabjatv
+http://halabjatv.ddns.net:40/live/halabjatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", bangawaz TV
+http://baskhd.ddns.net:40/live/bangawaztv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", istar folklor
+http://85.237.89.6:9590/ku/local-ISTAR-Folklor-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", koya tv
+http://avrstream.com:1935/live/KoyaHD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Sahar Kurdi
+http://95.216.180.111:1935/live/103/chunklist.m3u8
 
 
 
