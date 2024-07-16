@@ -3717,14 +3717,17 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/kFg2SD1.png" group-title="🇨🇾Cyprus",ΡΙΚ Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ETV2.ee" tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="🇪🇪Estonia",ETV2 
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6403/index.m3u8
+
 #EXTINF:-1 tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="🇪🇪Estonia",ETV 
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6402/index.m3u8
+http://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="🇪🇪Estonia",ETV2 
+http://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.ee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="🇪🇪Estonia",ETV+ 
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/14133/index.m3u8
+http://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="🇪🇪Estonia",Life TV 
 https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/usXedIj.png" group-title="🇪🇪Estonia",TaevasTV7
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="LatvijasRadio2.lv" tvg-logo="https://i.imgur.com/coBeMaw.png" group-title="🇱🇻Latvia",Latvijas Radio 2
