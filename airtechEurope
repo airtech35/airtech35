@@ -3729,42 +3729,16 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/usXedIj.png" group-title="🇪🇪Estonia",TaevasTV7
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LatvijasRadio2.lv" tvg-logo="https://bit.ly/3Sbdz0y" group-title="🇱🇻Latvia", ReTV
-https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LatvijasRadio2.lv" tvg-logo="https://i.imgur.com/tQHkHD0.png" group-title="🇱🇻Latvia", TV Jūrmala
-https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+
+
 #EXTINF:-1 tvg-id="LatvijasRadio2.lv" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="🇱🇻Latvia", Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
 #EXTINF:-1 tvg-id="LatvijasRadio2.lv" tvg-logo="https://i.imgur.com/coBeMaw.png" group-title="🇱🇻Latvia",Latvijas Radio 2
 https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
 #EXTINF:-1 tvg-id="LatvijasRadio3Klasika.lv" tvg-logo="https://i.imgur.com/0dp2rMz.png" group-title="🇱🇻Latvia",Latvijas Radio 3 Klasika
 https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNET.lv" tvg-logo="https://i.imgur.com/jzv1ssE.png" group-title="🇱🇻Latvia",TVNET
-https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="1Plus2.lv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/1%2B2.svg/revision/latest/scale-to-width-down/512" group-title="🇱🇻Latvia",1+2
-http://89.254.128.5:22280/1_2/mono.m3u8
-#EXTINF:-1 tvg-id="8TV.lv" tvg-logo="https://i.imgur.com/F8P8GY3.png" group-title="🇱🇻Latvia",8TV
-http://89.254.128.5:22280/8tv_hd/index.m3u8
-#EXTINF:-1 tvg-id="Kanal7Baltics.lv" tvg-logo="https://i.imgur.com/oBSyEIm.png" group-title="🇱🇻Latvia",Kanal 7 Baltics (Latvia
-http://89.254.128.5:22280/duo7_hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇻Latvia",Latvijas Radio 2
-https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇻Latvia",Latvijas Radio 3 Klasika
-https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:-1 tvg-id="LatvijasSlagerkanals.lv" tvg-logo="https://i.imgur.com/LRDSqgJ.png" group-title="🇱🇻Latvia",Latvijas Šlāgerkanāls
-https://stream.onlive-media.com/live/streams/smk.m3u8
-#EXTINF:-1 tvg-id="LTV1.lv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/512px-LTV1_%282022%29.svg.png" group-title="🇱🇻Latvia",LTV1
-#EXTVLCOPT:http-referrer=http://89.254.128.5:22280/
-http://89.254.128.5:22280/ltv1_hd/index.m3u8
-#EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="🇱🇻Latvia",Movify Kino
-#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
-https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="Multimania.lv" tvg-logo="https://i.imgur.com/J9Lwc0T.png" group-title="🇱🇻Latvia",Multimania (Latvia)
 https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-id="MuzikasVideoKanals.lv" tvg-logo="https://i.imgur.com/guuGq6o.png" group-title="🇱🇻Latvia",Mūzikas Video Kanāls
-https://stream.onlive-media.com/live/streams/mvk.m3u8
 #EXTINF:-1 tvg-id="ReTV.lv" tvg-logo="https://i.imgur.com/Z3cre5Xm.png" group-title="🇱🇻Latvia",Re TV (1080p)
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJurmala.lv" tvg-logo="https://i.imgur.com/tQHkHD0.png" group-title="🇱🇻Latvia",TV Jūrmal
@@ -3773,13 +3747,6 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="🇱🇻Latvia",Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
-#EXTINF:-1 tvg-id="Pingviins.lv" tvg-logo="https://i.imgur.com/hfXoJIY.png" group-title="🇱🇻Latvia",Пингвин
-https://sirius.greenhosting.ru/PingvinRu/video.m3u8
-#EXTINF:-1 tvg-id="Gribuvisuzinat.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/hochuvse.png" group-title="🇱🇻Latvia",Хочу всё знать
-#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
-https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
-
-
 
 
 
