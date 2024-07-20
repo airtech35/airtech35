@@ -9356,3 +9356,87 @@ https://ythls.armelin.one/channel/UCW0FmkMO7KkYdIiNKXpY9Ng.m3u8
 #EXTINF:-1 tvg-id="WaltaTV.et" tvg-logo="https://i.imgur.com/AjnOw9p.png" group-title="🇪🇹 Ethiopia",Walta TV
 https://live.zergaw.et/hls/1234.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="TNTV.pf" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="🇵🇫 French Polynesia",TNTV
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-logo="https://i.imgur.com/0Zq2brb.png" group-title="🇬🇦 Gabon",Gabon 24
+https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
+#EXTINF:-1 tvg-id="Gabon1ere.ga" tvg-logo="https://i.imgur.com/K4lOHNw.png" group-title="🇬🇦 Gabon",Gabon Premiére TV
+https://vps73918.serveur-vps.net/hls/ggtv.m3u8
+#EXTINF:-1 tvg-id="LabelTV.ga" tvg-logo="https://i.imgur.com/sK0acI4.png" group-title="🇬🇦 Gabon",Label TV
+https://live3.acangroup.org:1929/publiclive/labeltv/chunks.m3u8
+#EXTINF:-1 tvg-id="NourTV.ga" tvg-logo="https://i.imgur.com/fBHdL2r.jpg" group-title="🇬🇦 Gabon",Nour TV
+https://helga.iptv2022.com/sh/Nour_tv/index.m3u8
+#EXTINF:-1 tvg-id="ProximiteWebTV.ga" tvg-logo="https://i.imgur.com/vu14I3r.png" group-title="🇬🇦 Gabon",Proximité Web TV
+https://helga.iptv2022.com/sh/PROXIMITE_WEB_TV/index.m3u8
+#EXTINF:-1 tvg-id="TeleAfrica.ga" tvg-logo="https://i.imgur.com/uFyso1c.png" group-title="🇬🇦 Gabon",Télé Africa
+http://185.59.221.131:8081/live/teleafrica/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="EyeAfricaTV.gm" tvg-logo="https://i.imgur.com/mNn8MID.png" group-title="🇬🇲 Gambia",Eye Africa TV
+https://ythls.armelin.one/channel/UCLYggzo8r31yYj3mjZDrSrA.m3u8
+#EXTINF:-1 tvg-id="QTVGambia.gm" tvg-logo="https://i.imgur.com/ZsTuADb.png" group-title="🇬🇲 Gambia",QTV Gambia
+https://player.qtv.gm/hls/live.stream.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="🇬🇪 Georgia",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="🇬🇪 Georgia",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="🇬🇪 Georgia",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="🇬🇪 Georgia",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="🇬🇪 Georgia",Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="🇬🇪 Georgia",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="PosTV.ge" tvg-logo="https://i.imgur.com/UOiXFEW.png" group-title="🇬🇪 Georgia",Pos TV
+https://live.postv.media/stream/index.m3u8
+#EXTINF:-1 tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/ogMqmth.png" group-title="🇬🇪 Georgia",Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-id="TVC.ge" tvg-logo="https://sul.ge/images/televizia/tvc.png" group-title="🇬🇪 Georgia",TVC
+http://31.146.5.178:8087/play/a009/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="AdinkraTV.gh" tvg-logo="https://i.imgur.com/uwuSXJ8.png" group-title="🇬🇭 Ghana",Adinkra TV (1080p)
+https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
+#EXTINF:-1 tvg-id="AdomTV.gh" tvg-logo="https://i.imgur.com/y0LQm3p.png" group-title="🇬🇭 Ghana",Adom TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKlgbbF9wphTKATOWiG5jPQ.m3u8
+#EXTINF:-1 tvg-id="AITTV.gh" tvg-logo="https://i.imgur.com/xtrs7ej.png" group-title="🇬🇭 Ghana",AIT TV (720p)
+https://livetv.tvait.com:1935/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://i.imgur.com/5cFLWKO.png" group-title="🇬🇭 Ghana",GTV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCm8MfVSyDrrB34TZhU3YVBA.m3u8
+#EXTINF:-1 tvg-id="HealingJesusTV.gh" tvg-logo="https://i.imgur.com/ZZryVU9.png" group-title="🇬🇭 Ghana",Healing Jesus TV (576p)
+https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JoyLearning.gh" tvg-logo="https://i.imgur.com/9ikT4uq.png" group-title="🇬🇭 Ghana",Joy Learning (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCZVRKO43AAGpAJs1isPEg-g.m3u8
+#EXTINF:-1 tvg-id="JoyNews.gh" tvg-logo="https://i.imgur.com/kGuMNmR.png" group-title="🇬🇭 Ghana",Joy News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
+#EXTINF:-1 tvg-id="JoyPrime.gh" tvg-logo="https://i.imgur.com/svxV4gJ.png" group-title="🇬🇭 Ghana",Joy Prime (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC9hyY_wWSJnkUKPfrfOP4dQ.m3u8
+#EXTINF:-1 tvg-id="KessbenTV.gh" tvg-logo="https://i.imgur.com/kYcGdxs.png" group-title="🇬🇭 Ghana",Kessben TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCuY5alRypQX4gD1xlFBVzJQ.m3u8
+#EXTINF:-1 tvg-id="MightyTV.gh" tvg-logo="https://i.imgur.com/6gCKLRw.png" group-title="🇬🇭 Ghana",Mighty TV (576p)
+http://mightytv.srfms.com:1935/mightytv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Net2TV.gh" tvg-logo="https://i.imgur.com/nkUP9X2.png" group-title="🇬🇭 Ghana",Net2 TV (360p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8
+#EXTINF:-1 tvg-id="PentTV.gh" tvg-logo="https://i.imgur.com/Jw6d3dR.png" group-title="🇬🇭 Ghana",Pent TV (576p)
+https://iptv-trans.ecntv.net/live/penttv.m3u8
+#EXTINF:-1 tvg-id="ResurrectionTV.gh" tvg-logo="https://i.imgur.com/IncyJW8.png" group-title="🇬🇭 Ghana",Resurrection TV (720p)
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
+#EXTINF:-1 tvg-id="TheBaseGospel.gh" tvg-logo="https://i.imgur.com/0moSF3t.png" group-title="🇬🇭 Ghana",The Base Gospel TV (360p)
+https://asiakwa.com/thebasetv/index.m3u8
+#EXTINF:-1 tvg-id="UnitedTV.gh" tvg-logo="https://i.imgur.com/2isM8xd.png" group-title="🇬🇭 Ghana",United TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCA2f1lPcwYpBKA4JBMBHDSQ.m3u8
+#EXTINF:-1 tvg-id="WontumiTV.gh" tvg-logo="https://i.imgur.com/gw1n3Qn.png" group-title="🇬🇭 Ghana",Wontumi TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCn7CnwFDT3wXBE3xqQm5riQ.m3u8
+
