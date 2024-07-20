@@ -3667,12 +3667,25 @@ http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇴الصومالSomalia‎",الصومالSomalia🇸🇴
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="🇸🇴الصومالSomalia‎",Somali National TV🇸🇴
-https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://shaashada.com/images/somalicable.png" group-title="🇸🇴الصومالSomalia‎",Somali cable🇸🇴
 https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="🇸🇴الصومالSomalia‎",Kalsan TV🇸🇴
-https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇴الصومالSomalia‎",Dacwa TV🇸🇴
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇴الصومالSomalia‎",Gospel🇸🇴
+https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8
+#EXTINF:-1 tvg-id="HirshabelleTV.so" tvg-logo="https://i.imgur.com/Kk0A2o7.png" group-title="🇸🇴الصومالSomalia‎",Hirshabelle TV🇸🇴
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="PuntlandTV.so" tvg-logo="https://i.imgur.com/C8EvQUo.png" group-title="🇸🇴الصومالSomalia‎",Puntland TV🇸🇴
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SaabTV.so" tvg-logo="https://i.imgur.com/JEC1J89.png" group-title="🇸🇴الصومالSomalia‎",Saab TV🇸🇴
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBCTV.so" tvg-logo="https://i.imgur.com/VLhgTIA.png" group-title="🇸🇴الصومالSomalia‎",SBC TV🇸🇴
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SNTV2.so" tvg-logo="https://i.imgur.com/2eKFSqO.png" group-title="🇸🇴الصومالSomalia‎",SNTV Daljir🇸🇴
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="🇸🇴الصومالSomalia‎",Somali National TV🇸🇴
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://tvm.mr/ar/wp-content/uploads/2022/10/cropped-LOGO-FACEBOOK.png" group-title="الموريتانية‎", الموريتانية
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
