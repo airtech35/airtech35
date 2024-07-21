@@ -874,7 +874,7 @@ https://www.burrianateve.com/hls/btv.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="Calle13Universal.es" tvg-logo="https://i.imgur.com/Lu1l4qD.png" group-title="🇪🇸 Spain",Calle 13 Universal  [Geo-blocked]
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="General;News",Canal 1 Mar Menor-Torre Pacheco 
+#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="🇪🇸 Spain",Canal 1 Mar Menor-Torre Pacheco 
 https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1 tvg-id="Canal3TVBiar.es" tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="🇪🇸 Spain",Canal 3 Biar  
 https://avantstreaming.es/hls/canal3.m3u8
