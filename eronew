@@ -6159,7 +6159,7 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="🇨🇱 Chile",13 Realities 
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",13 Teleseries 
+#EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="🇨🇱 Chile",13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="🇨🇱 Chile",24 Horas  
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
@@ -10678,9 +10678,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
 #EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="🇯🇵 Japan",CNNj 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Kids",Disney Channel Japan 
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="🇯🇵 Japan",Disney Channel Japan 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Japan 
+#EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="🇯🇵 Japan",Disney Junior Japan 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-logo="https://i.imgur.com/0ALvy3B.png" group-title="🇯🇵 Japan",Eisei Gekijo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
@@ -10734,7 +10734,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1 tvg-id="KBCNewsLive24.jp" tvg-logo="https://i.imgur.com/RxHI8OZ.jpg" group-title="🇯🇵 Japan",KBC News  
 https://ythls.armelin.one/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
-#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="Kids",Kids Station 
+#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="🇯🇵 Japan",Kids Station 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://i.imgur.com/APBty36.png" group-title="🇯🇵 Japan",LaLa TV 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
@@ -14317,7 +14317,7 @@ http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_0a6ef900ad0511ed8f65a940024f638d/index.m3u8
 #EXTINF:-1 tvg-id="TBC1.tz" tvg-logo="https://i.imgur.com/OmiVZ1u.png" group-title="🇹🇿 Tanzania",TBC 1  
 https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReemeA.m3u8
-#EXTINF:-1 tvg-id="TBC2.tz" tvg-logo="https://i.imgur.com/VkUJt2q.png" group-title="Entertainment",TBC 2  
+#EXTINF:-1 tvg-id="TBC2.tz" tvg-logo="https://i.imgur.com/VkUJt2q.png" group-title="🇹🇿 Tanzania",TBC 2  
 https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_36e8f510dfee11ec9dc2d5b207a2c04f/index.m3u8
 #EXTINF:-1 tvg-id="WRMTV.tz" tvg-logo="https://i.imgur.com/2gwc4RW.png" group-title="🇹🇿 Tanzania",WRM TV  
 https://ythls.armelin.one/channel/UCxIKRWSaLH40f6BLaHakg2w.m3u8
