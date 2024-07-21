@@ -3816,9 +3816,6 @@ https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="Alghadye.ye" tvg-logo="https://i.imgur.com/yk5SVEq.png" group-title="🇾🇪اليمن Yemen",Al Ghadye 
-http://82.212.74.3:8000/live/hls/7512.m3u8
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah  
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BelqeesTV.ye" tvg-logo="https://i.imgur.com/bNDJlO0.png" group-title="🇾🇪اليمن Yemen",Belqees TV  
