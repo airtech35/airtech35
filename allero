@@ -12381,6 +12381,20 @@ https://live.aionet.ir/hls/tv4/tv4.m3u8
 https://cdnw.telewebion.com/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="🇮🇷 Iran",IRIB5 +
 https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="🇮🇷 Iran",IRIB 1 (backup)
+https://s1.ettehadlive.com/live/39/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="🇮🇷 Iran",IRIB 2 (backup)
+https://s1.ettehadlive.com/live/40/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="🇮🇷 Iran",IRIB 3 (backup)
+https://af.ayas.ir/hls2/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="🇮🇷 Iran",IRIB 3 (backup)
+https://s1.ettehadlive.com/live/114/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="🇮🇷 Iran",IRIB 4 (backup)
+https://s1.ettehadlive.com/live/41/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png" group-title="🇮🇷 Iran",IRIB 5 (backup)
+https://ncdn.telewebion.com/tv5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="🇮🇷 Iran",IRIB IRINN (backup)
+https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇷 Iran",247 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇷 Iran",AFN Music
