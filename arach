@@ -3095,10 +3095,14 @@ http://149.62.177.103:8000/play/a031
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",🇵🇸كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine live🇵🇸
-http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV 
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine live🇵🇸
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aca23.png" group-title="🇵🇸فلسطينPALESTINE",قدسنا 🇵🇸
+https://qudsunatv-live.cdnnew.com/qudsunatv/qudsunatv_higher.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="🇵🇸فلسطينPALESTINE",PAL-AlQuds🇵🇸
+https://s1.ettehadlive.com/live/11/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="🇵🇸فلسطينPALESTINE",Al Najah News 
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="AlQudsTodayTV.ps" tvg-logo="https://i.imgur.com/Q0E4LLi.png" group-title="🇵🇸فلسطينPALESTINE",Al Quds Today TV 
@@ -3250,8 +3254,10 @@ https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 http://95.216.180.111:1935/live/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Alawla TV
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
-#EXTINF:-1 group-title="🇮🇶العراق IRAQ" tvg-logo="https://bit.ly/3jvcrH1",🇮🇶الموصلية
-http://95.216.180.111:1935/live/3/index.m3u8
+#EXTINF:-1 group-title="🇮🇶العراق IRAQ" tvg-logo="https://bit.ly/3jvcrH1", 🇮🇶الموصلية
+http://149.18.45.21:8000/play/a01y/index.m3u8
+#EXTINF:-1  tvg-logo="https://bit.ly/3jvcrH1" group-title="🇮🇶العراق IRAQ",AL Mawsleya
+http://154.197.91.168:7002/play/a0ev
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kZpaBZ" group-title="🇮🇶العراق IRAQ",Iraqia-News🇮🇶
 http://95.216.180.111:1935/live/115/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I0cLqH" group-title="🇮🇶العراق IRAQ",ALrafidain tv 🇮🇶
