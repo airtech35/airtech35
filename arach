@@ -3227,24 +3227,22 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="🇮🇶العراق IRAQ",Al Rasheed
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I0cLqH" group-title="🇮🇶العراق IRAQ",ALrafidain tv 🇮🇶
+http://51.255.84.28:8081/arrafidaintv/source2/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-iq.png" group-title="🇮🇶العراق IRAQ",Iraqitv Usa
 https://nl2.livekadeh.com/hls2/iraqitv.m3u8
-#EXTINF:-1 tvg-id="DijlahTarab.iq" tvg-logo="https://i.imgur.com/UJqDWVB.png" group-title="🇮🇶العراق IRAQ",Dijlah Tarab 
-https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="🇮🇶العراق IRAQ",Dijlah TV 
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="🇮🇶العراق IRAQ",قناة دجلة Dijlah TV (Backup)🇮🇶
 http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="🇮🇶العراق IRAQ",Dijlah fm
+https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="🇮🇶العراق IRAQ",MBC Iraq
 https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Anwar 2
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 #EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="🇮🇶العراق IRAQ",Al Eshraq TV
 http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
-#EXTINF:-1 tvg-id="AlEtejah.iq" tvg-logo="https://i.imgur.com/TkjdGhy.png" group-title="🇮🇶العراق IRAQ",Al Etejah TV
-http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zTeGvt" group-title="🇮🇶العراق IRAQ",Al Janoub TV
-http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
 #EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba
 http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya News 
@@ -3263,14 +3261,8 @@ http://149.18.45.21:8000/play/a01y/index.m3u8
 http://5.253.46.190:7002/play/a0e8
 #EXTINF:-1  tvg-logo="https://bit.ly/3jvcrH1" group-title="🇮🇶العراق IRAQ",AL Mawsleya
 http://154.197.91.168:7002/play/a0ev
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I0cLqH" group-title="🇮🇶العراق IRAQ",ALrafidain tv 🇮🇶
-http://51.255.84.28:8081/arrafidaintv/source2/chunks.m3u8
 #EXTINF:-1 tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="🇮🇶العراق IRAQ",Alforat TV 
 http://95.216.180.111:1935/live/10/playlist.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="🇮🇶العراق IRAQ",Alhurra 
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="🇮🇶العراق IRAQ",Alhurra Iraq 
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Alqanat9 TV 
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Althaqalayn TV
@@ -3287,9 +3279,11 @@ http://95.216.180.111:1935/live/34/index.m3u8
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="🇮🇶العراق IRAQ",Zagros  
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="🇮🇶العراق IRAQ",Dijlah fm
-https://listen.radioking.com/radio/96766/stream/136030
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="🇮🇶العراق IRAQ",ALetejah TV🇮🇶
+#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="🇮🇶العراق IRAQ",Alhurra 
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="🇮🇶العراق IRAQ",Alhurra Iraq 
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="AlEtejah.iq" tvg-logo="https://i.imgur.com/TkjdGhy.png" group-title="🇮🇶العراق IRAQ",Al Etejah TV
 http://95.216.180.111:1935/live/33/index.m3u8
 #EXTINF:-1 tvg-id="AlghadeerTV.iq" tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="🇮🇶العراق IRAQ",Al Ghadeer TV🇮🇶
 http://95.216.180.111:1935/live/2/index.m3u8
@@ -3305,7 +3299,7 @@ http://95.216.180.111:1935/live/6/index.m3u8
 http://95.216.180.111:1935/live/7/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HVAabF" group-title="🇮🇶العراق IRAQ",🇮🇶وكالة انباء الفرات نيوز
 http://95.216.180.111:1935/live/10/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3X4ilfR" group-title="🇮🇶العراق IRAQ",قناه الجنوب 🇮🇶
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zTeGvt" group-title="🇮🇶العراق IRAQ",Al Janoub TV
 http://95.216.180.111:1935/live/18/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HElhKq" group-title="🇮🇶العراق IRAQ",🇮🇶الطليعة الفضائية
 http://95.216.180.111:1935/live/36/index.m3u8
