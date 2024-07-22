@@ -2339,7 +2339,14 @@ https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8
 
 
 #EXTM3U
-
+#EXTINF:-1 tvg-id="GTV.si" tvg-logo="" group-title="🇸🇮Slovenia",SLO 1 HD
+http://37.18.239.36:8888/SLO_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="GTV.si" tvg-logo="" group-title="🇸🇮Slovenia",SLO 2 HD
+http://37.18.239.36:8888/SLO_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="GTV.si" tvg-logo="" group-title="🇸🇮Slovenia",SLO 3 HD
+http://37.18.239.36:8888/SLO_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="GTV.si" tvg-logo="https://i.imgur.com/LHChpid.png" group-title="🇸🇮Slovenia",GTV
+http://91.220.221.60/gtv_hls/gtv_03.m3u8
 #EXTINF:-1 tvg-id="ExodusTV.si" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="🇸🇮Slovenia",Exodus TV 
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="FolxSlovenija.si" tvg-logo="https://i.imgur.com/RK1IASU.png" group-title="🇸🇮Slovenia",Folx Slovenija 
@@ -3594,6 +3601,19 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-chno="x""ORF 1 HD ³" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="🇦🇹Austria",ORF 1 HD ³
+http://195.211.27.149:8887/8271/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="x""ORF 2 HD ³" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="🇦🇹Austria",ORF 2 HD ²
+http://195.211.27.149:8887/8272/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="🇦🇹Austria",ORF Sport+ HD ¹
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 1 HD
+https://s6.hopslan.com/orfx111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 1 HD
+http://176.10.117.3:5000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 2 HD
+http://176.10.117.3:5000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF III HD
+http://176.10.117.3:5000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
@@ -3664,6 +3684,29 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 1 HD
+http://217.27.239.226:8888/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 2 HD
+http://217.27.239.226:8888/play/2/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 3 HD
+http://217.27.239.226:8888/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 4 HD
+http://217.27.239.226:8888/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 5 HD
+http://217.27.239.226:8888/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",SBS 6 HD
+http://217.27.239.226:8888/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 7 HD
+http://217.27.239.226:8888/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NET 5 HD
+http://217.27.239.226:8888/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",DisneyXDVeronicaHD
+http://217.27.239.226:8888/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",RTL 8 HD
+http://217.27.239.226:8888/play/10/index.m3u8
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",SBS 9 HD
+http://217.27.239.226:8888/play/11/index.m3u8
 #EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="🇳🇱Netherlands",1Almere TV 
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="🇳🇱Netherlands",1Twente TV 
@@ -11153,6 +11196,26 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="🇮🇷 Iran",IRIB1
+https://cdnw.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="🇮🇷 Iran",IRIB1+
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="🇮🇷 Iran",IRIB2
+https://cdnw.telewebion.com/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="🇮🇷 Iran",IRIB2+
+https://cdnw.telewebion.com/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="🇮🇷 Iran",IRIB3
+https://cdnw.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="🇮🇷 Iran",IRIB3+
+https://gr1-cdn.sepehrtv.ir/vod/auto_convert/vpn/out_0.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="🇮🇷 Iran",IRIB4 
+https://cdnw.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="🇮🇷 Iran",IRIB4 +
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="🇮🇷 Iran",IRIB5 
+https://cdnw.telewebion.com/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="🇮🇷 Iran",IRIB5 +
+https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇷 Iran",247 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇷 Iran",AFN Music
@@ -11201,16 +11264,6 @@ https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
 https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://i.pinimg.com/280x280_RS/d9/85/73/d98573137a42da04c1d233a746f8d5df.jpg" group-title="🇮🇷 Iran",Iran Press  
 https://ip2stream.iranpress.com/hls/ip2.m3u8
-#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="🇮🇷 Iran",IRIB1
-https://af.ayas.ir/hls2/tv1.m3u8
-#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="🇮🇷 Iran",IRIB2
-https://af.ayas.ir/hls2/tv2.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="🇮🇷 Iran",IRIB3
-https://live.aionet.ir/hls/tv3/tv3.m3u8
-#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="🇮🇷 Iran",IRIB4 
-https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="🇮🇷 Iran",IRIB5 
-https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/su89TyX.png" group-title="🇮🇷 Iran",IRIB Amouzesh 
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
 #EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://i.imgur.com/TN7B7tB.png" group-title="🇮🇷 Iran",IRIB Mostanad 
@@ -11301,7 +11354,152 @@ https://hls.nejat.live/hls/stream.m3u8
 https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="🇮🇷 Iran",YourTime TV  
 https://hls.yourtime.live/hls/stream.m3u8
-
+#EXTINF:0 tvg-id="habar" group-title="🇮🇷Iran",Khabar
+https://cdnw.telewebion.com/irinn/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Varzesh
+https://cdnw.telewebion.com/varzesh/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Varzesh
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",IRIB UHD
+https://cdnw.telewebion.com/faratar/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Tamasha
+https://cdnw.telewebion.com/hdtest/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Tamasha
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nasim
+https://cdnw.telewebion.com/nasim/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nasim
+https://live.aionet.ir/hls/nasim/nasim.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Amouzesh
+https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ifilm
+https://cdnw.telewebion.com/ifilm/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ifilm
+https://live.aionet.ir/hls/ifilm/ifilm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mostanad
+https://cdnw.telewebion.com/mostanad/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mostanad
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Namayesh
+https://cdnw.telewebion.com/namayesh/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Namayesh
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Quran
+https://cdnw.telewebion.com/quran/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ofogh
+https://cdnw.telewebion.com/ofogh/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Omid
+https://cdnw.telewebion.com/omid/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Pouya
+https://cdnw.telewebion.com/pooya/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Salamat
+https://cdnw.telewebion.com/salamat/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Sepehr
+https://cdnw.telewebion.com/sepehr/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Javaneh
+https://cdnw.telewebion.com/javaneh/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ara
+https://cdnw.telewebion.com/ara/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jaam
+https://cdnw.telewebion.com/jam/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nama
+https://cdnw.telewebion.com/nama/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nava
+https://cdnw.telewebion.com/nava/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jame Jam 1
+https://cdnw.telewebion.com/jjtv1/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jame Jam 2
+https://cdnw.telewebion.com/jjtv2/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jame Jam 3
+https://cdnw.telewebion.com/jjtv3/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Abadan
+https://cdnw.telewebion.com/abadan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Aflak
+https://cdnw.telewebion.com/aflak/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Aftab
+https://cdnw.telewebion.com/aftab/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Azarbayjan
+https://cdnw.telewebion.com/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Alborz
+https://cdnw.telewebion.com/alborz/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Baran
+https://cdnw.telewebion.com/baran/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Bushehr
+https://cdnw.telewebion.com/bushehr/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Dena
+https://cdnw.telewebion.com/dena/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Esfahan
+https://cdnw.telewebion.com/esfahan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Eshragh
+https://cdnw.telewebion.com/eshragh/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Fars
+https://cdnw.telewebion.com/fars/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Golestan
+https://cdnw.telewebion.com/sabz/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Hamedan
+https://cdnw.telewebion.com/sina/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Hamoon
+https://cdnw.telewebion.com/hamoon/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ilam
+https://cdnw.telewebion.com/ilam/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jahanbin
+https://cdnw.telewebion.com/jahanbin/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kerman
+https://cdnw.telewebion.com/kerman/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kermanshah
+https://cdnw.telewebion.com/zagros/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khalije Fars
+https://cdnw.telewebion.com/khalijefars/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khorasan Jonoobi
+https://cdnw.telewebion.com/khavaran/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khorasan Razavi
+https://cdnw.telewebion.com/khorasanrazavi/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khorasan Shomali
+https://cdnw.telewebion.com/atrak/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khoozestan
+https://cdnw.telewebion.com/khoozestan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kish
+https://cdnw.telewebion.com/kish/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kordestan
+https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mahabad
+https://cdnw.telewebion.com/mahabad/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mazandaran
+https://cdnw.telewebion.com/tabarestan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Noor
+https://cdnw.telewebion.com/noor/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Qazvin
+https://cdnw.telewebion.com/qazvin/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Sabalan
+https://cdnw.telewebion.com/sabalan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Sahand
+https://cdnw.telewebion.com/sahand/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Semnan
+https://cdnw.telewebion.com/semnan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Taban
+https://cdnw.telewebion.com/taban/live/playlist.m3u8
+#EXTINF:-1 tvg-id="120" tvg-country="🇮🇷Iran" tvg-language="Farsi" group-title="🇮🇷Iran" tvg-name="" tvg-logo=" ",IRIB IRINN
+http://194.37.92.14:12000/play/a06o
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Iran_International
+https://live.playstop.me/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",BBC_Per
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mbc_PER
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Parnian
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna" tvg-url="" group-title="🇮🇷Iran",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Radio_Javan
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Omid Javedan
+https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/eNGthNI.jpg" group-title="🇮🇷Iran",Parnian TV
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 tvg-id="TinTV.ir" tvg-name="Tin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="🇮🇷Iran",Tin TV
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 
 
 #EXTM3U
