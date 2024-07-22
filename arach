@@ -6246,6 +6246,8 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪DEUTSCH",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪DEUTSCH",RTL Zwei
+https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪DEUTSCH",RTL Zwei
 http://176.10.117.3:5000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="" group-title="🇩🇪DEUTSCH",ZDF DE
 http://37.18.239.36:8888/ZDF/index.m3u8
