@@ -3237,8 +3237,6 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="🇮🇶العراق IRAQ",MBC Iraq
 https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="AlahadTV.iq" tvg-logo="https://i.imgur.com/uWibV0i.png" group-title="🇮🇶العراق IRAQ",Al Ahad TV
-http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Anwar 2
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 #EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="🇮🇶العراق IRAQ",Al Eshraq TV
@@ -3287,12 +3285,8 @@ http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
 http://95.216.180.111:1935/live/34/index.m3u8
 #EXTINF:-1 tvg-id="IshtarTV.iq" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="🇮🇶العراق IRAQ",Ishtar TV 
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
-#EXTINF:-1 tvg-id="WaarTV.iq" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="🇮🇶العراق IRAQ",Waar TV
-https://ca-rt.onetv.app/Waar/index-0.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="🇮🇶العراق IRAQ",Zagros  
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="🇮🇶العراق IRAQ",Zarok TV Sorani 
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="🇮🇶العراق IRAQ",Dijlah fm
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="🇮🇶العراق IRAQ",ALetejah TV🇮🇶
@@ -3307,7 +3301,7 @@ http://95.216.180.111:1935/live/1/index.m3u8
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lcOF32" group-title="🇮🇶العراق IRAQ",🇮🇶قناة الايام الفضائية
 http://95.216.180.111:1935/live/6/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3UyLTSx" group-title="🇮🇶العراق IRAQ",العهد🇮🇶
+#EXTINF:-1 tvg-id="AlahadTV.iq" tvg-logo="https://i.imgur.com/uWibV0i.png" group-title="🇮🇶العراق IRAQ",Al Ahad TV
 http://95.216.180.111:1935/live/7/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HVAabF" group-title="🇮🇶العراق IRAQ",🇮🇶وكالة انباء الفرات نيوز
 http://95.216.180.111:1935/live/10/index.m3u8
