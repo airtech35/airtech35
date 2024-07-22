@@ -120,6 +120,18 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="🇮🇹Italy",Rai 1
+http://37.18.239.36:8888/RAI_1/index.m3u8
+#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-logo="https://iili.io/Jmo4ZiP.png" group-title="🇮🇹Italy"",Rai 2
+http://37.18.239.36:8888/RAI_2/index.m3u8
+#EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="🇮🇹Italy"",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai 4.it" tvg-logo="https://iili.io/Jmo4mUg.png" group-title="🇮🇹Italy",Rai 4
+http://37.18.239.36:8888/RAI_4/index.m3u8
+#EXTINF:-1 tvg-id="Rai 5.it" tvg-logo="https://iili.io/Jmo4yJa.png" group-title="🇮🇹Italy",Rai 5
+http://37.18.239.36:8888/RAI_5/index.m3u8
+
+
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="🇮🇹Italy",12 TV Parma  
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.it" tvg-logo="https://i.imgur.com/Y2pEs8H.png" group-title="🇮🇹Italy",16 Anni e Incinta Italy 
@@ -2339,11 +2351,11 @@ https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="GTV.si" tvg-logo="" group-title="🇸🇮Slovenia",SLO 1 HD
+#EXTINF:-1 tvg-id="TVSLO1.si" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="🇸🇮Slovenia",SLO 1
 http://37.18.239.36:8888/SLO_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="GTV.si" tvg-logo="" group-title="🇸🇮Slovenia",SLO 2 HD
+#EXTINF:-1 tvg-id="TVSLO2.si" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="🇸🇮Slovenia",SLO 2
 http://37.18.239.36:8888/SLO_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="GTV.si" tvg-logo="" group-title="🇸🇮Slovenia",SLO 3 HD
+#EXTINF:-1 tvg-id="TVSLO3.si" tvg-logo="https://i.imgur.com/yPb2FKg.png" group-title="🇸🇮Slovenia",SLO 3
 http://37.18.239.36:8888/SLO_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="GTV.si" tvg-logo="https://i.imgur.com/LHChpid.png" group-title="🇸🇮Slovenia",GTV
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
@@ -2365,14 +2377,8 @@ https://ythls.armelin.one/channel/UCjYCgkpX1eQCTne99oT63yA.m3u8
 https://vr1.radioaktual.si/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png" group-title="🇸🇮Slovenia",Sehara TV 
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SIPTV.si" tvg-logo="https://i.imgur.com/SkrpQ5l.png" group-title="🇸🇮Slovenia",SIP TV (1084p)
+#EXTINF:-1 tvg-id="SIPTV.si" tvg-logo="https://i.imgur.com/SkrpQ5l.png" group-title="🇸🇮Slovenia",SIP TV 
 https://data.siptv.si/live-siptv/hls/index.m3u8
-#EXTINF:-1 tvg-id="TVSLO1.si" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="🇸🇮Slovenia",SLO 1
-https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 tvg-id="TVSLO2.si" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="🇸🇮Slovenia",SLO 2
-https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 tvg-id="TVSLO3.si" tvg-logo="https://i.imgur.com/yPb2FKg.png" group-title="🇸🇮Slovenia",SLO 3
-https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-id="TopTV.si" tvg-logo="https://i.imgur.com/bQLi5ts.png" group-title="🇸🇮Slovenia",Top TV  
 https://ythls.armelin.one/channel/UCsvbFFKlD-oZXO9igJfcdJw.m3u8
 #EXTINF:-1 tvg-id="TrzicTV.si" tvg-logo="https://i.imgur.com/VZiaoqz.png" group-title="🇸🇮Slovenia",Tržič TV  
