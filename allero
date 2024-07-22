@@ -1043,6 +1043,244 @@ https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="🇪🇸 Spain",TVE INTERNACIONAL
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="🇪🇸 Spain",TVE INTERNACIONAL
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸 Spain",TVE LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸 Spain",TVE LA 1
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸 Spain",TVE LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸 Spain",TVE LA 2
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸 Spain",TVE 24 H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸 Spain",TVE 24 H
+https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="🇪🇸 Spain",STAR TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="🇪🇸 Spain",STAR TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg" group-title="🇪🇸 Spain",TVE TDP
+https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg" group-title="🇪🇸 Spain",TVE TDP
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="🇪🇸 Spain",TVE CLAN
+https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="🇪🇸 Spain",TVE CLAN
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="🇪🇸 Spain",ANTENNA 3
+http://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="🇪🇸 Spain",CUATRO
+http://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="🇪🇸 Spain",TELECINCO
+http://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:8_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="🇪🇸 Spain",LA SEXTA
+http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="🇪🇸 Spain",TVE SOMOS CINE [geo-limited]
+https://ztnr.rtve.es/ztnr/5836726.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="🇪🇸 Spain",TVE SOMOS CINE [geo-limited]
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸 Spain",RTVE PLAY CADENA 1
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸 Spain",RTVE PLAY CADENA 2
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸 Spain",RTVE PLAY CADENA 3
+https://ztnr.rtve.es/ztnr/6108704.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸 Spain",RTVE PLAY CADENA 4
+https://ztnr.rtve.es/ztnr/6108720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸 Spain",RTVE
+https://ztnr.rtve.es/ztnr/5562351.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png" group-title="🇪🇸 Spain",RTVE
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES
+https://euronews-euronews-spanish-2-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQwqfFC/ees.jpg" group-title="🇪🇸 Spain",EL PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMVTj53/elconf.jpg" group-title="🇪🇸 Spain",EL CONFIDENCIAL TV
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg" group-title="🇪🇸 Spain",CANAL PARLAMENTO
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg" group-title="🇪🇸 Spain",CANAL DIPUTADOS
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png" group-title="🇪🇸 Spain",SOL MÙSICA
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="🇪🇸 Spain",TRECE
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png" group-title="🇪🇸 Spain",TRECE INT
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="🇪🇸 Spain",ATRES SERIES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="🇪🇸 Spain",ATRES CLÁSICOS
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="🇪🇸 Spain",ATRES COMEDIA
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="🇪🇸 Spain",ATRES FLOOXER
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="🇪🇸 Spain",ATRES MULTICINE
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h17Kt3g/fastatres.jpg" group-title="🇪🇸 Spain",ATRES KIDZ
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJ3Qw6b/peque.jpg" group-title="🇪🇸 Spain",PEQUE TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="🇪🇸 Spain",CARTOON NETWORK ES
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="🇪🇸 Spain",CARTOON NETWORK ES
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nLcKDkX/ddrama.png" group-title="🇪🇸 Spain",VIVE KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nLcKDkX/ddrama.png" group-title="🇪🇸 Spain",VIVE KANAL D DRAMA
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png" group-title="🇪🇸 Spain",TRACE LATINA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png" group-title="🇪🇸 Spain",TRACE LATINA
+https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png" group-title="🇪🇸 Spain",TRACE LATINA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png" group-title="🇪🇸 Spain",REAL MADRID CINEVERSE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png" group-title="🇪🇸 Spain",REAL MADRID TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png" group-title="🇪🇸 Spain",REAL MADRID TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96c0c2873090008d356d1livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNm7D0p/rlmdrd.png" group-title="🇪🇸 Spain",REAL MADRID TV
+https://rmtv-canela.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLVj121/eltoro.png" group-title="🇪🇸 Spain",EL TORO TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="🇪🇸 Spain",SUR 1 ANDALUCÍA
+https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="🇪🇸 Spain",SUR 1 ANDALUCÍA
+https://d3kph49ozqk4tr.cloudfront.net/out/v1/b9781dec66d64d5f975b398c31f371db/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="🇪🇸 Spain",SUR 1 ANDALUCÍA
+https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pt5ThHQ/andatv.png" group-title="🇪🇸 Spain",SUR 2 ANDALUCÍA
+https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Q8h8MG/andacine.png" group-title="🇪🇸 Spain",CINE ANDALUCÍA
+https://cdnlive.codev8.net/rtvalive/smil:channel24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LrnwFnz/andacocina.png" group-title="🇪🇸 Spain",COCINA ANDALUCÍA
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png" group-title="🇪🇸 Spain",TURISMO ANDALUCÍA
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkBCwH4/arag.png" group-title="🇪🇸 Spain",ARAGON TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸 Spain",LA 1 CANARIAS
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸 Spain",LA 2 CANARIAS
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸 Spain",24 H CANARIAS
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N7tznnD/cmm.jpg" group-title="🇪🇸 Spain",CASTILLA MEDIA
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸 Spain",LA 1 CATALUNYA
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸 Spain",LA 2 CATALUNYA
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸 Spain",24 H CATALUNYA
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg" group-title="🇪🇸 Spain",TV3 CATALUNYA INT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg" group-title="🇪🇸 Spain",TV3 CATALUNYA 24H
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hB1Y74S/infocat.jpg" group-title="🇪🇸 Spain",INFOCIUDADES TV CATALUNYA
+https://consultant1267.cloudhostservers.com:3150/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2F2XDFd/bondia.png" group-title="🇪🇸 Spain",BON DIA TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kpD2Jv/cat8.png" group-title="🇪🇸 Spain",CATALUNYA 8
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg" group-title="🇪🇸 Spain",TENERIFE 4
+https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKFVwnt/ceum.jpg" group-title="🇪🇸 Spain",CEUTA RTV
+https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg" group-title="🇪🇸 Spain",TELE MADRID
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg" group-title="🇪🇸 Spain",TELE MADRID INT
+https://new-international-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg" group-title="🇪🇸 Spain",TELE MADRID OTRA
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYq1MS/extram.png" group-title="🇪🇸 Spain",CANAL EXTRAMADURA
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg" group-title="🇪🇸 Spain",TVG GALICIA EU
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg" group-title="🇪🇸 Spain",TVG GALICIA AM
+https://crtvg-america.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg" group-title="🇪🇸 Spain",TVG GALICIA MO
+https://crtvg-amodino.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg" group-title="🇪🇸 Spain",TVG CULTURAL
+https://crtvg-cultural.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg" group-title="🇪🇸 Spain",TVG INFANTIL
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg" group-title="🇪🇸 Spain",TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" group-title="🇪🇸 Spain",EITB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" group-title="🇪🇸 Spain",EITB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" group-title="🇪🇸 Spain",EITB INT
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/56TvMjR/etbs.jpg" group-title="🇪🇸 Spain",EITB DEPORTE
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ySq76W3/rtva.png" group-title="🇪🇸 Spain",ANDORRA DIFUSIÓ
+https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png" group-title="🇪🇸 Spain",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="🇪🇸 Spain",FRANCE 24 ES
+https://new.cache-stream.workers.dev/stream/UCUdOoVWuWmgo1wByzcsyKDQ/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="🇪🇸 Spain",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CH8JGfJ/cgtnes.png" group-title="🇪🇸 Spain",CGTN ESPAÑOL
+http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CH8JGfJ/cgtnes.png" group-title="🇪🇸 Spain",CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pRYF5QL/hispantv.png" group-title="🇪🇸 Spain",PRESS HISPAN TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES (backup)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES (backup)
+https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES (backup)
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES (backup)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES (backup)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇪🇸 Spain",EURONEWS ES (backup)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492dcf1c9b6a00089f41dflivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="🇪🇸 Spain",TVE LA 1 (backup)
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="🇪🇸 Spain",TVE LA 2 (backup)
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png" group-title="🇪🇸 Spain",TVE 24 H (backup)
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="🇪🇸 Spain",TVE INTERNACIONAL (backup)
+https://ztnr.rtve.es/ztnr/6891743.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="🇪🇸 Spain",TVE INTERNACIONAL (america)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="🇪🇸 Spain",TVE INTERNACIONAL (america)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="🇪🇸 Spain",TVE SOMOS CINE (backup)
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/music/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png" group-title="🇪🇸 Spain",TVE SOMOS CINE (backup)
+https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg" group-title="🇪🇸 Spain",STAR TVE (espana)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="🇪🇸 Spain",TVE CLAN [geo-restricted]
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="🇪🇸 Spain",TVE CLAN [geo-restricted]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/clan/clan_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="🇪🇸 Spain",TVE CLAN [geo-restricted]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/crzKf1n/tenerife4.jpg" group-title="🇪🇸 Spain",TENERIFE 4 (offlink)
+https://5940924978228.streamlock.net/Directo1/Directo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg" group-title="🇪🇸 Spain",TELE MADRID (offlink)
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="🇪🇸 Spain",RT ESPAÑOL [censure-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="🇪🇸 Spain",3/24 
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="🇪🇸 Spain",7 TeleValencia 
@@ -4911,6 +5149,104 @@ https://live.zuidwesttv.nl/live/zwtv.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT WORLD
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT 1 [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ert1/encdef/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT 2 [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT 3 [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT NEWS [geoblocked]
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT NEWS [geoblocked]
+https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT SPORTS
+https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT SPORTS (backup)
+https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT WORLD (backup)
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVDqbDf/ertgr.png" group-title="🇬🇷Greece",ERT WORLD (backup)
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png" group-title="🇬🇷Greece",ALPHA TV
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1
+https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/df2r3NS/skai.jpg" group-title="🇬🇷Greece",SKAI
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/df2r3NS/skai.jpg" group-title="🇬🇷Greece",SKAI
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg" group-title="🇬🇷Greece",STAR
+#https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX4VXw3/mega.jpg" group-title="🇬🇷Greece",MEGA
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq8t3P5/attica.jpg" group-title="🇬🇷Greece",ATTICA
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPtkhnL/sigma.png" group-title="🇬🇷Greece",SIGMA TV
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txd3r3P/magic.png" group-title="🇬🇷Greece",MAGIC TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs4djtL/makedonia.png" group-title="🇬🇷Greece",MAKEDONIA TV
+https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png" group-title="🇬🇷Greece",NET TV TORONTO
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png" group-title="🇬🇷Greece",NET TV EUROPE
+https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png" group-title="🇬🇷Greece",NET MAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="🇬🇷Greece",RIK SAT CYPRUS
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png" group-title="🇬🇷Greece",OPEN BEYOND
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/56kWP6F/action24.png" group-title="🇬🇷Greece",ACTION 24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png" group-title="🇬🇷Greece",GROOVY TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DDXv93/nea.png" group-title="🇬🇷Greece",NEA CRETE TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2mBMBk/baraza.jpg" group-title="🇬🇷Greece",BARAZA RELAXING TV
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72657Kw/xalastra.jpg" group-title="🇬🇷Greece",XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6zPQL8/nrg.png" group-title="🇬🇷Greece",NRG TV
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",BOYAH TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",BOYAH TV
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",AEOLOS
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",EXPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",TOP CHANNEL
+http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",ράκη Νετ TV
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",TELE ΚΡΗΤΗ
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",PELLA TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",KONTRA TV
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",GREEK TV LONDON
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",GRD CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",CORFU
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",BLUE SKY
+https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-id="10Channel.gr" tvg-logo="https://i.ibb.co/0XMM4gn/download-7.png" group-title="🇬🇷Greece",10 Channel 
 https://tv.mediacp.eu:8081/10channel/index.m3u8
 #EXTINF:-1 tvg-id="34100TV.gr" tvg-logo="https://i.imgur.com/WypYQAo.png" group-title="🇬🇷Greece",34100 TV  [Geo-blocked]
@@ -14454,6 +14790,121 @@ https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png"  group-title="🇵🇹 Portugal",RTP I
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="🇵🇹 Portugal",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" group-title="🇵🇹 Portugal",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title="🇵🇹 Portugal",RTP 3
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇵🇹 Portugal",EURONEWS PT
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="🇵🇹 Portugal",CNN PORTUGAL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" group-title="🇵🇹 Portugal",SIC NOTICIAS
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="🇵🇹 Portugal",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="🇵🇹 Portugal",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="🇵🇹 Portugal",TVI INT
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg" group-title="🇵🇹 Portugal",TVI FICCAO
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title="🇵🇹 Portugal",TVI REALITY
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png" group-title="🇵🇹 Portugal",SIC NOVELAS
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W2dzvHS/sicreplay.png" group-title="🇵🇹 Portugal",SIC REPLAY
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2g53rQ/sichdad.png" group-title="🇵🇹 Portugal",SIC HD ALTA DEFINIÇÃO
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png" group-title="🇵🇹 Portugal",PORTO CANAL
+https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvRXDTV/tviafrica.jpg" group-title="🇵🇹 Portugal",TVI AFRICA
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" group-title="🇵🇹 Portugal",RTP AFRICA
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title="🇵🇹 Portugal",RTP ACORES
+https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" group-title="🇵🇹 Portugal",RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" group-title="🇵🇹 Portugal",RTP MEMORIA
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png" group-title="🇵🇹 Portugal",AR PARLAMENTO
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V3Hk3KC/adb.png" group-title="🇵🇹 Portugal",ADB TV
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCzRYjV/mca.png" group-title="🇵🇹 Portugal",MCA
+https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpQj4Dd/fama.png" group-title="🇵🇹 Portugal",FAMA FM TV
+https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcpshFx/kuricine.png" group-title="🇵🇹 Portugal",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2YCsC0/kurikids.png" group-title="🇵🇹 Portugal",KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="🇵🇹 Portugal",RTP 1 (backup sd)
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" group-title="🇵🇹 Portugal",RTP 2 (backup sd)
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title="🇵🇹 Portugal",RTP 3 (backup sd)
+https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title="🇵🇹 Portugal",RTP 3 (tvhlsdvr)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" group-title="🇵🇹 Portugal",RTP 3 (tvhlsdvr_HD)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title="🇵🇹 Portugal",RTP ACORES (backup)
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇵🇹 Portugal",EURONEWS PT (backup)
+https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇵🇹 Portugal",EURONEWS PT (backup)
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-pt_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇵🇹 Portugal",EURONEWS PT (backup)
+https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="🇵🇹 Portugal",EURONEWS PT (backup)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="🇵🇹 Portugal",CNN PORTUGAL (backup)
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal&m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" group-title="🇵🇹 Portugal",SIC NOTICIAS (backup)
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png" group-title="🇵🇹 Portugal",SIC NOVELAS (backup)
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="🇵🇹 Portugal",SIC [geo-blocked]
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="🇵🇹 Portugal",SIC INT [geo-blocked]
+https://sic.live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" group-title="🇵🇹 Portugal",SIC NOTICIAS [geo-blocked]
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="🇵🇹 Portugal",CNN PORTUGAL [find-host]
+https://PuthereYourserverHostaddress/cnnpcurlua.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="🇵🇹 Portugal",TVI [find-host]
+https://PuthereYourserverHostaddress/tvicurlua.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="🇵🇹 Portugal",TVI INT [find-host]
+https://PuthereYourserverHostaddress/tviintcurlua.php?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="🇵🇹 Portugal",CNN PORTUGAL [tkn-blocked]
+https://video-auth7.iol.pt/edge_servers/cnn-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="🇵🇹 Portugal",TVI [tkn-blocked]
+https://video-auth2.iol.pt/edge_servers/tvi-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="🇵🇹 Portugal",TVI INT [tkn-blocked]
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg" group-title="🇵🇹 Portugal",TVI FICCAO [tkn-blocked]
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg" group-title="🇵🇹 Portugal",TVI FICCAO [tkn-blocked]
+https://video-auth2.iol.pt/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title="🇵🇹 Portugal",TVI REALITY [tkn-blocked]
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title="🇵🇹 Portugal",TVI REALITY [tkn-blocked]
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title="🇵🇹 Portugal",TVI REALITY [tkn-blocked]
+https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="🇵🇹 Portugal",SIC [offline]
+https://eventos.live.impresa.pt/opto_in1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png" group-title="🇵🇹 Portugal",SIC NOVELAS [offline]
+https://eventos.live.impresa.pt/opto_in2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png" group-title="🇵🇹 Portugal",SIC NOVELAS [offline]
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="🇵🇹 Portugal",ARTV Canal Parlamento  
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/mbQCGm5.png" group-title="🇵🇹 Portugal",Canal 11  
