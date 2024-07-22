@@ -3223,8 +3223,8 @@ https://bit.ly/3gj9PK5
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alawla.tv/templates/Default/images/logo.png" group-title="🇮🇶العراق IRAQ",Alawla TV
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya
-https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8 
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",Al-Sharqiya 
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya News 
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42Ry1ap" group-title="🇮🇶العراق IRAQ",IRQ-AL Sharqiya News HD(Backup)🇮🇶
@@ -3251,20 +3251,14 @@ https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/i
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 #EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="🇮🇶العراق IRAQ",Al Eshraq TV
 http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba
-http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
 #EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="🇮🇶العراق IRAQ",Al-Naeem TV 
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",Al-Sharqiya 
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇮🇶العراق IRAQ" tvg-logo="https://bit.ly/3jvcrH1", 🇮🇶الموصلية
-http://149.18.45.21:8000/play/a01y/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="🇮🇶العراق IRAQ",AL Rabiaa TV
 http://5.253.46.190:7002/play/a0e8
 #EXTINF:-1  tvg-logo="https://bit.ly/3jvcrH1" group-title="🇮🇶العراق IRAQ",AL Mawsleya
 http://154.197.91.168:7002/play/a0ev
+#EXTINF:-1 group-title="🇮🇶العراق IRAQ" tvg-logo="https://bit.ly/3jvcrH1", 🇮🇶الموصلية
+http://149.18.45.21:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="🇮🇶العراق IRAQ",Alforat TV 
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Alqanat9 TV 
@@ -3315,7 +3309,7 @@ http://95.216.180.111:1935/live/67/index.m3u8
 http://95.216.180.111:1935/live/118/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HASo1Q" group-title="🇮🇶العراق IRAQ",عراق المستقبل
 https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RRrffV" group-title="🇮🇶العراق IRAQ",قناة النجباء الفضائية 🇮🇶
+#EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
