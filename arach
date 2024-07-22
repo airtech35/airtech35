@@ -3490,20 +3490,7 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="🇩🇿الجزائرALGERIEN",Canal Algerie🇩🇿
 http://162.212.178.69:4242/bysid/808
-#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/TLb9kQE.png" group-title="🇩🇿الجزائرALGERIEN",Amou Yazid TV 
-http://numide.servemp3.com:8089/hls/ay1.m3u8
-#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="🇩🇿الجزائرALGERIEN",Echorouk News  
-https://bledflix-echorouk-news.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.imgur.com/FtrSAqu.png" group-title="🇩🇿الجزائرALGERIEN",Echorouk TV  
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
-#EXTINF:-1 tvg-id="ElBilad.dz" tvg-logo="https://i.imgur.com/khppaWF.png" group-title="🇩🇿الجزائرALGERIEN",El Bilad  
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8
-#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-logo="https://i.imgur.com/C0TCA1s.png" group-title="🇩🇿الجزائرALGERIEN",Ennahar TV   [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="🇩🇿الجزائرALGERIEN",Samira TV 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Eiman TV
