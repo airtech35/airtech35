@@ -120,26 +120,48 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
 
 #EXTM3U
+
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai1.png",Rai 1ᴴᴰ 🇮🇹
+http://144.217.72.24/rai1/mono.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai2.png",Rai 2ᴴᴰ 🇮🇹
+http://144.217.72.24/rai/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3.webp",Rai 3ᴴᴰ 🇮🇹
+https://bit.ly/3OyVjNs?profile=inspirationlivetv.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai3Bis.png",Rai Bis 3ᴴᴰ 🇮🇹
+http://37.18.239.36:8888/RAI_3_HD/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai4.png",Rai 4ᴴᴰ 🇮🇹
+http://37.18.239.36:8888/RAI_4/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai5.webp",Rai 5ᴴᴰ 🇮🇹
+http://144.217.72.24/rai5/mono.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🇮🇹Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",RAI Italia 
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4291.ch
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🇮🇹Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",RAI Italia Asia
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RaiStoria.png",Rai Storiaᴴᴰ 🇮🇹
+http://37.18.239.36:8888/RAI_Storia_HD/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RaiMovie.png",Rai Movieᴴᴰ 🇮🇹
+http://37.18.239.36:8888/RAI_Movie/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RaiPremium.png",Rai Premium 🇮🇹
+http://37.18.239.36:8888/RAI_Premium/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RaiSport.png",Rai Sportᴴᴰ 🇮🇹
+http://37.18.239.36:8888/RAI_Sport_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/512px-Top_Crime_-_Logo_2013.svg.png",Top Crimeᴴᴰ 🇮🇹
+http://37.18.239.36:8888/TOP_Crime/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Focus_channel.png",Focusᴴᴰ 🇮🇹
+http://37.18.239.36:8888/Focus_HD/index.m3u8
+#EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Solocalcio.png",SoloCalcioᴴᴰ 🇮🇹
+https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
+
 #EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="🇮🇹Italy",Rai 1
 
 #EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-logo="https://iili.io/Jmo4ZiP.png" group-title="🇮🇹Italy",Rai 2
 http://37.18.239.36:8888/RAI_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="🇮🇹Italy",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai 4.it" tvg-logo="https://iili.io/Jmo4mUg.png" group-title="🇮🇹Italy",Rai 4
-http://37.18.239.36:8888/RAI_4/index.m3u8
 #EXTINF:-1 tvg-id="Rai 5.it" tvg-logo="https://iili.io/Jmo4yJa.png" group-title="🇮🇹Italy",Rai 5
 http://37.18.239.36:8888/RAI_5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",RAI Italia
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4291.ch
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai Storiaᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_Storia_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai Movieᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_Movie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai Premium 🇮🇹
-http://37.18.239.36:8888/RAI_Premium/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai Sportᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_Sport_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai Gul 🇮🇹
 http://37.18.239.36:8888/RAI_Gulp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai Scuola 🇮🇹
