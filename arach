@@ -534,16 +534,6 @@ http://78.130.250.2:8023/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Nova Sport 2
 http://78.130.250.2:8023/play/a004/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport 1 HD
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 #EXTINF:0 tvg-id="esp2" group-title="SPORT VIP 🏆",Eurosport 2
@@ -757,6 +747,29 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+
+#EXTINF:0 group-title="SPORT VIP" tvg-id="4675" tvg-logo="http://epg.it999.ru/img2/4675.png" timeshift="7" ,MUTV UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/10078/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="3553" tvg-logo="http://epg.it999.ru/img2/3553.png" timeshift="3" ,PREMIER SPORTS UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6555/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="http://epg.it999.ru/img2/2929.png" timeshift="3" ,RMC Sport 1 HD FR
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2545/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2930" tvg-logo="http://epg.it999.ru/img2/2930.png" timeshift="3" ,RMC Sport 2 HD FR
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2546/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2931" tvg-logo="http://epg.it999.ru/img2/2931.png" timeshift="3" ,RMC Sport 3 HD FR
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2547/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2909" tvg-logo="http://epg.it999.ru/img2/2909.png" timeshift="3" ,SPORT TV 1 HD PT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2525/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2910" tvg-logo="http://epg.it999.ru/img2/2910.png" timeshift="3" ,SPORT TV 2 HD PT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2526/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2911" tvg-logo="http://epg.it999.ru/img2/2911.png" timeshift="3" ,SPORT TV 3 HD PT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2527/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2912" tvg-logo="http://epg.it999.ru/img2/2912.png" timeshift="3" ,SPORT TV 4 PT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2528/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2913" tvg-logo="http://epg.it999.ru/img2/2913.png" timeshift="3" ,SPORT TV 5 PT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2529/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2914" tvg-logo="http://epg.it999.ru/img2/2914.png" timeshift="3" ,Sporting TV HD PT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2530/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",Live Sports⚽️
 https://bit.ly/3xYLaRh
