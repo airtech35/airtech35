@@ -172,32 +172,15 @@ http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 1
-http://homeip.biz/FR_RMCSPORT1HD/mpegts?token=c01ad747e2984aa493ca3fda56718a3a
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 2
-http://homeip.biz/FR_RMCSPORT2HD/mpegts?token=c01ad747e2984aa493ca3fda56718a3a
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 3
-http://homeip.biz/FR_RMCSPORT3HD/mpegts?token=e149046101bda38c8fba76bf209cc492
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="RMC SPORT",Foot+ 24/24
-http://homeip.biz/FR_FOOT24HD/mpegts?token=8998bf655ada2e926662099c9da0be56
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg" group-title="RMC SPORT",RMC 1
 http://145.239.5.177:8080/524/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png" group-title="RMC SPORT",RMC 2
 http://145.239.5.177:8080/525/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png" group-title="RMC SPORT",RMC 3
 http://145.239.5.177:8080/526/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3WddU58" group-title="RMC SPORT",TF1HD
-http://homeip.biz/FR_TF1HD/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
-http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/U8pfdBx.png",🇫🇷 beIN SPORTS 1
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
 #EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/Q3RKGkX.png",🇫🇷 beIN SPORTS 2
-https://kusnadipepenk.github.io/ntn/bs2.m3u8
-#EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/Q3RKGkX.png",🇫🇷 beIN SPORTS 2+
 http://145.239.5.177:8080/558/index.m3u8
 #EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/JSMD6Pc.png",🇫🇷 beIN SPORTS 3
 http://145.239.5.177:8080/514/index.m3u8
@@ -207,9 +190,11 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jp" group-title="RMC SPORT", Canal+ Sports 1
 http://145.239.5.177:8080/537/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jp" group-title="RMC SPORT", Canal+ Sports 1
+http://185.59.221.131:8081/live/canalsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjJf/canalPlusSportTwo.png" group-title="RMC SPORT", CANAL+ SPORT 2
 http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjNf/canalPlusSportsThree.jpg" group-title="RMC SPORT", CANAL+ SPORT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canal%2B_Sport_3_PL.svg/640px-Canal%2B_Sport_3_PL.svg.png" group-title="RMC SPORT", CANAL+ SPORT 3
 http://185.59.221.131:8081/live/canalsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18zMDM4MjcwMjJf/canalplusquatre.png" group-title="RMC SPORT", CANAL+ SPORT 4
 http://185.59.221.131:8081/live/canalsport4/playlist.m3u8
@@ -219,8 +204,7 @@ http://185.59.221.131:8081/live/canalsport5/playlist.m3u8
 http://145.239.5.177:8080/556/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", CANAL+ SPORT 360
 http://145.239.5.177:8080/561/index.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Canal+ Sports 2
-http://185.59.221.131:8081/live/canalsport2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Blitz
 http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Action
@@ -231,38 +215,12 @@ http://185.59.221.131:8081/live/supersportblitz/playlist.m3u8
 http://185.59.221.131:8081/live/nbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", ESPN Sports 2
 http://185.59.221.131:8081/live/espn2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", BEIN SPORTS 3 FR
-http://145.239.5.177:8080/514/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Bein EXTRAS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Eurosports 1
 http://145.239.5.177:8080/529/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Eurosports 1
-http://136.243.82.42:808/premium641/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", WWE
 http://185.59.221.131:8081/live/wwe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mljgjnnhejtw.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/id:a75166cbd3df23e55d8e585a9a8c13bb/https://sports.mymarketplace.co.ke/7lxofw1656964140.png" group-title="RMC SPORT",Supersport Football
-http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/cwxvau1592206077.png" group-title="RMC SPORT", Super Sport 1
-http://homeip.biz/AF_SUP1/mpegts?token=508fc96a6af351967698aaadbffb05ed 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="RMC SPORT",Super SportVariety 1
-http://homeip.biz/AF_SV3/mpegts?token=e660fc0e36b4c4d74ca32ab665b63bb7
-#EXTINF:-1 tvg-logo="https://imgcdn.myt.mu/revolution/internet-and-tv/dstv/dstv_logos/H27.png" group-title="RMC SPORT",SuperSport Variety 2
-http://homeip.biz/AF_SV2TIM/mpegts?token=968aa493e397981bd9ed5f40146d4e87
-#EXTINF:-1 tvg-logo="https://www.placemyad.co.za/wp-content/uploads/logo-23.png" group-title="RMC SPORT",Suoersport GrandStand
-http://homeip.biz/AF_S_G/tracks-v1a1/mono.m3u8?token=819cf2fc918d35599b6d3e1812e3d2a9
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="RMC SPORT",SuperSport Rugby
-http://homeip.biz/Nano_SP_Rug/tracks-v1a1/mono.m3u8?token=532f5ea8511d42d02ee98c912eab9759
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",Canal+ Sport 1
-http://homeip.biz/FR_CANALplus/mpegts?token=75f429a8e152a62d5a9b346d3567ba82
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="RMC SPORT",Canal+ Sport 2
-http://homeip.biz/AF_CANL2/mpegts?token=910f9657787327caf3e57d2db4238afe
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Canal%2B_Sport_3_PL.svg" group-title="RMC SPORT",Canal+ Sport 3
-http://homeip.biz/AF_CANL3/mpegts?token=2537527b441bea813c33b188f333ec19
-#EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="RMC SPORT",Infosport
-http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
