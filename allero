@@ -1936,34 +1936,6 @@ https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="🇵🇹Portugal",ARTV Canal Parlamento  
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/mbQCGm5.png" group-title="🇵🇹Portugal",Canal 11  
-https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
-#EXTINF:-1 tvg-id="Famatv.pt" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="🇵🇹Portugal",Famatv  
-https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="🇵🇹Portugal",Kuriakos Cine 
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="🇵🇹Portugal",Kuriakos Kids 
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="🇵🇹Portugal",Kuriakos Music 
-http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MorangoscomAcucar.pt" tvg-logo="https://i.imgur.com/NRfEs0I.png" group-title="🇵🇹Portugal",Morangos com Açúcar 
-https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="🇵🇹Portugal",MTV Portugal 
-http://176.79.76.155:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="ONFM.pt" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="🇵🇹Portugal",ON FM 
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="🇵🇹Portugal",Porto Canal 
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
-#EXTINF:-1 tvg-id="RadioSines.pt" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="🇵🇹Portugal",Rádio Sines 
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇹Portugal",Rakuten Documentaries
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇹Portugal",Rakuten Family
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-logo="https://i.imgur.com/DvxfBTE.png" group-title="🇵🇹Portugal",RecordTV Europa  [Geo-blocked]
-https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="🇵🇹Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
@@ -1996,6 +1968,35 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="WEBTVPaixaoFM.pt" tvg-logo="https://radiopaixaofm.live/admin/assets/img/logo.png" group-title="🇵🇹Portugal",WEB TV Paixão FM  
 https://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="🇵🇹Portugal",ARTV Canal Parlamento  
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/mbQCGm5.png" group-title="🇵🇹Portugal",Canal 11  
+https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+#EXTINF:-1 tvg-id="Famatv.pt" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="🇵🇹Portugal",Famatv  
+https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="🇵🇹Portugal",Kuriakos Cine 
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="🇵🇹Portugal",Kuriakos Kids 
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="🇵🇹Portugal",Kuriakos Music 
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MorangoscomAcucar.pt" tvg-logo="https://i.imgur.com/NRfEs0I.png" group-title="🇵🇹Portugal",Morangos com Açúcar 
+https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="🇵🇹Portugal",MTV Portugal 
+http://176.79.76.155:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="🇵🇹Portugal",ON FM 
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="🇵🇹Portugal",Porto Canal 
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
+#EXTINF:-1 tvg-id="RadioSines.pt" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="🇵🇹Portugal",Rádio Sines 
+https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇹Portugal",Rakuten Documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇹Portugal",Rakuten Family
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-logo="https://i.imgur.com/DvxfBTE.png" group-title="🇵🇹Portugal",RecordTV Europa  [Geo-blocked]
+https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 
 
 #EXTM3U
@@ -7142,6 +7143,18 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="https://i.imgur.com/fdogzKO.png" group-title="🇧🇬 Bulgaria",Travel TV 
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="TV1.bg" tvg-logo="https://i.imgur.com/YLDp5u3.png" group-title="🇧🇬 Bulgaria",TV 1 
+https://tv1.cloudcdn.bg:8081/stream.m3u8
+#EXTINF:-1 tvg-id="TVDarts.bg" tvg-logo="https://i.imgur.com/3bTXMaR.png" group-title="🇧🇬 Bulgaria",TV Darts 
+https://streamer103.neterra.tv/darts/live.m3u8
+#EXTINF:-1 tvg-id="TVZagora.bg" tvg-logo="https://i.imgur.com/HDGfDkL.png" group-title="🇧🇬 Bulgaria",TV Zagora 
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 tvg-id="TVart.bg" tvg-logo="https://i.imgur.com/YNmrCF7.png" group-title="🇧🇬 Bulgaria",TVart 
+https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNBulgaria.bg" tvg-logo="https://i.imgur.com/kkNtmAW.png" group-title="🇧🇬 Bulgaria",TVN-Bulgaria 
+https://obs.friendshipchurch.eu/tvn/mystream.m3u8
 #EXTINF:-1 tvg-id="78TV.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/512px-Seven-Eight-TV.png" group-title="🇧🇬 Bulgaria",7/8 TV 
 https://ms4.sedemosmi.tv/live/M3E5ajhtdjJkaXBscmZubmUxMmh1cjN1bjZrbm5wZW8/index.m3u8
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="🇧🇬 Bulgaria",100% Auto Moto TV  
@@ -7189,18 +7202,6 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 #EXTINF:-1 tvg-id="TiankovOrientFolk.bg" tvg-logo="https://i.imgur.com/33LexyP.png" group-title="🇧🇬 Bulgaria",Tiankov Orient Folk 
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="https://i.imgur.com/fdogzKO.png" group-title="🇧🇬 Bulgaria",Travel TV 
-https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 tvg-id="TV1.bg" tvg-logo="https://i.imgur.com/YLDp5u3.png" group-title="🇧🇬 Bulgaria",TV 1 
-https://tv1.cloudcdn.bg:8081/stream.m3u8
-#EXTINF:-1 tvg-id="TVDarts.bg" tvg-logo="https://i.imgur.com/3bTXMaR.png" group-title="🇧🇬 Bulgaria",TV Darts 
-https://streamer103.neterra.tv/darts/live.m3u8
-#EXTINF:-1 tvg-id="TVZagora.bg" tvg-logo="https://i.imgur.com/HDGfDkL.png" group-title="🇧🇬 Bulgaria",TV Zagora 
-http://zagoratv.ddns.net:8080/tvzagora.m3u8
-#EXTINF:-1 tvg-id="TVart.bg" tvg-logo="https://i.imgur.com/YNmrCF7.png" group-title="🇧🇬 Bulgaria",TVart 
-https://stream.osc.bg/tvart/Stream3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNBulgaria.bg" tvg-logo="https://i.imgur.com/kkNtmAW.png" group-title="🇧🇬 Bulgaria",TVN-Bulgaria 
-https://obs.friendshipchurch.eu/tvn/mystream.m3u8
 
 
 
