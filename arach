@@ -9590,6 +9590,9 @@ https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="🇹🇷 Turkey",Zarok TV 
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪 Germany",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -9599,9 +9602,9 @@ https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8
 http://176.10.117.3:5000/play/a00o/index.m3u8
 #EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪 Germany",RTL Zwei++
 http://178.219.128.68:64888/RTL2
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="" group-title="🇩🇪 Germany",ZDF DE
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/3LBQCQw" group-title="🇩🇪 Germany",ZDF DE
 http://37.18.239.36:8888/ZDF/index.m3u8
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/3KD5a1H" group-title="🇩🇪 Germany",rtl
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",rtl
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/4eeIDWB" group-title="🇩🇪 Germany",rtl2
 https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
