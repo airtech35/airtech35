@@ -1433,13 +1433,13 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="🇧🇬Bulgaria",Code Health TV 
 https://cdn3.invivo.bg/codehealth_test/index.m3u8
-#EXTINF:-1 tvg-id="DSTV.bg" tvg-logo="https://i.imgur.com/mGFVwkB.png" group-title="🇧🇬Bulgaria",DSTV (614p) 
+#EXTINF:-1 tvg-id="DSTV.bg" tvg-logo="https://i.imgur.com/mGFVwkB.png" group-title="🇧🇬Bulgaria",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="EuroFolkTV.bg" tvg-logo="https://i.imgur.com/XD1p8Lg.jpg" group-title="🇧🇬Bulgaria",EuroFolk TV 
 https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041.m3u8
 #EXTINF:-1 tvg-id="EuronewsBulgaria.bg" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="🇧🇬Bulgaria",Euronews Bulgaria  
 https://ythls.armelin.one/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8
-#EXTINF:-1 tvg-id="Eurocom.bg" tvg-logo="https://i.imgur.com/taVIK11.png" group-title="🇧🇬Bulgaria",Evrokom (360p)
+#EXTINF:-1 tvg-id="Eurocom.bg" tvg-logo="https://i.imgur.com/taVIK11.png" group-title="🇧🇬Bulgaria",Evrokom 
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FenFolkTV.bg" tvg-logo="https://i.imgur.com/pq7wX0V.png" group-title="🇧🇬Bulgaria",Fen Folk  
 https://ythls.armelin.one/channel/UCptENFbwjv79hmQPymnwKcA.m3u8
@@ -1478,7 +1478,8 @@ http://zagoratv.ddns.net:8080/tvzagora.m3u8
 https://stream.osc.bg/tvart/Stream3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNBulgaria.bg" tvg-logo="https://i.imgur.com/kkNtmAW.png" group-title="🇧🇬Bulgaria",TVN-Bulgaria 
 https://obs.friendshipchurch.eu/tvn/mystream.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇧🇬Bulgaria",V2Beat
+http://de1se01.v2beat.live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AbazaTV.ru" status="online" group-title="🇬🇪Georgia",Abaza TV
