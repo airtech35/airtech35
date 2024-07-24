@@ -9608,6 +9608,32 @@ http://37.18.239.36:8888/ZDF/index.m3u8
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/4eeIDWB" group-title="🇩🇪 Germany",rtl2
 https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="🇩🇪 Germany",VOX DE
+http://178.219.128.68:64888/VOX
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="🇩🇪 Germany",n-tv DE
+https://s6.hopslan.com:443/ntvx1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitrohd.jpg" group-title="🇩🇪 Germany",RTL NITRO FHD DE
+https://s6.hopslan.com/nitrox1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="🇩🇪 Germany",Super RTL DE
+http://154.58.225.25:9999/superrtl/index.m3u8
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="🇩🇪 Germany",ProSieben HD DE
+http://154.58.225.25:9999/prosieben/index.m3u8
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="🇩🇪 Germany",Kabel Eins HD DE
+https://s5.mysql2dumpcrypt.de:443/conv/go/kabel-eins/chunks.m3u81a.doc
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="🇩🇪 Germany",SAT.1 HD DE
+http://154.58.225.25:9999/sat1/index.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="🇩🇪 Germany",Sixx FHD DE
+https://s6.hopslan.com/sixx1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="🇩🇪 Germany",DMAX DE
+https://s5.mysqlcryptnow.de/conv/go/dmax/chunks.m3u81a.doc
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="🇩🇪 Germany",ProSieben Maxx DE
+https://s6.hopslan.com/pro7maxx1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku HD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="🇩🇪 Germany",Kabel Eins Doku HD DE
+https://s6.hopslan.com/dokux1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="🇩🇪 Germany",SAT.1 Gold DE
+https://s6.hopslan.com/goldx1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="🇩🇪 Germany",Tele 5 DE
+https://s5.2ix2com.de:443/conv/go/tele5/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="🇩🇪 Germany",3sat  [Geo-blocked]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="🇩🇪 Germany",1-2-3 TV 
