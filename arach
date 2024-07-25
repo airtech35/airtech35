@@ -30,10 +30,6 @@ https://bit.ly/3gj9PK5
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a07s
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",max_1 🏆
-http://flusonic-5.platinum-tv.com/max_1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",max_2 🏆
-http://flusonic-5.platinum-tv.com/max_2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1 🏆
 https://n.kora-sa.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
