@@ -899,22 +899,10 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/jcJPOsb.png",[$]X SPORT HD🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CaWPiv1.png",[$]SPORT-ITALIA PLUS HD🇮🇹
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8?
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD🇮🇹
 http://46.240.143.86/Eurosport1/video.m3u8?token=test
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD🇮🇹
 http://46.240.143.86/Eurosport2/video.m3u8?token=test
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/pM1mevB.png",[$]COMBATE HD🇧🇷
-http://209.222.97.92:16493/
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/hUC1h6b.png",[$]SPORTV HD🇧🇷
-http://209.222.97.92:16525/
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/R6738GE.png",[$]PREMIERE 1HD🇧🇷
-http://51.83.238.223:16725
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/R6738GE.png",[$]PREMIERE 2HD🇧🇷
-http://185.150.190.225:16482/
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/R6738GE.png",[$]PREMIERE 4HD🇧🇷
-http://185.150.190.225:16472/
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/zlWcUOd.png",[$]REDBULL TV 🇨🇷
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV🇹🇷
@@ -1010,7 +998,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png" group-title="SPORT رياضية",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",Nile sport
 http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
@@ -1019,8 +1006,6 @@ http://93.184.10.248/JordanSport/index.m3u8
 http://162.212.178.70:4842/bysid/205
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="SPORT رياضية",Maroc SPORT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://bit.ly/4bsc0D2" group-title="SPORT رياضية",TRT spor
 http://66.160.192.241/trtspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PaK3SEx.png" group-title="SPORT رياضية",ESPN HD
@@ -1125,7 +1110,6 @@ https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCJsZ22yL1IW0R2u0jnnyYog.m3u8
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="https://bit.ly/3QF4w7r", AlHadath
 https://ytlive.zazerconer.workers.dev/@AlHadath.m3u8
-
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="4545", Osratouna
 https://ytlive.zazerconer.workers.dev/@Osratouna.m3u8
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="4545", AlmagharibiaTv
@@ -3557,7 +3541,7 @@ https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="TeleDjibouti4.dj" tvg-logo="https://i.imgur.com/GNolVKU.png" group-title=🇩🇯 Djibouti,RTD
+#EXTINF:-1 tvg-id="TeleDjibouti4.dj" tvg-logo="https://i.imgur.com/GNolVKU.png" group-title="🇩🇯 Djibouti",RTD
 https://ythls.armelin.one/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
 
 
