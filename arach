@@ -3500,8 +3500,6 @@ https://bozztv.com/inim03/live1/gin-yementv-in/playlist.m3u8
 http://82.212.74.5:8000/live/7728.m3u8
 #EXTINF:-1 tvg-id="SuhailTV.ye" tvg-logo="https://i.imgur.com/wgSGdkv.png" group-title="🇾🇪اليمن Yemen",Suhail TV 
 http://82.212.74.98:8000/live/hls/7726.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Documentary
 http://154.58.202.131:8000/play/a03p
 #EXTINF:-1 tvg-id="AICTV.ye" tvg-logo="https://bit.ly/4d1LPUg" group-title="🇾🇪اليمن Yemen",Yemen Education TV
@@ -3534,11 +3532,9 @@ https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
 #EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="🇸🇴الصومالSomalia‎",Somali National TV🇸🇴
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="Elmouritania.mr" tvg-logo="https://i.imgur.com/rErKqzS.png" group-title="🇲🇷 Mauritania",Télévision de Mauritanie
 https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="TeleDjibouti4.dj" tvg-logo="https://i.imgur.com/GNolVKU.png" group-title="🇩🇯 Djibouti",RTD
