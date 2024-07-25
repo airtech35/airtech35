@@ -2,6 +2,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 1 HD
 https://s6.hopslan.com/orfx111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 2 HD
+https://s1.dietdinnerrecipes.com/stream/go2/Njg3NDc0NzA3MzI1MzM0MTI1MzI0NjI1MzI0Njc3Nzc3NzJlNmM2OTc2NjU3Mzc0NzI2NTYxNmQ2NDY1MmU2MzZmNmQyNTMyNDY2ZjcyNjYzMjJkNmM2OTc2NjUyNTMyNDY=~/~NzM3NDcyNjU2MTZkMmU2ODY0NzQ3NjY5N2E2YzY1NjM2MTZlNmM2OTJlNjM2ZjZk~/~/orf2.m3u81a.doc
+
 #EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="🇦🇹Austria",Balkan Radio Salzburg 
