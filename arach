@@ -31,13 +31,13 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a07s
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1 🏆
-https://n.kora-sa.live/hls/0/stream.m3u8
+http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
-https://n.kora-sa.live/hls/2/stream.m3u8
+http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3 🏆
-http://live2.sawaghost1.xyz/streams_cach/185560.m3u8
+http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 4 🏆
-http://homeip.biz/IN_B1/index.m3u8
+http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
 https://live2.sawaghost1.xyz/streams_cach/185579.m3u8
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",SERVUS TV FHD
