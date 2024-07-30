@@ -83,31 +83,25 @@ https://stream.tvpure.net/ch4_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 
 
+#EXTINF:-1,Bein Sport HD1
+
+
+#EXTINF:-1,Bein Sport SD1
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
+https://zerdaaymane.online/stream/bein3/output_79492_720p.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
+https://zerdaaymane.online/stream/bein3/output_79492_480p.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
+https://zerdaaymane.online/stream/bein3/output_79492_360p.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️
 
 
-
-Bein Sport SD1 ()
-
-Bein Sport SD2 ()
-
-Bein Sport SD3 ()
-
-Bein Sport SD4 ()
-
-Bein Sport SD5 ()
-
-Bein Sport SD6 ()
-
-Bein Sport SD7 ()
-
-Bein Sport SD8 ()
-
-Bein Sport SD9 ()
-
- ()
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
 http://live2.sawaghost1.xyz/streams_cach/158529.m3u8?token=
@@ -132,9 +126,13 @@ http://live2.sawaghost1.xyz/streams_cach/158538.m3u8?token=
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
+http://37.237.195.245/cache/Bein-Sp1-LB/m3u8/hls_m3u8_Bein-Sport-1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
+http://37.237.195.245/cache/Bein-Sp2-LB/m3u8/hls_m3u8_Bein-Sport-2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
+http://37.237.195.245/cache/Bein-Sp3-LB/m3u8/hls_m3u8_Bein-Sport-3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
+http://37.237.195.245/cache/Bein-Sp4-LB/m3u8/hls_m3u8_Bein-Sport-4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 
@@ -3204,6 +3202,8 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="🇩🇿الجزائرALGERIEN",Canal Algerie🇩🇿
 http://162.212.178.69:4242/bysid/808
+#EXTINF:0 tvg-logo="" group-title="🇩🇿الجزائرALGERIEN", قناة السادسة الجزائرية
+http://ar116.ab-cdn.com/live/005/index.m3u8?t=4kBtMNZ-6yrCEgRg89bTTw&e=1722147747
 
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
