@@ -40,6 +40,26 @@ http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",DUHOK SPORT HD
+http://37.237.195.244/fpd3C3NlJ1SipalESGBJX3fyRlTO4X1T__ih__tqlw0W6ejr__hi__hIJWAm6GZG01xo0OQFBIvLJH0ECuIX6HNGij__ih__p7we2ME92mHpMOqS37l9kliHQIu__hi__AMZoQyeDVBIcrXqflv9ljYEvUUEvvxLW9CK8YKrgj5TC0B2Iy5__ih__lC4k7wKubcq1SFiVzMJPM__hi__eh4ODpDX7Vf__ih__03Uh2__ih__WWm31LhufS6f8xcz2uEWu0LRyNWVjiEFcwFI561JBOY7xgNnSEr4CsVh4XAPRxamUZv7Ss5FlvvYyGCHepzQbCecB__ih__0UdLZ9x9I4=---/cache/Duhok-Sport-LB/m3u8/Duhok-Sport_tracks-v1a1_mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBAR SPORT HD
+http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Varzish Sport HD
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Olampic Sport HD
+https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",RAI SPORT HD
+http://85.209.248.3:8080/RaiSportHD/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",ELEVEN SPORT HD1
+http://cdnx1.plusx.tv:8880/271/mono.m3u8?token=0e318668ba9b1d41dd3333
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",ELEVEN SPORT HD2
+http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=0e318668ba9b1d41dd3333
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",ELEVEN SPORT HD3
+http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=0e318668ba9b1d41dd3333
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",SERVUS TV FHD
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
