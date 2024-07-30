@@ -40,6 +40,8 @@ http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6 🏆
+http://allinonereborn.in/allinone.php?id=57665
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",SERVUS TV FHD
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
@@ -387,6 +389,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eleven_Sports_1_HD
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eleven_Sports_2_HD
+http://109.233.89.166/Eleven_Sports_2_HD/mono.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eleven_Sports_3_HD
+http://109.233.89.166/Eleven_Sports_3_HD/mono.m3u8
+
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",TVP_Sport HD
 http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",ELEVEN_SPORTS_4 HD
