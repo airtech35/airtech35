@@ -40,8 +40,6 @@ http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6 🏆
-http://allinonereborn.in/allinone.php?id=57665
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",SERVUS TV FHD
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
