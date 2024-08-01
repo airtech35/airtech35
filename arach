@@ -2578,8 +2578,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d
 #EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",🇧🇷🇵🇹 ➾ Documentário [Pluto]
 https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8
 
-
-
+#EXTINF:-1 tvg-id="61409b5108ae6e0007f9b189" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/61409b5108ae6e0007f9b189/colorLogoPNG.png",Biografy tvᴴᴰ 🇺🇸 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61409b5108ae6e0007f9b189/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/WedoBigDocs.png",Wedo Big Doc ᴴᴰ 🇺🇸  
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/WedoBigStories.png",Wedo Big Stories ᴴᴰ 🇺🇸  
