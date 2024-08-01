@@ -2844,24 +2844,24 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
  🔰  🇬🇧🇺🇸 Pets 🐶🐱  🔰 
 
 
-#EXTINF:-1 tvg-id="ESBC3900001G6" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/viverconperros.png",Vivir con Perrosᴴᴰ 🇪🇸 
-https://is.gd/BpRRBK?ESBC3900001G6.m3u8
+#EXTINF:-1 tvg-id="ESBC3900001G6" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/viverconperros.png",Vivir con Perrosᴴᴰ 🇪🇸 +
+https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="ESBC3900002L8" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/vivercongatos.png",Vivir con Gatosᴴᴰ 🇪🇸 
-https://is.gd/Q8mVOn?https://is.gd/Q8mVOn.m3u8
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="65265dada6c3830008942a0a" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LovePets.webp",Love Petsᴴᴰ 🇺🇸 
-https://bit.ly/3uVGkoY?profile=inspirationFreetv.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovepetsusa-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PetClubtv.png",Pet Club tvᴴᴰ 🇺🇸 
-https://bit.ly/3Ttq5dp?profile=inspirationFreetv.m3u8
+https://lightning-petclub-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://streamstak.com/barktv/wp-content/uploads/sites/55/2024/04/barktv_logo.png",Bark tvᴴᴰ 🇺🇸 
-https://bit.ly/41putuh?profile=inspirationFreetv.m3u8
+https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
 #EXTINF:-1 tvg-id="USBA3000044BJ" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/USBA3000044BJ_20210525T051454.png",Lucky Dogᴴᴰ 🇺🇸 
-https://is.gd/ipgdro?USBA3000044BJ.m3u8
+https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="60e453641239a700071f53a1" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png",Dog Whispererᴴᴰ 🇺🇸 
-https://bit.ly/39hYnuP?profile=60e453641239a700071f53a1.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e453641239a700071f53a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Dogs24_7.png",Dogs 24/7 🇺🇸 
-https://bit.ly/dogs24-7?profile=5b329e0a7b9d8872aeb49ceb.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Cats24_7.png",Cats 24/7 🇺🇸 
-https://bit.ly/Cats24-7?profile=599375885ceaac3cabccbed7.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
  🔰  🇺🇸 😂😂 Lol Funny Vídeos  🔰 
@@ -2874,7 +2874,7 @@ https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="554158e864526b29254ff105" tvg-name="" group-title="Fanny Videos 🤣" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png",FailArmyᴴᴰ² 🇺🇸 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-name="" group-title="Fanny Videos 🤣" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/thepetcolletive.webp",The Pet Collectiveᴴᴰ 🇺🇸🇲🇽 
-https://bit.ly/3sYLlrg?profile=inspirationFreetv.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live webcam world",Live webcam world
