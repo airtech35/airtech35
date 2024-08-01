@@ -2579,22 +2579,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d
 https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="61409b5108ae6e0007f9b189" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/61409b5108ae6e0007f9b189/colorLogoPNG.png",Biografy tvᴴᴰ 🇺🇸 
-https://is.gd/BMbkOG?61409b5108ae6e0007f9b189.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/WedoBigDocs.png",Wedo Big Doc ᴴᴰ 🇺🇸  
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/WedoBigStories.png",Wedo Big Stories ᴴᴰ 🇺🇸  
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
-#EXTINF:-1 tvg-id="ATBA3300008ZT" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://www.autentic.com/images/curiositynow.jpg",Curiosity Now 🇺🇸 
-https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAK3508706A" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/XtremeOutdoor.webp",Xtreme Outdoor 🇺🇸 
-https://bit.ly/422dJuY?profile=inspirationFreetv.m3u8
+https://9bd99d43.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ta2lsbHNBbmRUaHJpbGxzX0hMUw/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.coppa=ROKU_ADS_KIDS_CONTENT&ads.bmodel=ROKU_BIZ_MODEL&ads.channelStore=CHANNEL_STORE_CODE&ads.content=ROKU_ADS_CONTENT_ID&ads.content_rating=ROKU_ADS_CONTENT_RATING&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=ROKU_ADS_CONTENT_TYPE&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=ROKU_ADS_LIMIT_TRACKING&ads.platform=ROKU_ADS_PLATFORM_TYPE&ads.studio_id=ROKU_ADS_PROVIDER_ID&ads.rdid=ROKU_ADS_TRACKING_ID&ads.unlocked=UNLOCKED&ads.ua=ROKU_ADS_USER_AGENT
 #EXTINF:-1 tvg-id="657883cab228b700084414b3" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png",Modern Marvels by HISTORY 🇺🇸 
-https://is.gd/SWDKCh?657883cab228b700084414b3.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/657883cab228b700084414b3livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="USBC39000204J" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MilitaryHeroes.webp",Military Heroesᴴᴰ 🇺🇸 
-https://bit.ly/48HrRMu?profile=inspirationFreetv.m3u8
+https://d26glm3kerrgpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrl29n7npf07l-ssai-prd/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="6319ee0cf78bb10007ee5e6b" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/6319ee0cf78bb10007ee5e6b/colorLogoPNG.png",World War TVᴴᴰ 🇺🇸 
-https://is.gd/q0oEG2?6319ee0cf78bb10007ee5e6b.m3u8
+ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319ee0cf78bb10007ee5e6b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 
 
@@ -2615,31 +2612,31 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/DiscSci.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Discovery%20Science.png",Discovery Scienceᴴᴰ 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 #EXTINF:-1 tvg-name="️WeatherSpy" tvg-id="USAJ3400014LK" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/weatherspy.webp",WeatherSpy 🇺🇸 
-https://bit.ly/3U2psYo?profile=inspirationFreetv.m3u8
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991372
 #EXTINF:-1 tvg-id="USAJ3504708A" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://www.dangertv.com/themes/custom/dangertv/logo.png",Danger tv 🇺🇸 
-https://bit.ly/41duxNl?profile=inspirationFreetv.m3u8
+https://5341c1d388b14862b8068a90cc80e062.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DangerTV/playlist.m3u8?ads.wurl_channel=161&ads.wurl_name=DangerTV&ads.us_privacy=1YNY&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0
 #EXTINF:-1 tvg-id="GBBA22000063W" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/wonder.webp",Wonder tvᴴᴰ 🇺🇸 
 https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/InWonder.png",Inwonder tvᴴᴰ 🇺🇸 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",Smithsonian Channel Selectᴴᴰ 🇺🇸 
-https://bit.ly/4b3JR5d?profile=inspirationFreetv.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="589aa03df9ba56a84197a560" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png",Voyager Documentaries 🇺🇸 
-https://bit.ly/3tZI4xz?profile=inspirationFreetv.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary 🇺🇸
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-id="CABC2300019UD" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png",Doc+ᴴᴰ 🇺🇸 
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
 #EXTINF:-1 tvg-name="" tvg-id="CABC2300019UD" group-title="Documentaries 🏛️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png",Documentary+ 🇺🇸 
-https://bit.ly/documentarymais?profile=inspirationFreetv.m3u8
+https://d2gplwl9ws0syl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6rg0sjciai0q-ssai-prd/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}
 #EXTINF:-1 tvg-name="" tvg-id="CABC2300019UD" group-title="Documentaries 🏛️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png",Documentary+ ² 🇺🇸 
-https://bit.ly/3T1nFlq?profile=inspirationFreetv.m3u8
+https://d403cbd50aab412db89df4420f69f89d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.app_bundle={app_bundle}&ads.app_name={app_name}&ads.app_store_url={app_url}&ads.did={device_ifa}&ads.ifa_type={device_id_type}&ads.dnt={dnt}&ads.device_make={device_make}&ads.device_model={device_model}&ads.device_type={rtb_device}&ads.cust_devicename={device_devicetype}&ads.ua={ua}&ads.content_id={video_id}&ads.content_title={media_title}&ads.cust_channeltype=Shows&ads.content_genre={content_genre}&ads.content_provider={content_provider}&ads.us_privacy={ccpa_us_privacy}
 #EXTINF:-1 tvg-id="5b85a7582921777994caea63" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png",Documentary 🇺🇸 
-https://bit.ly/DocumentarioPluto?profile=inspirationFreetv.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=30b98945-c262-467a-9cdc-5dffae357184&deviceLat=28.3939&deviceLon=-81.4216&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=12.0&includeExtendedEvents=false&sid=c0755142-b660-47a7-ae57-b171b8c04bda&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HistoryHits.png",History Hits 🇺🇸 
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HistoryHits.png",History Hits 🇺🇸 
-https://bit.ly/3Ocb6Rn?profile=inspirationFreetv.m3u8
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0
 #EXTINF:-1 tvg-id="CA600001C3" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HistoryWarfareNow.webp",History & Warfare Now 🇺🇸 
 https://jmp2.uk/SamsungTVPlus/CA600001C3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://www.autentic.com/images/History-Logo-positiv-RGB.svg",Autentic History 🇺🇸 
@@ -2647,33 +2644,33 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="",History Time 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png",Historias de Ultratumbaᴴᴰ 🇲🇽 
-https://bit.ly/39vxTpZ?profile=inspirationFreetv.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",Historyᴴᴰ 🇲🇽 
-https://bit.ly/3y5kHCd?profile=inspirationFreetv.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",Historyᴴᴰ 🇺🇸 
-https://bit.ly/historypluto?profile=inspirationFreetv.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png",History ² 🇺🇸 
-https://bit.ly/3mkCLQQ?profile=inspirationFreetv.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a8ca6a49-dd31-40ac-96e6-1b922b5b3fb2&deviceLat=28.3939&deviceLon=-81.4216&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=12.0&includeExtendedEvents=false&marketingRegion=US&sid=0116f4b9-85ff-4ea0-807f-8290b9ceef1f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="654930a8346f420008d3b0b8" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png",Oxygen True Crime Archivesᴴᴰ 🇺🇸 
-https://sck.pm/9hkh?profile=inspirationFreetv.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/654930a8346f420008d3b0b8livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Crime%20%26%20Punishment.png",Crime & Punishmentᴴᴰ 🇺🇸 
-https://bit.ly/48Rb5dx?profile=inspirationFreetv.m3u8
+https://d7278b99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NyaW1lYW5kUHVuaXNobWVudF9ITFM/playlist.m3u8?ads.wurl_channel=1230&ads.wurl_name=CrimeandPunishment&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5401
 #EXTINF:-1 tvg-id="GBBD1100007AC" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/6304fb268bd95300072d2198/colorLogoPNG.png",True Crime 
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8?ads.wurl_channel=1151&ads.wurl_name=TrueCrimeUKfromCBSReality&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="5ea18cd42ee5410007e349dc" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png",Crime Investigationᴴᴰ 🇺🇸 
-https://bit.ly/Investigationcrime?profile=inspirationFreetv.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/FBI_Files.webp",FBI Filesᴴᴰ 🇺🇸 
-https://bit.ly/fbi_inspiration_m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png",Total Crimeᴴᴰ 🇺🇸 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="62e93b8eb8e02600071f8b1d" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG.png",Crime Timeᴴᴰ 🇺🇸 
 https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/crime360.webp",Crime 360ᴴᴰ 🇺🇸 
-https://bit.ly/crime360_inspiration_m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497calivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="CABD1200007HY" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/truecrimenow.webp",True Crime Now 🇺🇸 
 https://jmp2.uk/SamsungTVPlus/CABD1200007HY.m3u8
 #EXTINF:-1 tvg-id="5c37d6712de254456f7ec340" tvg-name="" group-title="Documentaries 🏛️" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png",Cold Case Files 🇺🇸 
-https://bit.ly/34t4Ws5?profile=inspirationFreetv.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
  🔰  Vida selvagem 🐅  🔰 
