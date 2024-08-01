@@ -1064,17 +1064,22 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
 
 
- 🔰   Tennis 🎾 Golf 🏌️  🔰 
+ 🔰   Tennis 🎾 Golf 🏌️ Bilhar 🎱  🔰 
 
-#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Channel Internacional 🇺🇸 
+#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="" group-title="Tennis 🎾 Golf 🏌️ Bilhar 🎱" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Channel Internacional 🇺🇸 
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ATBA2200008XN" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Rain Delay Channelᴴᴰ 🇺🇸 
+#EXTINF:-1 tvg-id="ATBA2200008XN" tvg-name="" group-title="Tennis 🎾 Golf 🏌️ Bilhar 🎱" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Rain Delay Channelᴴᴰ 🇺🇸 
 https://jmp2.uk/SamsungTVPlus/ATBA2200008XN.m3u8
-#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 
+#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾 Golf 🏌️ Bilhar 🎱" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 
 https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/onegolf.png",One Golf 🇺🇸 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tennis 🎾 Golf 🏌️ Bilhar 🎱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/onegolf.png",One Golf 🇺🇸 
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Tennis 🎾 Golf 🏌️ Bilhar 🎱" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/01/World-Billiards-TV_Logo_sml.png",World Billiards tv 🇺🇸 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=297
+#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Tennis 🎾 Golf 🏌️ Bilhar 🎱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/billiardtv.webp",Billiard TV 🇺🇸 
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Tennis 🎾 Golf 🏌️ Bilhar 🎱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/billiardtv.webp",Billiard TV ² 🇺🇸 
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
  🔰  Sports Motorizados 🏎️🏍  🔰 
 
@@ -1175,20 +1180,6 @@ https://bit.ly/3Hxwlb8?profile=inspirationFreetv.m3u8
 https://bit.ly/3J39Afq?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Extreme Sports 🏄⛷️" tvg-logo="https://horizonsports.tv/assets/imgs/HsLogo45.png",Horizon Sportsᴴᴰ 🇺🇸 
 https://b.link/6pi6fjcx?profile=inspirationFreetv.m3u8
-
-
-
-
- 🔰  Bilhar 🎱  🔰 
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Bilhar 🎱" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/01/World-Billiards-TV_Logo_sml.png",World Billiards tv 🇺🇸 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=297
-#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Bilhar 🎱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/billiardtv.webp",Billiard TV 🇺🇸 
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Bilhar 🎱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/billiardtv.webp",Billiard TV ² 🇺🇸 
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
