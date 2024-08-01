@@ -1064,24 +1064,15 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
 
 
- 🔰   Tennis 🎾  🔰 
+ 🔰   Tennis 🎾 Golf 🏌️  🔰 
 
-#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Channel Internacional 🇺🇸 
+#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Channel Internacional 🇺🇸 
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ATBA2200008XN" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Rain Delay Channelᴴᴰ 🇺🇸 
+#EXTINF:-1 tvg-id="ATBA2200008XN" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Rain Delay Channelᴴᴰ 🇺🇸 
 https://jmp2.uk/SamsungTVPlus/ATBA2200008XN.m3u8
-#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 
+#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 
 https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
-
-
- 🔰  Golf 🏌️  🔰 
-
-
-#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="" group-title="Golf 🏌️" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png",PGA Tour 🇺🇸 
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_in_pgatour_001.m3u8?ads.caid=pgatour&ads.sfid=&ads.afid=&ads.csid=samsungtvplus_in_pgatour_ssai&ads.xumo_platform=samsung&ads._fw_is_lat={TARGETOPT}&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did={PSID}&ads._fw_content_category=IAB17&ads._fw_content_genre=Sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent={TC_STRING}&ads._fw_h_x_country=IN&ads.appVersion=&ads.appName={APP_NAME}&ads.xumo_contentId=211&ads.xumo_contentName=pgatour&ads.xumo_providerId=211&ads.xumo_providerName=pgatour&ads.xumo_channelId=89001000&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=pgatour_in&ads.tpcl=MIDROLL&ads._fw_app_store_url={APP_DOMAIN}
-#EXTINF:-1 tvg-id="65493029ab052400089e9d2f" tvg-name="" group-title="Golf 🏌️" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png",GolfPass 🇺🇸 
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat={TARGETOPT}&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did={PSID}&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName={APP_NAME}&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url={APP_DOMAIN}
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Golf 🏌️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/onegolf.png",One Golf 🇺🇸 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tennis 🎾 Golf 🏌️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/onegolf.png",One Golf 🇺🇸 
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
 
