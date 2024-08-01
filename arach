@@ -317,8 +317,8 @@ http://181.215.205.107:1234/stream/tod/abd2?u=uae02&p=c1c0fafc22209e4f81d172e9a3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o2xDvYM.png" group-title="SSC SPORT",SSC Extra 3 HD
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
+https://bit.ly/3xYLaRh
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg" group-title="SPORT VIP 🏆", ESPN 1
 http://185.59.221.131:8081/live/espn/playlist.m3u8
