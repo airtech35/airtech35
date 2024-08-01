@@ -2711,7 +2711,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1f
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Gaming 🎮" tvg-logo="https://i.imgur.com/ybn0c7a.png",Gaming Ubisoft 
-https://ov.ottera.tv/channels/medialive_ubl_ut/master1400000.m3u8;session=medialive_ubl_ut
+https://ov.ottera.tv/channels/medialive_ubl_ut/master.m3u8;session=medialive_ubl_ut
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Gaming 🎮" tvg-logo="https://www.gotgame.it/gg/wp-content/uploads/2022/02/GotGame_Logo_black-1024x901.png",Got Gameᴴᴰ 🇮🇹 
 https://gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="ghd.tv.vodafone.pt" group-title="Gaming 🎮" tvg-logo="https://github.com/inspirationlinks/m3u/raw/12b63cde9f5a61c7e0ec1e00aa89d058d1a50e44/Logos/gametoon.svg",GameToonᴴᴰ 🇺🇸
@@ -2789,12 +2789,8 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
 #EXTINF:-1 tvg-id="ITBC400005TF" group-title="Travel ✈️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg",Outdoor Channelᴴᴰ 🇺🇸 
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="ITBC400005TF" group-title="Travel ✈️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400005TF_20231011T082527SQUARE.png_20231011082528.png",Montagna!ᴴᴰ 🇮🇹 
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_it_adventuresportstv_001.m3u8?ads.caid=adventuresportsnetworkitaly&ads.sfid=&ads.afid=&ads.csid=samsungtvplus_it_adventuresportsnetworkit_ssai&ads.xumo_platform=samsung&ads._fw_is_lat={TARGETOPT}&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did={PSID}&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=it&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent={TC_STRING}&ads._fw_h_x_country=IT&ads.appVersion=&ads.appName={APP_NAME}&ads.xumo_contentId=3894&ads.xumo_contentName=adventuresportsnetworkit&ads.xumo_providerId=3894&ads.xumo_providerName=adventuresportsnetworkit&ads.xumo_channelId=88826004&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=adventuresportsnetwork_it&ads.tpcl=MIDROLL&ads._fw_app_store_url={APP_DOMAIN}
 #EXTINF:-1 tvg-id="60511efd71ec430007f50d97" group-title="Travel ✈️" tvg-logo="https://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png",Mundo Viajeroᴴᴰ 🇪🇸 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1 tvg-id="ITBD1100005LL" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Travel%26Living.png",Travel & Livingᴴᴰ 🇮🇹 
-https://amg02758-rcsmediagroupsp-travelandlive-samsungit-pc9zl.amagi.tv/playlist/amg02758-rcsmediagroupsp-travelandlive-samsungit/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0
 #EXTINF:-1 tvg-id="DEBA100000404" group-title="Travel ✈️" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxpᴴᴰ 🇺🇸 
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GBAJ49000184K" tvg-name="" group-title="Travel ✈️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp 🇺🇸
@@ -2823,7 +2819,7 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
  🔰  🇬🇧🇺🇸 Pets 🐶🐱  🔰 
 
 
-#EXTINF:-1 tvg-id="ESBC3900001G6" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/viverconperros.png",Vivir con Perrosᴴᴰ 🇪🇸 +
+#EXTINF:-1 tvg-id="ESBC3900001G6" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/viverconperros.png",Vivir con Perrosᴴᴰ 🇪🇸 
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="ESBC3900002L8" tvg-name="" group-title="Pets 🐶🐱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/vivercongatos.png",Vivir con Gatosᴴᴰ 🇪🇸 
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
