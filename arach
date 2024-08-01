@@ -1067,13 +1067,15 @@ https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
  🔰   Tennis 🎾  🔰 
 
 #EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Channel Internacional 🇺🇸 🟤
-https://bit.ly/3q3zsn6?profile=inspirationFreeTV.m3u8
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATBA2200008XN" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Rain Delay Channelᴴᴰ 🇺🇸 🟤
 https://jmp2.uk/SamsungTVPlus/ATBA2200008XN.m3u8
 #EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 🟤
 https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
 #EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 🟤
 https://bit.ly/3O0Ex8P?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 🟤++
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.ssai=SSSLIVE
 
 
  🔰  Golf 🏌️  🔰 
