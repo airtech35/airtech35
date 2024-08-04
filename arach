@@ -784,109 +784,26 @@ https://bit.ly/3gj9PK5
 https://bit.ly/3DF4NAn
 
 
-
-
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Live Sports",Arena Sport 1 HD
-http://80.252.37.194:5000/udp/233.233.233.3:12000
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Live Sports",Arena Sport 2 HD
-http://80.252.37.194:5000/udp/233.233.233.4:12000
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="Live Sports",Arena Sport 3 HD
-http://80.252.37.194:5000/udp/233.233.233.5:12000
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="Live Sports",Arena Sport 4 HD
-http://80.252.37.194:5000/udp/233.233.233.6:12000
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR005.png" group-title="Live Sports",Arena Sport 5 HD
-http://80.252.37.194:5000/udp/233.233.233.7:12000
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="Live Sports",Arena Sport 6 HD
-http://80.252.37.194:5000/udp/233.233.233.8:12000
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Live Sports"",StarSports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Live Sports",StarSports 1 HD
 http://103.120.172.74:4600
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" group-title="Live Sports",StarSports 2
-http://103.120.172.74:4500
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="Live Sports",StarSports Select 1
 http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="Live Sports",StarSports Select 2
-http://103.120.172.74:4700
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png" group-title="Live Sports",SonySports Ten 1 HD
-http://103.120.172.74:1140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Live Sports",SonySports Ten 5
-http://103.120.172.74:5300
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
-http://89.187.179.242:12397
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="" group-title="Live Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20231213T032953SQUARE.png_20231213032954.png",La liga Inside 🇪🇸ᴴᴰ 
-https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
 http://91.132.74.4:7374/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg",Premier Sport 1ᴴᴰ 🇨🇿
 http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZNDarts.png",DAZN Darts 🇩🇪ᴴᴰ  
-https://r.mjh.nz/PlutoTV/64b67f0424ade50008a3be17-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL 🇺🇸ᴴᴰ 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png",NBC NHL 🇺🇸ᴴᴰ 
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport 🇵🇱ᴴᴰ
 http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 🇵🇱ᴴᴰ
-http://89.187.179.242:1969/PolsatSportPremium
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 1 🇵🇱ᴴᴰ
-http://89.187.179.242:12467/PolsatSportPremium1
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 2 🇵🇱ᴴᴰ
-http://89.187.179.242:12468/PolsatSportPremium2
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 🇵🇱ᴴᴰ
-http://89.187.179.242:1626/canal+sport
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 2 🇵🇱ᴴᴰ
-http://89.187.179.242:12183/canal+sport2
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 5 🇵🇱ᴴᴰ
-http://89.187.179.242:1531/canal+sport5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",Galatasaray tv 🇬🇷ᴴᴰ
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 2 🇵🇱🇺🇸ᴴᴰ
-http://89.187.179.242:1635
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png?v=1",Türkmenistan Sport 🇹🇷 sᴅ
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="tracehd.tv.vodafone.pt" group-title="Live Sports" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png",Trace Sports 🇺🇸 
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/stadium.webp",Stadium 🇺🇸ᴴᴰ 
-https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ITSF.png",ITSF 🇺🇸ᴴᴰ 
-https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8?ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3875
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Live Sports", Sky Sports Main Event (mag)
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30496&extension=ts&skysport_main_event
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Live Sports", Sky Sports Premier League (mag)
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30493&extension=ts&skysport_pl
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Live Sports", Sky Sports PL (mag)
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=971711&extension=ts&skysport_premier_league
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Live Sports", TNT Sports 1 (mag)
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30567&extension=ts&tntsport_1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Live Sports", TNT Sports 1 (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30567&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Live Sports", TNT Sports 2 (mag)
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30566&extension=ts&tntsport_2
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Live Sports", TNT Sports 2 (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30566&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Live Sports", TNT Sports 3 (mag)
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30565&extension=ts&tntsport_3
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Live Sports", TNT Sports 3 (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30565&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Live Sports", TNT Sports 4 (mag)
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30564&extension=ts&tntsport_4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Live Sports", TNT Sports 4 (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1019935&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sports NZ EPL (7pal)
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png", TNT Sports 1 (7pal)
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png", TNT Sports 2 (7pal)
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png", TNT Sports 3 (7pal)
-https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="Live Sports", V Sport Ultra 4K @Co Moe (Vpn-Germany)
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
 #EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="Live Sports", Bein Sports 4K @Co Moe (Vpn-Germany)
@@ -907,18 +824,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a7
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="http://11plus.live/img/18.png", Xplore Unique 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 1
-http://202.21.104.6:88/sps-prime/index.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 2
-http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 3
-http://202.21.104.6:88/sps-world/index.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 4
-http://202.21.104.6:88/sps-action/index.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 5
-http://202.21.104.6:88/sps-plus/index.m3u8
 
 
 
