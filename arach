@@ -737,19 +737,6 @@ https://7pal.short.gy/ssportsf1
 https://7pal.short.gy/ssportsfb
 #EXTINF:0 tvg-id="SkySportsNews.uk" group-title="SPORT VIP 🏆",Sky Sports News
 https://7pal.short.gy/ssportsnw
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",Arena Sport 1 [hr]
-http://80.252.37.194:5000/udp/233.233.233.3:12000
-#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORT VIP 🏆",Arena Sport 2
-http://80.252.37.194:5000/udp/233.233.233.4:12000
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",Arena Sport 3 [hr]
-http://80.252.37.194:5000/udp/233.233.233.5:12000
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",Arena Sport 4 [hr]
-http://80.252.37.194:5000/udp/233.233.233.6:12000
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",Arena Sport 5 [hr]
-http://80.252.37.194:5000/udp/233.233.233.7:12000
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",Arena Sport 6 [hr]
-http://80.252.37.194:5000/udp/233.233.233.8:12000
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",SPORT VIP
@@ -776,59 +763,6 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2527/index.m3u8
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2528/index.m3u8
 #EXTINF:0 group-title="SPORT VIP" tvg-id="2913" tvg-logo="http://epg.it999.ru/img2/2913.png" timeshift="3" ,SPORT TV 5 PT
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2529/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",Live Sports⚽️
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",⚽️كيف احصل على الكود
-https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Live Sports",StarSports 1 HD
-http://103.120.172.74:4600
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="Live Sports",StarSports Select 1
-http://103.120.172.74:1030
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="" group-title="Live Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
-http://91.132.74.4:7374/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg",Premier Sport 1ᴴᴰ 🇨🇿
-http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL 🇺🇸ᴴᴰ 
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png",NBC NHL 🇺🇸ᴴᴰ 
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport 🇵🇱ᴴᴰ
-http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png?v=1",Türkmenistan Sport 🇹🇷 sᴅ
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="tracehd.tv.vodafone.pt" group-title="Live Sports" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png",Trace Sports 🇺🇸 
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="Live Sports", V Sport Ultra 4K @Co Moe (Vpn-Germany)
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
-#EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="Live Sports", Bein Sports 4K @Co Moe (Vpn-Germany)
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",18 SportsHD
-https://freeiptv25.netlify.app/live/bdix/app/Sports18.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/81448/s81448_h3_aa.png",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://i.imgur.com/AQbc1ER.jpg",Glory Kickboxing
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",Pluto TV Deportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png",Pluto TV Extrme 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",Pluto TV MLB 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live Sports", Green TVHD
-https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="http://11plus.live/img/18.png", Xplore Unique 
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-
-
 
 
  🔰  Sports 🇧🇷  🔰
@@ -1166,6 +1100,40 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="SPORTS PREMIUM",StarSports 1 HD
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="SPORTS PREMIUM",StarSports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
+http://91.132.74.4:7374/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg",Premier Sport 1ᴴᴰ 🇨🇿
+http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL 🇺🇸ᴴᴰ 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png",NBC NHL 🇺🇸ᴴᴰ 
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport 🇵🇱ᴴᴰ
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png?v=1",Türkmenistan Sport 🇹🇷 sᴅ
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="tracehd.tv.vodafone.pt" group-title="SPORTS PREMIUM" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png",Trace Sports 🇺🇸 
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="SPORTS PREMIUM", V Sport Ultra 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
+#EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="SPORTS PREMIUM", Bein Sports 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&extension=ts
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/81448/s81448_h3_aa.png",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",Pluto TV Deportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",Pluto TV MLB 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="http://11plus.live/img/18.png", Xplore Unique 
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",SPORT CHANNELS
@@ -9118,8 +9086,6 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",LENZ SPORT 🇸🇦
 https://lenz.ayassport.ir/wh7f454c46tw3607774381_-1389173487/PLTV/88888888/224/3221226979/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Sport 6 (HR) 🇭🇷
-http://80.252.37.194:5000/udp/233.233.233.8:12000
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",HYP 🇪🇸
 http://491832524308571905.ofsd5513.xyz:80/play/tello3/23122023/571905.ts
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ELEVEN SPORTS 3 🇵🇹
@@ -9204,12 +9170,6 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",MMN Sport 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ARENA SPORT 1 🇭🇷
-http://80.252.37.194:5000/udp/233.233.233.3:12000
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Sport 4 (HR) 🇭🇷
-http://80.252.37.194:5000/udp/233.233.233.6:12000
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ARENA SPORT 5 🇷🇸
-http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",La liga Plusᴴᴰ 🇬🇧
