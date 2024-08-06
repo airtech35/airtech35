@@ -36,6 +36,8 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3 🏆
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",TVP Sport  
+http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3YRbUl5",Eurosport 1 🏆
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4db6zsO",Eurosport 2 🏆
