@@ -36,8 +36,6 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3 🏆
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",TVP Sport  
-http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3YRbUl5",Eurosport 1 🏆
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4db6zsO",Eurosport 2 🏆
@@ -65,6 +63,8 @@ http://85.237.89.6:9590/ku/Live-Zaxo-Sport/mono.m3u8
 http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Varzish Sport HD
 https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",TVP Sport  
+http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Olampic Sport HD
