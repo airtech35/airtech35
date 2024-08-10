@@ -299,10 +299,6 @@ http://144.178.85.10:8080/ESPN4/index.m3u8
 http://194.143.148.28/MatchHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg" group-title="SPORT VIP 🏆", MATCH ARENA
 http://194.143.148.28/MatchArena/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Spotv
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Spotv 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-id="https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg" tvg-logo="" group-title="SPORT VIP 🏆", EUROSPORTS 1 HD
 http://145.239.5.177:8080/529/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
