@@ -231,38 +231,16 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jp" group-title="RMC SPORT", Canal+ Sports 1
 http://145.239.5.177:8080/537/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jp" group-title="RMC SPORT", Canal+ Sports 1
-http://185.59.221.131:8081/live/canalsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/M18yOTc5OTMwNjJf/canalPlusSportTwo.png" group-title="RMC SPORT", CANAL+ SPORT 2
 http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canal%2B_Sport_3_PL.svg/640px-Canal%2B_Sport_3_PL.svg.png" group-title="RMC SPORT", CANAL+ SPORT 3
-http://185.59.221.131:8081/live/canalsport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/M18zMDM4MjcwMjJf/canalplusquatre.png" group-title="RMC SPORT", CANAL+ SPORT 4
-http://185.59.221.131:8081/live/canalsport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png" group-title="RMC SPORT", CANAL+ SPORT 5
-http://185.59.221.131:8081/live/canalsport5/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", CANAL+ FOOTBALL
 http://145.239.5.177:8080/556/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", CANAL+ SPORT 360
 http://145.239.5.177:8080/561/index.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Blitz
-http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Action
-http://185.59.221.131:8081/live/supersportaction/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Super Sport Blitz
-http://185.59.221.131:8081/live/supersportblitz/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", NBA TV
-http://185.59.221.131:8081/live/nbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", ESPN Sports 2
-http://185.59.221.131:8081/live/espn2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Bein EXTRAS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", Eurosports 1
 http://145.239.5.177:8080/529/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RMC SPORT", WWE
-http://185.59.221.131:8081/live/wwe/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 2
@@ -309,10 +287,6 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg" group-title="SPORT VIP 🏆", ESPN 1
-http://185.59.221.131:8081/live/espn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg" group-title="SPORT VIP 🏆", ESPN 2
-http://185.59.221.131:8081/live/espn2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg" group-title="SPORT VIP 🏆", ESPN 1
 http://144.178.85.10:8080/ESPN1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg" group-title="SPORT VIP 🏆", ESPN 2
@@ -365,12 +339,6 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTgzNTc3NTRf/granndStand.jpg" group-title="SPORT VIP 🏆", SUPER SPORTS
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NDZfNTMxNjA2NzVf/supersportmaximo1.jpeg" group-title="SPORT VIP 🏆", SUPER SPORT MAXIMO 1
-http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NDZfNTMxNTc0NTZf/supersportactions.png" group-title="SPORT VIP 🏆", SUPER SPORT ACTION
-http://185.59.221.131:8081/live/supersportaction/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NDZfNTMxNTg5ODNf/supersportblitz.jpeg" group-title="SPORT VIP 🏆", SUPER SPORT BLITZ
-http://185.59.221.131:8081/live/supersportblitz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0Mzk0ODRf/novasports1.png" group-title="SPORT VIP 🏆", Nova Sports 1
 http://5.9.148.210:8888/re-nvsp1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI0Mzk0ODlf/novasports2.png" group-title="SPORT VIP 🏆", Nova Sports 2
