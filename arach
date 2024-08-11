@@ -3267,12 +3267,12 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 http://154.54.220.67:34780/play/a01q
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC ACTION
 http://154.54.220.67:34780/play/a01o
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2 HD
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2 HD
 http://154.54.220.67:34780/play/a01p
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC ACTION
 http://154.58.202.18:8080/mbc2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2
 http://154.58.202.185:8000/play/a049
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC Action
 http://154.58.202.185:8000/play/a048
@@ -3280,7 +3280,7 @@ http://154.58.202.185:8000/play/a048
 http://154.58.202.185:8000/play/a04a
 
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2
 http://154.197.91.168:7003/play/a0fh
 
 
