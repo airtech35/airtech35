@@ -94,6 +94,27 @@ https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj", Claro sports 
 https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD1
+http://sawa1.sawaghost1.xyz/live121/158529.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD2
+http://vod3.cloudlivesawa.shop/streams_cach/158530.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD3
+http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD4
+http://vod3.cloudlivesawa.shop/streams_cach/158532.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD5
+http://worldcup1.sawatvplus.store/streams_cach/158533.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD6
+http://worldcup1.sawatvplus.store/streams_cach/158534.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD7
+http://worldcup1.sawatvplus.store/streams_cach/158549.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD8
+http://worldcup1.sawatvplus.store/streams_cach/158550.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD9
+http://worldcup1.sawatvplus.store/streams_cach/158551.m3u8?token=
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 http://37.237.195.245/cache/Bein-Sp1-LB/m3u8/hls_m3u8_Bein-Sport-1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
