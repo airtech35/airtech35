@@ -20,6 +20,10 @@ http://185.189.225.157/EuroSport2/index.m3u8
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 4 🏆
 https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
+http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6 🏆
+https://dal-2.watch.seasoncast.com/live/event_WTuls2LZaXL1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3YRbUl5",Eurosport 1 🏆
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4db6zsO",Eurosport 2 🏆
@@ -71,6 +75,27 @@ http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj", Claro sports 
 https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD1
+http://sawa1.sawaghost1.xyz/live121/158529.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD2
+http://vod3.cloudlivesawa.shop/streams_cach/158530.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD3
+http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD4
+http://vod3.cloudlivesawa.shop/streams_cach/158532.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD5
+http://worldcup1.sawatvplus.store/streams_cach/158533.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD6
+http://worldcup1.sawatvplus.store/streams_cach/158534.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD7
+http://worldcup1.sawatvplus.store/streams_cach/158549.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD8
+http://worldcup1.sawatvplus.store/streams_cach/158550.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD9
+http://worldcup1.sawatvplus.store/streams_cach/158551.m3u8?token=
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 http://37.237.195.245/cache/Bein-Sp1-LB/m3u8/hls_m3u8_Bein-Sport-1.m3u8
@@ -251,7 +276,7 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vakfc0h.png" group-title="SSC SPORT",SSC NEWS HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKTlyT3.png" group-title="SSC SPORT",SSC 1 HD
-
+https://cdn.footballii.ir/hls2/ssc1s.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3ggxmk.png" group-title="SSC SPORT",SSC 2 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WES4hOT.png" group-title="SSC SPORT",SSC 3 HD
@@ -275,14 +300,12 @@ http://144.178.85.10:8080/ESPN1/index.m3u8
 http://144.178.85.10:8080/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzNfNjg5Mzg2MTFf/ESPN3.jpeg" group-title="SPORT VIP 🏆", ESPN 3
 http://144.178.85.10:8080/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4fBJyRv" group-title="SPORT VIP 🏆", ESPN 4
+http://144.178.85.10:8080/ESPN4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg" group-title="SPORT VIP 🏆", MATCH HD
 http://194.143.148.28/MatchHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg" group-title="SPORT VIP 🏆", MATCH ARENA
 http://194.143.148.28/MatchArena/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Spotv
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Spotv 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-id="https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg" tvg-logo="" group-title="SPORT VIP 🏆", EUROSPORTS 1 HD
 http://145.239.5.177:8080/529/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
@@ -1124,6 +1147,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png" group-title="SPORT رياضية",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3WJR2t0" group-title="SPORT رياضية",zamalik
+https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",Nile sport
 http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
@@ -3249,12 +3274,12 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 http://154.54.220.67:34780/play/a01q
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC ACTION
 http://154.54.220.67:34780/play/a01o
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2 HD
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2 HD
 http://154.54.220.67:34780/play/a01p
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC ACTION
 http://154.58.202.18:8080/mbc2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2
 http://154.58.202.185:8000/play/a049
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC Action
 http://154.58.202.185:8000/play/a048
@@ -3262,48 +3287,28 @@ http://154.58.202.185:8000/play/a048
 http://154.58.202.185:8000/play/a04a
 
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2
 http://154.197.91.168:7003/play/a0fh
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",ROTANA HD
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png group-title="ROTANA روتانا",ROTANA CINEMA KSA
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png group-title="ROTANA روتانا",ROTANA CINEMA KSA++
-https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="ROTANA روتانا",LBC
-https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
 https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
 https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA روتانا",Rotana Comedy
-https://daiconnect.com/live/hls/rotana/comedy/.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ROTANA روتانا",Rotana Drama
-https://daiconnect.com/live/hls/rotana/drama/.m3u8
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ROTANA روتانا",Rotana Khalijia
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="" group-title="ROTANA روتانا",ROTANA_AFLAMPLUS
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://bit.ly/4dCKcfY" group-title="ROTANA روتانا",Rotana Clip
+https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://bit.ly/3SG2dSv" group-title="ROTANA روتانا",ROTANA_AFLAMPLUS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="ROTANA روتانا",Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="ROTANA روتانا",Rotana Music
-https://daiconnect.com/live/hls/rotana/music/.m3u8
-#EXTINF:-1 tvg-id="SayedatAlshasha.sa" tvg-logo="https://i.imgur.com/TmgL3Yt.png" group-title="ROTANA روتانا",Sayedat Alshasha
-https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
-#EXTINF:-1 tvg-id="DuhkWaBas.sa" tvg-logo="https://i.imgur.com/kd80BpV.png" group-title="ROTANA روتانا",Duhk Wa Bas
-https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
-#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/romance.png" group-title="ROTANA روتانا",Rotana Romance
-https://daiconnect.com/live/hls/rotana/romance/.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",ROTANA CINEMA KSA+
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HysmwD" group-title="ROTANA روتانا",Rotana Mplus HD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072632-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=480862f0-a3b1-4a41-ace7-43c6c645f118
-#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="ROTANA روتانا",Rotana+
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-
 
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",AL Resala
 http://78.40.141.246:8005/play/a00a
@@ -3379,11 +3384,15 @@ http://149.62.177.103:8000/play/a02q
 http://149.62.177.103:8000/play/a02o
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="ROTANA روتانا",ROTANA TARAB HD
-http://188.247.86.67:8008/3
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="ROTANA روتانا",MUS:AR-RADIO ROTANA
-http://188.247.86.67:8002/3
-
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="ROTANA روتانا",LBC
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA روتانا",Rotana Comedy
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ROTANA روتانا",Rotana Drama
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="ROTANA روتانا",Rotana Kids
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="ROTANA روتانا",Rotana Music
+#EXTINF:-1 tvg-id="SayedatAlshasha.sa" tvg-logo="https://i.imgur.com/TmgL3Yt.png" group-title="ROTANA روتانا",Sayedat Alshasha
+#EXTINF:-1 tvg-id="DuhkWaBas.sa" tvg-logo="https://i.imgur.com/kd80BpV.png" group-title="ROTANA روتانا",Duhk Wa Bas
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/romance.png" group-title="ROTANA روتانا",Rotana Romance
+#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="ROTANA روتانا",Rotana+
 
 
 #EXTM3U
@@ -4620,9 +4629,9 @@ https://media.arabicradio.net/original/2023/12/12/638379759732354656video.mp4
 https://media.arabicradio.net/original/2023/12/06/638374842782169862video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "محمد رضا بورزكري" لما تيسر له الآية الـ5 حتى الآية الـ10 من سورة "الإنسان" المباركة
 https://media.arabicradio.net/original/2023/12/02/638371485413046029video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  "محمود الشحات أنور" يوجه الدعم للشعب الفلسطيني
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  "محمود الشحات أنور" يوجه الدعم للشعب الفلسطيني
 https://media.arabicradio.net/original/2023/11/26/638366231423573321video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  طفل مصري يفاجئ الجميع بصوته في قراءة القرآن
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  طفل مصري يفاجئ الجميع بصوته في قراءة القرآن
 https://media.arabicradio.net/original/2023/11/19/638360238746844395video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة خالدة للشيخ "محمد صديق المنشاوي" في المسجد الأقصى
 https://media.arabicradio.net/original/2022/01/05/637769860627912642video.mp4
@@ -4636,7 +4645,7 @@ https://media.arabicradio.net/original/2023/10/29/638342122844338212video.mp4
 https://media.arabicradio.net/original/2023/10/28/638341063540058004video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "محمد رضا بورزركري" لما تيسر له الآية الخامسة من سورة "الإسراء" المباركة
 https://media.arabicradio.net/original/2023/10/24/638337648908402401video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة بصوت القارئ "محمد رضا بورزركري"
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة بصوت القارئ "محمد رضا بورزركري"
 https://media.arabicradio.net/original/2023/10/24/638337341768737060video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", سورة التكوير.. تلاوة إعجازية للشيخ عبد الباسط
 https://media.arabicradio.net/original/2023/10/18/638332307044477945video.mp4
@@ -4654,9 +4663,9 @@ https://media.arabicradio.net/original/2023/09/13/638302219248187103video.mp4
 https://media.arabicradio.net/original/2023/09/13/638301868216016920video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", إن الله وملائكته يصلون على النبي.. الشيخ عبدالباسط
 https://media.arabicradio.net/original/2019/08/18/637017139644896182video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة بنفس طويل بصوت القارئ "الشيخ عيدي شعبان"
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة بنفس طويل بصوت القارئ "الشيخ عيدي شعبان"
 https://media.arabicradio.net/original/2023/09/03/638293608224324346video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "الشيخ محمد صديق المنشاوي" لما تيسر له الآية‌ الـ227 من سورة "الشعراء" المباركة 
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "الشيخ محمد صديق المنشاوي" لما تيسر له الآية‌ الـ227 من سورة "الشعراء" المباركة 
 https://media.arabicradio.net/original/2023/08/22/638283273821368190video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "كريم منصوري" لما تيسر له الآية الـ225 لغاية الآية الـ227 من سورة "الشعراء"
 https://media.arabicradio.net/original/2023/08/15/638277287115392087video.mp4
@@ -4674,7 +4683,7 @@ https://media.arabicradio.net/original/2023/07/31/638264185746184749video.mp4
 https://media.arabicradio.net/original/2023/07/29/638262423024781531video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", جمع غفير من المسلمين يقرؤون سورا مباركات من كلام الله المجيد نصرة للقرآن الكريم
 https://media.arabicradio.net/original/2023/07/23/638257123364717304video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "الشيخ محمود الطوخي" لما تيسر له الآيتان الـ21 و22 من سورة "الأحزاب" المباركة.
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "الشيخ محمود الطوخي" لما تيسر له الآيتان الـ21 و22 من سورة "الأحزاب" المباركة.
 https://media.arabicradio.net/original/2023/05/06/638189996891509764video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", طفل بعمر 5 سنوات يحير علماء الأزهر!
 https://media.arabicradio.net/original/2023/05/02/638186364584157145video.mp4
@@ -4682,7 +4691,7 @@ https://media.arabicradio.net/original/2023/05/02/638186364584157145video.mp4
 https://media.arabicradio.net/original/2023/05/02/638186081779197840video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "رضا كلشاهي" لما تيسر له الآية الـ59 حتى الآية الـ63 من سورة "الأنفال" المباركة.
 https://media.arabicradio.net/original/2023/04/29/638183959002717963video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  الشيخ محمود الشحات يفاجئ الجمهور بتلاوة جديدة
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  الشيخ محمود الشحات يفاجئ الجمهور بتلاوة جديدة
 https://media.arabicradio.net/original/2023/04/18/638174340229057637video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة مرتلة لسورة الأحقاف بصوت الشيخ محمد صديق المنشاوي
 https://media.arabicradio.net/original/2021/07/16/637620386694431940video.mp4
@@ -4698,7 +4707,7 @@ https://media.arabicradio.net/original/2023/03/15/638144961373184956video.mp4
 https://media.arabicradio.net/original/2023/03/15/638144957170125445video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", قارئ ومؤذن العتبة الرضوية المقدسة "محمد بهرامي" لما تيسرت له آيات من سورة الكهف
 https://media.arabicradio.net/original/2023/03/05/638136354417209252video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  "هادي موحد أمين" لما تيسر له من سورتي الأحزاب والعلق 
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  "هادي موحد أمين" لما تيسر له من سورتي الأحزاب والعلق 
 https://media.arabicradio.net/original/2023/02/19/638124042659192690video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", سورة العاديات.. تلاوة رائعة بصوت القارئ "قاسم مقدمي"
 https://media.arabicradio.net/original/2023/02/11/638117463977224682video.mp4
@@ -4716,7 +4725,7 @@ https://media.arabicradio.net/original/2021/01/30/637476161567168727video.mp4
 https://media.arabicradio.net/original/2022/11/08/638034979526433894video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", سورة الملك.. تلاوة رائعة بصوت الشيخ محمود الشحات
 https://media.arabicradio.net/original/2019/09/21/637046506963814855video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة شهيد منى الحاج محسن حاج حسني كاركر في مسابقة ماليزيا 
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة شهيد منى الحاج محسن حاج حسني كاركر في مسابقة ماليزيا 
 https://media.arabicradio.net/original/2022/07/05/637926328359743054video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة رائعة للقارئ الباكستاني "عبدالله خالد"
 https://media.arabicradio.net/original/2022/06/07/637901893536390187video.mp4
@@ -4738,7 +4747,7 @@ https://media.arabicradio.net/original/2022/01/10/637774321642929938video.mp4
 https://media.arabicradio.net/original/2021/12/28/637763197729407525video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", سورة الكوثر.. تلاوة رائعة للشيخ الشحات محمد أنور
 https://media.arabicradio.net/original/2021/12/14/637750795187936341video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة بصوت القارئ "محمد عبدالعزيز حصان"
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة بصوت القارئ "محمد عبدالعزيز حصان"
 https://media.arabicradio.net/original/2021/12/09/637746583898517387video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", "الشيخ عبدالباسط" يتحدث عن تأثير تلاوته على المستعمين بفرنسا
 https://media.arabicradio.net/original/2021/11/27/637736417230781545video.mp4
@@ -4754,7 +4763,7 @@ https://media.arabicradio.net/original/2021/10/20/637703550817317098video.mp4
 https://media.arabicradio.net/original/2021/10/10/637694937701677433video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة عطرة بصوت القارئ البنغالي "محمد النجم الثاقب"
 https://media.arabicradio.net/original/2021/10/09/637693950383766917video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة لسورة "الأنعام" بصوت القارئ "محمد جواد حسيني"
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة لسورة "الأنعام" بصوت القارئ "محمد جواد حسيني"
 https://media.arabicradio.net/original/2021/10/03/637688852205181644video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة جميلة بصوت قارئ العتبة الحسينية "الحاج أسامة الكربلائي"
 https://media.arabicradio.net/original/2021/09/29/637685392283607778video.mp4
@@ -4778,7 +4787,7 @@ https://media.arabicradio.net/original/2021/08/05/637637869535960728video.mp4
 https://media.arabicradio.net/original/2021/07/30/637632760490725990video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة آية التبليغ بصوت المرحوم الشيخ عبدالباسط عبدالصمد
 https://media.arabicradio.net/original/2021/07/27/637630081181159951video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  كيف يتأثر شاب مصري بتلاوة القارئ "محمود الشحات أنور"
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  كيف يتأثر شاب مصري بتلاوة القارئ "محمود الشحات أنور"
 https://media.arabicradio.net/original/2021/07/20/637624135703902282video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", آيات الحج بصوت المرحوم "الشيخ عبدالباسط"
 https://media.arabicradio.net/original/2021/07/19/637623275486543469video.mp4
@@ -4786,19 +4795,19 @@ https://media.arabicradio.net/original/2021/07/19/637623275486543469video.mp4
 https://media.arabicradio.net/original/2021/07/12/637617209057830552video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", رجلان كفيفان مصريان يقلدان مشاهير القراء للقرآن الكريم
 https://media.arabicradio.net/original/2021/07/08/637613654825180405video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  نادرة بصوت القارئ "الشحات محمد أنور"
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  نادرة بصوت القارئ "الشحات محمد أنور"
 https://media.arabicradio.net/original/2021/07/06/637611798756445011video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", ترتيل "آية الكرسي" بصوت الشيخ محمد صديق المنشاوي
 https://media.arabicradio.net/original/2019/07/31/637001942726296836video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة رائعة بصوت القارئ المصري "أحمد نعينع" في بنغلاديش
 https://media.arabicradio.net/original/2021/06/15/637593664921649796video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة بصوت "الشيخ أنور الشحات أنور"
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  تلاوة عطرة بصوت "الشيخ أنور الشحات أنور"
 https://media.arabicradio.net/original/2021/06/08/637587792131638122video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", تلاوة رائعة بصوت القارئ الايراني "حامد شاكر نجاد"
 https://media.arabicradio.net/original/2021/05/28/637578022283543975video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", ترتيل رائع بصوت الطفل الروسي "أحمد شاخ مميدوف"
 https://media.arabicradio.net/original/2021/05/20/637571292155757292video.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  قارئ قرآن ماليزي كفيف يبدع في محاكاة الشيخ مصطفى إسماعيل
+#EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم",  قارئ قرآن ماليزي كفيف يبدع في محاكاة الشيخ مصطفى إسماعيل
 https://media.arabicradio.net/original/2021/05/03/637556453092372198video.mp4
 #EXTINF:0 tvg-logo="https://bit.ly/4eX4Ett" group-title="القرآن الكريم", التلاوة الأخيرة للشيخ الشحات محمد أنور على سرير المستشفى
 https://media.arabicradio.net/original/2021/01/12/637460735367918082video.mp4
@@ -11325,5 +11334,4 @@ https://stitcher.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=122ae2bc-4a1d-11ef-82a7-9e83ff18b060
 #EXTINF:-1 tvg-id="640f4f4083f589000828a544" tvg-name="Pluto TV #1" tvg-logo="https://images.pluto.tv/channels/640f4f4083f589000828a544/colorLogoPNG.png" group-title="🇩🇪 Germany PlutoTV" tvg-chno="509", Pluto TV #1
 https://stitcher.pluto.tv/stitch/hls/channel/640f4f4083f589000828a544/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=122ae2bc-4a1d-11ef-82a7-9e83ff18b060
-
 
