@@ -30,30 +30,74 @@ https://bit.ly/3gj9PK5
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a07s
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",max_1 🏆
-http://flusonic-5.platinum-tv.com/max_1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",max_2 🏆
-http://flusonic-5.platinum-tv.com/max_2/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1 🏆
-https://n.kora-sa.live/hls/0/stream.m3u8
+http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
-https://n.kora-sa.live/hls/2/stream.m3u8
+https://m11.buz-sport.site/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3 🏆
-http://live2.sawaghost1.xyz/streams_cach/185560.m3u8
+https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 4 🏆
-http://homeip.biz/IN_B1/index.m3u8
+https://xcdn.bong.ink/hls/bong1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
-https://live2.sawaghost1.xyz/streams_cach/185579.m3u8
+https://xcdn.bong.ink/hls/bong2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6 🏆
-https://kora-shoot.live/hls/0/stream.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/ServusTV.png",SERVUS TV FHD
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
+https://xcdn.bong.ink/hls/bong3.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 7 🏆
+https://xcdn.bong.ink/hls/bong4.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 8 🏆
+https://xcdn.bong.ink/hls/bong5.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9 🏆
+
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",DUHOK SPORT HD
+http://37.237.195.244/fpd3C3NlJ1SipalESGBJX3fyRlTO4X1T__ih__tqlw0W6ejr__hi__hIJWAm6GZG01xo0OQFBIvLJH0ECuIX6HNGij__ih__p7we2ME92mHpMOqS37l9kliHQIu__hi__AMZoQyeDVBIcrXqflv9ljYEvUUEvvxLW9CK8YKrgj5TC0B2Iy5__ih__lC4k7wKubcq1SFiVzMJPM__hi__eh4ODpDX7Vf__ih__03Uh2__ih__WWm31LhufS6f8xcz2uEWu0LRyNWVjiEFcwFI561JBOY7xgNnSEr4CsVh4XAPRxamUZv7Ss5FlvvYyGCHepzQbCecB__ih__0UdLZ9x9I4=---/cache/Duhok-Sport-LB/m3u8/Duhok-Sport_tracks-v1a1_mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Zaxo Sport HD
+http://85.237.89.6:9590/ku/Live-Zaxo-Sport/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBAR SPORT HD
+http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",RAI SPORT HD
+http://85.209.248.3:8080/RaiSportHD/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
 http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",CT Sport (CZ)
-http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Qaz Sport
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD1
+http://sawa1.sawaghost1.xyz/live121/158529.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD2
+http://vod3.cloudlivesawa.shop/streams_cach/158530.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD3
+http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD4
+http://vod3.cloudlivesawa.shop/streams_cach/158532.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD5
+http://worldcup1.sawatvplus.store/streams_cach/158533.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD6
+http://worldcup1.sawatvplus.store/streams_cach/158534.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD7
+http://worldcup1.sawatvplus.store/streams_cach/158549.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD8
+http://worldcup1.sawatvplus.store/streams_cach/158550.m3u8?token=
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3145jt7600.png" group-title="BEIN SPORT بين سبور",beIN Sport SD9
+http://worldcup1.sawatvplus.store/streams_cach/158551.m3u8?token=
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
+http://37.237.195.245/cache/Bein-Sp1-LB/m3u8/hls_m3u8_Bein-Sport-1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
+http://37.237.195.245/cache/Bein-Sp2-LB/m3u8/hls_m3u8_Bein-Sport-2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
+http://37.237.195.245/cache/Bein-Sp3-LB/m3u8/hls_m3u8_Bein-Sport-3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
+http://37.237.195.245/cache/Bein-Sp4-LB/m3u8/hls_m3u8_Bein-Sport-4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4cuvPKz" group-title="BEIN SPORT بين سبور",BEIN SPORT SD
 https://homeip.biz/AR_E1/index.m3u8
@@ -76,20 +120,20 @@ https://humsab.xyz/IN_E8/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d9feee33174cc89b0c9ce28acc58991d.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 SD
 
 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-https://stream.tvpure.net/ch1_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-https://stream.tvpure.net/ch2_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzgvG8G/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-https://stream.tvpure.net/ch3_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/dJ8jk2N/4hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
-https://stream.tvpure.net/ch4_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n8kZRrQ/5hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
+https://zerdaaymane.online/stream/bein3/output_79492_720p.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
+https://zerdaaymane.online/stream/bein3/output_79492_480p.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️
+https://zerdaaymane.online/stream/bein3/output_79492_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️
 
@@ -103,14 +147,6 @@ https://stream.tvpure.net/ch4_720/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 LOW
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 LOW
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
@@ -331,7 +367,7 @@ https://homeip.biz/KSA_SSC6/index.m3u8
 https://homeip.biz/KSA_SSC7/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg" group-title="SPORT VIP 🏆", ESPN 1
@@ -447,8 +483,29 @@ http://homeip.biz/AF_S_G/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport_1_HD
+
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1 🏆
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/46AGwcc",Eurosport 1 🏆
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/46AGwcc",Eurosport 2 🏆
+http://109.233.89.166/Eurosport_2_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/46AGwcc",Eurosport 3 🏆
+http://109.233.89.166/Eurosport_3_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/46AGwcc",Eurosport 4 🏆
+http://109.233.89.166/Eurosport_4_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/3T0JfpZ",Eurosport 5 🏆
+http://109.233.89.166/Eurosport_5_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/3yuUOP0",Eurosport 6 🏆
+http://109.233.89.166/Eurosport_6_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/4dqSGqV",Eurosport 7 🏆
+http://109.233.89.166/Eurosport_7_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/3SBhGTP",Eurosport 8 🏆
+http://109.233.89.166/Eurosport_8_HD/mono.m3u8
+#EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/4cdukzl",Eurosport 9 🏆
+http://109.233.89.166/Eurosport_9_HD/mono.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eleven_Sports_1_HD
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",TVP_Sport HD
