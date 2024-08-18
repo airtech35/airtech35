@@ -211,24 +211,12 @@ http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 1
-http://homeip.biz/FR_RMCSPORT1HD/mpegts?token=c01ad747e2984aa493ca3fda56718a3a
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 2
-http://homeip.biz/FR_RMCSPORT2HD/mpegts?token=c01ad747e2984aa493ca3fda56718a3a
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC Sport 3
-http://homeip.biz/FR_RMCSPORT3HD/mpegts?token=e149046101bda38c8fba76bf209cc492
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="RMC SPORT",Foot+ 24/24
-http://homeip.biz/FR_FOOT24HD/mpegts?token=8998bf655ada2e926662099c9da0be56
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg" group-title="RMC SPORT",RMC 1
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC 1
 http://145.239.5.177:8080/524/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png" group-title="RMC SPORT",RMC 2
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC 2
 http://145.239.5.177:8080/525/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png" group-title="RMC SPORT",RMC 3
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",RMC 3
 http://145.239.5.177:8080/526/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3WddU58" group-title="RMC SPORT",TF1HD
-http://homeip.biz/FR_TF1HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
 http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 group-title="RMC SPORT" tvg-id="" tvg-logo="https://i.imgur.com/U8pfdBx.png",🇫🇷 beIN SPORTS 1
@@ -279,27 +267,6 @@ http://145.239.5.177:8080/529/index.m3u8
 http://136.243.82.42:808/premium641/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RMC SPORT", WWE
 http://185.59.221.131:8081/live/wwe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mljgjnnhejtw.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/id:a75166cbd3df23e55d8e585a9a8c13bb/https://sports.mymarketplace.co.ke/7lxofw1656964140.png" group-title="RMC SPORT",Supersport Football
-http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/cwxvau1592206077.png" group-title="RMC SPORT", Super Sport 1
-http://homeip.biz/AF_SUP1/mpegts?token=508fc96a6af351967698aaadbffb05ed 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="RMC SPORT",Super SportVariety 1
-http://homeip.biz/AF_SV3/mpegts?token=e660fc0e36b4c4d74ca32ab665b63bb7
-#EXTINF:-1 tvg-logo="https://imgcdn.myt.mu/revolution/internet-and-tv/dstv/dstv_logos/H27.png" group-title="RMC SPORT",SuperSport Variety 2
-http://homeip.biz/AF_SV2TIM/mpegts?token=968aa493e397981bd9ed5f40146d4e87
-#EXTINF:-1 tvg-logo="https://www.placemyad.co.za/wp-content/uploads/logo-23.png" group-title="RMC SPORT",Suoersport GrandStand
-http://homeip.biz/AF_S_G/tracks-v1a1/mono.m3u8?token=819cf2fc918d35599b6d3e1812e3d2a9
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="RMC SPORT",SuperSport Rugby
-http://homeip.biz/Nano_SP_Rug/tracks-v1a1/mono.m3u8?token=532f5ea8511d42d02ee98c912eab9759
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="RMC SPORT",Canal+ Sport 1
-http://homeip.biz/FR_CANALplus/mpegts?token=75f429a8e152a62d5a9b346d3567ba82
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="RMC SPORT",Canal+ Sport 2
-http://homeip.biz/AF_CANL2/mpegts?token=910f9657787327caf3e57d2db4238afe
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Canal%2B_Sport_3_PL.svg" group-title="RMC SPORT",Canal+ Sport 3
-http://homeip.biz/AF_CANL3/mpegts?token=2537527b441bea813c33b188f333ec19
-#EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="RMC SPORT",Infosport
-http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
@@ -453,32 +420,12 @@ http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 5
 http://212.102.60.231/TSN_5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/dKYbaNp.png" group-title="SPORT VIP 🏆", Sony Ten 1
-http://homeip.biz/SPTEN1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" group-title="SPORT VIP 🏆", Sony Ten 2
-http://homeip.biz/IN_SNT2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" group-title="SPORT VIP 🏆", Sony Ten 3
-http://homeip.biz/tenso3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKnx3cG.png" group-title="SPORT VIP 🏆", Sony Ten 5
-http://homeip.biz/livso/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="SPORT VIP 🏆", A Sports
-http://homeip.biz/PK_PS/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dFVFrgI.png" group-title="SPORT VIP 🏆", Super Sports Cricket 
-http://homeip.biz/AF_S_CR/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKaHo67.jpg" group-title="SPORT VIP 🏆", Willow Cricket 
 http://humsab.xyz/Wi_Cr/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK1dr3Q.jpg" group-title="SPORT VIP 🏆", Sky Sports Football 
 http://jafupro.com:80/live/1234567890/1234567890/12999.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKaJCOJ.webp" group-title="SPORT VIP 🏆", SuperSport Football 
-http://homeip.biz/AF_S_FOOTIMER/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKaR0IR.jpg" group-title="SPORT VIP 🏆", Sky Sports Mix
-http://homeip.biz/IN_mixsp/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dFQKhRj.jpg" group-title="SPORT VIP 🏆", Sky Sports Action 
-http://homeip.biz/IN_AC/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK15jSI.jpg" group-title="SPORT VIP 🏆", Sky Sports Main Event 
 https://jafupro.com:443/live/George12/George12/13001.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dFQfuLB.jpg" group-title="SPORT VIP 🏆", SuperSport Grandstand 
-http://homeip.biz/AF_S_G/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK1XSpf.webp" group-title="SPORT VIP 🏆", Bein Sports Xtra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
@@ -10365,25 +10312,15 @@ https://cdn-notpub-london.lolokoko.tv/canalplussport3.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Canal + Sports 4 🇫🇷
 https://cdn-notpub-london.lolokoko.tv/canalplussport4.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 1 SD 🇶🇦
-http://homeip.biz/KSA_SSC1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 1 SD 🇶🇦
 https://cdn.footballii.ir/hls2/ssc1s.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 1 SD 🇶🇦
 https://www.sportina.app/SSC-1-HQ/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 2 SD 🇶🇦
-http://homeip.biz/KSA_SSC2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 2 SD 🇶🇦
 https://www.sportina.app/SSC-2-HQ/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 3 SD 🇶🇦
-http://homeip.biz/KSA_SSC3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 3 SD 🇶🇦
 https://www.sportina.app/SSC-3-HQ/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 4 SD 🇶🇦
-http://homeip.biz/KSA_SSC4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 4 SD 🇶🇦
 https://www.sportina.app/SSC-4-HQ/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 5 SD 🇶🇦
-http://homeip.biz/KSA_SSC5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC SPORTS 5 SD 🇶🇦
 https://www.sportina.app/SSC-5-HQ/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SSC EXTRA 1 HD 🇶🇦
