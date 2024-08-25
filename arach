@@ -35,12 +35,6 @@ http://154.58.202.131:8000/play/a07s
 http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
 https://m11.buz-sport.site/hls/0/stream.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆+
-https://m12.buz-sport.site/hls/0/stream.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆++
-https://m2.buz-sport.site/hls/0/stream.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆+++
-https://m12.buz-sport.site/hls/1/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3 🏆
 https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 4 🏆
