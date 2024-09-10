@@ -49,6 +49,46 @@ https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 4k
+https://mejarserver-cdn.ak-akamaized.com/Tod-1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
+https://mejarserver-cdn.ak-akamaized.com/Tod-1-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 SD
+https://mejarserver-cdn.ak-akamaized.com/Tod-1-SD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 4k
+https://mejarserver-cdn.ak-akamaized.com/Tod-2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 HD
+https://mejarserver-cdn.ak-akamaized.com/Tod-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 SD
+https://mejarserver-cdn.ak-akamaized.com/Tod-2-SD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 4k
+https://mejarserver-cdn.ak-akamaized.com/Tod-3/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
+https://mejarserver-cdn.ak-akamaized.com/Tod-3-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
+https://mejarserver-cdn.ak-akamaized.com/Tod-3-SD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 4k
+https://mejarserver-cdn.ak-akamaized.com/Tod-4/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
+https://mejarserver-cdn.ak-akamaized.com/Tod-4-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
+https://mejarserver-cdn.ak-akamaized.com/Tod-4-SD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 4k
+https://mejarserver-cdn.ak-akamaized.com/Tod-5/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
+https://mejarserver-cdn.ak-akamaized.com/Tod-5-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
+https://mejarserver-cdn.ak-akamaized.com/Tod-5-SD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 4k
+https://mejarserver-cdn.ak-akamaized.com/Tod-6/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 HD
+https://mejarserver-cdn.ak-akamaized.com/Tod-6-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 SD
+https://mejarserver-cdn.ak-akamaized.com/Tod-6-SD/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
