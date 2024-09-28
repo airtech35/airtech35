@@ -3204,10 +3204,9 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",🇱🇧كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="LEBANON لبنان" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV Lebanon 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+https://hms.pfs.gdn/stream/mtv.m3u8?token=KP2kVYtrCBFCIRBxLwnAwA:ZeboOti6TPmJwVKc-X1YW7kWoXFrB5Jgvc3VryXjetTxf_P7rfWv2AwQP62Jd0-UqonGT-Om_Ed_uYcNlSaHYFsmpnzcHELkKR7A-z1AUNqOgJ6DRtpadl1EjPS_Oer6KsCHZl2ByqbowcZSqP7Y2AI6kIKpBXgH-iLP6oTT4cVIrG9eYl5CR10f15A-leuRU9umnSIILpC60QTZP4Fo0oqI1JLPuneMpAOKxne1ZQW_4vAsC1iY7UBdFdSDVUZ451wtViB0Rm4E6aCYQEeAWA
 #EXTINF:-1 tvg-id="OneTV.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="LEBANON لبنان" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",One TV Lebanon 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="LEBANON لبنان",Al Ittihad  
 http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
