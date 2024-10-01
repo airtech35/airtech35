@@ -2972,25 +2972,25 @@ https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="MBC أم بي سي",|MBC| Panorama LOW
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC أم بي سي",MY-MBC 1 
-https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",MY-MBC 3 
 https://mbc3-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC أم بي سي",MY-MBC 4 
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC أم بي سي",MY-MBC 5 
-https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png" group-title="MBC أم بي سي",MY-MBC IRAQ 
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC أم بي سي",MY-MBC Bolleywod 
-https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zkk7A8" group-title="MBC أم بي سي",|MBC| Drama
-https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC أم بي سي",MY-MBC DramaPlus 
-https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC أم بي سي",MY-MBC Masr 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",MY-MBC MASR 2 
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="MBC أم بي سي",MBC Persia 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="MBC أم بي سي",MY-MBC Wanasah 
