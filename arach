@@ -1246,9 +1246,6 @@ https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/li
 https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch133.m3u8
 
 
-#EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="4545", 
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP", باقة شاهد الأصلية 
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",النسخة المدفوعة AirMax TV
@@ -2696,7 +2693,7 @@ https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vONTtdP.png" group-title="Children أطفال ",MBC3 USA HD 
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="Children أطفال ",Spacetoon
-https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+https://spacetoon-prod-dub-enc.edgenextcdn.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="Children أطفال ",BEIN :Cartoon_Network AR
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://bit.ly/3PFq9Up" group-title="Children أطفال ",Majid 
