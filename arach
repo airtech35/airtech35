@@ -118,6 +118,25 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
+
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc  1
+https://live1.beinconnect.us/YallaGoalApp/SSC1.m3u8
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc  2
+https://live1.beinconnect.us/YallaGoalApp/SSC2.m3u8
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc  3
+https://live1.beinconnect.us/YallaGoalApp/SSC3.m3u8
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc  4
+https://live1.beinconnect.us/YallaGoalApp/SSC4.m3u8
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc  5
+https://live1.beinconnect.us/YallaGoalApp/SSC5.m3u8
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc 1 Extra
+https://live1.beinconnect.us/YallaGoalApp/SSC1Extra.m3u8
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc 2 Extra
+https://live1.beinconnect.us/YallaGoalApp/SSC2Extra.m3u8
+#EXTINF:-1 tvg-id="SSC Mobile " tvg-logo="https://en.wikipedia.org/wiki/Saudi_Sports_Company#/media/File:Saudi_Sports_Company_Logo.svg" group-title="SSC SPORT",Ssc 3 Extra
+https://live1.beinconnect.us/YallaGoalApp/SSC3Extra.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vakfc0h.png" group-title="SSC SPORT",SSC NEWS HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKTlyT3.png" group-title="SSC SPORT",SSC 1 HD
