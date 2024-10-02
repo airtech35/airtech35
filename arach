@@ -1005,274 +1005,6 @@ https://ytlive.zazerconer.workers.dev/@alghadtv.m3u8
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="4545", imnsport
 https://ytlive.zazerconer.workers.dev/@imnsport.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-id="disney-xd-blt" group-title="بث مباشر يوتيوب",Disney XD
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",SpongeBoy Lofi
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",BeeToonss
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",اوكو ليلي القناة الرسمية OkoLele-AR
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Barbie Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Barbie Deutsch
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Barbie en Español
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Barbie Italiano
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Barbie
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",PyjamasquesOfficielle
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch10.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Simon Super Lapin [Français]
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch11.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Simone Super Coniglio IT
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch12.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Simon Super Hase DE
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch13.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Simón Super Conejo ES
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch14.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Simón Super Conejo ES Latin
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch15.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Simon Super Rabbit EN
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch16.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Tom the Tow Truck - Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch17.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Polly Pocket
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch18.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Yul Channel
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch19.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Nastya Artem Mia ESP
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch20.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Cats Family en Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch21.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Super Toons TV - Dessins Animés en Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch22.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Cats Family en Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Le Monde de Little Angel Français - Comptines Bébé
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch24.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Peppa Pig Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch25.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Apprendre en s'amusant - LooLoo Kids Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch26.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Power Rangers pour les Enfants
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch27.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Talking Tom & Friends France
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch28.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",La Petite Sorcière Tanny en Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch29.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",BabyFirst Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch30.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Super Truck - Français
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch31.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",طيور الجنة  - Toyor Aljanah
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",SpongeBobOfficial
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch33.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",LoudHouse
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch34.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="بث مباشر يوتيوب",cartoonnetwork
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Shaunthe Sheep Official
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch36.m3u8
-#EXTINF:0 tvg-id="DisneyJr.blt" group-title="بث مباشر يوتيوب",Disney Junior
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch37.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="بث مباشر يوتيوب",Cartoon Network Asia
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch38.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Blaze and the Monster Machines
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch39.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",LYCAN - Arabic
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch40.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Nickelodeon Bahasa
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch41.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",As Aventuras de Sunny Bunnies
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch42.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Videogyan Kids Shows - Fun Learning Cartoons
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch43.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Beep Beep - Nursery Rhymes
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch44.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Maya and Mary
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch45.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Just Laugh
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch46.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Sesame Street
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch47.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Super Simple Songs - Kids Songs
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch48.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",First Toons
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch49.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Sunny Bunnies
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch50.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Clever Cars
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch51.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Tooty Tv
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch52.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Simsem Tv
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch53.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Tam Tam TV
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch54.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Nick Jr. Arabia
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch55.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",iyanet Çocuk
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch56.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",alwaan - ألوان
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch57.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Fruity Tv
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch58.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Osratouna TV
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch59.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",kedoo Arabic
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch60.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Sami Arabic
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch61.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Tatty و Misifu
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch62.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Bebefinn - Nursery Rhymes & Kids Songs
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch63.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Bebefinn en español - Canciones Infantiles
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch64.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Pinkfong Baby Shark - Kids' Songs & Stories
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch65.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",DoDoBee - Kids Songs
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch66.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Leoncito Alado
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch67.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",DoDoBee - Baby Kids
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch68.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",In Christ Kids - Canciones Infantiles
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch69.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Baby Einstein
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch70.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",Zorro y Pollo
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch71.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",The Smurfs
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch72.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch73
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch73.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch74
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch74.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch75
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch75.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch76
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch76.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch77
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch77.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch78
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch78.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch79
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch79.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch80
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch80.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch81
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch81.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch82
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch82.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch83
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch83.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch84
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch84.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch85
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch85.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch86
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch86.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch87
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch87.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch88
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch88.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch89
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch89.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch90
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch90.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch91
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch91.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch92
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch92.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch93
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch93.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch94
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch94.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch95
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch95.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch96
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch96.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch97
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch97.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch98
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch98.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch99
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch99.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch100
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch100.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch101
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch101.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch102
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch103
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch103.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch104
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch104.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch105
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch105.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch106
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch106.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch107
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch107.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch108
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch108.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch109
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch109.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch110
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch110.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch111
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch111.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch112
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch112.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch113
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch113.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch114
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch114.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch115
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch115.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch116
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch116.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch117
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch117.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch118
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch118.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch119
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch119.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch120
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch120.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch121
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch121.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch122
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch122.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch123
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch123.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch124
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch124.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch125
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch125.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch126
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch126.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch127
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch127.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch128
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch128.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch129
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch129.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch130
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch130.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch131
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch131.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch132
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch132.m3u8
-#EXTINF:0 tvg-id="ext" group-title="بث مباشر يوتيوب",ch133
-https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch133.m3u8
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP", باقة شاهد الأصلية 
 https://bit.ly/3xYLaRh
@@ -1409,6 +1141,22 @@ https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/documentaries/playl
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Weyyak VIP VPN AR"",  Weyyak VIP
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Weyyak VIP VPN AR",  النسخة المدفوعة AirMax TV
+https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak VIP VPN AR",Zee-Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" group-title="Weyyak VIP VPN AR",Zee-Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="Weyyak VIP VPN AR",Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="Weyyak VIP VPN AR",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Weyyak VIP VPN AR",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Weyyak VIP VPN AR",Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedo-Big-Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" group-title="Weyyak VIP VPN AR",Wedo-Big-Stories
 https://weyyak-live.akamaized.net/wedo_big_stories/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" group-title="Weyyak VIP VPN AR",Duck-TV
@@ -1437,18 +1185,7 @@ https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u
 https://weyyak-live.akamaized.net/weyyak_tg_junior/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ski-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" group-title="Weyyak VIP VPN AR",Ski-TV
 https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak VIP VPN AR",Zee-Alwan
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" group-title="Weyyak VIP VPN AR",Zee-Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="Weyyak VIP VPN AR",Weyyak Nawaem
-https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="Weyyak VIP VPN AR",Weyyak Mix
-https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Weyyak VIP VPN AR",Weyyak Action
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Weyyak VIP VPN AR",Weyyak Drama
-https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid Net VIP", باقة شاهد نت 
