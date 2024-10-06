@@ -1797,7 +1797,7 @@ https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH SD📰
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business 📰
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
+https://alarabiya-business-enc.edgenextcdn.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business📰
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel HD📰
