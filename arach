@@ -3398,6 +3398,8 @@ https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="🇩🇿الجزائرALGERIEN",Canal Algérie 
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="🇩🇿الجزائرALGERIEN",ENTV v3
+https://bozztv.com/gin-36bay3/ga-algeriaoula1/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3K2HkMt" group-title="🇩🇿الجزائرALGERIEN",AL MAGHRIBIA2
 https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="🇩🇿الجزائرALGERIEN",Canal Algerie🇩🇿
