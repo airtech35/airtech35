@@ -51,6 +51,8 @@ https://simo.gokora.online/hls/1/stream.m3u8
 https://1.gokora.online/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 10 🏆
 https://1.gokora.online/hls/1/stream.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 11 🏆
+https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBAR SPORT HD
 http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
