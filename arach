@@ -944,6 +944,8 @@ https://ytlive.zazerconer.workers.dev/@imnsport.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Arabs-Got-Talent
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Top CHEF
 https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xw0DYl" group-title="Shahid TV VIP",Movies
