@@ -32,25 +32,25 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 http://154.58.202.131:8000/play/a07s
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1 🏆
-https://s1.gokora.online/hls/0/stream.m3u8
+https://d2.buzkora.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
-https://s1.gokora.online/hls/1/stream.m3u8
+https://d2.buzkora.live/hls/1/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3 🏆
-https://s6.gokora.online/hls/0/stream.m3u8
+https://a.buzkora.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 4 🏆
-https://s6.gokora.online/hls/1/stream.m3u8
+https://a.buzkora.live/hls/1/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5 🏆
-https://play1nm.hnyongshun.cn/live/ballbar_37920.m3u8
+https://c.buzkora.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6 🏆
-https://play1nm.hnyongshun.cn/live/ballbar_18980.m3u8
+https://c.buzkora.live/hls/1/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 7 🏆
-https://simo.gokora.online/hls/0/stream.m3u8
+https://d3.buzkora.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 8 🏆
-https://simo.gokora.online/hls/1/stream.m3u8
+https://d3.buzkora.live/hls/1/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9 🏆
-https://1.gokora.online/hls/0/stream.m3u8
+https://d1.buzkora.live/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 10 🏆
-https://1.gokora.online/hls/1/stream.m3u8
+https://d1.buzkora.live/hls/1/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 11 🏆
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
 
