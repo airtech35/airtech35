@@ -68,6 +68,18 @@ http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Dazn 1
+https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Dazn 2
+https://zjdmi53knyt.a.trbcdn.net/dazn2/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Dazn 3
+https://zjdmi53knyt.a.trbcdn.net/dazn3/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Dazn 4
+https://zjdmi53knyt.a.trbcdn.net/dazn4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Dazn 5
+https://zjdmi53knyt.a.trbcdn.net/dazn5/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
