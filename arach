@@ -461,6 +461,20 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
 #EXTINF:0 group-title="SPORT VIP" tvg-id="2913" tvg-logo="http://epg.it999.ru/img2/2914.png" timeshift="3" ,SPORT TV 6 PT
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
 
+
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,digisport 1
+http://45.90.106.98/digisport1/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,digisport 2
+http://45.90.106.98/digisport2/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,digisport 3
+http://45.90.106.98/digisport3/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,eurosport
+http://45.90.106.98/eurosport/index.m3u8
+#EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,eurosport 2
+http://45.90.106.98/eurosport/index.m3u8
+
+Play N_S Player ✅
+
 #EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="http://epg.it999.ru/img2/2929.png" timeshift="3" ,RMC Sport 1 HD FR
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2545/index.m3u8
 #EXTINF:0 group-title="SPORT VIP" tvg-id="2930" tvg-logo="http://epg.it999.ru/img2/2930.png" timeshift="3" ,RMC Sport 2 HD FR
