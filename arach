@@ -432,22 +432,6 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 
-
-
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2909" tvg-logo="http://epg.it999.ru/img2/2909.png" timeshift="3" ,SPORT TV 1 HD PT
-https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2910" tvg-logo="http://epg.it999.ru/img2/2910.png" timeshift="3" ,SPORT TV 2 HD PT
-https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2911" tvg-logo="http://epg.it999.ru/img2/2911.png" timeshift="3" ,SPORT TV 3 HD PT
-https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2912" tvg-logo="http://epg.it999.ru/img2/2912.png" timeshift="3" ,SPORT TV 4 PT
-https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2913" tvg-logo="http://epg.it999.ru/img2/2913.png" timeshift="3" ,SPORT TV 5 PT
-https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2913" tvg-logo="http://epg.it999.ru/img2/2914.png" timeshift="3" ,SPORT TV 6 PT
-https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
-
-
 #EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,digisport 1
 http://45.90.106.98/digisport1/index.m3u8
 #EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,digisport 2
@@ -459,18 +443,7 @@ http://45.90.106.98/eurosport/index.m3u8
 #EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="" timeshift="3" ,eurosport 2
 http://45.90.106.98/eurosport/index.m3u8
 
-Play N_S Player ✅
-
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2929" tvg-logo="http://epg.it999.ru/img2/2929.png" timeshift="3" ,RMC Sport 1 HD FR
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2545/index.m3u8
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2930" tvg-logo="http://epg.it999.ru/img2/2930.png" timeshift="3" ,RMC Sport 2 HD FR
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2546/index.m3u8
-#EXTINF:0 group-title="SPORT VIP" tvg-id="2931" tvg-logo="http://epg.it999.ru/img2/2931.png" timeshift="3" ,RMC Sport 3 HD FR
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2547/index.m3u8
-
-
  🔰   Word Sports 🇧🇷🇪🇸🇫🇷🇺🇸🇦🇷🇲🇽  🔰 
-
 
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="" group-title="Sports ⚽️🏀🏐🏈" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",Sport en Franceᴴᴰ 🇫🇷 
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
