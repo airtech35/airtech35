@@ -2884,7 +2884,7 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80JQ9zg/teleliban.webp" referer="https://www.teleliban.com.lb/live" group-title="LEBANON لبنان",TL LIBAN
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="LEBANON لبنان",Al Ittihad  
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+https://s1.ettehadlive.com/live/30/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="LEBANON لبنان",Al Manar  
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="LEBANON لبنان",Al Mayadeen 
