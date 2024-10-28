@@ -1002,6 +1002,8 @@ https://bit.ly/3DF4NAn
 https://playlist.fasttvcdn.com:443/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV", Roya Comedy
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV", Roya Sport
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV", Roya Kitchen
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV", Roya Music
@@ -1933,15 +1935,11 @@ https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 http://95.216.180.111:1935/live/111/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
 https://s1.ettehadlive.com/live/111/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 3)🏞️
 http://45.65.112.49:8000/play/a0lr
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 4)🏞️
 http://154.58.202.131:8000/play/a00l
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 5)🏞️
-http://154.54.220.67:34780/play/a024
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 6)🏞️
 http://154.58.202.185:8000/play/a095
 
 
