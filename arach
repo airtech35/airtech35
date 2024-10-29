@@ -30,6 +30,20 @@ https://bit.ly/3gj9PK5
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a07s
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 -1
+https://journeyofdiscovery.click/live/1/chunks.m3u8?bongls.com
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 -2
+https://journeyofdiscovery.click/live/2/chunks.m3u8?bongls.com
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 -3
+https://journeyofdiscovery.click/live/3/chunks.m3u8?bongls.com
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 -4
+https://journeyofdiscovery.click/live/4/chunks.m3u8?bongls.com
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 -5
+https://journeyofdiscovery.click/live/5/chunks.m3u8?bongls.com
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 -6
+https://natureandscience.click/live/401671685/chunks.m3u8?bongls.com
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1 🏆
 https://c3.yallachoots.online/hls/0/stream.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2 🏆
