@@ -9340,10 +9340,6 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="🇹🇷 Turkey",TRT4K ⁴ᴷ⁺™
 https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷 Turkey",TRT 1
-https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
-#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="🇹🇷 Turkey",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷 Turkey",TRT 1
 http://hw1.jemtv.com/app/trt1/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷 Turkey",TRT 2
 http://hw1.jemtv.com/app/trt2/playlist.m3u8
@@ -9368,7 +9364,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="" group-title="🇹🇷 Turkey",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",ATV
-https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",ATV (backup)
 https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="🇹🇷 Turkey",A2 ᵁᴴᴰ⁺
@@ -9381,12 +9377,14 @@ https://startv.blutv.com/blutv_startv_live/live.m3u8
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="🇹🇷 Turkey",Kanal D 
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="🇹🇷 Turkey",Kanal D 
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="🇹🇷 Turkey",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="🇹🇷 Turkey",SHOW TV HD
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="🇹🇷 Turkey",FOX TV HD
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="🇹🇷 Turkey",TV 8  
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="🇹🇷 Turkey",TV8 ᴴᴰ⁺™
