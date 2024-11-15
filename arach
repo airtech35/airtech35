@@ -109,6 +109,19 @@ https://live4.beinconnect.us/YallaGoalApp/SSC3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",SSC 4
 https://live4.beinconnect.us/YallaGoalApp/SSC4.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 TR
+https://100.zortstream.shop/601/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 TR
+https://100.zortstream.shop/602/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 TR
+https://100.zortstream.shop/603/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 TR
+https://100.zortstream.shop/604/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 TR
+https://100.zortstream.shop/605/index.m3u8
+
+Play N_S Player ✅
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
@@ -124,6 +137,20 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT TV1
+http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT TV2
+http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 3
+http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 4
+http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 5
+http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 6
+http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
+Play N_S Player ✅
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
