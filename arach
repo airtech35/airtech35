@@ -3218,6 +3218,16 @@ http://154.58.202.131:8000/play/a031
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇪🇬المصرية Egypt",🇪🇬كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
+#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",DMC
+https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Drama
+https://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",Al Nahar One
+https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",ON Drama
+https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AlGhadTV.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="🇪🇬المصرية Egypt",Al Ghad  
 https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 #EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-logo="https://i.imgur.com/xa7RK5p.png" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas  
