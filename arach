@@ -1133,6 +1133,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3DF4NAn
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Weyyak VIP VPN AR",mix_hollywood
 https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Weyyak VIP VPN AR",PRO MIX
+https://ffs3.gulfsat.com/hbc/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak VIP VPN AR",Zee-Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" group-title="Weyyak VIP VPN AR",Zee-Aflam
