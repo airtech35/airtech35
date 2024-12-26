@@ -856,39 +856,6 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 
 
-
-#EXTM3U
-#EXTINF:-1,تصميم حسام البراك
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_5.m3u8
-
-#EXTINF:-1,https://t.me/Hussam_TVاشترك بقناتي
-https://h.top4top.io/m_31326etmz0.mkv
-
-#EXTINF:-1,ALKASS HD1 SHABAKATY
-http://stream.shabakaty.com:6016/sport/ch15/ch15_720.m3u8
-
-#EXTINF:-1,ALKASS HD2 SHABAKATY
-http://stream.shabakaty.com:6017/sport/ch16/ch16_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD1
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass1buo/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD2
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD3
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD4
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS ONLINE
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/879Jv9I.png" group-title="SPORT رياضية",Al Kass 1 HD
 https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass1buo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmqD2e7.png" group-title="SPORT رياضية",Al Kass 2 HD
@@ -902,13 +869,13 @@ https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass6Shoof/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIJkEzL.png" group-title="SPORT رياضية",Al Kass 6 HD
 https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass6buza/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UTQgT78.png" group-title="SPORT رياضية",Abu Dhabi Sports 1 HD
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPNI9z9.png" group-title="SPORT رياضية",Abu Dhabi Sports 2 HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2AEySKb.png" group-title="SPORT رياضية", Yas HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJI3Blz.png" group-title="SPORT رياضية",Dubai Sports 1 HD
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbBjoum.png" group-title="SPORT رياضية",Dubai Sports 2 HD
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XSO4yPK.png" group-title="SPORT رياضية",Dubai Sports 3 HD
