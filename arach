@@ -1126,6 +1126,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3DF4NAn
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Weyyak VIP VPN AR",mix_hollywood
 https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Weyyak VIP VPN AR", ميكس_Mix_TV
+https://edge66.magictvbox.com/liveApple/TubeFilm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Weyyak VIP VPN AR",PRO MIX
 https://ffs3.gulfsat.com/hbc/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak VIP VPN AR",Zee-Alwan
@@ -2609,6 +2611,8 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC أم بي سي",|MBC| 1 SD
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBC2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" group-title="MBC أم بي سي",MBC2
+https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",|MBC| 3 SD
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="MBC أم بي سي",MBC 4
@@ -2774,6 +2778,31 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HysmwD" group-title="ROTANA روتانا",Rotana Mplus HD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072632-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=480862f0-a3b1-4a41-ace7-43c6c645f118
+
+
+
+#EXTINF:-1 tvg-id="LBC.us(m3u4u)" tvg-name="LBC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" group-title="ROTANA روتانا",LBC
+https://pwultrp.alwaysdata.net/rotana.php?channel=rlbc&.m3u8
+#EXTINF:-1 tvg-id="RotanaPlus(English).fr(m3u4u)" tvg-name="ROTANA AFLAM+" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp" group-title="ROTANA روتانا",ROTANA AFLAM+
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA M+" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402611.webp" group-title="ROTANA روتانا",ROTANA M+
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="RotanaClip(English).ca(m3u4u)" tvg-name="ROTANA CLIP" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402593.webp" group-title="ROTANA روتانا",ROTANA CLIP
+https://oppomu.serv00.net/rotana.php?channel=rclip&.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA DRAMA" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402515.webp" group-title="ROTANA روتانا",ROTANA DRAMA
+https://oppomu.serv00.net/rotana.php?channel=rdrama&.m3u8
+#EXTINF:-1 tvg-id="RotanaMousica(English).ca(m3u4u)" tvg-name="ROTANA MUSIC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402600.webp" group-title="ROTANA روتانا",ROTANA MUSIC
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA COMEDY" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402522.webp" group-title="ROTANA روتانا",ROTANA COMEDY
+https://oppomu.serv00.net/rotana.php?channel=rcomedy&.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic(English).ca(m3u4u)" tvg-name="ROTANA CLASSIC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402529.webp" group-title="ROTANA روتانا",ROTANA CLASSIC
+https://oppomu.serv00.net/rotana.php?channel=rclassic&.m3u8
+#EXTINF:-1 tvg-id="RotanaCinema(English).ca(m3u4u)" tvg-name="ROTANA CINEMA KSA" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp" group-title="ROTANA روتانا",ROTANA CINEMA KSA
+https://oppomu.serv00.net/rotana.php?channel=rcinemaksa&.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA CINEMA EGY" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402537.webp" group-title="ROTANA روتانا",ROTANA CINEMA EGY
+https://oppomu.serv00.net/rotana.php?channel=rcinemaeg&.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia(English).ca(m3u4u)" tvg-name="ROTANA KHALIJIA" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402508.webp" group-title="ROTANA روتانا",ROTANA KHALIJIA
+https://oppomu.serv00.net/rotana.php?channel=rkhalijeah&.m3u8
 
 
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",AL Resala
@@ -3263,7 +3292,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇪🇬المصرية Egypt",🇪🇬كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",DMC
+EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DMC" tvg-logo="https://i.postimg.cc/MGhzFBzV/dmc-hd.png" group-title="🇪🇬المصرية Egypt",DMC
 https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Drama
 https://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
@@ -5394,9 +5423,14 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="8AlResalah(English).ca(m3u4u)" tvg-name="ALRESALAH" tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="🕌Islami اسلامية",ALRESALAH
+https://oppomu.serv00.net/rotana.php?channel=alressalah&.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
 https://win.holol.com/live/saad/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/41cxPkf" group-title="🕌Islami اسلامية",🕌إقرأ
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="IQRAA QURAN" tvg-logo="https://www.iqraa.com/images/video/channels-logos5.png" group-title="🕌Islami اسلامية",IQRAA QURAN
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Md9nOO" group-title="🕌Islami اسلامية",🕌مــكّة
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZSma9t" group-title="🕌Islami اسلامية",Quraan Kareem🕌
@@ -5418,12 +5452,13 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m
 https://rp.tactivemedia.com/daawahtv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌Islami اسلامية",🕌قــاف
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/41cxPkf" group-title="🕌Islami اسلامية",🕌إقرأ
-https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43sKOk7" group-title="🕌Islami اسلامية",قناة زاد
 https://new.cache-stream.workers.dev/stream/UCOll3M-P7oKs5cSrQ9ytt6g/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mmmTSn" group-title="🕌Islami اسلامية",Ayaat
 https://new.cache-stream.workers.dev/stream/UC89SSMnCKzXdZsIs_GB6QBg/live.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/41b8eZe" group-title="🕌Islami اسلامية",Al Iarth Al Nabawi🕌
