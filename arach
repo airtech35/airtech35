@@ -3400,6 +3400,8 @@ https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
+https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳تونسTUNISIE",Watania 1 
 https://ythls.armelin.one/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-logo="https://i.imgur.com/kgkrD3V.png" group-title="🇹🇳تونسTUNISIE",Watania 2 
