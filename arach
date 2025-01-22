@@ -100,58 +100,19 @@ https://play1nm.hnyongshun.cn/live/ballbar_38990.m3u8
 http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",RAI SPORT HD
-http://85.209.248.3:8080/RaiSportHD/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
 http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Qaz Sport
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
-https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
-https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
-https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
-https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
-https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
-https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORTS 1HD
-https://flu.systemnet.tv/Bein.Hd.1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORTS 3HD
-https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",SSC 1
-https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",SSC 2
-https://live4.beinconnect.us/YallaGoalApp/SSC2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",SSC 3
-https://live4.beinconnect.us/YallaGoalApp/SSC3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",SSC 4
-https://live4.beinconnect.us/YallaGoalApp/SSC4.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 TR
-https://100.zortstream.shop/601/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 TR
-https://100.zortstream.shop/602/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 TR
-https://100.zortstream.shop/603/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 TR
-https://100.zortstream.shop/604/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 TR
-https://100.zortstream.shop/605/index.m3u8
-
-Play N_S Player ✅
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
@@ -5433,6 +5394,26 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
+https://win.holol.com/live/saad/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Md9nOO" group-title="🕌Islami اسلامية",🕌مــكّة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZSma9t" group-title="🕌Islami اسلامية",Quraan Kareem🕌
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Bahrain_Quran TV🕌
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZTAvSZ" group-title="🕌Islami اسلامية",🕌قناه الفتح
+https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Istiqama TV🕌
+http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahquran🕌
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahtv2 TV🕌
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية", Daawah TV
 https://rp.tactivemedia.com/daawahtv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌Islami اسلامية",🕌قــاف
@@ -5441,16 +5422,10 @@ https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43sKOk7" group-title="🕌Islami اسلامية",قناة زاد
 https://new.cache-stream.workers.dev/stream/UCOll3M-P7oKs5cSrQ9ytt6g/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Md9nOO" group-title="🕌Islami اسلامية",🕌مــكّة
-https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mmmTSn" group-title="🕌Islami اسلامية",Ayaat
 https://new.cache-stream.workers.dev/stream/UC89SSMnCKzXdZsIs_GB6QBg/live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
-https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZTAvSZ" group-title="🕌Islami اسلامية",🕌قناه الفتح
-https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZSma9t" group-title="🕌Islami اسلامية",Quraan Kareem🕌
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/41b8eZe" group-title="🕌Islami اسلامية",Al Iarth Al Nabawi🕌
 http://82.212.74.2:8000/live/hls/7307.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌Islami اسلامية",africatv 1🕌
@@ -5459,16 +5434,12 @@ http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",Maher Al Meaqli-Kaf🕌
 http://server12.mp3quran.net/maher/018.mp3
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Istiqama TV🕌
-http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahtv2 TV🕌
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahquran🕌
-https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Affasy TV🕌
 https://qurango.net/radio/mishary_alafasi.mp3
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Bahrain_Quran TV🕌
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
+
 
 
 #EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
