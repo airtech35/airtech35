@@ -9204,9 +9204,9 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="🇹🇷 Turkey",TRT4K ⁴ᴷ⁺™
 https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷 Turkey",TRT 1
-http://hw1.jemtv.com/app/trt1/playlist.m3u8
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷 Turkey",TRT 2
-http://hw1.jemtv.com/app/trt2/playlist.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷 Turkey",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/12037070.png" group-title="🇹🇷 Turkey",TRT TÜRK
