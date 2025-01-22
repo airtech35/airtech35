@@ -3370,9 +3370,9 @@ https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/index.m3
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="🇲🇦المغربMAROCCO",Al Maghribia 
 https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="🇲🇦المغربMAROCCO",Arrabiaa 
-https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="🇲🇦المغربMAROCCO",Arryadia 
 https://cdn-globecast.akamaized.net/live/eds/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="🇲🇦المغربMAROCCO",Arryadia 
+https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TLOm8" group-title="🇲🇦المغربMAROCCO",MR-AL MAGHRIBIA HD🇲🇦
 https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="🇲🇦المغربMAROCCO",Assadissa 
@@ -3384,9 +3384,7 @@ http://gratuittv.free.fr/Files/aflam7/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="🇲🇦المغربMAROCCO",Chada TV 
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="🇲🇦المغربMAROCCO",M24 TV  
-https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇦المغربMAROCCO",Maghreb Arabe Press  
-https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/gHwCFb0.png" group-title="🇲🇦المغربMAROCCO",Medi 1 TV Afrique  
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="🇲🇦المغربMAROCCO",Medi 1 TV Arabic  
