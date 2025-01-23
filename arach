@@ -3037,8 +3037,6 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="🇯🇴الاردنJORDAN",Roya TV  
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-id="RoyaNews.jo" tvg-logo="https://i.imgur.com/afowXIe.png" group-title="🇯🇴الاردنJORDAN",Roya News 
-https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch39.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="🇯🇴الاردنJORDAN",Al Mamlaka TV 
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48PO3nV" group-title="🇯🇴الاردنJORDAN",Jordan Archive TV🇯🇴
