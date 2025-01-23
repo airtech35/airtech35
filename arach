@@ -3400,42 +3400,24 @@ https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE", nessmatv
+https://edge66.magictvbox.com/liveApple/nessma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE", hannibalt
+https://tgn.bozztv.com/gin-36bay3/ga-hannibaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
 https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳تونسTUNISIE",Watania 1 
-https://ythls.armelin.one/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
+https://tgn.bozztv.com/gin-36bay4/ga-elwatania1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-logo="https://i.imgur.com/kgkrD3V.png" group-title="🇹🇳تونسTUNISIE",Watania 2 
-https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
+https://tgn.bozztv.com/gin-36bay4/ga-elwatania2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1 tvg-id="IFMTV.tn" tvg-logo="https://i.imgur.com/9oEaZ9Y.png" group-title="🇹🇳تونسTUNISIE",IFM TV  
-https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="🇹🇳تونسTUNISIE",Mosaïque FM  
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="SahelTV.tn" tvg-logo="https://i.imgur.com/vAaksTk.png" group-title="🇹🇳تونسTUNISIE",Sahel TV  
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-logo="https://i.imgur.com/4ktp7A1.png" group-title="🇹🇳تونسTUNISIE",Tunisie Immobilier TV  
-https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ZitounaTV.tn" tvg-logo="https://i.imgur.com/LzK8fHv.png" group-title="🇹🇳تونسTUNISIE",Zitouna TV  
-https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZitounaTV.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Nessma
-https://edge66.magictvbox.com/liveApple/nessma/tracks-v1a1/mono.m3u8
+
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇩🇿الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="🇩🇿الجزائرALGERIEN",Canal Algérie 
-https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="🇩🇿الجزائرALGERIEN",ENTV v3
-https://bozztv.com/gin-36bay3/ga-algeriaoula1/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3K2HkMt" group-title="🇩🇿الجزائرALGERIEN",AL MAGHRIBIA2
-https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="🇩🇿الجزائرALGERIEN",Canal Algerie🇩🇿
-http://162.212.178.69:4242/bysid/808
-#EXTINF:0 tvg-logo="" group-title="🇩🇿الجزائرALGERIEN", قناة السادسة الجزائرية
-http://ar116.ab-cdn.com/live/005/index.m3u8?t=4kBtMNZ-6yrCEgRg89bTTw&e=1722147747
-
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Eiman TV
@@ -3470,73 +3452,23 @@ http://154.58.202.131:8000/play/a01t
 http://154.58.202.131:8000/play/a04h
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR-HD
 http://154.58.202.131:8000/play/a04r
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elmouritania HD
-http://154.58.202.185:8000/play/a0a4
+
 
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="SalamTV.ly" tvg-logo="https://i.imgur.com/yQDAReE.png" group-title="🇱🇾ليبياLIBYA",Salam TV 
+https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="🇱🇾ليبياLIBYA",Al Masar TV 
 https://master.starmena-cloud.com/hls/almasar.m3u8
-#EXTINF:-1 tvg-id="FebruaryChannel.ly" tvg-logo="https://i.imgur.com/WdMIpsA.png" group-title="🇱🇾ليبياLIBYA",February Channel 
-https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JamahiriyaTV.ly" tvg-logo="https://i.imgur.com/BIuUtX7.png" group-title="🇱🇾ليبياLIBYA",Jamahiriya TV  
-https://master.starmena-cloud.com/hls/jam.m3u8
-#EXTINF:-1 tvg-id="218News.ly" tvg-logo="https://i.imgur.com/qEcljKC.png" group-title="🇱🇾ليبياLIBYA",Libya 218 News  
-http://95.85.47.43/libya218news/playlist.m3u8
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://i.imgur.com/xkQKVGi.png" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar TV 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
-https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
-#EXTINF:-1 tvg-id="LibyaAlhadath.ly" tvg-logo="https://i.imgur.com/GL1W0EN.png" group-title="🇱🇾ليبياLIBYA",Libya Al Hadath  
-http://82.212.74.100:8000/live/8103.m3u8
-#EXTINF:-1 tvg-id="LibyaMostakbal.ly" tvg-logo="https://i.imgur.com/Aa2jTKG.jpg" group-title="🇱🇾ليبياLIBYA",Libya Mostakbal (408p)
-https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8
-#EXTINF:-1 tvg-id="LibyasChannel.ly" tvg-logo="https://i.imgur.com/hacmANY.png" group-title="🇱🇾ليبياLIBYA",Libya's Channel 
-https://master.starmena-cloud.com/hls/libyas.m3u8
-#EXTINF:-1 tvg-id="RTVLebda.ly" tvg-logo="https://i.imgur.com/Lq3xW92.jpg" group-title="🇱🇾ليبياLIBYA",RTV Lebda 
-https://media1.livaat.com/live/Lebda_TV/index.m3u8
-#EXTINF:-1 tvg-id="SalamTV.ly" tvg-logo="https://i.imgur.com/yQDAReE.png" group-title="🇱🇾ليبياLIBYA",Salam TV 
-https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+https://stream.castr.com/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾ليبياLIBYA",Tanasuh TV 
 https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA", قناة الوطنيه
-http://162.212.178.70:4442/bysid/7.ts
-
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
-http://154.58.202.185:8000/play/a05y
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
-http://154.58.202.131:8000/play/a04g
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwataniya
-http://154.58.202.185:8000/play/a05w
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwatnya
-http://154.58.202.185:8000/play/a051
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Education
-http://154.58.202.185:8000/play/a060
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Ifta TV
-http://154.58.202.131:8000/play/a08y
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
-http://154.58.202.185:8000/play/a05x
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
-http://154.58.202.131:8000/play/a04e
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Sport 2 HD
-http://154.58.202.185:8000/play/a05z
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya WTV HD
-http://154.58.202.131:8000/play/a01s
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
-http://5.253.46.190:7004/play/a0d4
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
-http://154.58.202.131:8000/play/a04e
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 2 HD
-http://154.58.202.185:8000/play/a05z
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
-http://154.58.202.131:8000/play/a04g
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Ifta TV
-http://154.58.202.131:8000/play/a08y
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya WTV HD
-http://154.58.202.131:8000/play/a01s
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar HD
-http://5.253.46.190:7002/play/a0bj
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="" group-title="🇱🇾ليبياLIBYA",Wasat TV 
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
@@ -3803,6 +3735,8 @@ https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Elmouritania.mr" tvg-logo="https://i.imgur.com/rErKqzS.png" group-title="🇲🇷 Mauritania",Télévision de Mauritanie
 https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇲🇷 Mauritania",Elmouritania HD
+http://154.58.202.185:8000/play/a0a4
 
 #EXTM3U
 #EXTINF:-1 tvg-id="TeleDjibouti4.dj" tvg-logo="https://i.imgur.com/GNolVKU.png" group-title="🇩🇯 Djibouti",RTD
