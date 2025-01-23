@@ -2888,12 +2888,6 @@ https://bit.ly/3gj9PK5
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria سورية",LTV 
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:-1 tvg-id="SamaTV.sy" tvg-logo="https://i.imgur.com/9DoOxD0.png" group-title="Syria سورية",Sama TV
-https://app.sama-tv.net/hls/samatv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD
-https://new.cache-stream.workers.dev/stream/UCnh5Faqn_r9HxeNd_dsvGHQ/live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD
-https://ythls.armelin.one/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="Syria سورية",Alaraby 2 TV 
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="Syria سورية",Alaraby TV 
@@ -2902,53 +2896,6 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 https://ythls.armelin.one/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="Syria سورية",SYR-قناة اليوم
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
-
-
-#EXTINF:-1 tvg-id="SouryanaRadio.sy" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="Syria سورية",Souryana Radio 
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-logo="https://i.imgur.com/IrJ4REN.png" group-title="Syria سورية",Syria Drama 
-http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="SyrianSatelliteChannel.sy" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria سورية",Syria Satellite Channel 
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="SyrianEducationalTV.sy" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Syria سورية",Syrian Educational TV 
-http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="SyrianNewsChannel.sy" tvg-logo="https://i.imgur.com/G17eCq6.png" group-title="Syria سورية",Syrian News Channel 
-http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="NourElSham.sy" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Syria سورية",Nour El-Sham 
-http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioAlkulTV.sy" tvg-logo="https://i.imgur.com/Dj9UNFd.png" group-title="Syria سورية",Radio Alkul TV  
-https://ffs.gulfsat.com/AlkulTV/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria سورية",Essouriya السورية 
-http://154.58.202.131:8000/play/a08k
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria سورية",Syrian News
-http://154.58.202.131:8000/play/a08n
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",SYRIA CH1
-http://154.58.202.131:8000/play/a08m
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",ALALAM SYRIA
-http://154.58.202.131:8000/play/a089
-
-
-#EXTINF:-1 group-title="Syria سورية" tvg-logo="",DRAMA 24
-http://80.79.4.232:8000/play/a001
-#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SAKAKER
-http://80.79.4.232:8000/play/a00b
-#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SPORT24
-http://80.79.4.232:8000/play/a00c
-#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SYRIA
-http://80.79.4.232:8000/play/a00e
-#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SYRIA CH1
-http://80.79.4.232:8000/play/a00d
-
-
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Drama
-http://154.197.91.168:7002/play/a0dx
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Satellite
-http://154.197.91.168:7002/play/a0dw
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Education
-http://154.197.91.168:7002/play/a0dy
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria News
-http://154.197.91.168:7002/play/a0g7
 
 
 #EXTM3U
