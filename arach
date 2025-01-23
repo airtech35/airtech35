@@ -3255,24 +3255,7 @@ https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="🇮🇶العراق IRAQ",IRAQ 24 HD
-http://5.253.46.190:7004/play/a0ap
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="🇮🇶العراق IRAQ",IRAQ EDU KIDS
-http://5.253.46.190:7004/play/a0cx
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV
-http://154.58.202.131:8000/play/a008
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya
-http://149.62.177.103:8000/play/a046
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya
-http://154.58.202.131:8000/play/a00h
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Altaghier HD
-http://149.18.45.21:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",I24 News Arabic
-http://154.58.202.131:8000/play/a040
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqi Edu HD
-http://154.197.91.169:7002/play/a0gx
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqi Edu HD
-http://154.58.202.131:8000/play/a031
+
 
 
 #EXTM3U
