@@ -9744,13 +9744,17 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪 Germany",Das Erste Ⓖ
-https://mcdn.daserste.de/daserste/de/master.m3u8
+https://s6.hopslan.com/ard1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪 Germany",Das Erste Ⓖ
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪 Germany",RTL Zwei
 https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪 Germany",RTL Zwei+
 http://178.219.128.68:64888/RTL2
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/3LBQCQw" group-title="🇩🇪 Germany",ZDF DE
-http://37.18.239.36:8888/ZDF/index.m3u8
+https://s6.hopslan.com/zdf1111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/3LBQCQw" group-title="🇩🇪 Germany",ZDF DE
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/4eeIDWB" group-title="🇩🇪 Germany",RTL 2
@@ -9768,7 +9772,7 @@ https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="🇩🇪 Germany",Kabel Eins HD DE
 https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="🇩🇪 Germany",SAT.1 HD DE
-http://154.58.225.25:9999/sat1/index.m3u8
+https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="🇩🇪 Germany",Sixx FHD DE
 https://s6.hopslan.com/sixx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="🇩🇪 Germany",DMAX DE
