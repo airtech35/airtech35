@@ -3474,23 +3474,13 @@ https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3mYx4wY" group-title="🇸🇩السودانSUDAN",Sudan TV🇸🇩
-http://162.212.178.69:4242/bysid/803
+https://tgn.bozztv.com/trn03/gin-sudantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",SUDAN TV
 http://45.65.112.49:8000/play/a0nd
 #EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Basic Edu
 http://154.58.202.131:8000/play/a02k
-#EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="🇸🇩السودانSUDAN",Al Alamiya 2
-http://82.212.74.98:8000/live/7815.m3u8
-#EXTINF:-1 tvg-id="DabangaTV.sd" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dabanga_sudan.png" group-title="🇸🇩السودانSUDAN",Dabanga TV 
-https://cdn-cf.dabangasudan.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="🇸🇩السودانSUDAN",Sudan TV 
-https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
-#EXTINF:-1 tvg-id="Sudania24TV.sd" tvg-logo="https://i.imgur.com/etC3IY4.png" group-title="🇸🇩السودانSUDAN",Sudania 24 TV 
-https://samson.streamerr.co:8081/sudania24/index.m3u8
-#EXTINF:-1 tvg-id="TaybaTV.sd" tvg-logo="https://user-images.githubusercontent.com/41021857/75287296-67145080-581a-11ea-8978-5e31cdd84243.jpg" group-title="🇸🇩السودانSUDAN",Tayba TV 
-https://mn-nl.mncdn.com/tayba/live/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="" group-title="🇸🇩السودانSUDAN", Gin Sudan TV 
+https://tgn.bozztv.com/trn03/gin-ssudan/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
@@ -3543,8 +3533,6 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="🇴🇲سلطنة عمان Oman",Alistiqama TV 
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="MajanTV.om" tvg-logo="https://i.imgur.com/ElU85r7.png" group-title="🇴🇲سلطنة عمان Oman",Majan TV  
-https://ythls.armelin.one/channel/UCrJDHlh0u9KdOB7A559n7uA.m3u8
 #EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="🇴🇲سلطنة عمان Oman",Oman Althakafia 
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="🇴🇲سلطنة عمان Oman",Oman Sports TV  
@@ -3664,7 +3652,7 @@ https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVArabe.kw" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="🇰🇼الكويت Kuwait",KTV Arabe 
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="🇰🇼الكويت Kuwait",KTV Al Qurain 
-https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist.m3u8
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="🇰🇼الكويت Kuwait",KTV Sport Plus 
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVAlMajlis.kw" tvg-logo="https://i.imgur.com/AVEyGig.png" group-title="🇰🇼الكويت Kuwait",KTV Al Majlis 
@@ -3686,20 +3674,10 @@ https://ythls.armelin.one/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV 
 https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 tvg-id="YemeniaTV.ye" tvg-logo="https://i.imgur.com/p7tNft2.png" group-title="🇾🇪اليمن Yemen",Yemenia TV 
-https://ffs3.gulfsat.com/YEMENIA/video.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher🇾🇪
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYXzDd" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://master.starmena-cloud.com/hls/almahriah.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44eNh0z" group-title="🇾🇪اليمن Yemen",🇾🇪عدن المستقلة
-https://ssh101-fl.bozztv.com/ssh101/aictv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png"group-title="🇾🇪اليمن Yemen",Yemen sanaa HQ
-https://bozztv.com/inim03/live1/gin-yementv-in/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvmany.com/logos/im80240"group-title="🇾🇪اليمن Yemen",Aden saudi HD
-http://82.212.74.5:8000/live/7728.m3u8
-#EXTINF:-1 tvg-id="SuhailTV.ye" tvg-logo="https://i.imgur.com/wgSGdkv.png" group-title="🇾🇪اليمن Yemen",Suhail TV 
-http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Documentary
 http://154.58.202.131:8000/play/a03p
 #EXTINF:-1 tvg-id="AICTV.ye" tvg-logo="https://bit.ly/4d1LPUg" group-title="🇾🇪اليمن Yemen",Yemen Education TV
