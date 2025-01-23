@@ -133,22 +133,112 @@ https://bit.ly/3gj9PK5
 https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY SPORTS", SKY SPORTS VIP
 https://bit.ly/3xYLaRh
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT TV1
-http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT TV2
-http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 3
-http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 4
-http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 5
-http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Sport tv 6
-http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
-Play N_S Player ✅
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",SkySp MainEvent
+http://54.36.162.3/skspmainevent/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",SkySp Premier League
+http://54.36.162.3/sksppremierleague/index.m3u8
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SKY SPORTS",Sky Sports Football
+http://54.36.162.3/skspfootball/index.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SKY SPORTS",Sky Sports Cricket
+http://54.36.162.3/skspcricket/index.m3u8
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="SKY SPORTS",Sky Sports Golf
+http://54.36.162.3/skspgolf/index.m3u8
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="SKY SPORTS",Sky Sports F1
+http://54.36.162.3/skspf1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Sky Sports NFL
+http://54.36.162.3/skspnfl/index.m3u8
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="SKY SPORTS",Sky Sports Arena
+http://54.36.162.3/sksparena/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Sky Sp NewsHQ
+http://54.36.162.3/skspnews/index.m3u8
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="SKY SPORTS",Sky Sports Mix
+http://54.36.162.3/spspmix/index.m3u8
+#EXTINF:0 tvg-id="SkySportTennis.de" group-title="SKY SPORTS",Sky Sport Tennis
+http://54.36.162.3/sktennis/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="SKY SPORTS",Eurosport 1
+http://54.36.162.3/eurosp1/index.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="SKY SPORTS",Eurosport 2
+http://54.36.162.3/eurosp2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",TNT Sports 1
+http://54.36.162.3/tnt1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",TNT Sports 2
+http://54.36.162.3/tnt2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",TNT Sports 3
+http://54.36.162.3/tnt3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",TNT Sports 4
+http://54.36.162.3/tnt4/index.m3u8
+#EXTINF:0 tvg-id="MUTV.uk" group-title="SKY SPORTS",MUTV
+http://54.36.162.3/mutv/index.m3u8
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="SKY SPORTS",LFCTV
+http://54.36.162.3/lfctv/index.m3u8
+#EXTINF:0 tvg-id="LaligaTV.uk" group-title="SKY SPORTS",LaLiga TV
+http://54.36.162.3/laliga/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Racing UKT
+http://54.36.162.3/racing/index.m3u8
+#EXTINF:0 tvg-id="PremierSports1.uk" group-title="SKY SPORTS",Premier Sports 1
+http://54.36.162.3/premiersp1/index.m3u8
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="SKY SPORTS",Premier Sports 2
+http://54.36.162.3/premiersp2/index.m3u8
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="SKY SPORTS",Premiere 1
+http://54.36.162.3/pr1/index.m3u8
+#EXTINF:0 tvg-id="Premiere2.br" group-title="SKY SPORTS",Premiere 2
+http://54.36.162.3/pr2/index.m3u8
+#EXTINF:0 tvg-id="Premiere3.br" group-title="SKY SPORTS",Premiere 3
+http://54.36.162.3/pr3/index.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="SKY SPORTS",Premiere 4
+http://54.36.162.3/pr4/index.m3u8
+#EXTINF:0 tvg-id="Premiere5.br" group-title="SKY SPORTS",Premiere 5
+http://54.36.162.3/pr5/index.m3u8
+#EXTINF:0 tvg-id="Premiere6.br" group-title="SKY SPORTS",Premiere 6
+http://54.36.162.3/pr6/index.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Spor TV HD
+https://super-cdn.link/sportv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Spor TV 2 HD
+https://super-cdn.link/sportv2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Spor TV 3 HD
+https://super-cdn.link/sportv3/index.m3u8
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="SKY SPORTS",ESPN 1
+https://super-cdn.link/espn/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.br" group-title="SKY SPORTS",ESPN 2
+https://super-cdn.link/espn2/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.nl" group-title="SKY SPORTS",ESPN 3
+https://super-cdn.link/espn3/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="SKY SPORTS",ESPN 4
+https://super-cdn.link/espn4/index.m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="SKY SPORTS",ESPN 5
+https://super-cdn.link/espn5/index.m3u8
+#EXTINF:0 tvg-id="ESPN6.nl" group-title="SKY SPORTS",ESPN 6
+https://super-cdn.link/espn6/index.m3u8
+#EXTINF:0 tvg-id="Combate.br" group-title="SKY SPORTS",Combate HD
+https://super-cdn.link/combate/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Band Sport
+https://super-cdn.link/bandsports/index.m3u8
+#EXTINF:0 tvg-id="Premiere2.br" group-title="SKY SPORTS",PREMIERE 2 HD
+https://super-cdn.link/premiere2/index.m3u8
+#EXTINF:0 tvg-id="Premiere3.br" group-title="SKY SPORTS",PREMIERE 3 HD
+https://super-cdn.link/premiere3/index.m3u8
+#EXTINF:0 tvg-id="Premiere3.br" group-title="SKY SPORTS",PREMIERE 3 HD
+https://super-cdn.link/premiere4/index.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="SKY SPORTS",PREMIERE 4 HD
+https://super-cdn.link/premiere5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",PREMIERE 5 HD
+https://super-cdn.link/premiere5/index.m3u8
+#EXTINF:0 tvg-id="Premiere6.br" group-title="SKY SPORTS",PREMIERE 6 HD
+https://super-cdn.link/premiere6/index.m3u8
+#EXTINF:0 tvg-id="Premiere7.br" group-title="SKY SPORTS",PREMIERE 7 HD
+https://super-cdn.link/premiere7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",PREMIERE 8 HD
+https://super-cdn.link/premiere8/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
+https://bit.ly/3xYLaRh
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
