@@ -196,6 +196,13 @@ http://54.36.162.3/pr5/index.m3u8
 #EXTINF:0 tvg-id="Premiere6.br" group-title="SKY SPORTS",Premiere 6
 http://54.36.162.3/pr6/index.m3u8
 
+#EXTINF:0 tvg-id="Premiere6.br" group-title="SKY SPORTS",NovaSports 2 HD cz
+http://146.59.85.40:89/novasport2/mono.m3u8
+#EXTINF:0 tvg-id="Premiere6.br" group-title="SKY SPORTS",NovaSports 3 HD cz
+http://146.59.85.40:89/novasport3/mono.m3u8
+#EXTINF:0 tvg-id="Premiere6.br" group-title="SKY SPORTS",NovaSports 4 HD cz
+http://146.59.85.40:89/novasport4/mono.m3u8
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Spor TV HD
 https://super-cdn.link/sportv/index.m3u8
