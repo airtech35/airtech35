@@ -2917,14 +2917,6 @@ https://bit.ly/3gj9PK5
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV 🇱🇧
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD🇱🇧
-https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",mtv lebanon🇱🇧
-https://tgn.bozztv.com/gin-trn09/ga-mtvlebanon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",lbc🇱🇧
-https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",otvlebanon🇱🇧
-https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",nbn
 http://5.9.119.146:8883/nbn/index.m3u8
 
@@ -2963,6 +2955,15 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="LEBANON لبنان",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD🇱🇧
+https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",mtv lebanon🇱🇧
+https://tgn.bozztv.com/gin-trn09/ga-mtvlebanon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",lbc🇱🇧
+https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",otvlebanon🇱🇧
+https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC HD🇱🇧
 http://154.58.202.185:8000/play/a0ba
