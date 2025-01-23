@@ -36,7 +36,7 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="" group-title="🇨🇭Switzerland",SRF 1 HD
-http://176.10.117.3:5000/play/a011/index.m3u8
+https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="" group-title="🇨🇭Switzerland",SRF info HD
 http://176.10.117.3:5000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="" group-title="🇨🇭Switzerland",SRF zwei HD
@@ -138,18 +138,10 @@ https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="x""ORF 1 HD ³" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="🇦🇹Austria",ORF 1 HD ³
-http://195.211.27.149:8887/8271/index.m3u8?token=test
-#EXTINF:-1 tvg-chno="x""ORF 2 HD ³" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="🇦🇹Austria",ORF 2 HD ²
-http://195.211.27.149:8887/8272/index.m3u8?token=test
-#EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="🇦🇹Austria",ORF Sport+ HD ¹
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 1 HD
-http://176.10.117.3:5000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 2 HD
-http://176.10.117.3:5000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF III HD
-http://176.10.117.3:5000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="🇦🇹Austria",ORF 1 HD
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png" group-title="🇦🇹Austria",ORF 2 HD
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
 
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="🇦🇹Austria",Balkan Radio Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
