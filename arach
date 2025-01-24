@@ -3355,12 +3355,12 @@ https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah  
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher🇾🇪
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="🇾🇪اليمن Yemen",Yemen Shabab Channel  
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV 
 https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher🇾🇪
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYXzDd" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Documentary
