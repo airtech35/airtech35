@@ -3010,6 +3010,9 @@ http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 tvg-id="AlhayatTV.eg" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="🇪🇬المصرية Egypt",Alhayat TV 
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nile_Drama.png" group-title="🇪🇬المصرية Egypt", نايل دراما
+https://edge66.magictvbox.com/liveApple/TubeMosalsalat/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="🇪🇬المصرية Egypt",El Radio 9090 FM 
 https://9090video.mobtada.com/hls/stream.m3u8
