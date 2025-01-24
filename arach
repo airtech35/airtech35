@@ -2670,7 +2670,7 @@ http://5.9.119.146:8883/nbn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/OTV.png" group-title="LEBANON لبنان",AR | [LIB] OTV 
-http://185.9.2.18/chid_312/index.m3u8
+http://185.9.2.18/chid_312/mono.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/LBCSAT.png" group-title="LEBANON لبنان",AR | [LIB] LBC 
 http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AR | [LIB] AL JADEED HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/ALJADED.png" group-title="LEBANON لبنان",AR | [LIB] AL JADEED HD
