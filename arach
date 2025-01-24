@@ -3114,6 +3114,8 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png" group-title="🇩🇿الجزائرALGERIEN",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El_Bilad_TV
+https://edge66.magictvbox.com/liveApple/El_Bilad_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Eiman TV
