@@ -2665,17 +2665,15 @@ https://bit.ly/3gj9PK5
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV 🇱🇧
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",nbn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4hkDn4u" group-title="LEBANON لبنان",nbn
 http://5.9.119.146:8883/nbn/index.m3u8
-
-
-#EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/OTV.png" group-title="LEBANON لبنان",AR | [LIB] OTV 
+#EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://bit.ly/42p9LP1" group-title="LEBANON لبنان",AR | [LIB] OTV 
 http://185.9.2.18/chid_312/mono.m3u8
-#EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/LBCSAT.png" group-title="LEBANON لبنان",AR | [LIB] LBC 
+#EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",AR | [LIB] LBC 
 http://185.9.2.18/chid_327/mono.m3u8
-#EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AR | [LIB] AL JADEED HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/ALJADED.png" group-title="LEBANON لبنان",AR | [LIB] AL JADEED HD
+#EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AR | [LIB] AL JADEED HD" tvg-logo="https://bit.ly/3EaE6a4" group-title="LEBANON لبنان",AR | [LIB] AL JADEED HD
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-Lebanon/MTVLEBANON.png" group-title="LEBANON لبنان",AR | [LIB] MTV 
+#EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="LEBANON لبنان",AR | [LIB] MTV 
 http://185.9.2.18/chid_387/mono.m3u8
 
 
@@ -2695,7 +2693,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.lb.png?raw=true" group-title="LEBANON لبنان",Hala London🇱🇧
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
-#EXTINF:-1 tvg-id="SPILebanon.lb" tvg-logo="https://spilebanon.com/img/spi-logo.jpg" group-title="LEBANON لبنان",SPI LEBANON🇱🇧
+#EXTINF:-1 tvg-id="SPILebanon.lb" tvg-logo="https://bit.ly/4jtkkXy" group-title="LEBANON لبنان",SPI LEBANON🇱🇧
 http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="VoiceofLebanon.lb" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="LEBANON لبنان",Voice of Lebanon 🇱🇧
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
@@ -2703,15 +2701,6 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="LEBANON لبنان",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD🇱🇧
-https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",mtv lebanon🇱🇧
-https://tgn.bozztv.com/gin-trn09/ga-mtvlebanon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",lbc🇱🇧
-https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",otvlebanon🇱🇧
-https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC HD🇱🇧
 http://154.58.202.185:8000/play/a0ba
@@ -3055,7 +3044,7 @@ http://149.62.177.103:8000/play/a08b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde 
-https://tgn.bozztv.com/trn03/gin-2monde/index.m3u8
+https:///trn03/gin-2monde/index.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 
 https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Laayoune 
@@ -3095,14 +3084,8 @@ https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE", nessmatv
 https://edge66.magictvbox.com/liveApple/nessma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE", hannibalt
-https://tgn.bozztv.com/gin-36bay3/ga-hannibaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
 https://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳تونسTUNISIE",Watania 1 
-https://tgn.bozztv.com/gin-36bay4/ga-elwatania1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Watania2.tn" tvg-logo="https://i.imgur.com/kgkrD3V.png" group-title="🇹🇳تونسTUNISIE",Watania 2 
-https://tgn.bozztv.com/gin-36bay4/ga-elwatania2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="🇹🇳تونسTUNISIE",Mosaïque FM  
@@ -3171,14 +3154,10 @@ https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3mYx4wY" group-title="🇸🇩السودانSUDAN",Sudan TV🇸🇩
-https://tgn.bozztv.com/trn03/gin-sudantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",SUDAN TV
 http://45.65.112.49:8000/play/a0nd
 #EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Basic Edu
 http://154.58.202.131:8000/play/a02k
-#EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="" group-title="🇸🇩السودانSUDAN", Gin Sudan TV 
-https://tgn.bozztv.com/trn03/gin-ssudan/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
