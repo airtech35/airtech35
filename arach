@@ -654,7 +654,7 @@ https://bit.ly/3gj9PK5
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/879Jv9I.png" group-title="SPORT رياضية",Al Kass 1 HD
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass1buo/master.m3u8
+https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass1mhu/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmqD2e7.png" group-title="SPORT رياضية",Al Kass 2 HD
 https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass2hef/master540.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nfj53pF.png" group-title="SPORT رياضية",Al Kass 3 HD
@@ -664,7 +664,7 @@ https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass4cn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SiXjL4z.png" group-title="SPORT رياضية",Al Kass 5 HD
 https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass6Shoof/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIJkEzL.png" group-title="SPORT رياضية",Al Kass 6 HD
-https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass6buza/master.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass7cn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UTQgT78.png" group-title="SPORT رياضية",Abu Dhabi Sports 1 HD
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPNI9z9.png" group-title="SPORT رياضية",Abu Dhabi Sports 2 HD
@@ -701,16 +701,39 @@ https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8
 http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
 http://93.184.10.248/JordanSport/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3UQGhFy" group-title="SPORT رياضية",ALRabiaa Sport
-http://162.212.178.70:4842/bysid/205
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="SPORT رياضية",Maroc SPORT
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/4bsc0D2" group-title="SPORT رياضية",TRT spor
-http://66.160.192.241/trtspor/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PaK3SEx.png" group-title="SPORT رياضية",ESPN HD
-http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d27P8Mf.png" group-title="SPORT رياضية",Fuel TV HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7
+https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 1
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 11
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 12
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+#EXTINF:0 tvg-id="FightNetwork.ca" group-title="SPORT رياضية",Fight Network 
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="NETFLIX VIP", باقة NETFLIX 
@@ -5042,13 +5065,10 @@ https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahtv2 TV🕌
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية", Daawah TV
 https://rp.tactivemedia.com/daawahtv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌Islami اسلامية",🕌قــاف
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/41b8eZe" group-title="🕌Islami اسلامية",Al Iarth Al Nabawi🕌
 http://82.212.74.2:8000/live/hls/7307.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌Islami اسلامية",africatv 1🕌
@@ -5057,103 +5077,8 @@ http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",Maher Al Meaqli-Kaf🕌
 http://server12.mp3quran.net/maher/018.mp3
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Affasy TV🕌
 https://qurango.net/radio/mishary_alafasi.mp3
-
-
-
-#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 1
-https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 2
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 5
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 6
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 7
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 8
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 9
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 10
-https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 11
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 12
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",ATG (432p)
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",ATG (432p)
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:0 tvg-id="FightNetwork.ca" group-title="SPORT رياضية",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Fite 
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",FTF
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Hard Knocks (1080p)
-https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",IMPACT! Wrestling (1080p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="MotorVision.de" group-title="SPORT رياضية",Motorvision TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Ovación TV 
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pac 12 Insider (1080p)
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Bellator MMA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Boxing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Combate World
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV IMPACT Wrestling 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV MLB
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV PGA TOUR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Pluto Action Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV SPORT : BeIN Sports Xtra 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Sports
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bb941b95267e225e59c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",SportsGrid (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",SportsGrid (1080p)
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="TennisChannel.us" group-title="SPORT رياضية",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Trace Sport Stars (Australia)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Wired2Fish
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="xsport" group-title="SPORT رياضية",XSPORT
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="WWEمصارعه حره",IMPACT! Wrestling | US
