@@ -1165,13 +1165,6 @@ https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live webcam world",Live webcam world
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live webcam world",كيف احصل على الكود
-https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live webcam world",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Children أطفال ",أطفال
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Children أطفال ",كيف احصل على الكود
@@ -2467,6 +2460,14 @@ https://live.channel8.com/Channel8-Kurdish/tracks-v2a1/mono.m3u8
 
 --------------------------
 
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live webcam world",Live webcam world
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live webcam world",كيف احصل على الكود
+https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live webcam world",النسخة المدفوعة AirMax TV
+https://bit.ly/3DF4NAn
 
 
 
