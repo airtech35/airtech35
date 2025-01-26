@@ -8078,12 +8078,28 @@ https://elkiosko@hastycast.live/hls/377qj1h890g40.m3u8?st=Q-zao1ljlyrVqr6N8Y1bVE
 https://hastycast.live/hls/377qj1h890g40.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",PERSIANA SPORT 🇮🇷
+https://stream.live12.ir/hls2/persiana.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TRUE VISION 3 🇹🇭
+http://myserver.myphuket.net:25461/test2/test2/50
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ELEVEN SPORTS 1 HD 🇵🇹
+http://176.65.146.108:8022/play/a06r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",MAX SPORT 4 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
 http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
+https://cma.footballii.ir/hls2/b3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ELEVEN SPORT 1 🇵🇱
 http://f01.live:8080/ManuelM/151022/135614
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ARENA 2 PREMIUM 🇷🇸
@@ -8110,8 +8126,6 @@ http://181.78.109.49:8000/play/a06r/index.m3u8
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",MAX SPORT 4 🇧🇬
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",S SPORT 1 🇹🇷
 http://f01.live:8080/ManuelM/151022/135574
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ARENA SPORT 6 🇭🇷
@@ -8164,6 +8178,8 @@ http://176.65.146.108:8022/play/a06g/index.m3u8
 http://45.139.122.148:8000/play/a004
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 2 🇶🇦
 http://45.139.122.148:8000/play/a005
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 2 🇶🇦
+https://cma.footballii.ir/hls2/b2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 4 🇶🇦
@@ -8328,6 +8344,8 @@ http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81189
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SPORT 2 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ARENA Sport 1 🇨🇿
+http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",RTVS Sport 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",JOJ Sport 🇨🇿
