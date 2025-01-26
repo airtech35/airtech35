@@ -1873,6 +1873,8 @@ https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",SUDAN TV
 http://45.65.112.49:8000/play/a0nd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Basic Edu
 http://154.58.202.131:8000/play/a02k
 
