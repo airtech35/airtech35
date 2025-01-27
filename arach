@@ -230,6 +230,59 @@ http://195.23.75.15:8000/udp/239.100.6.52:1234
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",DAZN 6 HD
 http://195.23.75.15:8000/udp/239.100.6.53:1234
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="BeINSports.es" group-title="SPORT VIP 🏆",BEIN_SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",FOX_Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",FoxSports2.us
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",FoxSoccerPlus.us
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="SPORT VIP 🏆",ESPN.us
+http://fl1.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",ESPN2.us
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",ESPNEWS.us
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",ESPNU.us
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="SPORT VIP 🏆",Cooking Channel.us
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",CBSSports Network.us
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="CSPAN.us" group-title="SPORT VIP 🏆",CSPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",WWE.us
+https://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:0 tvg-id="BET.us" group-title="SPORT VIP 🏆",BET.us
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",BETHer.us
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",BETSOUL.us
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",BigTen.us
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",ACCNetwork.us
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",MLBNetwork.us
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",MOTORTREND.us
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",MSNBC.us
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",NBAtv.us
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",NBCWMAQ.us
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",GolfChannel.us
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",NFLNetwork.us
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",NHLNetwork.us
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png" group-title="SPORT VIP 🏆", Trace Sports
