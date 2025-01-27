@@ -283,6 +283,19 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",NHLNetwork.us
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",ESPN
+http://23.237.104.106:8080/USA_ESPN1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",ESPN 2
+http://23.237.104.106:8080/USA_ESPN2/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",FS1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",FS2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+Espero te sirva de algo 👍
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png" group-title="SPORT VIP 🏆", Trace Sports
