@@ -199,6 +199,37 @@ https://super-cdn.link/premiere8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="baltijos-lt" group-title="SPORT VIP 🏆",BTV HD
+http://195.23.75.15:8000/udp/239.100.6.14:1234
+#EXTINF:0 tvg-id="SportTV1.svn" group-title="SPORT VIP 🏆",Sport TV 1 HD
+http://195.23.75.15:8000/udp/239.100.6.21:1234
+#EXTINF:0 tvg-id="SportTV3.svn" group-title="SPORT VIP 🏆",Sport TV 3 HD
+http://195.23.75.15:8000/udp/239.100.6.23:1234
+#EXTINF:0 tvg-id="SportTV2.svn" group-title="SPORT VIP 🏆",Sport TV 2 HD
+http://195.23.75.15:8000/udp/239.100.6.22:1234
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="SPORT VIP 🏆",Sport TV 4 HD
+http://195.23.75.15:8000/udp/239.100.6.24:1234
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="SPORT VIP 🏆",Sport TV 5 HD
+http://195.23.75.15:8000/udp/239.100.6.25:1234
+#EXTINF:0 tvg-id="SportTV6.pt" group-title="SPORT VIP 🏆",Sport TV 6 HD
+http://195.23.75.15:8000/udp/239.100.6.26:1234
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",GOL PLAY HD
+http://195.23.75.15:8000/udp/239.100.6.28:1234
+#EXTINF:0 tvg-id="DAZN1.es" group-title="SPORT VIP 🏆",DAZN 1 HD
+http://195.23.75.15:8000/udp/239.100.6.48:1234
+#EXTINF:0 tvg-id="DAZN2.es" group-title="SPORT VIP 🏆",DAZN 2 HD
+http://195.23.75.15:8000/udp/239.100.6.49:1234
+#EXTINF:0 tvg-id="DAZN3.es" group-title="SPORT VIP 🏆",DAZN 3 HD
+http://195.23.75.15:8000/udp/239.100.6.50:1234
+#EXTINF:0 tvg-id="DAZN4.es" group-title="SPORT VIP 🏆",DAZN 4 HD
+http://195.23.75.15:8000/udp/239.100.6.51:1234
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",DAZN 5 HD
+http://195.23.75.15:8000/udp/239.100.6.52:1234
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",DAZN 6 HD
+http://195.23.75.15:8000/udp/239.100.6.53:1234
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png" group-title="SPORT VIP 🏆", Trace Sports
