@@ -69,6 +69,11 @@ https://stream.sainaertebat.com/hls2/bein3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456489.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
@@ -1494,9 +1499,6 @@ https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4hkDn4u" group-title="LEBANON لبنان",nbn
 http://5.9.119.146:8883/nbn/index.m3u8
 
-http://185.9.2.18/chid_1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://bit.ly/42p9LP1" group-title="LEBANON لبنان",AR | [LIB] OTV 
 http://185.9.2.18/chid_312/mono.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",AR | [LIB] LBC 
@@ -1838,7 +1840,6 @@ http://185.9.2.18/chid_352/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" live="1" tvg-logo="http://teledunet.com/logos/alhayat.jpg" group-title="🇪🇬المصرية Egypt",ALHAYAT EGYPT
 http://185.9.2.18/chid_659/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="🇪🇬المصرية Egypt",Al Qahera News  
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/shuoob.eg.png?raw=true" group-title="🇪🇬المصرية Egypt",AlShoob tv
@@ -1855,6 +1856,26 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="🇪🇬المصرية Egypt",El Radio 9090 FM 
 https://9090video.mobtada.com/hls/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NILE SPORTS" live="1" tvg-logo="https://bit.ly/4gi4A75" group-title="🇪🇬المصرية Egypt",NILE SPORTS
+http://teledunet.com:8080/tdn/tdn/240
+#EXTINF:-1 tvg-id="" tvg-name="MISR ELBALAD" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",MISR ELBALAD
+http://teledunet.com:8080/tdn/tdn/9959442
+#EXTINF:-1 tvg-id="" tvg-name="AL MASRIYAH" live="1" tvg-logo="http://teledunet.com/logos/masriyah.jpg" group-title="🇪🇬المصرية Egypt",AL MASRIYAH
+http://teledunet.com:8080/tdn/tdn/335
+#EXTINF:-1 tvg-id="" tvg-name="CBC XTRA NEWS" live="1" tvg-logo="http://teledunet.com/logos/xtra_news.jpg" group-title="🇪🇬المصرية Egypt",CBC XTRA NEWS
+http://teledunet.com:8080/tdn/tdn/329
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT WE ALNASS" live="1" tvg-logo="http://teledunet.com/logos/Logoelnas.png" group-title="🇪🇬المصرية Egypt",ALHAYAT WE ALNASS
+http://teledunet.com:8080/tdn/tdn/369
+#EXTINF:-1 tvg-id="" tvg-name="CBC QURAN KAREEM" live="1" tvg-logo="http://teledunet.com/logos/masr_curan.jpg" group-title="🇪🇬المصرية Egypt",CBC QURAN KAREEM
+http://teledunet.com:8080/tdn/tdn/28
+#EXTINF:-1 tvg-id="" tvg-name="B4U AFLAM" live="1" tvg-logo="http://teledunet.com/logos/B4U_Aflam_Logo.png" group-title="🇪🇬المصرية Egypt",B4U AFLAM
+http://teledunet.com:8080/tdn/tdn/368
+#EXTINF:-1 tvg-id="" tvg-name="CIMA" live="1" tvg-logo="http://teledunet.com/logos/cima.jpg" group-title="🇪🇬المصرية Egypt",CIMA
+http://teledunet.com:8080/tdn/tdn/348
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E
