@@ -71,8 +71,16 @@ https://stream.sainaertebat.com/hls2/bein3.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
 http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456488.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦
 http://www.teledunet.com:8080/tdn/tdn/456489.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456490.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456491.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456492.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
