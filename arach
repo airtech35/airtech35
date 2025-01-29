@@ -83,42 +83,22 @@ http://www.teledunet.com:8080/tdn/tdn/456491.m3u8
 http://www.teledunet.com:8080/tdn/tdn/456492.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 1
-http://138.201.201.122:8080/tdn/tdn/456487.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 2
-http://138.201.201.122:8080/tdn/tdn/456488.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 3
-http://138.201.201.122:8080/tdn/tdn/456489.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 4
-http://138.201.201.122:8080/tdn/tdn/456490.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-5.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 5
-http://138.201.201.122:8080/tdn/tdn/456491.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-6.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 6
-http://138.201.201.122:8080/tdn/tdn/456492.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 7
-http://138.201.201.122:8080/tdn/tdn/456493.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 8
-http://138.201.201.122:8080/tdn/tdn/456494.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 9
-http://138.201.201.122:8080/tdn/tdn/456495.ts
-
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 1 
-http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 2
-http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 3
-http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 4
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 5 
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 6 
-http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 7 
-http://bdd78.4rouwanda-shop.store/live/33523510/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 8 
-http://bdd78.4rouwanda-shop.store/live/996251000/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
