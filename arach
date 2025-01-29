@@ -101,6 +101,26 @@ http://138.201.201.122:8080/tdn/tdn/456494.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 9
 http://138.201.201.122:8080/tdn/tdn/456495.ts
 
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 1 
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 2
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 3
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 4
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 5 
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 6 
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 7 
+http://bdd78.4rouwanda-shop.store/live/33523510/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",Beinsport 8 
+http://bdd78.4rouwanda-shop.store/live/996251000/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
