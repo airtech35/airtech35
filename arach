@@ -662,8 +662,10 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:0 tvg-id="FightNetwork.ca" group-title="SPORT رياضية",Fight Network 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP", باقة شاهد الأصلية 
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",النسخة المدفوعة AirMax TV
+https://bit.ly/3DF4NAn
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Red-Bull-TV
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
@@ -873,11 +875,6 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="OSNاو اس ان",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP", باقة شاهد الأصلية 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid Net VIP", باقة شاهد نت 
 https://bit.ly/3xYLaRh
