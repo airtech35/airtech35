@@ -1401,28 +1401,10 @@ https://pwultrp.alwaysdata.net/rotana.php?channel=rlbc&.m3u8
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA M+" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402611.webp" group-title="ROTANA روتانا",ROTANA M+
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-id="RotanaClip(English).ca(m3u4u)" tvg-name="ROTANA CLIP" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402593.webp" group-title="ROTANA روتانا",ROTANA CLIP
-https://oppomu.serv00.net/rotana.php?channel=rclip&.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA DRAMA" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402515.webp" group-title="ROTANA روتانا",ROTANA DRAMA
-https://oppomu.serv00.net/rotana.php?channel=rdrama&.m3u8
 #EXTINF:-1 tvg-id="RotanaMousica(English).ca(m3u4u)" tvg-name="ROTANA MUSIC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402600.webp" group-title="ROTANA روتانا",ROTANA MUSIC
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA COMEDY" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402522.webp" group-title="ROTANA روتانا",ROTANA COMEDY
-https://oppomu.serv00.net/rotana.php?channel=rcomedy&.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic(English).ca(m3u4u)" tvg-name="ROTANA CLASSIC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402529.webp" group-title="ROTANA روتانا",ROTANA CLASSIC
-https://oppomu.serv00.net/rotana.php?channel=rclassic&.m3u8
-#EXTINF:-1 tvg-id="RotanaCinema(English).ca(m3u4u)" tvg-name="ROTANA CINEMA KSA" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp" group-title="ROTANA روتانا",ROTANA CINEMA KSA
-https://oppomu.serv00.net/rotana.php?channel=rcinemaksa&.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA CINEMA EGY" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402537.webp" group-title="ROTANA روتانا",ROTANA CINEMA EGY
-https://oppomu.serv00.net/rotana.php?channel=rcinemaeg&.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijia(English).ca(m3u4u)" tvg-name="ROTANA KHALIJIA" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402508.webp" group-title="ROTANA روتانا",ROTANA KHALIJIA
-https://oppomu.serv00.net/rotana.php?channel=rkhalijeah&.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CAP RADIO" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_nChBhSU0kPWjxcOvEZBCvJUwbctsiD9Z9Pq3z=s900-c-k-c0x00ffffff-no-rj" group-title="ROTANA روتانا",CAP RADIO
-https://listen.radioking.com/radio/635263/stream/698005
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RADIO TARAB" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsGvLhE3Tt.png" group-title="ROTANA روتانا",RADIO TARAB
-https://stream-159.zeno.fm/fy8achbq97zuv
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PANORAMA FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/PanoramaFM_2021.png" group-title="ROTANA روتانا"",PANORAMA FM
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PANORAMA FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/PanoramaFM_2021.png" group-title="ROTANA روتانا",PANORAMA FM
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBC FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/MBC_FM_logo_original.png" group-title="ROTANA روتانا",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
