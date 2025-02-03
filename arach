@@ -5013,8 +5013,12 @@ https://oppomu.serv00.net/rotana.php?channel=alressalah&.m3u8
 https://win.holol.com/live/saad/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/41cxPkf" group-title="🕌Islami اسلامية",🕌إقرأ
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="IQRAA QURAN" tvg-logo="https://www.iqraa.com/images/video/channels-logos5.png" group-title="🕌Islami اسلامية",IQRAA QURAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 1
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 2
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 3
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Md9nOO" group-title="🕌Islami اسلامية",🕌مــكّة
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZSma9t" group-title="🕌Islami اسلامية",Quraan Kareem🕌
