@@ -1916,6 +1916,8 @@ http://teledunet.com:8080/tdn/tdn/28
 http://teledunet.com:8080/tdn/tdn/368
 #EXTINF:-1 tvg-id="" tvg-name="CIMA" live="1" tvg-logo="http://teledunet.com/logos/cima.jpg" group-title="🇪🇬المصرية Egypt",CIMA
 http://teledunet.com:8080/tdn/tdn/348
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Cairo+ Today
+https://ffs3.gulfsat.com/hbc/index.m3u8
 
 
 
