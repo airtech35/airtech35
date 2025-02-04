@@ -1217,6 +1217,11 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5
 https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBC2" tvg-logo="https://bit.ly/40KD5yj" group-title="MBC أم بي سي",MBC2
 http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC أم بي سي",MBC MAX
+http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uOdmrz" group-title="MBC أم بي سي",|MBC| Action
+http://149.57.37.10/EX/MBC_ACTION_FHD-ar/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",|MBC| 3 SD
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="MBC أم بي سي",MBC 4
@@ -1343,7 +1348,6 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="MBC أم بي سي",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
 
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC VIP1 أم بي سي",MBC MAX HD
 http://154.54.220.67:34780/play/a01q
