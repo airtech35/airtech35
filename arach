@@ -1221,7 +1221,6 @@ http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uOdmrz" group-title="MBC أم بي سي",|MBC| Action
 http://149.57.37.10/EX/MBC_ACTION_FHD-ar/index.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",|MBC| 3 SD
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="MBC أم بي سي",MBC 4
@@ -1396,9 +1395,6 @@ http://185.9.2.18/chid_2179/mono.m3u8
 http://185.9.2.18/chid_2179/mono.m3u8
 
 
-
-#EXTINF:-1 tvg-id="LBC.us(m3u4u)" tvg-name="LBC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" group-title="ROTANA روتانا",LBC
-https://pwultrp.alwaysdata.net/rotana.php?channel=rlbc&.m3u8
 #EXTINF:-1 tvg-id="RotanaPlus(English).fr(m3u4u)" tvg-name="ROTANA AFLAM+" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp" group-title="ROTANA روتانا",ROTANA AFLAM+
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA M+" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402611.webp" group-title="ROTANA روتانا",ROTANA M+
