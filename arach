@@ -32,6 +32,27 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a07s
 
+
+Angers vs Marseille
+
+https://sss.vffddd.online/beinhd4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://sss.vffddd.online:443/beinhd4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://sss.vffddd.online/beinhd4/index.m3u8
+
+Napoli vs udinese
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://1c3ed9b946c.muchasgraciasaficion.one/live/B70sx.m3u8
+
+Sevilla vs Barcelona
+
+https://sss.vffddd.online/bein1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://sss.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
 http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
 
