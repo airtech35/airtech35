@@ -33,6 +33,12 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 http://154.58.202.131:8000/play/a07s
 
 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_B/tracks-v1/index.fmp4.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_D/tracks-v1a1/mono.ts.m3u8
 Angers vs Marseille
 
 https://sss.vffddd.online/beinhd4/index.m3u8
