@@ -59,8 +59,7 @@ https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 https://sss.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -12
 http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -133
-http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ffvideo6d.ddns.me%2F2vod5n%2Fsok-al7rmea-20.mp4%2Fchunk.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
