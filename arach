@@ -59,6 +59,8 @@ https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 https://sss.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -12
 http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -13
+http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-5.php
 
 
 
