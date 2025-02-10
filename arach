@@ -232,8 +232,6 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC 1 
 https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8
-#EXTINF:0 CUID="61" tvg-name="SSC HD1" group-title="SSC SPORT",SSC HD1
-http://platform.topuphost.com:8577/live/ssc1/playlist.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1 🇸🇦
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1 🇸🇦
