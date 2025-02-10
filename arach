@@ -34,43 +34,31 @@ http://154.58.202.131:8000/play/a07s
 
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+http://het125a.4rouwanda-shop.store/live/996251000/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -1
+https://live4.karwan.tv/ch8/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -2
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -3
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_B/tracks-v1/index.fmp4.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -4
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_D/tracks-v1a1/mono.ts.m3u8
-Angers vs Marseille
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -5
 https://sss.vffddd.online/beinhd4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -6
 https://sss.vffddd.online:443/beinhd4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -7
 https://sss.vffddd.online/beinhd4/index.m3u8
-
-Napoli vs udinese
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -8
 https://1c3ed9b946c.muchasgraciasaficion.one/live/B70sx.m3u8
-
-Sevilla vs Barcelona
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -9
 https://sss.vffddd.online/bein1/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -10
 https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -11
 https://sss.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -0
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4aK9FUl",LIVE 24 -12
 http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBAR SPORT HD
-http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
-https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
-https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
-http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
@@ -115,6 +103,17 @@ https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 8 🇶🇦
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 9 🇶🇦
+
+
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBAR SPORT HD
+http://stream.nubar.tv:1935/private/NUBARSport/halabja88.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",NUBARSport
+http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
