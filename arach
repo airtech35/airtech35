@@ -272,6 +272,11 @@ http://platform.topuphost.com:8577/live/orient2.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/watar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/RayaHD1.m3u8
+#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 2
+https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/RayaHD2.m3u8
+#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 3
+https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/RayaHD3.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
 http://platform.topuphost.com:8577/live/RayaHD1_web.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 2
