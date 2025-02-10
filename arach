@@ -270,6 +270,8 @@ http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/orient2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",وتر الرياضية 2
 http://platform.topuphost.com:8577/live/watar.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",وتر الرياضية 2+
+https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/watar2.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/RayaHD1.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 2
