@@ -267,7 +267,7 @@ http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 5
 http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
-https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/RayaHD1.m3u8
+https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/RayaHD11.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 2
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-2/RayaHD2.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 3
