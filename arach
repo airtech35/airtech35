@@ -106,6 +106,16 @@ https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
 
 
+#EXTINF:0 CUID="3" tvg-name="⚽ beIN SPORTS 1ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 1ᴴᴰ
+http://platform.topuphost.com:8577/live/bein1/playlist.m3u8
+#EXTINF:0 CUID="4" tvg-name="⚽ beIN SPORTS 2ᴴᴰ" group-title="BEIN SPORT بين سبورD",beIN SPORTS 2ᴴᴰ
+http://platform.topuphost.com:8577/live/bein2/playlist.m3u8
+#EXTINF:0 CUID="5" tvg-name="⚽ beIN SPORTS 3ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 3ᴴᴰ
+http://platform.topuphost.com:8577/live/bein3/playlist.m3u8
+#EXTINF:0 CUID="6" tvg-name="⚽ beIN SPORTS 4ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 4ᴴᴰ
+http://platform.topuphost.com:8577/live/bein4/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="", BEIN 1 1080
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
@@ -221,6 +231,8 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC 1 
 https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8
+#EXTINF:0 CUID="61" tvg-name="SSC HD1" group-title="SSC SPORT",SSC HD1
+http://platform.topuphost.com:8577/live/ssc1/playlist.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1 🇸🇦
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1 🇸🇦
@@ -263,9 +275,9 @@ http://platform.topuphost.com:8577/live/RayaHD1_web.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 2
 http://platform.topuphost.com:8577/live/RayaHD_web.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hr.ps/media/logo-01.png",الحرية الرياضية
+#EXTINF:-1 tvg-logo="https://hr.ps/media/logo-01.png" group-title="Fajer TV",الحرية الرياضية
 http://platform.topuphost.com:8577/live/alhouriyah3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png",حلا الرياضية 
+#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",حلا الرياضية 
 http://platform.topuphost.com:8577/live/7alafm2020.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY SPORTS", SKY SPORTS VIP
