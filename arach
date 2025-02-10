@@ -59,9 +59,6 @@ https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 https://sss.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -12
 http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -13
-https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/Alfaj.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
@@ -237,6 +234,39 @@ https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_A/tracks-v1a1/mono.t
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_B/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC2 🇸🇦
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_A/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Fajer TV",SPORT CHANNELS
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Fajer TV",كيف احصل على الكود
+https://bit.ly/3gj9PK5
+
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr1 1080
+http://platform.topuphost.com:8577/live/alfajerhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr1 480p
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 2 
+http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 3
+http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 4
+http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 5
+http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",وتر الرياضية
+http://platform.topuphost.com:8577/live/orient2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",وتر الرياضية 2
+http://platform.topuphost.com:8577/live/watar.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
+http://platform.topuphost.com:8577/live/RayaHD1_web.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 2
+http://platform.topuphost.com:8577/live/RayaHD_web.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hr.ps/media/logo-01.png",الحرية الرياضية
+http://platform.topuphost.com:8577/live/alhouriyah3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png",حلا الرياضية 
+http://platform.topuphost.com:8577/live/7alafm2020.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY SPORTS", SKY SPORTS VIP
 https://bit.ly/3xYLaRh
