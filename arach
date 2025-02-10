@@ -109,7 +109,7 @@ https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
 #EXTINF:0 CUID="3" tvg-name="⚽ beIN SPORTS 1ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 1ᴴᴰ
 http://platform.topuphost.com:8577/live/bein1/playlist.m3u8
-#EXTINF:0 CUID="4" tvg-name="⚽ beIN SPORTS 2ᴴᴰ" group-title="BEIN SPORT بين سبورD",beIN SPORTS 2ᴴᴰ
+#EXTINF:0 CUID="4" tvg-name="⚽ beIN SPORTS 2ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 2ᴴᴰ
 http://platform.topuphost.com:8577/live/bein2/playlist.m3u8
 #EXTINF:0 CUID="5" tvg-name="⚽ beIN SPORTS 3ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 3ᴴᴰ
 http://platform.topuphost.com:8577/live/bein3/playlist.m3u8
