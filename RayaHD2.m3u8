@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1242191,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
-http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD_web/web1/chunks.m3u8%3Fnimblesessionid%3D867251390
+#EXT-X-STREAM-INF:BANDWIDTH=1821632,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
+http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD_web/web1/chunks.m3u8%3Fnimblesessionid%3D867436734
