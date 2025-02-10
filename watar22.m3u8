@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:38930
+#EXTINF:5.705,
+http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http://vstream3.hadara.ps:8081/watar/watar/l_15512737_233581515_38930.ts%3Fnimblesessionid%3D867267727
+#EXTINF:6.006,
+http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http://vstream3.hadara.ps:8081/watar/watar/l_15512737_233587220_38931.ts%3Fnimblesessionid%3D867267727
+#EXTINF:6.006,
+http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http://vstream3.hadara.ps:8081/watar/watar/l_15512737_233593226_38932.ts%3Fnimblesessionid%3D867267727
+#EXTINF:6.006,
+http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http://vstream3.hadara.ps:8081/watar/watar/l_15512737_233599232_38933.ts%3Fnimblesessionid%3D867267727
