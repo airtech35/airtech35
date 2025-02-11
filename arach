@@ -1863,8 +1863,7 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV 
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine live🇵🇸
-https://pbc.furrera.ps/palestinelivehd/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="🇵🇸فلسطينPALESTINE",PAL-alaqsa_tv_live 🇵🇸
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="🇵🇸فلسطينPALESTINE",Al Najah News 
