@@ -450,7 +450,20 @@ https://super-cdn.link/premiere8/index.m3u8
 https://bit.ly/3xYLaRh
 
 
-#EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Premiere 1
+https://ie.sonyrepairs.com/pr1/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Premiere 2
+https://ie.sonyrepairs.com/pr2/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Premiere 3
+https://ie.sonyrepairs.com/pr3/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Premiere 4
+https://ie.sonyrepairs.com/pr4/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Premiere 5
+https://ie.sonyrepairs.com/pr5/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Premiere 6
+https://ie.sonyrepairs.com/pr6/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Sky Sport F1
+https://ie.sonyrepairs.com/skspf1/index.m3u8
 #EXTINF:0 tvg-id="baltijos-lt" group-title="SPORT VIP 🏆",BTV HD
 http://195.23.75.15:8000/udp/239.100.6.14:1234
 #EXTINF:0 tvg-id="SportTV1.svn" group-title="SPORT VIP 🏆",Sport TV 1 HD
