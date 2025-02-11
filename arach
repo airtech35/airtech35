@@ -321,9 +321,9 @@ http://platform.topuphost.com:8577/live/7alafm2020.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" ,تلفزيون البهاء
+#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" ,تلفزيون البهاء 2
+#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء 2
 http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.salam-tv.net/media/images/logo-bn.png" group-title="Fajer TV",السلام الرياضية
 http://platform.topuphost.com:8577/live/salam.stream/playlist.m3u8
@@ -337,11 +337,11 @@ http://platform.topuphost.com:8577/live/alfajerhd.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",فجر 2 
 http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" ,فجر 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",فجر 3
 http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" ,فجر 4
+#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",فجر 4
 http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" ,فجر 5
+#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",فجر 5
 http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 1 FHD
@@ -365,17 +365,17 @@ http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vs
 http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,سبورت bein1
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein1
 http://line.4k-beast.co:80/live/7F7C7A/353652/897681.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" ,سبورت bein2
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein2
 http://line.4k-beast.co:80/live/7F7C7A/353652/897752.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,سبورت bein3
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein3
 http://line.4k-beast.co:80/live/7F7C7A/353652/968454.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 4 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,سبورت bein4
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein4
 http://line.4k-beast.co:80/live/7F7C7A/353652/897754.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/fullhd_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="Fajer TV",سبورت SSC1
 http://dreamtv22.info:25461/live/005450474517/661310720023/36776.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS NBA"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,سبورت NBA
+#EXTINF:-1 tvg-name="BEIN SPORTS NBA"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Fajer TV",سبورت NBA
 http://iptv.ndasat.xyz:88/live/221781184158716/221781184158716/1631.m3u8
 
 #EXTINF:-1 tvg-logo="https://hr.ps/media/logo-01.png" group-title="Fajer TV",الحرية الرياضية
@@ -410,10 +410,10 @@ http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" ,الاقصى
+#EXTINF:-1 tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="Fajer TV",الاقصى
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 
-#EXTINF:-1 tvg-id="Baladna.ps" tvg-logo="https://i.imgur.com/Q0E4LLi.png" ,بلدنا
+#EXTINF:-1 tvg-id="Baladna.ps" tvg-logo="https://i.imgur.com/Q0E4LLi.png" group-title="Fajer TV",بلدنا
 http://htvmada.mada.ps:8888/baladna/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.maannews.net/2022_assets/images/logo.png" group-title="Fajer TV",وكالة معا
@@ -421,7 +421,7 @@ http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-country="RO" tvg-logo="https://almadina.tv/wp-content/uploads/2021/07/logo-.png" ,تلفزيون المدينة
+#EXTINF:-1 tvg-country="RO" tvg-logo="https://almadina.tv/wp-content/uploads/2021/07/logo-.png" group-title="Fajer TV",تلفزيون المدينة
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/logo2021_ar.png" group-title="Fajer TV",النجاح
 https://streaming.najah.edu:8443/hls/AlNajah_hd720/index.m3u8
@@ -435,21 +435,16 @@ https://flu.systemnet.tv/Radio-Hayat/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://hala-tv.com/images/hala_logo.png" group-title="Fajer TV",هلا رام الله
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://halalondontv.com/wp-content/uploads/2021/08/hala-london-logo-v1-1-e1725455699176.png" ,هلا لندن
+#EXTINF:-1 tvg-logo="https://halalondontv.com/wp-content/uploads/2021/08/hala-london-logo-v1-1-e1725455699176.png" group-title="Fajer TV",هلا لندن
 https://lesqqytnls.erbvr.com/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://hala-tv.com/images/hala_logo.png" group-title="Fajer TV",هلا تي في
 https://stream.panet.com/edge/halaTV/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/makan.png" group-title="Fajer TV",مكان
 https://makanw.media.kan.org.il/hls/live/2108894/2108894/source1_1.2k/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.rajeen.tv/logo.png" group-title="Fajer TV",راجعين
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/awdeh.png" group-title="Fajer TV",عودة
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/marah.png" group-title="Fajer TV",مرح
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.mawwal.ps/ar/wp-content/uploads/2015/01/download1.jpg" group-title="Fajer TV",موال
