@@ -107,6 +107,26 @@ https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 1 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 2 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 3 Connect 
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 4 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-4_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 5 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-5_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 6 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-6_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 7 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-7_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 8 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-8_A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="BEIN SPORT بين سبور",beIN Sports HD 9 Connect
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-8_A/index.m3u8
+
+
 #EXTINF:0 CUID="3" tvg-name="⚽ beIN SPORTS 1ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 1ᴴᴰ
 http://platform.topuphost.com:8577/live/bein1/playlist.m3u8
 #EXTINF:0 CUID="4" tvg-name="⚽ beIN SPORTS 2ᴴᴰ" group-title="BEIN SPORT بين سبور",beIN SPORTS 2ᴴᴰ
