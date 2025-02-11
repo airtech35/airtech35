@@ -303,29 +303,10 @@ http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/RayaHD_web.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.salam-tv.net/media/images/logo-bn.png" group-title="Fajer TV",السلام الرياضية
 http://platform.topuphost.com:8577/live/salam.stream/playlist.m3u8
-
-http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية الرياضية
 http://platform.topuphost.com:8577/live/RayaHD_web.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",اوريانتيد
 http://platform.topuphost.com:8577/live/orient2.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein1
-http://line.4k-beast.co:80/live/7F7C7A/353652/897681.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein2
-http://line.4k-beast.co:80/live/7F7C7A/353652/897752.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein3
-http://line.4k-beast.co:80/live/7F7C7A/353652/968454.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 4 4K"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Fajer TV",سبورت bein4
-http://line.4k-beast.co:80/live/7F7C7A/353652/897754.m3u8
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/fullhd_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="Fajer TV",سبورت SSC1
-http://dreamtv22.info:25461/live/005450474517/661310720023/36776.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS NBA"tvg-id=""tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Fajer TV",سبورت NBA
-http://iptv.ndasat.xyz:88/live/221781184158716/221781184158716/1631.m3u8
-
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء 2
