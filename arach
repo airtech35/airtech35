@@ -59,6 +59,22 @@ https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 https://sss.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -12
 http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -13
+https://1c3ed9b946c.muchasgraciasaficion.one/live/s2soY8_sd.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -14
+https://sss.vffddd.online/bein3/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -15
+https://sss.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -16
+https://sss.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -17
+https://hastycast.best/hls/54daz6fe4za.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -18
+https://sss.vffddd.online/bein2/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -19
+https://sss.vffddd.online:443/bein2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -20
+https://sss.vffddd.online/bein2/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -287,6 +303,10 @@ http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/RayaHD_web.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.salam-tv.net/media/images/logo-bn.png" group-title="Fajer TV",السلام الرياضية
 http://platform.topuphost.com:8577/live/salam.stream/playlist.m3u8
+
+http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية الرياضية
 http://platform.topuphost.com:8577/live/RayaHD_web.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",اوريانتيد
