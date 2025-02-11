@@ -8514,7 +8514,7 @@ http://89.238.193.38:8000/play/a07c/index.m3u8
 http://89.238.193.38:8000/play/a07z/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5 🇮🇱
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5 
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
@@ -8936,9 +8936,9 @@ http://78.130.250.2:8023/play/a02o/index.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",JOJ Sport 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5 🇮🇱
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5 
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",4Sports 🇮🇱
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",4Sports 
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
