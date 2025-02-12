@@ -1280,6 +1280,10 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Zw34rP.png" group-title="📰NEWS الاخبار",TRT Arabi HD
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="📰NEWS الاخبار",AL GHAD TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="📰NEWS الاخبار",AL GHAD PLUS
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰NEWS الاخبار",CGTN الاخبارNEWS📰
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqMfXqB.png" group-title="📰NEWS الاخبار",Al Araby HD
@@ -2329,19 +2333,24 @@ http://154.58.202.131:8000/play/a04r
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="SalamTV.ly" tvg-logo="https://i.imgur.com/yQDAReE.png" group-title="🇱🇾ليبياLIBYA",Salam TV 
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCBL5fNk/lybiawat.jpg" group-title="🇱🇾ليبياLIBYA",LIBYA WATANYA
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="🇱🇾ليبياLIBYA",Al Masar TV 
-https://master.starmena-cloud.com/hls/almasar.m3u8
+https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://i.imgur.com/xkQKVGi.png" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar TV 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
 https://stream.castr.com/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾ليبياLIBYA",Tanasuh TV 
 https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="" group-title="🇱🇾ليبياLIBYA",Wasat TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPv27Qc/wtw.jpg" group-title="🇱🇾ليبياLIBYA",AL WASAT TV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7PcRQCG/sudan.png" group-title="🇸🇩السودانSUDAN",SUDAN TV
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",SUDAN TV
 http://45.65.112.49:8000/play/a0nd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Dabanga TV
@@ -2528,7 +2537,7 @@ https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah  
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.ibb.co/99cj3D4g/Masirah.jpg" group-title="🇾🇪اليمن Yemen",Al Masirah  
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher🇾🇪
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8
@@ -2536,7 +2545,7 @@ https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_
 https://starmenajo.com/hls/yemenshabab/index.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV 
 https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYXzDd" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Documentary
 http://154.58.202.131:8000/play/a03p
