@@ -75,6 +75,8 @@ https://sss.vffddd.online/bein2/index.m3u8
 https://sss.vffddd.online:443/bein2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -20
 https://sss.vffddd.online/bein2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -21
+https://cors-proxy.cooks.fyi/https://neacdnpop3-edge02.aws.playco.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
 
 
 
