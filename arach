@@ -2060,6 +2060,8 @@ http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="🇮🇶العراق IRAQ",AL Rabiaa TV
 http://5.253.46.190:7002/play/a0e8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="🇮🇶العراق IRAQ",AL Rabiaa TV
+https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3jvcrH1" group-title="🇮🇶العراق IRAQ",AL Mawsleya
 http://154.197.91.168:7002/play/a0ev
 #EXTINF:-1 group-title="🇮🇶العراق IRAQ" tvg-logo="https://bit.ly/3jvcrH1", 🇮🇶الموصلية
@@ -2244,7 +2246,7 @@ http://149.62.177.103:8000/play/a08b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde 
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+https:\\cdn-globecast.akamaized.net\live\eds\2m_monde\hls_video_ts_tuhawxpiemz257adfc\2m_monde.m3u8
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde 
 http://154.58.202.185:8000/play/a04k
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 
@@ -2335,6 +2337,8 @@ https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="🇱🇾ليبياLIBYA",Al Masar TV 
 https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Mostakbal
+http://41.33.221.140:1935/monitor/libyaalmustaqbal.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://i.imgur.com/xkQKVGi.png" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar TV 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
 https://stream.castr.com/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/tracks-v1/index.fmp4.m3u8
@@ -2506,9 +2510,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",🇰🇼كيف احصل على الكود
 https://bit.ly/3gj9PK5
-
-
-
 
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="🇰🇼الكويت Kuwait",KTV 1 🇰🇼
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
