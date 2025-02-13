@@ -2295,6 +2295,18 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="🇹🇳تونسTUNISIE",Mosaïque FM  
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia 1 HD
+http://154.58.202.185:8000/play/a03q
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia 2 HD
+http://154.58.202.185:8000/play/a03r
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia Educ1
+http://154.58.202.185:8000/play/a03l
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia Nat 1
+http://154.58.202.185:8000/play/a03g
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia Nat 2
+http://154.58.202.185:8000/play/a03h
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisna
+http://154.58.202.185:8000/play/a03m
 
 
 #EXTM3U
