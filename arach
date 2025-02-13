@@ -2341,8 +2341,20 @@ https://starmenajo.com/hls/almasar/index.m3u8
 http://41.33.221.140:1935/monitor/libyaalmustaqbal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPv27Qc/wtw.jpg" group-title="🇱🇾ليبياLIBYA",AL WASAT TV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://almustaqbal.ly/storage/logo/7UCJux3H1HOBOBH9NtZe7jyeipyYRiJ3N5WgtHMJ.png" group-title="🇱🇾ليبياLIBYA",ALmustaqbal TV
+http://41.33.221.140:1935/monitor/libyaalmustaqbal.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾ليبياLIBYA",Tanasuh TV 
 https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TN: ALMUSTAKILLAH TV" tvg-logo="http://pro.netmos.ovh:6051/img/almustakillahtv.png" group-title="🇱🇾ليبياLIBYA",ALMUSTAKILLAH TV
+http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/148.m3u8
+#EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://alrasmia.ly/wp-content/uploads/2024/05/channels4_profile-01.png" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
+http://154.58.202.185:8000/play/a05y
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJAYnnyLZhQZf2EGPUeOn5SyuUoMAa9B8pg&s" group-title="🇱🇾ليبياLIBYA",ibya Education
+http://154.58.202.185:8000/play/a060
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://img.kooora.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
+http://154.58.202.185:8000/play/a05x
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://akhbar.today/wp-content/uploads/2024/02/234234.png" group-title="🇱🇾ليبياLIBYA",Libya Sport 2 HD
+http://154.58.202.185:8000/play/a05z
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://i.imgur.com/xkQKVGi.png" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar TV 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
 https://stream.castr.com/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/tracks-v1/index.fmp4.m3u8
