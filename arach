@@ -282,6 +282,21 @@ https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_B/tracks-v1a1/mono.t
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC2 🇸🇦
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_A/index.m3u8
 
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC News HD
+http://154.58.202.185:8000/play/a06l
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1
+http://154.58.202.185:8000/play/a06h
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC5
+http://154.58.202.185:8000/play/a06i
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC 4 HD
+http://154.58.202.185:8000/play/a0ee
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC Extra 1
+http://154.58.202.185:8000/play/a06j
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC Extra 2
+http://154.58.202.185:8000/play/a06k
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Fajer TV",SPORT CHANNELS
 https://bit.ly/3xYLaRh
@@ -307,6 +322,8 @@ http://platform.topuphost.com:8577/live/salam.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/RayaHD_web.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",اوريانتيد
 http://platform.topuphost.com:8577/live/orient2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ps4l.org/uploads/100Q200W370H1582656598234261246.png" group-title="Fajer TV",Palestine Sport
+http://154.58.202.185:8000/play/a00d
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء 2
@@ -1214,6 +1231,21 @@ https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_%D9%82%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.webp" group-title="Al Majd قنوات المجد",Almajd 01
+http://154.58.202.185:8000/play/a0al
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_%D9%82%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.webp" group-title="Al Majd قنوات المجد",Almajd 01 SD
+http://154.58.202.185:8000/play/a0b0
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_%D9%82%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.webp" group-title="Al Majd قنوات المجد",Almajd 02
+http://154.58.202.185:8000/play/a0am
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_%D9%82%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.webp" group-title="Al Majd قنوات المجد",Almajd 03
+http://154.58.202.185:8000/play/a0an
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_%D9%82%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.webp" group-title="Al Majd قنوات المجد",Almajd 04
+http://154.58.202.185:8000/play/a0ao
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_%D9%82%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.webp" group-title="Al Majd قنوات المجد",Almajd 05
+http://154.58.202.185:8000/play/a0ap
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_%D9%82%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.webp" group-title="Al Majd قنوات المجد",Almajd 08
+http://154.58.202.185:8000/play/a0as
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ART VIP", باقة art 
 https://bit.ly/3xYLaRh
@@ -2245,9 +2277,7 @@ http://149.62.177.103:8000/play/a08b
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde 
-https:\\cdn-globecast.akamaized.net\live\eds\2m_monde\hls_video_ts_tuhawxpiemz257adfc\2m_monde.m3u8
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde+
+#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde
 http://154.58.202.185:8000/play/a04k
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 
 https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
