@@ -268,19 +268,6 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC 1 
 https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_B/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC1 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/index.m3u8
-
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC2 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_A/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC2 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_B/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC2 🇸🇦
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-2_A/index.m3u8
 
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://zad-za.github.io/11/images/dM7GQXG.png" group-title="SSC SPORT",SSC News HD
 http://154.58.202.185:8000/play/a06l
