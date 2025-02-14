@@ -84,8 +84,7 @@ https://dffgtrda.vffddd.online:8181/bein4/tracks-v1a1/mono.ts.m3u8
 https://dffgtrda.vffddd.online:8181/bein4/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -25
 https://sss.vffddd.online/bein4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -26+
-http://cdntv.online/low/9mlxywika2/1022.mpeg
+
 
 
 
@@ -116,8 +115,8 @@ http://www.teledunet.com:8080/tdn/tdn/456492.m3u8
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 1 🇶🇦
 https://wo.cma.footballii.ir/hls2/b1_src.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 2 🇶🇦
-
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 2 🇶🇦++
+http://cdntv.online/low/9mlxywika2/1022.mpeg
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 3 🇶🇦
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 4 🇶🇦
