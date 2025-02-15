@@ -117,6 +117,10 @@ https://wo.cma.footballii.ir/hls2/b1.m3u8
 https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 2 🇶🇦++
 http://cdntv.online/low/9mlxywika2/1022.mpeg
+
+https://cdntv.online/high/9mlxywika2/37.m3u8
+
+https://cdntv.online/high/p9j41aun3x/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 3 🇶🇦
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 4 🇶🇦
@@ -9670,6 +9674,80 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="🇩🇪 Germany",Phoenix  [Geo-blocked]
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+
+#EXTINF:0 tvg-id="1012" tvg-logo="http://epg.cdntv.online/img/1012.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", VOX DE+
+https://cdntv.online/high/9mlxywika2/1012.m3u8
+#EXTINF:0 tvg-id="1013" tvg-logo="http://epg.cdntv.online/img/1013.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sat. 1 DE
+https://cdntv.online/high/9mlxywika2/1013.m3u8
+#EXTINF:0 tvg-id="1014" tvg-logo="http://epg.cdntv.online/img/1014.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sat. 1 Gold HD DE
+https://cdntv.online/high/9mlxywika2/1014.m3u8
+#EXTINF:0 tvg-id="1015" tvg-logo="http://epg.cdntv.online/img/1015.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sport 1 HD DE
+https://cdntv.online/high/9mlxywika2/1015.m3u8
+#EXTINF:0 tvg-id="1016" tvg-logo="http://epg.cdntv.online/img/1016.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Kabel Eins DE
+https://cdntv.online/high/9mlxywika2/1016.m3u8
+#EXTINF:0 tvg-id="1017" tvg-logo="http://epg.cdntv.online/img/1017.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", N-TV HD DE
+https://cdntv.online/high/9mlxywika2/1017.m3u8
+#EXTINF:0 tvg-id="1068" tvg-logo="http://epg.cdntv.online/img/1068.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", ProSieben HD DE
+https://cdntv.online/high/9mlxywika2/1068.m3u8
+#EXTINF:0 tvg-id="1069" tvg-logo="http://epg.cdntv.online/img/1069.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", RTL DE
+https://cdntv.online/high/9mlxywika2/1069.m3u8
+#EXTINF:0 tvg-id="1070" tvg-logo="http://epg.cdntv.online/img/1070.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", RTL2 HD DE
+https://cdntv.online/high/9mlxywika2/1070.m3u8
+#EXTINF:0 tvg-id="1071" tvg-logo="http://epg.cdntv.online/img/1071.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Super RTL HD DE
+https://cdntv.online/high/9mlxywika2/1071.m3u8
+#EXTINF:0 tvg-id="1072" tvg-logo="http://epg.cdntv.online/img/1072.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sky Sport 1 HD DE
+https://cdntv.online/high/9mlxywika2/1072.m3u8
+#EXTINF:0 tvg-id="1073" tvg-logo="http://epg.cdntv.online/img/1073.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sky Sport 2 HD DE
+https://cdntv.online/high/9mlxywika2/1073.m3u8
+#EXTINF:0 tvg-id="1075" tvg-logo="http://epg.cdntv.online/img/1075.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sky Cinema +24 HD
+https://cdntv.online/high/9mlxywika2/1075.m3u8
+#EXTINF:0 tvg-id="1076" tvg-logo="http://epg.cdntv.online/img/1076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sky Cinema Action HD DE
+https://cdntv.online/high/9mlxywika2/1076.m3u8
+#EXTINF:0 tvg-id="1077" tvg-logo="http://epg.cdntv.online/img/1077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sky Cinema Best HD DE
+https://cdntv.online/high/9mlxywika2/1077.m3u8
+#EXTINF:0 tvg-id="1078" tvg-logo="http://epg.cdntv.online/img/1078.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sky Cinema Family HD DE
+https://cdntv.online/high/9mlxywika2/1078.m3u8
+#EXTINF:0 tvg-id="1079" tvg-logo="http://epg.cdntv.online/img/1079.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sky Cinema Special HD DE
+https://cdntv.online/high/9mlxywika2/1079.m3u8
+#EXTINF:0 tvg-id="1060" tvg-logo="http://epg.cdntv.online/img/1060.png" group-title="🇩🇪 Germany", Welt HD
+https://cdntv.online/high/9mlxywika2/1060.m3u8
+#EXTINF:0 tvg-id="439" tvg-logo="http://epg.cdntv.online/img/439.png" group-title="🇩🇪 Germany", Deutsche Welle
+https://cdntv.online/high/9mlxywika2/439.m3u8
+#EXTINF:0 tvg-id="908" tvg-logo="http://epg.cdntv.online/img/908.png" group-title="🇩🇪 Germany", Allgäu TV
+https://cdntv.online/high/9mlxywika2/908.m3u8
+#EXTINF:0 tvg-id="909" tvg-logo="http://epg.cdntv.online/img/909.png" group-title="🇩🇪 Germany", Augsburg TV
+https://cdntv.online/high/9mlxywika2/909.m3u8
+#EXTINF:0 tvg-id="910" tvg-logo="http://epg.cdntv.online/img/910.png" group-title="🇩🇪 Germany", Baden TV
+https://cdntv.online/high/9mlxywika2/910.m3u8
+#EXTINF:0 tvg-id="912" tvg-logo="http://epg.cdntv.online/img/912.png" group-title="🇩🇪 Germany", Donau TV
+https://cdntv.online/high/9mlxywika2/912.m3u8
+#EXTINF:0 tvg-id="913" tvg-logo="http://epg.cdntv.online/img/913.png" group-title="🇩🇪 Germany", Campus TV
+https://cdntv.online/high/9mlxywika2/913.m3u8
+#EXTINF:0 tvg-id="914" tvg-logo="http://epg.cdntv.online/img/914.png" group-title="🇩🇪 Germany", Filstalwelle
+https://cdntv.online/high/9mlxywika2/914.m3u8
+#EXTINF:0 tvg-id="915" tvg-logo="http://epg.cdntv.online/img/915.png" group-title="🇩🇪 Germany", Franken Fernsehen HD
+https://cdntv.online/high/9mlxywika2/915.m3u8
+#EXTINF:0 tvg-id="916" tvg-logo="http://epg.cdntv.online/img/916.png" group-title="🇩🇪 Germany", FS1 AUSTRIA
+https://cdntv.online/high/9mlxywika2/916.m3u8
+#EXTINF:0 tvg-id="917" tvg-logo="http://epg.cdntv.online/img/917.png" group-title="🇩🇪 Germany", Halle
+https://cdntv.online/high/9mlxywika2/917.m3u8
+#EXTINF:0 tvg-id="920" tvg-logo="http://epg.cdntv.online/img/920.png" group-title="🇩🇪 Germany", München TV
+https://cdntv.online/high/9mlxywika2/920.m3u8
+#EXTINF:0 tvg-id="921" tvg-logo="http://epg.cdntv.online/img/921.png" group-title="🇩🇪 Germany", NRWision
+https://cdntv.online/high/9mlxywika2/921.m3u8
+#EXTINF:0 tvg-id="922" tvg-logo="http://epg.cdntv.online/img/922.png" group-title="🇩🇪 Germany", Oberpfalz TV
+https://cdntv.online/high/9mlxywika2/922.m3u8
+#EXTINF:0 tvg-id="924" tvg-logo="http://epg.cdntv.online/img/924.png" group-title="🇩🇪 Germany", RNF
+https://cdntv.online/high/9mlxywika2/924.m3u8
+#EXTINF:0 tvg-id="925" tvg-logo="http://epg.cdntv.online/img/925.png" group-title="🇩🇪 Germany", RFO
+https://cdntv.online/high/9mlxywika2/925.m3u8
+#EXTINF:0 tvg-id="926" tvg-logo="http://epg.cdntv.online/img/926.png" group-title="🇩🇪 Germany", Saarland Fernsehen 1
+https://cdntv.online/high/9mlxywika2/926.m3u8
+#EXTINF:0 tvg-id="927" tvg-logo="http://epg.cdntv.online/img/927.png" group-title="🇩🇪 Germany", Saarland Fernsehen 2
+https://cdntv.online/high/9mlxywika2/927.m3u8
+
+
 #EXTINF:-1 tvg-id="AllgauTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="🇩🇪 Germany",Allgäu TV 
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AltenburgTV.de" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="🇩🇪 Germany",Altenburg TV 
