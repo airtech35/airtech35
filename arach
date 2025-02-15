@@ -591,6 +591,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORT VIP 🏆", Sony Sports 1 Tofe
 https://cdn.hoichoi24.com/sonyten1hd/video.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="SONY TEN 2" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SPORT VIP 🏆",SONY TEN 2
+https://cdn.hoichoi24.com/SP-SONY-TEN-2-hoichoi24.com/video.m3u8
 #EXTINF:-1 group-title="SPORT VIP 🏆" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="SPORT VIP 🏆", Sky Sports
