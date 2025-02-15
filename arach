@@ -462,6 +462,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",WilloweExtra
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SKY SPORTS", Sony Sports 1 Tofe
+https://cdn.hoichoi24.com/sonyten1hd/video.m3u8
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="SKY SPORTS", Sky Sports
