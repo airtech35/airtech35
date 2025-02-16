@@ -2120,7 +2120,8 @@ http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 https://htvint.mada.ps/kolalnas/index.m3u8
 #EXTINF:-1 tvg-id="AwdahTV.ps" tvg-logo="https://i.imgur.com/N9lLP1J.png" group-title="🇵🇸فلسطينPALESTINE",Awdah TV 
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="🇵🇸فلسطينPALESTINE",water 1
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
