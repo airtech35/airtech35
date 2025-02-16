@@ -93,23 +93,6 @@ https://dffgtrda.vffddd.online:8181/bein4/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -25
 https://sss.vffddd.online/bein4/index.m3u8
 
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",Diema Sport 🇷🇴
-http://raalbatros.serv00.net/Gledai.php?ID=diemasport
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",Diema Sport 2 🇷🇴
-http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",Diema Sport 3 🇷🇴
-http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",Nova Sport
-http://raalbatros.serv00.net/Gledai.php?ID=novasport
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",Max Sport 1
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",Max Sport 2
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport2
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",Max Sport 3
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 https://stream.sainaertebat.com/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
