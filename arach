@@ -2122,6 +2122,22 @@ https://htvint.mada.ps/kolalnas/index.m3u8
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="🇵🇸فلسطينPALESTINE",water 1
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoac11.png", البلد
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa17.png", تلفزيون نابلس
+http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
+
+--
+#EXTINF:-1,Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+#EXTINF:-1,Al Mahd
+http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oya11.png",ريحان
+http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io_aaa10.png",وتر التفاعلي
+http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/chunks.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io_aoo11.png",وتر الرياضية
+http://htvmada.mada.ps:8888/orient2/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
