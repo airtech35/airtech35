@@ -531,24 +531,35 @@ http://146.59.85.40:89/novasport3/mono.m3u8
 http://146.59.85.40:89/novasport4/mono.m3u8
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Spor TV HD
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://exchange4media.gumlet.io/news-photo/93752-StarSports1Kannada.jpg",Star Sport 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://iili.io/JhkbGcv.png" group-title="SKY SPORTS",Sportv
 https://super-cdn.link/sportv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Spor TV 2 HD
+#EXTINF:-1 tvg-id="Sportv.2.br" tvg-logo="https://iili.io/JhkbYt1.png" group-title="SKY SPORTS",Sportv 2
 https://super-cdn.link/sportv2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Spor TV 3 HD
+#EXTINF:-1 tvg-id="SporTV.3.br" tvg-logo="https://iili.io/JhkbEKJ.png" group-title="SKY SPORTS",Sportv 3
 https://super-cdn.link/sportv3/index.m3u8
-#EXTINF:0 tvg-id="ESPNHD.us" group-title="SKY SPORTS",ESPN 1
+#EXTINF:-1 tvg-id="ESPN Brasil" group-title="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 1 Brasil
 https://super-cdn.link/espn/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.br" group-title="SKY SPORTS",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2Brasil" group-title="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 2 Brasil
 https://super-cdn.link/espn2/index.m3u8
-#EXTINF:0 tvg-id="ESPN3.nl" group-title="SKY SPORTS",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3Brasil" group-title="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 3 Brasil 
 https://super-cdn.link/espn3/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.br" group-title="SKY SPORTS",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4Brasil" group-title="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 4 Brasil 
 https://super-cdn.link/espn4/index.m3u8
-#EXTINF:0 tvg-id="ESPN5.nl" group-title="SKY SPORTS",ESPN 5
+#EXTINF:-1 tvg-id="ESPN5Brasil" group-title="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 5 Brasil
 https://super-cdn.link/espn5/index.m3u8
-#EXTINF:0 tvg-id="ESPN6.nl" group-title="SKY SPORTS",ESPN 6
+#EXTINF:-1 tvg-id="ESPN6Brasil" group-title="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 6 Brasil 
 https://super-cdn.link/espn6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2USA" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SKY SPORTS", ESPN 2 US
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNewsUSA" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="SKY SPORTS", ESPNews
+https://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1280px-ESPN_U_logo.svg.png" group-title="SKY SPORTS", ESPN U (US)
+https://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ACCNESPN" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1280px-ACC_Network_ESPN_logo.svg.png" group-title="SKY SPORTS", ACCN ESPN
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="Combate.br" group-title="SKY SPORTS",Combate HD
 https://super-cdn.link/combate/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SKY SPORTS",Band Sport
@@ -738,15 +749,15 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORT VIP 🏆",MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 1
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORT VIP 🏆", TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 2
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORT VIP 🏆", TSN 2
 http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 3
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORT VIP 🏆", TSN 3
 http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 4
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORT VIP 🏆", TSN 4
 http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", TSN SPORTS 5
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORT VIP 🏆", TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK1XSpf.webp" group-title="SPORT VIP 🏆", Bein Sports Xtra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
