@@ -954,10 +954,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/jcJPOsb.png",[$]X SPORT HD🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD🇮🇹
-http://46.240.143.86/Eurosport1/video.m3u8?token=test
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD🇮🇹
-http://46.240.143.86/Eurosport2/video.m3u8?token=test
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/zlWcUOd.png",[$]REDBULL TV 🇨🇷
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV🇹🇷
@@ -966,12 +962,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/gk6YDEy.png",[$]TURKMENISTAN SPORT HD 🇹🇷
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD🇹🇷
-http://46.240.143.86/Eurosport1/index.m3u8?token=test
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD🇹🇷
-http://46.240.143.86/Eurosport2/index.m3u8?token=test
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/KLW9bNk.png",[$]NBA-TV HD🇹🇷
-http://46.240.143.86/NBATV/index.m3u8?token=test
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPORTS PREMIUM",SKYSPORTS 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
 #EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPORTS PREMIUM",SKYSPORTS 2
@@ -990,8 +980,6 @@ https://donelfantastic.github.io/live/skysportsNz7.m3u8
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SKY SPORT9
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/3H4dxhi.png",[$]SPORT PLUS 1HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/EuRaMuo.png",[$]SPORT PLUS 3HD
 http://217.174.225.146/hls/ch004_720/index.m3u8?token=
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wjsItZW.png",[$]SPORT PLUS 5HD
@@ -1002,22 +990,8 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="SPORTS PREMIUM",StarSports 1 HD
-http://103.120.172.74:4600
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="SPORTS PREMIUM",StarSports Select 1
-http://103.120.172.74:1030
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
-http://91.132.74.4:7374/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg",Premier Sport 1ᴴᴰ 🇨🇿
-http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL 🇺🇸ᴴᴰ 
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png",NBC NHL 🇺🇸ᴴᴰ 
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport 🇵🇱ᴴᴰ
