@@ -368,7 +368,12 @@ https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetMo
 
 
 ------------------
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="Sky TV",Premier Sport1 
+https://ie.sonyrepairs.com/premiersp1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" group-title="Sky TV",Premier Sport 2
+https://ie.sonyrepairs.com/premiersp2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest?cb=20230717230836" group-title="Sky TV",Tnt Sports 3
+https://ie.sonyrepairs.com/tnt3/index.m3u8
 #EXTINF:0 CUID="3632" tvg-chno="null" tvg-name="Sky arts" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Arts_HD.png/revision/latest?cb=20210605092730" group-title="Sky TV",Sky Arts
 https://ie.sonyrepairs.com/skarts/index.m3u8
 #EXTINF:0 CUID="3633" tvg-chno="null" tvg-name="Sky atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/250px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Sky TV",Sky Atlantic
