@@ -2345,8 +2345,6 @@ https://edge66.magictvbox.com/liveApple/TubeMosalsalat/tracks-v1a1/mono.m3u8
 https://edge66.magictvbox.com/liveApple/AlWathaeqya/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://i.ibb.co/zJ1DNqw/zamalik.png", ZAMALIK
 https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.png" group-title="🇪🇬المصرية Egypt",ALHAYAT
 http://teledunet.com:8080/live/tdn/tdn/332.ts
 
