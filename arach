@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="قسم الدعم الفني للتطبيق",AiRMAX TV PRO❤️
 https://bit.ly/3xYLaRh
@@ -33,6 +34,8 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 http://154.58.202.131:8000/play/a07s
 
 Real Madrid vs Man City
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://manooazkob.fun/live/4/chunks.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
 https://live.eighty-eight.tv:8880/BS1A/tracks-v1/index.fmp4.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
