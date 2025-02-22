@@ -601,6 +601,34 @@ https://ie.sonyrepairs.com/pr6/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Sky Sport F1
 https://ie.sonyrepairs.com/skspf1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Polsat Sport 1
+https://cdn.medialive.cc/POLSAT_SPORT_1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Polsat Sport 2
+https://cdn.medialive.cc/POLSAT_SPORT_2/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Polsat Sport 3
+https://cdn.medialive.cc/POLSAT_SPORT_3/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Eleven Sports 1
+https://cdn.medialive.cc/ELEVEN_SPORT_1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Sport 1
+https://cdn.medialive.cc/CANAL_SPORT_1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Extra 1
+https://cdn.medialive.cc/CANAL_EXTRA_1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Extra 2
+https://cdn.medialive.cc/CANAL_EXTRA_2/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Extra 3
+https://cdn.medialive.cc/CANAL_EXTRA_3/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Extra 4
+https://cdn.medialive.cc/CANAL_EXTRA_4/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Extra 5
+https://cdn.medialive.cc/CANAL_EXTRA_5/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Extra 6
+https://cdn.medialive.cc/CANAL_EXTRA_6/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="" group-title="SPORT VIP 🏆",Canal+ Extra 7
+https://cdn.medialive.cc/CANAL_EXTRA_7/index.fmp4.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="SPORT VIP 🏆",TNT Sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="SPORT VIP 🏆", TNT Sports 3
