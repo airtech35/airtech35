@@ -2252,8 +2252,6 @@ http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="🇮🇶العراق IRAQ",AL Rabiaa TV
 http://5.253.46.190:7002/play/a0e8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="🇮🇶العراق IRAQ",AL Rabiaa TV
-https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3jvcrH1" group-title="🇮🇶العراق IRAQ",AL Mawsleya
 http://154.197.91.168:7002/play/a0ev
 #EXTINF:-1 group-title="🇮🇶العراق IRAQ" tvg-logo="https://bit.ly/3jvcrH1", 🇮🇶الموصلية
@@ -2306,13 +2304,26 @@ http://95.216.180.111:1935/live/45/index.m3u8
 http://95.216.180.111:1935/live/67/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ma6cUG" group-title="🇮🇶العراق IRAQ",🇮🇶الكونز
 http://95.216.180.111:1935/live/118/index.m3u8
-#EXTINF:-1 tvg-name="Iraq Future Ⓢ" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-id="IraqFuture.iq" group-title="🇮🇶العراق IRAQ",Iraq Future Ⓢ
-https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8
 #EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV
+http://154.58.202.131:8000/play/a008
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya
+http://154.58.202.131:8000/play/a00h
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Diwan
+http://154.58.202.131:8000/play/a02j
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Fursan Aliraq TV
+http://154.58.202.131:8000/play/a07t
+#EXTINF:-1 tvg-name="Iraq Future Ⓢ" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-id="IraqFuture.iq" group-title="🇮🇶العراق IRAQ",Iraq Future Ⓢ
+http://154.58.202.131:8000/play/a01w
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Sport HD
+http://154.58.202.131:8000/play/a02z
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Turkuman
+http://154.58.202.131:8000/play/a02x
 
 
 #EXTM3U
@@ -2415,6 +2426,24 @@ http://teledunet.com:8080/tdn/tdn/348
 https://ffs3.gulfsat.com/hbc/index.m3u8
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALASKANDRIA
+http://154.58.202.131:8000/play/a02e
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALDELTA
+http://154.58.202.131:8000/play/a02f
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALKAHERA
+http://154.58.202.131:8000/play/a02c
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALKANAL
+http://154.58.202.131:8000/play/a02d
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALSA3EED
+http://154.58.202.131:8000/play/a02g
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",EDUC 1
+http://154.58.202.131:8000/play/a097
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ELMEHWAR-HD
+http://154.58.202.131:8000/play/a04r
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Misr ElBald
+http://154.58.202.131:8000/play/a01o
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",TEBA
+http://154.58.202.131:8000/play/a02h
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E
 http://149.62.177.103:8000/play/a08f
@@ -2472,12 +2501,17 @@ https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:17 tvg-id=""tvg-name="ERE TV" tvg-country="FR"tvg-language="French" tvg-logo="https://www.free.fr/assets/s3/905_4ed665f2e7.png" group-title="🇲🇦المغربMAROCCO",ERE TV
 https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://yt3.googleusercontent.com/bHc1xLoYHjOrInDnEZhYenPg8k5-dmdX_frosseGpUtd8TYv8OaDoKlOculg0OQNC__IGVaVm8g=s900-c-k-c0x00ffffff-no-rj" group-title="🇲🇦المغربMAROCCO",Al Ons TV
+http://154.58.202.131:8000/play/a01y
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE", nessmatv
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/136.jpg" group-title="🇹🇳تونسTUNISIE", nessmatv
 https://edge66.magictvbox.com/liveApple/nessma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/136.jpg" group-title="🇹🇳تونسTUNISIE", nessmatv
+http://154.58.202.185:8000/play/a03j
 #EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
 https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
@@ -2497,8 +2531,10 @@ http://154.58.202.185:8000/play/a03g
 http://154.58.202.185:8000/play/a03h
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisna
 http://154.58.202.185:8000/play/a03m
-
-
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Sahel TV
+http://154.58.202.185:8000/play/a0ac
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://yt3.googleusercontent.com/GWXUWvdkhVQZDS901ADghvh6RZimTuUK1JPH6lxRxXjiqTwsG2ouY0pPb1h2ZghGwG9mJ4uo=s900-c-k-c0x00ffffff-no-rj" group-title="🇹🇳تونسTUNISIE",Telvza TV
+http://154.58.202.185:8000/play/a03n
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png" group-title="🇩🇿الجزائرALGERIEN",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
@@ -2506,6 +2542,10 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_
 https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El_Bilad_TV
 https://edge66.magictvbox.com/liveApple/El_Bilad_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV
+http://154.58.202.131:8000/play/a0ar
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Ousra
@@ -2520,8 +2560,6 @@ http://154.58.202.185:8000/play/a0ad
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama Dz
-http://154.58.202.131:8000/play/a03l
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ElKeraza
 http://154.58.202.131:8000/play/a01t
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR
@@ -2552,10 +2590,17 @@ http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/148.m3u8
 http://154.58.202.185:8000/play/a05y
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJAYnnyLZhQZf2EGPUeOn5SyuUoMAa9B8pg&s" group-title="🇱🇾ليبياLIBYA",ibya Education
 http://154.58.202.185:8000/play/a060
+#EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/03/Libya-Al-Wataniya-Channel-Tv.png" group-title="🇱🇾ليبياLIBYA",Libya Alwataniya
+http://154.58.202.185:8000/play/a05w
+#EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/03/Libya-Al-Wataniya-Channel-Tv.png" group-title="🇱🇾ليبياLIBYA",Libya Alwataniya
+http://154.58.202.185:8000/play/a051
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://img.kooora.com/?i=02588%2F149092_493733864014631_771267810_n.jpg" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
 http://154.58.202.185:8000/play/a05x
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://akhbar.today/wp-content/uploads/2024/02/234234.png" group-title="🇱🇾ليبياLIBYA",Libya Sport 2 HD
 http://154.58.202.185:8000/play/a05z
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="" group-title="🇱🇾ليبياLIBYA",MBN Alhurra HD TV
+http://154.58.202.131:8000/play/a04n
+
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://i.imgur.com/xkQKVGi.png" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar TV 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
 https://stream.castr.com/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/tracks-v1/index.fmp4.m3u8
@@ -2820,6 +2865,17 @@ https://starmenajo.com/hls/yemenshabab/index.m3u8
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://starmenajo.com/hls/almahriah/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",ALHAWYAH TV
+http://154.58.202.131:8000/play/a01h
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Aden TV
+http://154.58.202.131:8000/play/a03x
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Al Sahat
+http://154.58.202.131:8000/play/a01f
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Sheba TV
+http://154.58.202.131:8000/play/a03w
+
 #EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Documentary
 http://154.58.202.131:8000/play/a03p
 #EXTINF:-1 tvg-id="AICTV.ye" tvg-logo="https://bit.ly/4d1LPUg" group-title="🇾🇪اليمن Yemen",Yemen Education TV
@@ -3021,7 +3077,54 @@ https://live.channel8.com/Channel8-Kurdish/tracks-v2a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="8AlResalah(English).ca(m3u4u)" tvg-name="ALRESALAH" tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="🕌Islami اسلامية",ALRESALAH
+https://oppomu.serv00.net/rotana.php?channel=alressalah&.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
+https://win.holol.com/live/saad/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 1
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 2
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 3
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Md9nOO" group-title="🕌Islami اسلامية",🕌مــكّة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZSma9t" group-title="🕌Islami اسلامية",Quraan Kareem🕌
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Bahrain_Quran TV🕌
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZTAvSZ" group-title="🕌Islami اسلامية",🕌قناه الفتح
+https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Istiqama TV🕌
+http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahquran🕌
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahtv2 TV🕌
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Al Rahma TV
+http://154.58.202.185:8000/play/a0b3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Ressala HD
+http://154.58.202.185:8000/play/a0bb
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Al-Ma'aly
+http://154.58.202.131:8000/play/a04w
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",BIN OTHAIMEEN
+http://154.58.202.131:8000/play/a04o
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية", Daawah TV
+http://154.58.202.131:8000/play/a048
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌Islami اسلامية",🕌قــاف
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/41b8eZe" group-title="🕌Islami اسلامية",Al Iarth Al Nabawi🕌
+http://82.212.74.2:8000/live/hls/7307.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌Islami اسلامية",africatv 1🕌
+http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌Islami اسلامية",africatv 2🕌
+http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",Maher Al Meaqli-Kaf🕌
+http://server12.mp3quran.net/maher/018.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Affasy TV🕌
+https://qurango.net/radio/mishary_alafasi.mp3
 
 
 #EXTM3U
@@ -4381,48 +4484,7 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Quran ALKARIM ", Juz 30
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="8AlResalah(English).ca(m3u4u)" tvg-name="ALRESALAH" tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="🕌Islami اسلامية",ALRESALAH
-https://oppomu.serv00.net/rotana.php?channel=alressalah&.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
-https://win.holol.com/live/saad/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 1
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 2
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 3
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Md9nOO" group-title="🕌Islami اسلامية",🕌مــكّة
-https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZSma9t" group-title="🕌Islami اسلامية",Quraan Kareem🕌
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Bahrain_Quran TV🕌
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZTAvSZ" group-title="🕌Islami اسلامية",🕌قناه الفتح
-https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Istiqama TV🕌
-http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahquran🕌
-https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahtv2 TV🕌
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Al Rahma TV
-http://154.58.202.185:8000/play/a0b3
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية", Daawah TV
-https://rp.tactivemedia.com/daawahtv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌Islami اسلامية",🕌قــاف
-https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/41b8eZe" group-title="🕌Islami اسلامية",Al Iarth Al Nabawi🕌
-http://82.212.74.2:8000/live/hls/7307.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌Islami اسلامية",africatv 1🕌
-http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌Islami اسلامية",africatv 2🕌
-http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",Maher Al Meaqli-Kaf🕌
-http://server12.mp3quran.net/maher/018.mp3
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Affasy TV🕌
-https://qurango.net/radio/mishary_alafasi.mp3
+
 
 
 --------------------------
