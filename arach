@@ -1087,6 +1087,21 @@ http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="SPORT رياضية",Maroc SPORT
 https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 1
+http://154.58.202.185:8000/play/a0a0
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 1 HD
+http://154.58.202.185:8000/play/a09w
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 2
+http://154.58.202.185:8000/play/a0a1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 2 HD
+http://154.58.202.185:8000/play/a09x
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3
+http://154.58.202.185:8000/play/a0a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3 HD
+http://154.58.202.185:8000/play/a09y
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORT 4
+http://154.58.202.185:8000/play/a0eb
+
 
 #EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -2656,6 +2671,58 @@ https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="QuranRadio.sa" tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="🇸🇦السعودية Saudi-Arabia",Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",IEN Rawdati HD
+http://154.58.202.185:8000/play/a07b
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",IEN TV HD
+http://154.58.202.185:8000/play/a06z
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 01
+http://154.58.202.185:8000/play/a06n
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 02
+http://154.58.202.185:8000/play/a06o
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 03
+http://154.58.202.185:8000/play/a06p
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 04
+http://154.58.202.185:8000/play/a06q
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 05
+http://154.58.202.185:8000/play/a06r
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 06
+http://154.58.202.185:8000/play/a06s
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 07
+http://154.58.202.185:8000/play/a06t
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 08
+http://154.58.202.185:8000/play/a06u
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 09
+http://154.58.202.185:8000/play/a06v
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 10
+http://154.58.202.185:8000/play/a06w
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 11
+http://154.58.202.185:8000/play/a06x
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 12
+http://154.58.202.185:8000/play/a06y
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 13
+http://154.58.202.185:8000/play/a070
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 14
+http://154.58.202.185:8000/play/a071
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 15
+http://154.58.202.185:8000/play/a072
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 16
+http://154.58.202.185:8000/play/a073
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 17
+http://154.58.202.185:8000/play/a074
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 18
+http://154.58.202.185:8000/play/a075
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 19
+http://154.58.202.185:8000/play/a076
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 20
+http://154.58.202.185:8000/play/a077
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 21
+http://154.58.202.185:8000/play/a078
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 22
+http://154.58.202.185:8000/play/a079
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3EJKOUH" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 23
+http://154.58.202.185:8000/play/a07a
+
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇦🇪الامارات EMIRATES",الامارات EMIRATES 🇦🇪
 https://bit.ly/3xYLaRh
