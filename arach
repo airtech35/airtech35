@@ -31,6 +31,8 @@ https://bit.ly/3gj9PK5
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/D9zPQ6k/bein-news.png",BEIN SPORTS NEWS HD⚽️
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
+http://154.58.202.131:8000/play/a034
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
 http://154.58.202.131:8000/play/a07s
 
 Roma vs Porto 
