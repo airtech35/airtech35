@@ -3168,13 +3168,56 @@ http://212.102.60.80/TF1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="🇫🇷France",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="🇫🇷France",FRANCE 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+http://41.205.93.154/FRANCE2/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="🇫🇷France",FRANCE 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+http://41.205.93.154/FRANCE3/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="🇫🇷France",FRANCE 4
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="🇫🇷France",FRANCE 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+http://41.205.93.154/FRANCE5/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",RTL9
+http://41.205.93.154/RTL9/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",LA-UNE
+http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",SYFY
+http://41.205.93.154/SYFY/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",ACTION
+http://41.205.93.154/ACTION/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",AMC
+http://41.205.93.154/AMC/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",HBO
+http://41.205.93.154/HBO/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",M6
+http://41.205.93.154/M6/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",W9
+http://41.205.93.154/W9/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",6TER
+http://41.205.93.154/6TER/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",TF1
+http://41.205.93.154/TF1/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",TFX
+http://41.205.93.154/TFX/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",TMC
+http://41.205.93.154/TMC/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",TEVA
+http://41.205.93.154/TEVA/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",STARSPORTS1
+http://41.205.93.154/STARSPORTS1/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",EUROSPORT1
+http://41.205.93.154/EUROSPORT1/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",EUROSPORT2
+http://41.205.93.154/EUROSPORT2/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",ESPN2
+http://41.205.93.154/ESPN2/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",RMCSPORT2
+http://41.205.93.154/RMCSPORT2/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",CNBC
+http://41.205.93.154/CNBC/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",MSNBC
+http://41.205.93.154/MSNBC/mpegts
+#EXTINF:-1 tvg-logo="" group-title="🇫🇷France",ZDF
+http://41.205.93.154/ZDF/mpegts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="🇫🇷France",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="🇫🇷France",FRANCE TV DOCUMENTAIRES
@@ -3194,7 +3237,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="🇫🇷France",RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="🇫🇷France",C8
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
+http://41.205.93.154/C8/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="🇫🇷France",CSTAR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png" group-title="🇫🇷France",BEL RTL
