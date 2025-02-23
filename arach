@@ -2911,8 +2911,6 @@ http://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
 http://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA" live="1" tvg-logo="http://teledunet.com/logos/2-Panorama-Drama.jpg" group-title="🇪🇬المصرية Egypt",PANORAMA DRAMA
 http://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" live="1" tvg-logo="http://teledunet.com/logos/pncd2.jpg" group-title="🇪🇬المصرية Egypt",PANORAMA DRAMA 2
-http://otx.arabitv5.com:8000/suaFaRecord/7PASADerJXre/281
 #EXTINF:-1 tvg-id="" tvg-name="PANORAMA FILM" live="1" tvg-logo="http://teledunet.com/logos/panoramafilm2.png" group-title="🇪🇬المصرية Egypt",PANORAMA FILM
 http://edge66.magictvbox.com/liveApple/panorama_film/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANORAMA FOOD" live="1" tvg-logo="http://teledunet.com/logos/pncfood.jpg" group-title="🇪🇬المصرية Egypt",PANORAMA FOOD
@@ -2925,6 +2923,12 @@ https://edge66.magictvbox.com/liveApple/TubeMosalsalat/tracks-v1a1/mono.m3u8
 https://edge66.magictvbox.com/liveApple/AlWathaeqya/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://i.ibb.co/zJ1DNqw/zamalik.png", ZAMALIK
 https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGOi86457H-pnYwuUyu2OSWpdvfcmkZBqwJ8Ctfss2lUg=s900-c-k-c0x00ffffff-no-rj", al ahly tv
+https://edge66.magictvbox.com/liveApple/al_ahly_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://i0.wp.com/mexawy.online/wp-content/uploads/2020/03/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%88%D9%86-%D8%AA%D8%A7%D9%8A%D9%85-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-On-Time-Sport2.webp", onSports2
+https://edge66.magictvbox.com/liveApple/onSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://yt3.googleusercontent.com/ftRrRdbffkcqP5odQcjmd4h-UMVEJSNTyXD-rUCS4YbJSTY3znXtoaChatJkFoX2Kl9PSiAz=s900-c-k-c0x00ffffff-no-rj", azhariTV
+https://edge66.magictvbox.com/liveApple/azhari/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.png" group-title="🇪🇬المصرية Egypt",ALHAYAT
 http://teledunet.com:8080/live/tdn/tdn/332.ts
 
