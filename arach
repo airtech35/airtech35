@@ -3083,6 +3083,31 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="🇹🇳تونسTUNISIE",Mosaïque FM  
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:11 tvg-id="Al mustakila" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Radio_Tunis.png" group-title="🇹🇳تونسTUNISIE",13 Radio Tunis Livecam
+http://webcam.radiotunisienne.tn:1935/radiotn/nationale_video/playlist.m3u8
+#EXTINF:11 tvg-id="Al mustakila" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Radio_Tunis.png" group-title="🇹🇳تونسTUNISIE",14 Mosaique FM Livecam
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+
+#EXTINF: 0 tvg-id="Tunisia NAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="🇹🇳تونسTUNISIE",Tunisia NAT 1
+http://154.197.91.168:7001/play/a0b5/index.m3u8
+#EXTINF: 1 tvg-id="Tunisia NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" group-title="🇹🇳تونسTUNISIE",Tunisia NAT 2
+http://154.197.91.168:7001/play/a0ba/index.m3u8
+#EXTINF:2 tvg-id="Elhiwar Ettounsi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="🇹🇳تونسTUNISIE", Elhiwar Ettounsi
+http://154.197.91.168:7001/play/a0b6/index.m3u8
+#EXTINF:4 tvg-id="Attassia TV" tvg-logo="https://play-lh.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4" group-title="🇹🇳تونسTUNISIE", Attassia TV
+http://154.197.91.168:7001/play/a0b8/index.m3u8
+#EXTINF:5 tvg-id="Nessma TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png" group-title="🇹🇳تونسTUNISIE", Nessma TV
+http://154.197.91.168:7001/play/a0do/index.m3u8
+#EXTINF:6 tvg-id="Tunisna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png" group-title="🇹🇳تونسTUNISIE", Tunisna TV
+http://154.197.91.168:7001/play/a0b7/index.m3u8
+#EXTINF:7 tvg-id="Al Janoubiya" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png" group-title="🇹🇳تونسTUNISIE", Al Janoubiya
+http://154.197.91.168:7001/play/a0bc/index.m3u8
+#EXTINF:8 tvg-id="Carthage plus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png" group-title="🇹🇳تونسTUNISIE", Carthage plus
+http://154.197.91.168:7001/play/a0bd/index.m3u8
+#EXTINF:9 tvg-id="Telvza TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tn-telvza-tv-4014.jpg" group-title="🇹🇳تونسTUNISIE", Telvza TV
+http://154.197.91.168:7001/play/a0bb/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia 1 HD
 http://154.58.202.185:8000/play/a03q
