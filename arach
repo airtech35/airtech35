@@ -1597,7 +1597,7 @@ https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass3vak/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfpcSsW.png" group-title="SPORT رياضية",Al Kass 4 HD
 https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass4cn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SiXjL4z.png" group-title="SPORT رياضية",Al Kass 5 HD
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass6Shoof/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIJkEzL.png" group-title="SPORT رياضية",Al Kass 6 HD
 https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass7cn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UTQgT78.png" group-title="SPORT رياضية",Abu Dhabi Sports 1 HD
@@ -2555,6 +2555,10 @@ https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",🇱🇧كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="LEBANON لبنان",MTV
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="LEBANON لبنان",One TV
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80JQ9zg/teleliban.webp" referer="https://www.teleliban.com.lb/live" group-title="LEBANON لبنان",TL LIBAN 🇱🇧
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV 🇱🇧
@@ -3393,7 +3397,7 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="🇰🇼الكويت Kuwait",KTV 1 🇰🇼
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-logo="https://i.imgur.com/hB57mNh.png" group-title="🇰🇼الكويت Kuwait",KTV 2 🇰🇼
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVAlMajlis.kw" tvg-logo="https://i.imgur.com/AVEyGig.png" group-title="🇰🇼الكويت Kuwait",KTV Al Majlis 🇰🇼
