@@ -2537,6 +2537,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="Syria سورية",Syria TV 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.althania.tv/images/logo2.png" group-title="Syria سورية",Syria TV 2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria سورية",LTV 
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="Syria سورية",Alaraby 2 TV 
