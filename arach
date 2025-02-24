@@ -1586,20 +1586,20 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/879Jv9I.png" group-title="SPORT رياضية",Al Kass 1 HD
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass1mhu/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmqD2e7.png" group-title="SPORT رياضية",Al Kass 2 HD
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass2hef/master540.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nfj53pF.png" group-title="SPORT رياضية",Al Kass 3 HD
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass3vak/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfpcSsW.png" group-title="SPORT رياضية",Al Kass 4 HD
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass4cn/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SiXjL4z.png" group-title="SPORT رياضية",Al Kass 5 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIJkEzL.png" group-title="SPORT رياضية",Al Kass 6 HD
-https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass7cn/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9MD-3xg3yqAXlXfMrJXIETonFWhEbxcGCg&s" group-title="SPORT رياضية",Al Kass 7 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UTQgT78.png" group-title="SPORT رياضية",Abu Dhabi Sports 1 HD
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPNI9z9.png" group-title="SPORT رياضية",Abu Dhabi Sports 2 HD
