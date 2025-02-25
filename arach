@@ -3028,22 +3028,17 @@ http://149.62.177.103:8000/play/a08e
 http://149.62.177.103:8000/play/a08b
 
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde🇲🇦
 https://tgn.bozztv.com/trn03/gin-2monde/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M TV🇲🇦
-http://154.197.91.168:7001/play/a0d9/index.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 🇲🇦
 https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_rxsnj7j/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Laayoune 🇲🇦
 https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Inter🇲🇦
-http://154.197.91.168:7001/play/a0df/index.m3u8
-#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Inter HD🇲🇦
-http://154.197.91.168:7001/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="🇲🇦المغربMAROCCO",Arryadia 🇲🇦
 https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="🇲🇦المغربMAROCCO",Arrabiaa 🇲🇦
@@ -3071,6 +3066,29 @@ https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://yt3.googleusercontent.com/bHc1xLoYHjOrInDnEZhYenPg8k5-dmdX_frosseGpUtd8TYv8OaDoKlOculg0OQNC__IGVaVm8g=s900-c-k-c0x00ffffff-no-rj" group-title="🇲🇦المغربMAROCCO",Al Ons TV🇲🇦
 http://154.58.202.131:8000/play/a01y
 
+
+#EXTINF:-1 tvg-name="AlAoula" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-03/alaoula-16x9.jpeg" tvg-id="http://www.snrtlive.ma",AlAoula HD
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_rxsnj7j/playlist.m3u8
+#EXTINF:-1 tvg-name="AlAoula Laayoune" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/laayoune-16x9.jpeg" tvg-id="http://www.snrtlive.ma",AlAoula Laayoune HD
+https://cdn.live.easybroadcast.io/abr_corp/Laayoune/playlist.m3u8
+#EXTINF:-1 tvg-name="AlMAghribia" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/almaghribia-16x9.jpeg" tvg-id="http://www.snrtlive.ma",AlMAghribia HD
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_vpmovcf/playlist.m3u8
+#EXTINF:-1 tvg-name="Attakafia" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/attakafiya-16x9.jpeg" tvg-id="http://snrtlive.ma/athaqafia",Attakafia HD
+https://cdn.live.easybroadcast.io/abr_corp/Arrabia/playlist.m3u8
+#EXTINF:-1 tvg-name="Arriyadia" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg" tvg-id="http://www.snrtlive.ma/",Arriyadia HD
+https://cdn.live.easybroadcast.io/abr_corp/Almaghribia/playlist.m3u8
+#EXTINF:-1 tvg-name="Assadissa" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/assadissa-16x9.jpeg" tvg-id="http://www.snrtlive.ma",Assadissa HD
+https://cdn.live.easybroadcast.io/abr_corp/Assadissa/playlist.m3u8
+#EXTINF:-1 tvg-name="Tamazight" group-title="Maroc" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/tamazight-16x9.jpeg" tvg-id="http://www.snrtlive.ma",Tamazight HD
+https://cdn.live.easybroadcast.io/abr_corp/Tamzight/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M TV🇲🇦
+http://154.197.91.168:7001/play/a0d9/index.m3u8
+#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Inter🇲🇦
+http://154.197.91.168:7001/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Inter HD🇲🇦
+http://154.197.91.168:7001/play/a0d8/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
