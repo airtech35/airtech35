@@ -1124,18 +1124,16 @@ https://ie.sonyrepairs.com/pr5/index.m3u8
 https://ie.sonyrepairs.com/pr6/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="SPORT VIP 🏆",UK: Sky Sport F1
 https://ie.sonyrepairs.com/skspf1/index.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",Arena Sport 1
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" group-title="SPORT VIP 🏆",AL: Arena Sport 1
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
-#EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",AArena Sport 2
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Arena Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" group-title="SPORT VIP 🏆",AL: Arena Sport 2
 http://109.105.201.198/Arenasport2/index.m3u8?token=test
-#EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",AArena Sport 3
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Arena Sport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png?1632227552" group-title="SPORT VIP 🏆",AL: Arena Sport 3
 http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
-#EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",AArena Sport 4
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Arena Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" group-title="SPORT VIP 🏆",AL: Arena Sport 4
 http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
-#EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",AArena Sport 4
-http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" group-title="SPORT VIP 🏆",AL: Arena Sport 5
+
 #EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",AMax Sport 1
 http://109.105.201.198/MAXSPORT1HR/index.m3u8?token=test
 #EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",AMax Sport 2
