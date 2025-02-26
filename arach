@@ -36,6 +36,10 @@ http://154.58.202.131:8000/play/a07s
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
 http://gr.seetv.cc/play/5016/1E20008EF0CBB6F/video.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+http://pl.seetv.cc/play/1101/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+http://pl.seetv.cc/play/1103/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
 http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 
 
