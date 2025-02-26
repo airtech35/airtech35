@@ -423,6 +423,14 @@ http://93.123.72.138:8000/play/a02s
 http://93.123.72.138:8000/play/a02n
 
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Sports English VIP",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Sports English VIP",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="Sports English VIP",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="Sports English VIP",Hub Premier 4 FHD
+https://a1xs.vip/1100044
 
 --- 📺 Live Events
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 1
@@ -474,14 +482,6 @@ https://a1xs.vip/1100021
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="Sports English VIP",USA Network FHD
 https://a1xs.vip/1100020
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Sports English VIP",Hub Premier 1 FHD
-https://a1xs.vip/1100041
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Sports English VIP",Hub Premier 2 FHD
-https://a1xs.vip/1100042
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="Sports English VIP",Hub Premier 3 FHD
-https://a1xs.vip/1100043
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="Sports English VIP",Hub Premier 4 FHD
-https://a1xs.vip/1100044
 
 
 --- 📺 UK Sports
