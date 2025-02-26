@@ -35,63 +35,58 @@ http://154.58.202.131:8000/play/a07s
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
 http://gr.seetv.cc/play/5016/1E20008EF0CBB6F/video.m3u8
-Manchester United vs Everton 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein11/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein11/index.m3u8
+http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 
-Espagnol vs Alaves 
+
+Manchester United vs Ipswich 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
+https://dffgtrdb.vffddd.online:8880/bein5/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://dffgtrde.vffddd.online:443/bein5/tracks-v1a1/mono.ts.m3u8
+
+Tottenham vs Manchester city 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://dffgtrdb.vffddd.online:8880/bein2/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://dffgtrdb.vffddd.online:8880/bein2/index.m3u8
+
+Arsenal vs Forest
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://dffgtrdb.vffddd.online:8880/bein3/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
 https://dffgtrdb.vffddd.online:8880/bein3/index.m3u8
 
-Arsenal vs wist-ham 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein11/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein11/index.m3u8
-
-Vallecano vs Villarreal 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein3/index.m3u8
-
-
-Monaco vs Lille 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrde.vffddd.online/bein4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrde.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
-
-Ac Milan vs Torino 
+Empoli vs Juventus 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
 https://vps.vffddd.online:8880/adsp1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
 https://vps.vffddd.online:8880/adsp1/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://1xqndiit0zztnjqq.muchasgraciasaficion.one/live/c10ebee775_sd.m3u8
 
 
-Chelsea vs Aston Villa 
+PSG VS Stade Briochin
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein11/tracks-v1a1/mono.ts.m3u8
+https://dffgtrde.vffddd.online/bein4/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein11/index.m3u8
+https://dffgtrde.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://dffgtrde.vffddd.online/bein4/tracks-v1a1/mono.ts.m3u8
 
-ATL.Madrid vs Valence 
+Liverpool vs Newcastle 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
+https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein3/index.m3u8
+https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 
-Dortmund vs Union Berlin 
+Réal Madrid vs Réal Sociedad 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein5/tracks-v1a1/mono.ts.m3u8
+https://dffgtrde.vffddd.online:443/ssc11/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
-https://dffgtrdb.vffddd.online:8880/bein5/index.m3u8
+https://dffgtrde.vffddd.online/ssc11/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -
+https://wo.cma.footballii.ir/hls2/feed.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
