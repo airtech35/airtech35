@@ -1481,6 +1481,43 @@ https://cdntv.online/high/9mlxywika2/1034.m3u8
 https://cdntv.online/high/9mlxywika2/1680.m3u8
 
 
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BeIN SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="PREMIUM SPORTS",BeIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="PREMIUM SPORTS",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="PREMIUM SPORTS",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="PREMIUM SPORTS",TSN1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="PREMIUM SPORTS",TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="PREMIUM SPORTS",TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="PREMIUM SPORTS",TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="PREMIUM SPORTS",TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" group-title="PREMIUM SPORTS",WWE Network
+http://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="PREMIUM SPORTS",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 channel-id="5417a212ff9fba68282fbf5e" tvg-id="5417a212ff9fba68282fbf5e" tvg-chno="2900" tvg-name="GLORY Kickboxing" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/glory-kickboxing-vod.png?raw=true" group-title="PREMIUM SPORTS",GLORY Kickboxing
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="PREMIUM SPORTS" tvg-id="Stadium.us",Stadium 
+https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
+#EXTINF:-1 channel-id="64d160f53c785e0008df525e" tvg-id="64d160f53c785e0008df525e" tvg-chno="2862" tvg-name="Top Rank Classics" tvg-logo="https://images.tapology.com/logos/2487/profile/Top-Rank-Boxing-logo.jpg?1541430691" group-title="PREMIUM SPORTS",Top Rank Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ce20713-803b-4c36-b6c9-1026b5b6d0e4
+#EXTINF:-1 channel-id="649b6898f2ec0000081a9460" tvg-id="649b6898f2ec0000081a9460" tvg-chno="2864" tvg-name="DAZN Ringside" tvg-logo="https://imgs.search.brave.com/lAKQTUZdKnlmzMo9tmivSKHdauJD98NmHDlMNiQawLs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA2L0RBWk5fTG9n/b19NYXN0ZXIuc3Zn" group-title="PREMIUM SPORTS",DAZN Ringside
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Bellator MMA" tvg-logo="https://imgur.com/2Cz3vE3.png" group-title="PREMIUM SPORTS",Bellator MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF: 0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PREMIUM SPORTS",UFC
+http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 channel-id="6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-chno="2880" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="PREMIUM SPORTS", PFL MMA
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
+#EXTINF:-1 channel-id="677c97a457fff50008e88815" tvg-id="677c97a457fff50008e88815" tvg-chno="2860" tvg-name="The Ring" tvg-logo="https://images.pluto.tv/channels/677c97a457fff50008e88815/colorLogoPNG.png" group-title="PREMIUM SPORTS", The Ring
+https://jmp2.uk/plu-677c97a457fff50008e88815.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",SPORT VIP
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",⚽️كيف احصل على الكود
