@@ -2300,7 +2300,7 @@ https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae763
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mi4hQ8" group-title="MBC أم بي سي",|MBC| 5 SD
 https://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="MBC أم بي سي",|MBC| Iraq SD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/468p750kbps/video.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC أم بي سي",|MBC| Masr 1 SD
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_49.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",|MBC| Masr 2 SD
@@ -2351,7 +2351,7 @@ https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae763
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC أم بي سي",|MBC| 5 HD
 https://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png" group-title="MBC أم بي سي",|MBC| Iraq HD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/576p1200kbps/video.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC أم بي سي",|MBC| Masr HD
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_48.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",|MBC| Masr 2 HD
@@ -2832,7 +2832,7 @@ http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="🇮🇶العراق IRAQ",Dijlah fm
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="🇮🇶العراق IRAQ",MBC Iraq
-https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Anwar 2
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 #EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="🇮🇶العراق IRAQ",Al Eshraq TV
