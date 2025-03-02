@@ -1716,6 +1716,8 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", رمضان-معانا-خليجي
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", قناة-سين
 https://shls-live-enc.edgenextcdn.net/out/v1/d7978c28150e44a0a104ecd607a56368/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", قناة-الصدمة
