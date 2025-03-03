@@ -1875,12 +1875,6 @@ https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Weyyak TV VIP ",  النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Y_PA0Fvj3rI/sddefault.jpg" group-title="Weyyak TV VIP ",mix_hollywood
-https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://media0067.elcinema.com/tvguide/1371_1.png" group-title="Weyyak TV VIP ", ميكس_Mix_TV
-https://edge66.magictvbox.com/liveApple/TubeFilm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mpSdj2YblCM/hq720.jpg" group-title="Weyyak TV VIP ",PRO MIX
-https://ffs3.gulfsat.com/hbc/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak TV VIP ",Zee-Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" group-title="Weyyak TV VIP ",Zee-Aflam
@@ -1921,7 +1915,12 @@ https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u
 https://weyyak-live.akamaized.net/weyyak_tg_junior/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ski-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" group-title="Weyyak TV VIP ",Ski-TV
 https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Y_PA0Fvj3rI/sddefault.jpg" group-title="Weyyak TV VIP ",mix_hollywood
+https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://media0067.elcinema.com/tvguide/1371_1.png" group-title="Weyyak TV VIP ", ميكس_Mix_TV
+https://edge66.magictvbox.com/liveApple/TubeFilm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mpSdj2YblCM/hq720.jpg" group-title="Weyyak TV VIP ",PRO MIX
+https://ffs3.gulfsat.com/hbc/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="NETFLIX VIP", باقة NETFLIX 
 https://bit.ly/3xYLaRh
