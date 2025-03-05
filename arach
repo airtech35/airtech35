@@ -824,6 +824,8 @@ http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 5
 http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
+https://htvmada.mada.ps:4443/raya/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ps4l.org/uploads/100Q200W370H1582656598234261246.png" group-title="Fajer TV",Palestine Sport
 http://154.58.202.185:8000/play/a00d
