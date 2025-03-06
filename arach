@@ -1643,8 +1643,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png" group-title="SPORT رياضية",Sharjah Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3WJR2t0" group-title="SPORT رياضية",zamalik
-https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",Nile sport
 http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
@@ -1900,10 +1898,6 @@ https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u
 https://weyyak-live.akamaized.net/weyyak_tg_junior/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ski-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" group-title="Weyyak TV VIP ",Ski-TV
 https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Y_PA0Fvj3rI/sddefault.jpg" group-title="Weyyak TV VIP ",mix_hollywood
-https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://media0067.elcinema.com/tvguide/1371_1.png" group-title="Weyyak TV VIP ", ميكس_Mix_TV
-https://edge66.magictvbox.com/liveApple/TubeFilm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mpSdj2YblCM/hq720.jpg" group-title="Weyyak TV VIP ",PRO MIX
 https://ffs3.gulfsat.com/hbc/index.m3u8
 
@@ -2280,8 +2274,6 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC أم بي سي",|MBC| 1 SD
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBC2" tvg-logo="https://bit.ly/40KD5yj" group-title="MBC أم بي سي",MBC2
-https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MBC2" tvg-logo="https://bit.ly/40KD5yj" group-title="MBC أم بي سي",MBC2
 http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC أم بي سي",MBC MAX
 http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
@@ -2307,8 +2299,6 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_2
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC أم بي سي",|MBC| Bollywood SD
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uOdmrz" group-title="MBC أم بي سي",|MBC| Action
-https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/tsWQ5pz/panorama.jpg" group-title="MBC أم بي سي",|MBC| Panorama SD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_3.m3u8
 
@@ -2447,14 +2437,6 @@ http://154.197.91.168:7003/play/a0fh
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
-https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
-https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ROTANA روتانا",Rotana Khalijia
-https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://bit.ly/4dCKcfY" group-title="ROTANA روتانا",Rotana Clip
-https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/0wxwMjs.png" group-title="ROTANA روتانا",Rotana Aflam+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
@@ -2934,46 +2916,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="🇪🇬المصرية Egypt",PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEHWARTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/EL_MEHWAR_TV.png" group-title="🇪🇬المصرية Egypt",MEHWARTV
-https://edge66.magictvbox.com/liveApple/el_mehwar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMC" live="1" tvg-logo="http://teledunet.com/logos/dmc.jpg" group-title="🇪🇬المصرية Egypt",DMC
-https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/Dmc_drama_logo.png" group-title="🇪🇬المصرية Egypt",DMC DRAMA
-https://edge66.magictvbox.com/liveApple/ChannelDMC-Drama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ON DRAMA" live="1" tvg-logo="http://teledunet.com/logos/on_drama.png" group-title="🇪🇬المصرية Egypt",ON DRAMA
-http://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC" live="1" tvg-logo="http://teledunet.com/logos/cbc.png" group-title="🇪🇬المصرية Egypt",CBC
-http://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u88
-#EXTINF:-1 tvg-id="" tvg-name="CBC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/cbc_drama.jpg" group-title="🇪🇬المصرية Egypt",CBC DRAMA
-http://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGYPT TV" live="1" tvg-logo="http://teledunet.com/logos/egyptv.jpg" group-title="🇪🇬المصرية Egypt",EGYPT TV
-http://edge66.magictvbox.com/liveApple/Egyptian_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALOULA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/oula.png" group-title="🇪🇬المصرية Egypt",ALOULA EGYPT
-http://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR" live="1" tvg-logo="http://teledunet.com/logos/naharegypt.jpg" group-title="🇪🇬المصرية Egypt",ALNAHAR
-http://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA" live="1" tvg-logo="http://teledunet.com/logos/2-Panorama-Drama.jpg" group-title="🇪🇬المصرية Egypt",PANORAMA DRAMA
-http://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FILM" live="1" tvg-logo="http://teledunet.com/logos/panoramafilm2.png" group-title="🇪🇬المصرية Egypt",PANORAMA FILM
-http://edge66.magictvbox.com/liveApple/panorama_film/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FOOD" live="1" tvg-logo="http://teledunet.com/logos/pncfood.jpg" group-title="🇪🇬المصرية Egypt",PANORAMA FOOD
-http://edge66.magictvbox.com/liveApple/panorama_food/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" live="1" tvg-logo="http://teledunet.com/logos/maspero.png" group-title="🇪🇬المصرية Egypt",MASPERO ZAMAN
-https://edge66.magictvbox.com/liveApple/Maspiro_Zaman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nile_Drama.png" group-title="🇪🇬المصرية Egypt", نايل دراما
-https://edge66.magictvbox.com/liveApple/TubeMosalsalat/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://bit.ly/3Ea9XHQ" group-title="🇪🇬المصرية Egypt",alwathaeqya
-https://edge66.magictvbox.com/liveApple/AlWathaeqya/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://i.ibb.co/zJ1DNqw/zamalik.png", ZAMALIK
-https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGOi86457H-pnYwuUyu2OSWpdvfcmkZBqwJ8Ctfss2lUg=s900-c-k-c0x00ffffff-no-rj", al ahly tv
-https://edge66.magictvbox.com/liveApple/al_ahly_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nhQGLEY2HSTnjlOCerTEOieWKa22R0l3JqhM4C_L0KJ38=s900-c-k-c0x00ffffff-no-rj", ontvsport
-https://edge66.magictvbox.com/liveApple/ontvsport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://i0.wp.com/mexawy.online/wp-content/uploads/2020/03/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%88%D9%86-%D8%AA%D8%A7%D9%8A%D9%85-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-On-Time-Sport2.webp", onSports2
-https://edge66.magictvbox.com/liveApple/onSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt" tvg-logo="https://yt3.googleusercontent.com/ftRrRdbffkcqP5odQcjmd4h-UMVEJSNTyXD-rUCS4YbJSTY3znXtoaChatJkFoX2Kl9PSiAz=s900-c-k-c0x00ffffff-no-rj", azhariTV
-https://edge66.magictvbox.com/liveApple/azhari/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.png" group-title="🇪🇬المصرية Egypt",ALHAYAT
 http://teledunet.com:8080/live/tdn/tdn/332.ts
 
@@ -3111,8 +3053,6 @@ http://154.197.91.168:7001/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/136.jpg" group-title="🇹🇳تونسTUNISIE", nessmatv
-https://edge66.magictvbox.com/liveApple/nessma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/136.jpg" group-title="🇹🇳تونسTUNISIE", nessmatv
 http://154.58.202.185:8000/play/a03j
 #EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
 https://streaming.toutech.net/live/jtv/index.m3u8
@@ -3169,8 +3109,6 @@ http://154.58.202.185:8000/play/a03n
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="🇩🇿الجزائرALGERIEN",TV2
 https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El_Bilad_TV
-https://edge66.magictvbox.com/liveApple/El_Bilad_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV
 http://154.58.202.131:8000/play/a0ar
 
