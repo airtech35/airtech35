@@ -45,6 +45,8 @@ http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -66
 http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ffvideo6d.ddns.me%2F2vod5n%2F80-bako-7.mp4%2Fchunk.m3u8%3F
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -77
+http://platform.topuphost.com:8558/api/Stream/random?url=https%3A%2F%2Ffvideo6d.ddns.me%2F2vod5n%2F80-bako-7.mp4%2Fchunk.m3u8
 
 
 
