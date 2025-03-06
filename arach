@@ -2328,7 +2328,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",|MBC| Masr 2 FHD
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/4nksh94c" group-title="MBC أم بي سي",|MBC| Masr Drama FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC أم بي سي",|MBC| Masr Drama FHD
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zkk7A8" group-title="MBC أم بي سي",|MBC| Drama FHD
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_19.m3u8
@@ -2354,7 +2354,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_48.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",|MBC| Masr 2 HD
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/4nksh94c" group-title="MBC أم بي سي",|MBC| Masr Drama HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC أم بي سي",|MBC| Masr Drama HD
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zkk7A8" group-title="MBC أم بي سي",|MBC| Drama HD
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
@@ -2380,7 +2380,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_25.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",|MBC| Masr 2 LOW
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/4nksh94c" group-title="MBC أم بي سي",|MBC| Masr Drama LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC أم بي سي",|MBC| Masr Drama LOW
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zkk7A8" group-title="MBC أم بي سي",|MBC| Drama LOW
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_25.m3u8
@@ -2411,7 +2411,7 @@ https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a6
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",MY-MBC MASR 2 
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/4nksh94c" group-title="MBC أم بي سي",|MBC| Masr Drama 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC أم بي سي",|MBC| Masr Drama 
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="MBC أم بي سي",MBC Persia 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
@@ -2928,6 +2928,8 @@ https://bit.ly/3gj9PK5
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="🇪🇬المصرية Egypt",MBC Masr 2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="🇪🇬المصرية Egypt",MBC Masr Drama 
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="🇪🇬المصرية Egypt",TeN TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="🇪🇬المصرية Egypt",PNC Drama
