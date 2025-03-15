@@ -3611,8 +3611,7 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 https://live.channel8.com/Channel8-Kurdish/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", ALA HD
 http://avrstream.com:1935/live/ala-hd/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", koya tv
-http://avrstream.com:1935/live/KoyaHD/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", BEFRIN
 http://avrstream.com:1935/live/BEFRIN-HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",AVAR TV
@@ -3639,10 +3638,6 @@ http://avrstream.com:1935/live/emantv/playlist.m3u8
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",ASHTI TV
 http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",DUNYA TV
-https://cdn-dunyatv.yayin.com.tr/dunyatv/dunyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",MIX-KURDY
-http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
