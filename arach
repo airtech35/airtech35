@@ -3555,6 +3555,8 @@ http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Afarin Kids ᴴᴰ
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LjU2X3y.png" group-title="KURDISH",Waar TV
 https://ca-rt.onetv.app/Waar/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", NUBAR HD
@@ -3584,7 +3586,7 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", BEFRIN
 http://avrstream.com:1935/live/BEFRIN-HD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", SPEDA
-http://speda.dwasat.com/upload/images/spedahd.m3u8
+http://spedanet.store/upload/images/spedahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Speda Drama
 https://speda.dwasat.com/upload/images/spedadrama.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", AMED
@@ -3615,7 +3617,8 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://avrstream.com:1935/live/Gewher-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Channel 8 kurdish
 https://live.channel8.com/Channel8-Kurdish/tracks-v2a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Eman
+http://avrstream.com:1935/live/emantv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
