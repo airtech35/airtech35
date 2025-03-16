@@ -42,10 +42,42 @@ http://pl.seetv.cc/play/1101/1E20008EF0CBB6F/video.m3u8
 http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -04
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -05
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
+
+Leicester vs Manchester United 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://stream.sainaertebat.com/hls2/bein2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://elverrucax68.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
+
+Atalanta vs Inter
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://elverrucax71.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
+
+PSG vs Marsella
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://dffgtrdc.vffddd.online/bein4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://dffgtrdc.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://elverrucax72.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
+
+Barcelone vs ATL Madrid 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://dffgtrdc.vffddd.online/bein1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+
+
 
 الإتحاد و الرياض
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -06
