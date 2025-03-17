@@ -2151,8 +2151,6 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC أم بي سي",MBC 1  SD
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
-#EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC أم بي سي",MBC 1 USA  SD
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_5.m3u8
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="MBC أم بي سي",MBC 2  SD
 http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",MBC 3 KSA  SD
