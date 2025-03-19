@@ -988,38 +988,6 @@ http://109.105.201.198/EUROSPORT1/index.m3u8?token=test
 #EXTINF:0 tvg-logo="" group-title="SPORT VIP 🏆",AEuroSport 2
 http://109.105.201.198/EUROSPORT2/index.m3u8?token=test
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="SPORT VIP 🏆",PT: SPORT TV 1
-http://195.23.75.15:8000/udp/239.100.6.21:1234
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="SPORT VIP 🏆",PT: SPORT TV 2
-http://195.23.75.15:8000/udp/239.100.6.22:1234
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="SPORT VIP 🏆",PT: SPORT TV 3
-http://195.23.75.15:8000/udp/239.100.6.23:1234
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="SPORT VIP 🏆",PT: SPORT TV 4
-http://195.23.75.15:8000/udp/239.100.6.24:1234
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="SPORT VIP 🏆",PT: SPORT TV 5
-http://195.23.75.15:8000/udp/239.100.6.25:1234
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SPORT VIP 🏆",PT: SPORT TV 6
-http://195.23.75.15:8000/udp/239.100.6.26:1234
-
-#EXTINF:0 tvg-id="baltijos-lt" group-title="SPORT VIP 🏆",BTV HD
-http://195.23.75.15:8000/udp/239.100.6.14:1234
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",GOL PLAY HD
-http://195.23.75.15:8000/udp/239.100.6.28:1234
-#EXTINF:0 tvg-id="DAZN1.es" group-title="SPORT VIP 🏆",DAZN 1 HD
-http://195.23.75.15:8000/udp/239.100.6.48:1234
-#EXTINF:0 tvg-id="DAZN2.es" group-title="SPORT VIP 🏆",DAZN 2 HD
-http://195.23.75.15:8000/udp/239.100.6.49:1234
-#EXTINF:0 tvg-id="DAZN3.es" group-title="SPORT VIP 🏆",DAZN 3 HD
-http://195.23.75.15:8000/udp/239.100.6.50:1234
-#EXTINF:0 tvg-id="DAZN4.es" group-title="SPORT VIP 🏆",DAZN 4 HD
-http://195.23.75.15:8000/udp/239.100.6.51:1234
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",DAZN 5 HD
-http://195.23.75.15:8000/udp/239.100.6.52:1234
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",DAZN 6 HD
-http://195.23.75.15:8000/udp/239.100.6.53:1234
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="SPORT VIP 🏆",TNT Sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="SPORT VIP 🏆", TNT Sports 3
