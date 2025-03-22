@@ -358,29 +358,19 @@ http://93.123.72.138:8000/play/a02s
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",4 sport
 http://93.123.72.138:8000/play/a02n
 
-
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Sports English VIP",Hub Premier 1 FHD
-https://a1xs.vip/1100041
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Sports English VIP",Hub Premier 2 FHD
-https://a1xs.vip/1100042
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="Sports English VIP",Hub Premier 3 FHD
-https://a1xs.vip/1100043
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="Sports English VIP",Hub Premier 4 FHD
-https://a1xs.vip/1100044
-
---- 📺 Live Events
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 1
 https://a1xs.vip/ppv1
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 2
 https://a1xs.vip/ppv2
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 3
 https://a1xs.vip/ppv3
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 4
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 4
 https://a1xs.vip/ppv4
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.6.hk" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 5
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://pixvid.org/images/2025/02/11/live-event.png" group-title="Sports English VIP",Live Event 5
 https://a1xs.vip/ppv5
 
 
+--- 📺 UHD | 4K Channels
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="Sports English VIP",UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://pixvid.org/images/2025/01/16/SKyF1UHD.png" group-title="Sports English VIP",UK: Sky Sports F1 UHD
@@ -398,7 +388,27 @@ https://a1xs.vip/9000013
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports English VIP",US: NESN UHD
 https://a1xs.vip/4000080
 
---- 📺 UHD | 4K Channels
+#EXTINF:-1 tvg-id="DE:.Fashion.TV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="Sports English VIP",Fashion TV UHD
+https://a1xs.vip/ftv4kuhd
+#EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-name="Bloomberg TV UHD" tvg-logo="https://i.ibb.co/L61zPzP/Bloomberg-tv.png" group-title="Sports English VIP",Bloomberg TV UHD
+https://a1xs.vip/blombuhd
+#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Sports English VIP",Love Nature 4K
+https://a1xs.vip/lovent4k
+#EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Sports English VIP",Travelxp 4K
+https://a1xs.vip/travelxpuhd
+#EXTINF:-1 tvg-id="HOME.4K.pl" tvg-name="HOME 4K" tvg-logo="https://pixvid.org/images/2025/01/17/Home4k.webp" group-title="Sports English VIP",HOME 4K
+https://a1xs.vip/home4k
+#EXTINF:-1 tvg-id="Museum.4k.ro" tvg-name="MUSEUM TV 4K" tvg-logo="https://pixvid.org/images/2025/01/21/Museum_4K.png" group-title="Sports English VIP",MUSEUM TV 4K
+https://a1xs.vip/msem4k
+#EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="Sports English VIP",Loupe 4K
+https://a1xs.vip/loupe4k
+#EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Sports English VIP",MyZen 4K (Multi Audio)
+https://a1xs.vip/myzen4k
+#EXTINF:-1 tvg-id="IRIBUHD" tvg-name="IRIB UHD" tvg-logo="https://i.postimg.cc/3w9YtJKn/IRIB-UHD.png" group-title="Sports English VIP",IRIB UHD
+https://a1xs.vip/iribuhd
+
+
+
 
 --- ⚽️ EPL
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="Sports English VIP",Now Sports PL 1 FHD
@@ -418,6 +428,14 @@ https://a1xs.vip/1100021
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="Sports English VIP",USA Network FHD
 https://a1xs.vip/1100020
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Sports English VIP",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Sports English VIP",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="Sports English VIP",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="Sports English VIP",Hub Premier 4 FHD
+https://a1xs.vip/1100044
 
 
 --- 📺 UK Sports
@@ -452,20 +470,14 @@ https://a1xs.vip/2000012
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://pixvid.org/images/2025/01/31/SkySprtsTennis.png" group-title="Sports English VIP",Sky Sports Tennis FHD
 https://a1xs.vip/2000013
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="Sports English VIP",TNT Sports 1 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/02/25/TNTS1.png" group-title="Sports English VIP",TNT Sports 1 FHD
 https://a1xs.vip/2000021
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="Sports English VIP",TNT Sports 2 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://pixvid.org/images/2025/02/25/TNTS2.png" group-title="Sports English VIP",TNT Sports 2 FHD
 https://a1xs.vip/2000022
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="Sports English VIP",TNT Sports 3 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="https://pixvid.org/images/2025/02/25/TNTS3.png" group-title="Sports English VIP",TNT Sports 3 FHD
 https://a1xs.vip/2000023
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="Sports English VIP",TNT Sports 4 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://pixvid.org/images/2025/02/25/TNTS4.png" group-title="Sports English VIP",TNT Sports 4 FHD
 https://a1xs.vip/2000024
-
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 - UK" tvg-logo="https://i.ibb.co/4YhGQBJ/eurosport-1.png" group-title="Sports English VIP",Eurosport 1
-https://a1xs.vip/2000040
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 - UK" tvg-logo="https://i.ibb.co/gr5m3Rk/eurosport-2.png" group-title="Sports English VIP",Eurosport 2
-https://a1xs.vip/2000041
 
 
 --- 📺 UK Channels
@@ -499,6 +511,8 @@ https://a1xs.vip/1000034
 https://a1xs.vip/1000036
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="FILM4 FHD" tvg-logo="https://pixvid.org/images/2025/02/19/film4.png" group-title="Sports English VIP",Film4 FHD
 https://a1xs.vip/1000035
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="MTV FHD" tvg-logo="https://pixvid.org/images/2025/02/28/MTV.png" group-title="Sports English VIP",MTV FHD
+https://a1xs.vip/1000037
 
 #EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://pixvid.org/images/2025/02/08/discovery-uk.png" group-title="Sports English VIP",Discovery Channel FHD
 https://a1xs.vip/1000033
@@ -518,7 +532,12 @@ https://a1xs.vip/210007
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png" group-title="Sports English VIP",Sky Cinema Comedy FHD
 https://a1xs.vip/210005
 
-
+#EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" tvg-name="Cartoon Network UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/cartoon-network.png" group-title="Sports English VIP",Cartoon Network UK FHD
+https://a1xs.vip/1000050
+#EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-name="Nickelodeon UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png"" group-title="Sports English VIP",Nickelodeon UK FHD
+https://a1xs.vip/1000051
+#EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-name="Nick Jr. UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png"" group-title="Sports English VIP",Nick Jr. UK FHD
+https://a1xs.vip/1000052
 
 
 --- 📺 US Sports
@@ -602,10 +621,11 @@ https://a1xs.vip/40000043
 https://a1xs.vip/40000040
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="Sports English VIP",Tennis Channel Plus FHD
 https://a1xs.vip/40000041
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="TGolf Channel USA FHD" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="Sports English VIP",Golf Channel USA FHD
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel USA FHD" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="Sports English VIP",Golf Channel USA FHD
 https://a1xs.vip/40000060
 
-
+#EXTINF:-1 tvg-id="Chicago.Sports.Network.us" tvg-name="Chicago Sports Network" tvg-logo="https://i.imgur.com/wJvwsKH.png" group-title="Sports English VIP",Chicago Sports Network
+https://a1xs.vip/4000049
 
 --- 📺 US Channels
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="Sports English VIP",ABC
@@ -616,6 +636,13 @@ https://a1xs.vip/300007
 https://a1xs.vip/300008
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="https://pixvid.org/images/2025/02/20/cnbc.png" group-title="Sports English VIP",CNBC FHD
 https://a1xs.vip/300009
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CNBC FHD" tvg-logo="https://pixvid.org/images/2025/02/26/cbs.png" group-title="Sports English VIP",CBS FHD
+https://a1xs.vip/300010
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://pixvid.org/images/2025/03/04/fox-news.png" group-title="Sports English VIP",Fox News
+https://a1xs.vip/300011
+#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="NewsMax" tvg-logo="https://pixvid.org/images/2025/03/04/Newsmax.png" group-title="Sports English VIP",NewsMax
+https://a1xs.vip/300012
+
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="https://pixvid.org/images/2025/02/12/fxx.png" group-title="Sports English VIP",FXX
 https://a1xs.vip/300006
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT FHD" tvg-logo="https://pixvid.org/images/2025/02/05/tnt.png" group-title="Sports English VIP",TNT FHD
@@ -630,23 +657,35 @@ https://a1xs.vip/300005
 https://a1xs.vip/1100020
 
 
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png" group-title="Sports English VIP",Nickelodeon FHD
+https://a1xs.vip/300030
+#EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="TeenNick FHD" tvg-logo="https://pixvid.org/images/2025/02/27/TeenNick.png" group-title="Sports English VIP",TeenNick FHD
+https://a1xs.vip/300031
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="Nick Jr. FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png" group-title="Sports English VIP",Nick Jr. FHD
+https://a1xs.vip/300033
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network FHD" tvg-logo="https://pixvid.org/images/2025/02/27/cartoon-network.png" group-title="Sports English VIP",Cartoon Network FHD
+https://a1xs.vip/300032
+
 --- 📺 CA Sports
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="Sports English VIP",TSN1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://pixvid.org/images/2025/02/24/TSN1.png" group-title="Sports English VIP",TSN1
 https://a1xs.vip/6000001
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="Sports English VIP",TSN2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://pixvid.org/images/2025/02/24/TSN2.png" group-title="Sports English VIP",TSN2
 https://a1xs.vip/6000002
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="Sports English VIP",TSN3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://pixvid.org/images/2025/02/24/TSN3.png" group-title="Sports English VIP",TSN3
 https://a1xs.vip/6000003
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="Sports English VIP",TSN4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://pixvid.org/images/2025/02/24/TSN4.png" group-title="Sports English VIP",TSN4
 https://a1xs.vip/6000004
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="Sports English VIP",TSN5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://pixvid.org/images/2025/02/24/TSN5.png" group-title="Sports English VIP",TSN5
 https://a1xs.vip/6000005
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="Sports English VIP",Sportsnet Ontario FHD
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/24/SportsNet_On.png" group-title="Sports English VIP",Sportsnet Ontario FHD
 https://a1xs.vip/6000011
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="Sports English VIP",Sportsnet One FHD
 https://a1xs.vip/6000012
 #EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_World.png" group-title="Sports English VIP",Sportsnet World FHD
 https://a1xs.vip/6000013
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360 FHD" tvg-logo="https://pixvid.org/images/2025/02/24/SportsNet_360.png" group-title="Sports English VIP",Sportsnet 360 FHD
+https://a1xs.vip/6000014
+
 
 --- 📺 CA Channels
 
@@ -667,6 +706,12 @@ https://a1xs.vip/700006
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://pixvid.org/images/2025/01/31/Fox507.png" group-title="Sports English VIP",Fox Sports 507 FHD
 https://a1xs.vip/700007
 
+
+#EXTINF:-1 tvg-id="Optus.Sport.1.au" tvg-name="Optus Sports 1" tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="Sports English VIP",Optus Sports 1
+https://a1xs.vip/700010
+#EXTINF:-1 tvg-id="Optus.Sport.2.au" tvg-name="Optus Sports 2" tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="Sports English VIP",Optus Sports 2
+https://a1xs.vip/700011
+
 --- 📺 NZ Sports
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://pixvid.org/images/2025/02/02/SSNZ1.png" group-title="Sports English VIP",SKY Sport 1 NZ
 https://a1xs.vip/700031
@@ -685,11 +730,28 @@ https://a1xs.vip/700037
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="Sports English VIP",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
 
---- 📺 World Sports
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_1.png" group-title="Sports English VIP",Premier Sports 1 FHD
+
+--- 📺 EU Sports
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_1.png" group-title="Sports English VIP",IRE: Premier Sports 1 FHD
 https://a1xs.vip/8000021
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 21 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_2.png" group-title="Sports English VIP",Premier Sports 2 FHD
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_2.png" group-title="Sports English VIP",IRE: Premier Sports 2 FHD
 https://a1xs.vip/8000022
+
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital Fussball" tvg-logo="https://pixvid.org/images/2025/02/26/sportdigital-fussball.png" group-title="Sports English VIP",DE: Sportdigital Fussball FHD
+https://a1xs.vip/120001
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="Sports English VIP",DE: Sky Sport Bundesliga FHD
+https://a1xs.vip/120002
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="Sports English VIP",DE: Sky Sport Top Event FHD
+https://a1xs.vip/120003
+
+#EXTINF:-1 tvg-id="SuperSport.1.al" tvg-name="AL: Super Sport 1 FHD" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="Sports English VIP",AL: Super Sport 1 FHD
+https://a1xs.vip/130001
+#EXTINF:-1 tvg-id="SuperSport.2.al" tvg-name="AL: Super Sport 2 FHD" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="Sports English VIP",AL: Super Sport 2 FHD
+https://a1xs.vip/130002
+#EXTINF:-1 tvg-id="SuperSport.2.al" tvg-name="AL: Super Sport 3 FHD" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="Sports English VIP",AL: Super Sport 3 FHD
+https://a1xs.vip/130003
+
+--- 📺 World Sports
 #EXTINF:-1 tvg-id="EPL.za" tvg-name="SuperSport PL FHD" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="Sports English VIP",SuperSport PL FHD
 https://a1xs.vip/8000001
 #EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="SuperSport Football FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SSFB.png" group-title="Sports English VIP",SuperSport Football FHD
@@ -719,7 +781,6 @@ https://a1xs.vip/8000014
 https://a1xs.vip/8000011
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SPS2.png" group-title="Sports English VIP", Star Sports Select 2 FHD
 https://a1xs.vip/8000012
-
 
 
 
