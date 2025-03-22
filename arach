@@ -177,17 +177,17 @@ https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 1
 http://45.139.122.148:8000/play/a004
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 2
-#http://45.139.122.148:8000/play/a005
+http://45.139.122.148:8000/play/a005
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 3
-#http://45.139.122.148:8000/play/a006
+http://45.139.122.148:8000/play/a006
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 3
-#http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 4
-#http://45.139.122.148:8000/play/a007
+http://45.139.122.148:8000/play/a007
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 5
-#http://45.139.122.148:8000/play/a008
+http://45.139.122.148:8000/play/a008
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 6
-#http://45.139.122.148:8000/play/a009
+http://45.139.122.148:8000/play/a009
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 7
 http://45.139.122.148:8000/play/a00a
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORTS MENA 8
