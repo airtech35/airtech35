@@ -2651,6 +2651,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="🇮🇶العراق IRAQ",UTV 
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://pbs.twimg.com/profile_images/1876291493293371392/H3fYnrY7_400x400.jpg" group-title="🇮🇶العراق IRAQ",Shams TV
+https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_wVh_YyLDvvSM5LnxSpPHJw1F-MHhSWUAA&s" group-title="🇮🇶العراق IRAQ",Al Shabab TV
 http://149.100.11.244:8001/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alawla.tv/templates/Default/images/logo.png" group-title="🇮🇶العراق IRAQ",Alawla TV
