@@ -10393,8 +10393,6 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="🇩🇪 Germany",Phoenix  [Geo-blocked]
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-
-
 #EXTINF:0 tvg-id="1012" tvg-logo="http://epg.cdntv.online/img/1012.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", VOX DE+
 https://cdntv.online/high/9mlxywika2/1012.m3u8
 #EXTINF:0 tvg-id="1013" tvg-logo="http://epg.cdntv.online/img/1013.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🇩🇪 Germany", Sat. 1 DE
@@ -10431,6 +10429,10 @@ https://cdntv.online/high/9mlxywika2/1078.m3u8
 https://cdntv.online/high/9mlxywika2/1079.m3u8
 #EXTINF:0 tvg-id="1060" tvg-logo="http://epg.cdntv.online/img/1060.png" group-title="🇩🇪 Germany", Welt HD
 https://cdntv.online/high/9mlxywika2/1060.m3u8
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="🇩🇪 Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:0 tvg-id="1060" tvg-logo="http://epg.cdntv.online/img/1060.png" group-title="🇩🇪 Germany", Welt HD
+https://s6.hopslan.com/n24X/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-id="439" tvg-logo="http://epg.cdntv.online/img/439.png" group-title="🇩🇪 Germany", Deutsche Welle
 https://cdntv.online/high/9mlxywika2/439.m3u8
 #EXTINF:0 tvg-id="908" tvg-logo="http://epg.cdntv.online/img/908.png" group-title="🇩🇪 Germany", Allgäu TV
