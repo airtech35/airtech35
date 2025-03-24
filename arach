@@ -28,9 +28,9 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a034
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png",beIN SPORTS HD
 http://154.58.202.131:8000/play/a07s
 
 
