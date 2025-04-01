@@ -2779,6 +2779,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="🇪🇬المصرية Egypt",PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPln9yU.png" group-title="🇪🇬المصرية Egypt",On E
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.png" group-title="🇪🇬المصرية Egypt",ALHAYAT
 http://teledunet.com:8080/live/tdn/tdn/332.ts
 
