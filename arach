@@ -1552,6 +1552,15 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", رمضان-معانا-مسلسلات
+https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", فيروز
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", رابح-صقر
+https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", طرب
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_4.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", رمضان-معانا-خليجي
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", قناة-سين
@@ -1562,8 +1571,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/976f5db2766347f8963f32eebfa8ed10/in
 https://shls-live-enc.edgenextcdn.net/out/v1/8328464750f04ec6bb512585e6941631/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", قناة-سكة-سفر
 https://shls-live-enc.edgenextcdn.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", رمضان-معانا
-https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",L.O.V.E
 https://shls-live-enc.edgenextcdn.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Red-Bull-TV
@@ -1572,14 +1579,10 @@ https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/in
 https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", MBC2
 https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", كوميدي-خليجي
-https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Arabs-Got-Talent
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Top CHEF
 https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xw0DYl" group-title="Shahid TV VIP",Movies
-https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Movies-Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Movies-Thriller
@@ -1596,8 +1599,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/in
 https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3R2BI9o" group-title="Shahid TV VIP",الكبير-أوي
 https://shls-live-enc.edgenextcdn.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", راجل-وست-ستات
-https://shls-live-enc.edgenextcdn.net/out/v1/8328464750f04ec6bb512585e6941631/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/shahid/Tash.png" group-title="Shahid TV VIP",Tash
 https://shls-live-enc.edgenextcdn.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", قناة-أحلى-ما-طاش
