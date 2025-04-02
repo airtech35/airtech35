@@ -2434,8 +2434,10 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="Syria سورية",Al Yaum TV
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-
-
+#EXTINF:-1 group-title="Syria سورية",Misk Syria TV
+http://154.58.202.185:8000/play/a0eg
+#EXTINF:-1 group-title="Syria سورية",ALIKHBARIYA.SY
+http://154.58.202.185:8000/play/a0ej
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
@@ -2830,6 +2832,7 @@ https://9090video.mobtada.com/hls/stream.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="NILE SPORTS" live="1" tvg-logo="https://bit.ly/4gi4A75" group-title="🇪🇬المصرية Egypt",NILE SPORTS
 http://teledunet.com:8080/tdn/tdn/240
 #EXTINF:-1 tvg-id="" tvg-name="MISR ELBALAD" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",MISR ELBALAD
@@ -2849,6 +2852,11 @@ http://teledunet.com:8080/tdn/tdn/348
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Cairo+ Today
 https://ffs3.gulfsat.com/hbc/index.m3u8
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Osm Drama
+http://154.58.202.185:8000/play/a0eh
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Osm Cinema
+http://154.58.202.185:8000/play/a0ei
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALASKANDRIA
 http://154.58.202.131:8000/play/a02e
@@ -2889,6 +2897,8 @@ http://149.62.177.103:8000/play/a08b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="🇲🇦المغربMAROCCO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" referer="https://2m.ma",2M MONDE الثانية
+#EXTVLCOPT:http-referrer=https://2m.ma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 🇲🇦
