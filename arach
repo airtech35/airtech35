@@ -2452,7 +2452,7 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://yt3.googleusercontent.com/PzIpFtLlkTzD0tFwKmdOTpE-X9MdV4fCBlkD-tFn364wRLOMcQn_BUipZEdbWLSMhXycdT6ZzA=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",Misk Syria TV
 http://154.58.202.185:8000/play/a0eg
-#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://web.ortas.online/images/bg07.jpg" group-title="Syria سورية",ALIKHBARIYA.SY
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_the_Syrian_revolution.svg/1200px-Flag_of_the_Syrian_revolution.svg.png" group-title="Syria سورية",ALIKHBARIYA.SY
 http://154.58.202.185:8000/play/a0ej
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",لبنانLEBANON🇱🇧
