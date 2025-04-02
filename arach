@@ -2296,6 +2296,20 @@ http://154.197.91.168:7003/play/a0fh
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="General",LBC (1080p)
+https://rotana.hibridcdn.net/rotana/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="ROTANA روتانا",Rotana Cinema Egypt
+https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="ROTANA روتانا",Rotana Clip
+https://rotana.hibridcdn.net/rotana/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA روتانا",Rotana Comedy
+https://rotana.hibridcdn.net/rotana/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ROTANA روتانا",Rotana Drama
+https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ROTANA روتانا",Rotana Khalijia
+https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/0wxwMjs.png" group-title="ROTANA روتانا",Rotana Aflam+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
@@ -3527,8 +3541,8 @@ http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="8AlResalah(English).ca(m3u4u)" tvg-name="ALRESALAH" tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="🕌Islami اسلامية",ALRESALAH
-https://oppomu.serv00.net/rotana.php?channel=alressalah&.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-logo="https://i.imgur.com/7o4HgrP.png" group-title="🕌Islami اسلامية",Al Resalah
+https://rotana.hibridcdn.net/rotana/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
 https://win.holol.com/live/saad/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 1
