@@ -2796,7 +2796,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.png" group-title="🇪🇬المصرية Egypt",ALHAYAT
 http://teledunet.com:8080/live/tdn/tdn/332.ts
-
+#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat-Drama Blue
+https://stream.wsla.top/live/qanwatlive/qanwatlive/4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Cinema
+http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬المصرية Egypt",ON EGYPT
 http://185.9.2.18/chid_616/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SOFRA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/cbc_sofra.jpg" group-title="🇪🇬المصرية Egypt",CBC SOFRA EGYPT
