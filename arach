@@ -46,8 +46,7 @@ https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
 https://dffgtrdb.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
 https://dffgtrdb.vffddd.online/bein1/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0++
-https://new.m3u8.one/pre1/index.m3u8
+
 
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
