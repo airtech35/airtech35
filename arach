@@ -9291,6 +9291,14 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 http://45.68.35.218:4001/play/a015/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",VIX LALIGA 🇲🇽
 http://45.68.35.218:4001/play/a01s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SKY LALIGA 🇲🇽
+http://45.228.234.173:9999/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
+https://dffgtrdc.vffddd.online/bein3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
+https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 1 🇶🇦
 https://dffgtrdc.vffddd.online/bein1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 1 🇶🇦
@@ -9309,6 +9317,8 @@ http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
 http://190.92.10.66:4000/play/a003/index.m3u8?elkiosko
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",LALIGA TV 🇬🇧
 http://pddqrmu.mmastertv.xyz:80/RafetSalii/2893482853/191145
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN 1 🇬🇧
+http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ESPN 🇨🇴
 http://181.78.74.69:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Fast Sports 🇦🇲
@@ -9321,12 +9331,6 @@ http://213.91.178.133:8000/play/a05n
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",S SPORT 2 🇹🇷
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
-https://dffgtrdc.vffddd.online/bein3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bien sport 3 🇶🇦
-https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ESPN BRAZIL 🇧🇷
 http://main.fonte021.com:80/Mestre1/102030mestre/91227
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SKY SPORTS LALIGA 🇲🇽
@@ -9451,6 +9455,18 @@ http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90
 http://nl.iptvsolution.info:80/sk2/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SK3 🇭🇷
 http://nl.iptvsolution.info:80/sk3/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",V SPORT 🇸🇪
+http://62.210.211.188:2095/play/a001
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",V SPORT PL1 🇸🇪
+http://62.210.211.188:2095/play/a002
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",V SPORT PL2 🇸🇪
+http://62.210.211.188:2095/play/a003
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",V SPORT PL3 🇸🇪
+http://62.210.211.188:2095/play/a004
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",V SPORT PL4 🇸🇪
+http://62.210.211.188:2095/play/a005
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",V SPORT WINTER 🇸🇪
+http://62.210.211.188:2095/play/a00q
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TV1 🇪🇸
@@ -9545,6 +9561,8 @@ https://jmp2.uk/sam-ATBD26000124P.m3u8
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ELTA SPORTS 🇹🇼
+http://198.16.100.186:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ARMENIA TV 🇦🇲
