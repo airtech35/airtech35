@@ -44,43 +44,15 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -05
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -06
-https://dffgtrdc.vffddd.online/bein4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -07
-https://dffgtrdc.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -08
-https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -09
-https://dffgtrdc.vffddd.online/bein1/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -10
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -11
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -07
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -012
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -08
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -013
-https://stream.live12.ir/hls2/ssc1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -014
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -09
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -015
-https://dffgtrdb.vffddd.online/bein3/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -16
-https://dffgtrdb.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -17
-https://dffgtrdb.vffddd.online:8880/bein4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -18
-https://dffgtrdb.vffddd.online/bein3/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -19
-https://dffgtrdb.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -20
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -10
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -21
-https://pepebong.online/live/3/chunks.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -22
-https://dffgtrdc.vffddd.online/bein4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -23
-https://dffgtrdc.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -24
-https://dffgtrdc.vffddd.online/bein4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 1280x720
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
