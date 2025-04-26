@@ -89,6 +89,20 @@ http://142.132.133.190:1935/live/Gewher_Sport/playlist.m3u8
 https://top1-cdnnew.newkso.ru/top1-cdn/RoBm4dtGiA/mono.m3u8
 
 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -27
+https://hashtyioman.sbs/time/2
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -28
+https://nohrelamn.sbs/time/2
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -29
+https://hashtyioman.sbs/time/1
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -30
+https://sevonuiah38q.sbs/time/1
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -31
+https://nohrelamn.sbs/time/4
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -32
+https://shiiishnbeba.sbs/time/3
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 1280x720
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 854x480
