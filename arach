@@ -881,6 +881,108 @@ https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetMo
 https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https%3A%2F%2Fhtvint.mada.ps%2Falhouriyah2%2Ftracks-v1a1%2Fmono.m3u8
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",SPORT CHANNELS
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",كيف احصل على الكود
+https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cna/master.m3u8
+#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Alkass One
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhua/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORT رياضية",Alkass SHOOF
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSix.qa" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="SPORT رياضية",Alkass Six
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Alkass Three
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORT رياضية",Abu Dhabi Sports 2
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORT رياضية",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="SPORT رياضية",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="SPORT رياضية",Dubai Racing
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="SPORT رياضية",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="SPORT رياضية",Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="SPORT رياضية",Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="YasTV.ae" tvg-logo="https://i.imgur.com/B7OiXCB.png" group-title="SPORT رياضية",Yas TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="SPORT رياضية",Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png" group-title="SPORT رياضية",Oman TV Sport HD
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT رياضية",Kuwait Sports HD
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="SPORT رياضية",Kuwait Sports 2 HD
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGR9hI7.png" group-title="SPORT رياضية",Bahrain Sports 1 HD
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png" group-title="SPORT رياضية",Bahrain Sports 2 HD
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png" group-title="SPORT رياضية",Sharjah Sport HD
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",Nile sport
+http://93.184.10.248/NileSport/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="SPORT رياضية",Maroc SPORT
+https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 1
+http://154.58.202.185:8000/play/a0a0
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 1 HD
+http://154.58.202.185:8000/play/a09w
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 2
+http://154.58.202.185:8000/play/a0a1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 2 HD
+http://154.58.202.185:8000/play/a09x
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3
+http://154.58.202.185:8000/play/a0a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3 HD
+http://154.58.202.185:8000/play/a09y
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORT 4
+http://154.58.202.185:8000/play/a0eb
+
+
+#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 1
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 11
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 12
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+#EXTINF:0 tvg-id="FightNetwork.ca" group-title="SPORT رياضية",Fight Network 
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
@@ -1230,107 +1332,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a7
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",SPORT CHANNELS
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",كيف احصل على الكود
-https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
-#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
-#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Alkass One
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORT رياضية",Alkass SHOOF
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
-#EXTINF:-1 tvg-id="AlkassSix.qa" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="SPORT رياضية",Alkass Six
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Alkass Three
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORT رياضية",Abu Dhabi Sports 2
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
-#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORT رياضية",Dubai Racing 2
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="SPORT رياضية",Dubai Racing 3
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="SPORT رياضية",Dubai Racing
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="SPORT رياضية",Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="SPORT رياضية",Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="SPORT رياضية",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="YasTV.ae" tvg-logo="https://i.imgur.com/B7OiXCB.png" group-title="SPORT رياضية",Yas TV
-https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="SPORT رياضية",Sharjah Sports TV
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png" group-title="SPORT رياضية",Oman TV Sport HD
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT رياضية",Kuwait Sports HD
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="SPORT رياضية",Kuwait Sports 2 HD
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pGR9hI7.png" group-title="SPORT رياضية",Bahrain Sports 1 HD
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png" group-title="SPORT رياضية",Bahrain Sports 2 HD
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owSN4dC.png" group-title="SPORT رياضية",Sharjah Sport HD
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",Nile sport
-http://93.184.10.248/NileSport/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
-http://93.184.10.248/JordanSport/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="SPORT رياضية",Maroc SPORT
-https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 1
-http://154.58.202.185:8000/play/a0a0
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 1 HD
-http://154.58.202.185:8000/play/a09w
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 2
-http://154.58.202.185:8000/play/a0a1
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 2 HD
-http://154.58.202.185:8000/play/a09x
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3
-http://154.58.202.185:8000/play/a0a2
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3 HD
-http://154.58.202.185:8000/play/a09y
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORT 4
-http://154.58.202.185:8000/play/a0eb
-
-
-#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 1
-https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 2
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 5
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 6
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 7
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 8
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 9
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 10
-https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 11
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 12
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-#EXTINF:0 tvg-id="FightNetwork.ca" group-title="SPORT رياضية",Fight Network 
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP", باقة شاهد الأصلية 
 https://bit.ly/3xYLaRh
@@ -2185,8 +2187,6 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="LEBANON لبنان",Arabica TV  🇱🇧
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="FalestinonaChannel.lb" tvg-logo="https://i.imgur.com/Z3QeQHk.png" group-title="LEBANON لبنان",Falestinona Channel 🇱🇧
-https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV 🇱🇧
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="LEBANON لبنان",Nabaa TV 🇱🇧
@@ -2199,8 +2199,6 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
 #EXTINF:-1 tvg-id="SensesTV.lb" tvg-logo="https://i.imgur.com/hnTx8eK.png" group-title="LEBANON لبنان",Senses TV 🇱🇧
 https://sensestv.com:4433/hls/sensesonline/index.m3u8
-#EXTINF:-1 tvg-id="SPILebanon.lb" tvg-logo="https://spilebanon.com/img/spi-logo.jpg" group-title="LEBANON لبنان",SPI LEBANON 🇱🇧
-http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuboroTV.lb" tvg-logo="https://i.imgur.com/nIch94y.png" group-title="LEBANON لبنان",Suboro TV 🇱🇧
 https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-logo="https://i.imgur.com/5VPYxJi.png" group-title="LEBANON لبنان",Tele Liban 🇱🇧
