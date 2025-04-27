@@ -2936,10 +2936,14 @@ https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chun
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="🇦🇪الامارات EMIRATES",Sama Dubai
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/DLe7ZuM.png" group-title="🇦🇪الامارات EMIRATES",Noor Dubai
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi Aloula
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="🇦🇪الامارات EMIRATES",National Geographic Abu Dhabi [Geo-blocked]
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="🇦🇪الامارات EMIRATES",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-logo="https://i.imgur.com/sOMOe9t.png" group-title="🇦🇪الامارات EMIRATES",Al Dafrah TV 
@@ -2956,10 +2960,6 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:-1 tvg-id="FujairahTV.ae" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="🇦🇪الامارات EMIRATES",Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="🇦🇪الامارات EMIRATES",National Geographic Abu Dhabi [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/DLe7ZuM.png" group-title="🇦🇪الامارات EMIRATES",Noor Dubai
-https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NourTV.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="🇦🇪الامارات EMIRATES",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="🇦🇪الامارات EMIRATES",Peace TV Chinese
@@ -2970,22 +2970,6 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="🇦🇪الامارات EMIRATES",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-
-#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="🇦🇪الامارات EMIRATES",Weyyak Action [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="🇦🇪الامارات EMIRATES",Weyyak Drama [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakMix.ae" tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" group-title="🇦🇪الامارات EMIRATES",Weyyak Mix [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 tvg-id="WeyyakNawaem.ae" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="🇦🇪الامارات EMIRATES",Weyyak Nawaem [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-logo="https://i.imgur.com/nUmsyGt.png" group-title="🇦🇪الامارات EMIRATES",Zee Aflam [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAlwan.ae" tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="🇦🇪الامارات EMIRATES",Zee Alwan [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-
-
 #EXTINF:-1 tvg-id="SharjahRadioQuran.ae" tvg-logo="https://i.imgur.com/MxZlOvc.png" group-title="🇦🇪الامارات EMIRATES",Sharjah Radio Quran
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="Pulse95Radio.ae" tvg-logo="https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png" group-title="🇦🇪الامارات EMIRATES",Pulse95 Radio
