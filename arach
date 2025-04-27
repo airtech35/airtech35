@@ -33,23 +33,29 @@ http://154.58.202.131:8000/play/a034
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://alkhabarkw.com/wp-content/uploads/2024/09/Resizer_17269345810371.jpeg",beIN SPORTS HD
 http://154.58.202.131:8000/play/a07s
 
-Nasser vs yokohama
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://bb.gggssjmjh756hgffreewguiijnbvcfg7.store/bein6/index.m3u8
-
-Réal Madrid vs Barcelone r
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://bb.gggssjmjh756hgffreewguiijnbvcfg7.store/bein22/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://bb.gggssjmjh756hgffreewguiijnbvcfg7.store/bein22/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://d34pgsv56rr235.cloudfront.net/n-1_1.m3u8
+https://myvincent875.s3.us-east-1.amazonaws.com/manu.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://6476e46b58f91.streamlock.net/liveTrans/vip32/index.m3u8
+https://myvincent875.s3.us-east-1.amazonaws.com/manu_1080p30.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://6476e46b58f91.streamlock.net/liveTrans/vip31/index.m3u8
+https://myvincent875.s3.us-east-1.amazonaws.com/manu_480p30.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://bb.gggssjmjh756hgffreewguiijnbvcfg7.store/bein5/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://bb.gggssjmjh756hgffreewguiijnbvcfg7.store/bein4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://bb.gggssjmjh756hgffreewguiijnbvcfg7.store/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://bb.gggssjmjh756hgffreewguiijnbvcfg7.store/bein1/index.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
 http://gr.seetv.cc/play/5016/1E20008EF0CBB6F/video.m3u8
