@@ -1234,20 +1234,20 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/879Jv9I.png" group-title="SPORT رياضية",Al Kass 1 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmqD2e7.png" group-title="SPORT رياضية",Al Kass 2 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nfj53pF.png" group-title="SPORT رياضية",Al Kass 3 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfpcSsW.png" group-title="SPORT رياضية",Al Kass 4 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SiXjL4z.png" group-title="SPORT رياضية",Al Kass 5 HD
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RIJkEzL.png" group-title="SPORT رياضية",Al Kass 6 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
-#EXTINF:-1 tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORT رياضية",Al Kass 7 HD
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
+#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Alkass One
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORT رياضية",Alkass SHOOF
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSix.qa" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="SPORT رياضية",Alkass Six
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Alkass Three
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORT رياضية",Abu Dhabi Sports 2
@@ -2767,24 +2767,22 @@ http://82.212.74.98:8000/live/7815.m3u8
 #EXTINF:-1 tvg-id="AmaniTV.sn" tvg-logo="https://i.imgur.com/0cY4K7G.png" group-title="🇸🇩السودانSUDAN",Amani TV (1080p) [Not 24/7]
 https://goccn.cloud/hls/amanitv/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV 🇶🇦
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="🇶🇦قطر Qatar",Qatar Television 
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="🇶🇦قطر Qatar",Qatar Television 2 
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="🇶🇦قطر Qatar",Al Rayyan 
+
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="🇶🇦قطر Qatar",Qatar Television 🇶🇦
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="🇶🇦قطر Qatar",Qatar Television 2 🇶🇦
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="🇶🇦قطر Qatar",Al Rayyan 🇶🇦
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AlRayyanOldTV.qa" tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="🇶🇦قطر Qatar",Al Rayyan Al Qadeem 
+#EXTINF:-1 tvg-id="AlRayyanOldTV.qa" tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="🇶🇦قطر Qatar",Al Rayyan Al Qadeem 🇶🇦
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇧🇭البحرين Bahrain",Bahrain TV 🇧🇭
 https://bit.ly/3xYLaRh
 
-#EXTM3U
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="🇧🇭البحرين Bahrain",Bahrain TV 🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vWtsfp" group-title="🇧🇭البحرين Bahrain",Bahrein International 🇧🇭
