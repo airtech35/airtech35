@@ -2629,8 +2629,7 @@ http://149.62.177.103:8000/play/a08b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="🇲🇦المغربMAROCCO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" referer="https://2m.ma",2M MONDE الثانية
-http://teledunet.com:8080/live/tdn/tdn/691.ts
-
+https://d3g87jnubafe6a.cloudfront.net/out/v1/1fa0fb3c8dec402994a6f7a7f6492b82/index.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 🇲🇦
 https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Laayoune 🇲🇦
@@ -2657,7 +2656,8 @@ https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" user-agent="VLC/3.0.20 LibVLC/3.0.20" group-title="🇲🇦المغربMAROCCO",TELE MAROC قناة المغرب
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
-#EXTM3U
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="🇹🇳تونسTUNISIE",WATANIA 1
@@ -2674,8 +2674,7 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:11 tvg-id="Al mustakila" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Radio_Tunis.png" group-title="🇹🇳تونسTUNISIE",13 Radio Tunis Livecam
 http://webcam.radiotunisienne.tn:1935/radiotn/nationale_video/playlist.m3u8
-#EXTINF:11 tvg-id="Al mustakila" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Radio_Tunis.png" group-title="🇹🇳تونسTUNISIE",14 Mosaique FM Livecam
-https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+
 
 #EXTINF: 0 tvg-id="Tunisia NAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="🇹🇳تونسTUNISIE",Tunisia NAT 1
 http://154.197.91.168:7001/play/a0b5/index.m3u8
@@ -2716,34 +2715,29 @@ http://154.58.202.185:8000/play/a03m
 http://154.58.202.185:8000/play/a0ac
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://yt3.googleusercontent.com/GWXUWvdkhVQZDS901ADghvh6RZimTuUK1JPH6lxRxXjiqTwsG2ouY0pPb1h2ZghGwG9mJ4uo=s900-c-k-c0x00ffffff-no-rj" group-title="🇹🇳تونسTUNISIE",Telvza TV
 http://154.58.202.185:8000/play/a03n
-#EXTM3U
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png" group-title="🇩🇿الجزائرALGERIEN",AL24NEWS قناة الجزائر الدّولية
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="🇩🇿الجزائرALGERIEN",TV2
-https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV
-http://154.58.202.131:8000/play/a0ar
 
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇩🇿الجزائرALGERIEN", 🇩🇿الجزائرALGERIEN 🇩🇿
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇩🇿الجزائرALGERIEN",النسخة المدفوعة AirMax TV
+https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="🇩🇿الجزائرALGERIEN",AL24 News 🇩🇿
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="🇩🇿الجزائرALGERIEN",TV2 🇩🇿
+https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV4.dz" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="🇩🇿الجزائرALGERIEN",TV4 🇩🇿
+https://tgn.bozztv.com/dvrfl05/ga-algeria4/index.m3u8
+#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="🇩🇿الجزائرALGERIEN",CNA 🇩🇿
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV 🇩🇿
+http://154.58.202.131:8000/play/a0ar
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama 🇩🇿
 http://154.58.202.131:8000/play/a03l
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Ousra
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Ousra 🇩🇿
 http://154.58.202.185:8000/play/a0ah
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Sharq
-http://154.58.202.131:8000/play/a03o
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL SHARQ
-https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Wataniya
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Wataniya 🇩🇿
 http://154.58.202.185:8000/play/a0ad
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elbeshara GTV (1080p) [Not 24/7]
-http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elbeshara Tv
-http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ElKeraza
-http://154.58.202.131:8000/play/a01t
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR
-http://154.58.202.131:8000/play/a04h
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR-HD
-http://154.58.202.131:8000/play/a04r
 
 
 
