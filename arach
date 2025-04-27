@@ -936,7 +936,7 @@ http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
 http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="SPORT رياضية",Maroc SPORT
-https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 1
 http://154.58.202.185:8000/play/a0a0
