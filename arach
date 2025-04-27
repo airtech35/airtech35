@@ -2727,9 +2727,6 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV4.dz" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="🇩🇿الجزائرALGERIEN",TV4 🇩🇿
 https://tgn.bozztv.com/dvrfl05/ga-algeria4/index.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="🇩🇿الجزائرALGERIEN",CNA 🇩🇿
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV 🇩🇿
 http://154.58.202.131:8000/play/a0ar
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama 🇩🇿
