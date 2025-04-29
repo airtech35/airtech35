@@ -1568,52 +1568,56 @@ https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/documentaries/playl
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Weyyak TV VIP ", Weyyak VIP
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Weyyak TV VIP", Weyyak VIP
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Weyyak TV VIP ",  النسخة المدفوعة AirMax TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Weyyak TV VIP",  النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak TV VIP ",Zee-Alwan
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Alwan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" group-title="Weyyak TV VIP",Zee-Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" group-title="Weyyak TV VIP ",Zee-Aflam
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" group-title="Weyyak TV VIP",Zee-Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="Weyyak TV VIP ",Weyyak Nawaem
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="Weyyak TV VIP",Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="Weyyak TV VIP ",Weyyak Mix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="Weyyak TV VIP",Weyyak Mix
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Weyyak TV VIP ",Weyyak Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Weyyak TV VIP",Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Weyyak TV VIP ",Weyyak Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Weyyak TV VIP",Weyyak Drama
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedo-Big-Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" group-title="Weyyak TV VIP ",Wedo-Big-Stories
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedo-Big-Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" group-title="Weyyak TV VIP",Wedo-Big-Stories
 https://weyyak-live.akamaized.net/wedo_big_stories/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" group-title="Weyyak TV VIP ",Duck-TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" group-title="Weyyak TV VIP",Duck-TV
 https://weyyak-live.akamaized.net/weyyak_ducktv/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jodha-Akbar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Jodha-Akbar.png" group-title="Weyyak TV VIP ",Jodha-Akbar
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jodha-Akbar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Jodha-Akbar.png" group-title="Weyyak TV VIP",Jodha-Akbar
 https://weyyak-live.akamaized.net/jodha_akbar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat-Qalbi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hayat-Qalbi.png" group-title="Weyyak TV VIP ",Hayat-Qalbi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat-Qalbi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hayat-Qalbi.png" group-title="Weyyak TV VIP",Hayat-Qalbi
 https://weyyak-live.akamaized.net/hayat_qalbi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The-Smurfs" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The-Smurfs.png" group-title="Weyyak TV VIP ",The-Smurfs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The-Smurfs" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The-Smurfs.png" group-title="Weyyak TV VIP",The-Smurfs
 https://weyyak-live.akamaized.net/weyyak_smurf_tv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon-Goggles-WW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toon-Goggles-WW.png" group-title="Weyyak TV VIP ",Toon-Goggles-WW
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon-Goggles-WW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toon-Goggles-WW.png" group-title="Weyyak TV VIP",Toon-Goggles-WW
 https://weyyak-live.akamaized.net/weyyak_toon_goggles_ww/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="just.classical" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/just.classical.png" group-title="Weyyak TV VIP ",just.classical
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="just.classical" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/just.classical.png" group-title="Weyyak TV VIP",just.classical
 https://weyyak-live.akamaized.net/weyyak_just_classical/tracks-v6a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AfroKiddos" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AfroKiddos.png" group-title="Weyyak TV VIP ",AfroKiddos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AfroKiddos" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AfroKiddos.png" group-title="Weyyak TV VIP",AfroKiddos
 https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boonie-Cubs-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Boonie-Cubs-TV.png" group-title="Weyyak TV VIP ",Boonie-Cubs-TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boonie-Cubs-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Boonie-Cubs-TV.png" group-title="Weyyak TV VIP",Boonie-Cubs-TV
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cooking-Panda" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cooking-Panda.png" group-title="Weyyak TV VIP ",Cooking-Panda
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cooking-Panda" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cooking-Panda.png" group-title="Weyyak TV VIP",Cooking-Panda
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deluxe-Lounge-HD" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Deluxe-Lounge-HD.png" group-title="Weyyak TV VIP ",Deluxe-Lounge-HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deluxe-Lounge-HD" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Deluxe-Lounge-HD.png" group-title="Weyyak TV VIP",Deluxe-Lounge-HD
 https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Party-Tyme-Karaoke" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Party-Tyme-Karaoke.png" group-title="Weyyak TV VIP ",Party-Tyme-Karaoke
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Party-Tyme-Karaoke" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Party-Tyme-Karaoke.png" group-title="Weyyak TV VIP",Party-Tyme-Karaoke
 https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TG-Junior" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TG-Junior.png" group-title="Weyyak TV VIP ",TG-Junior
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TG-Junior" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TG-Junior.png" group-title="Weyyak TV VIP",TG-Junior
 https://weyyak-live.akamaized.net/weyyak_tg_junior/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ski-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" group-title="Weyyak TV VIP ",Ski-TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ski-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" group-title="Weyyak TV VIP",Ski-TV
 https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mpSdj2YblCM/hq720.jpg" group-title="Weyyak TV VIP ",PRO MIX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mpSdj2YblCM/hq720.jpg" group-title="Weyyak TV VIP",PRO MIX
 https://ffs3.gulfsat.com/hbc/index.m3u8
+#EXTINF:-1 group-title="Weyyak TV VIP", MIX HOLLYWOOD
+http://teledunet.com:8080/live/tdn/tdn/9959175.ts
+#EXTINF:-1 group-title="Weyyak TV VIP", MIX ONE
+http://teledunet.com:8080/live/tdn/tdn/9959174.ts
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="NETFLIX VIP", باقة NETFLIX 
 https://bit.ly/3xYLaRh
@@ -2616,8 +2620,7 @@ https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="🇪🇬المصرية Egypt",El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.png" group-title="🇪🇬المصرية Egypt",ALHAYAT
-http://teledunet.com:8080/live/tdn/tdn/332.ts
+
 #EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Cinema
 http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬المصرية Egypt",ON EGYPT
@@ -2650,62 +2653,103 @@ http://teledunet.com:8080/tdn/tdn/368
 http://teledunet.com:8080/tdn/tdn/348
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Cairo+ Today
 https://ffs3.gulfsat.com/hbc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC
-http://teledunet.com:8080/live/tdn/tdn/318.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC+
-http://teledunet.com:8080/live/tdn/tdn/329.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",ON drama
-http://teledunet.com:8080/live/tdn/tdn/322.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",ON
-http://teledunet.com:8080/live/tdn/tdn/320.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc
-http://teledunet.com:8080/live/tdn/tdn/324.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc  drama
-http://teledunet.com:8080/live/tdn/tdn/326.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", المصرية مباشر
-http://teledunet.com:8080/live/tdn/tdn/327.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Sofra‏
-http://teledunet.com:8080/live/tdn/tdn/331.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayah TV
-http://teledunet.com:8080/live/tdn/tdn/332.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayah series TV
-http://teledunet.com:8080/live/tdn/tdn/333.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", المصرية
-http://teledunet.com:8080/live/tdn/tdn/335.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", المصرية 2
-http://teledunet.com:8080/live/tdn/tdn/337.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", قاف المصرية
-http://teledunet.com:8080/live/tdn/tdn/336.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", قاف المصرية 2
-http://teledunet.com:8080/live/tdn/tdn/340.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", Alkaherawalnas
-http://teledunet.com:8080/live/tdn/tdn/338.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", Alkaherawalnas 2
-http://teledunet.com:8080/live/tdn/tdn/339.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", قناة المصريه دراما
-http://teledunet.com:8080/live/tdn/tdn/341.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", قناه البلد
-http://teledunet.com:8080/live/tdn/tdn/343.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", قناه البلد
-http://teledunet.com:8080/live/tdn/tdn/344.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", قناه دراما
-http://teledunet.com:8080/live/tdn/tdn/345.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", قناه سينما
-http://teledunet.com:8080/live/tdn/tdn/348.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt", Maspero Zaman
 ‏http://teledunet.com:8080/live/tdn/tdn/349.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Cinema
-http://teledunet.com:8080/live/tdn/tdn/351.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",nile drama
-http://teledunet.com:8080/live/tdn/tdn/353.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",NileNews
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ELMOLED
+http://teledunet.com:8080/live/tdn/tdn/347.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", AL SEHA WA ALJAMEL
+http://teledunet.com:8080/live/tdn/tdn/346.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", AL QAHERA NEWS
+http://teledunet.com:8080/live/tdn/tdn/363.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", AL SA3EED
+http://teledunet.com:8080/live/tdn/tdn/362.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", AL DELTA
+http://teledunet.com:8080/live/tdn/tdn/8214.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALASKANDRIA
+http://teledunet.com:8080/live/tdn/tdn/54050.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALKANAL
+http://teledunet.com:8080/live/tdn/tdn/54055.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", AL KAHERA
+http://teledunet.com:8080/live/tdn/tdn/54061.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", MISR ELBALAD
+http://teledunet.com:8080/live/tdn/tdn/9959442.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALMEHWAR
+http://teledunet.com:8080/live/tdn/tdn/327.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CIMA
+http://teledunet.com:8080/live/tdn/tdn/348.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", TEN EGYPT
+http://teledunet.com:8080/live/tdn/tdn/342.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", PANORAMA FOOD
+http://teledunet.com:8080/live/tdn/tdn/358.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", PANORAMA FILM
+http://teledunet.com:8080/live/tdn/tdn/361.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", PANORAMA DRAMA 2
+http://teledunet.com:8080/live/tdn/tdn/360.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", PANORAMA DRAMA
+http://teledunet.com:8080/live/tdn/tdn/359.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", SADA ALBALAD DRAMA
+http://teledunet.com:8080/live/tdn/tdn/345.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", SADA ALBALAD 2
+http://teledunet.com:8080/live/tdn/tdn/344.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", SADA ALBALAD
+http://teledunet.com:8080/live/tdn/tdn/343.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALKAHERA W NESS 2
+http://teledunet.com:8080/live/tdn/tdn/339.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALKAHERA W NESS
+http://teledunet.com:8080/live/tdn/tdn/338.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", NILE NEWS
 http://teledunet.com:8080/live/tdn/tdn/354.ts
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile TV
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", NILE INT
 http://teledunet.com:8080/live/tdn/tdn/355.ts
-
-
-
-
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", NILE LIFE
+http://teledunet.com:8080/live/tdn/tdn/9961416.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", NILE DRAMA
+http://teledunet.com:8080/live/tdn/tdn/353.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", NILE COMEDY
+http://teledunet.com:8080/live/tdn/tdn/352.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", NILE CINEMA
+http://teledunet.com:8080/live/tdn/tdn/351.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CBC QURAN KAREEM
+http://teledunet.com:8080/live/tdn/tdn/28.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CBC XTRA NEWS
+http://teledunet.com:8080/live/tdn/tdn/329.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CBC SOFRA
+http://teledunet.com:8080/live/tdn/tdn/331.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CBC DRAMA
+http://teledunet.com:8080/live/tdn/tdn/52818.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CBC
+http://teledunet.com:8080/live/tdn/tdn/318.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", DMC DRAMA
+http://teledunet.com:8080/live/tdn/tdn/326.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", DMC
+http://teledunet.com:8080/live/tdn/tdn/324.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALNAHAR DRAMA
+http://teledunet.com:8080/live/tdn/tdn/341.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALNAHAR
+http://teledunet.com:8080/live/tdn/tdn/340.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", MBC MASR
+http://teledunet.com:8080/live/tdn/tdn/323.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALTHANIYA EGYPT
+http://teledunet.com:8080/live/tdn/tdn/337.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", AL MASRIYAH
+http://teledunet.com:8080/live/tdn/tdn/335.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALOULA EGYPT
+http://teledunet.com:8080/live/tdn/tdn/336.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", MASPERO ZAMAN
+http://teledunet.com:8080/live/tdn/tdn/349.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALHAYAT MUSALSALAT
+http://teledunet.com:8080/live/tdn/tdn/333.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ALHAYAT EGYPT
+http://teledunet.com:8080/live/tdn/tdn/332.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ON DOCUMENTS
+http://teledunet.com:8080/live/tdn/tdn/9961439.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ON DRAMA
+http://teledunet.com:8080/live/tdn/tdn/322.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", ON EGYPT
+http://teledunet.com:8080/live/tdn/tdn/320.ts
 
 
 
@@ -2768,39 +2812,6 @@ http://149.62.177.103:8000/play/a08e
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2 HD
 http://149.62.177.103:8000/play/a08b
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Misr Quran Kareem
-http://teledunet.com:8080/live/tdn/tdn/28.ts
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON Sport 1
-http://teledunet.com:8080/live/tdn/tdn/235.ts
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON Sport 2
-http://teledunet.com:8080/live/tdn/tdn/236.ts
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Zamalek TV
-http://teledunet.com:8080/live/tdn/tdn/238.ts
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Al Ahly TV
-http://teledunet.com:8080/live/tdn/tdn/239.ts
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile sport
-http://teledunet.com:8080/live/tdn/tdn/240.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 356
-http://teledunet.com:8080/live/tdn/tdn/356.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 358
-http://teledunet.com:8080/live/tdn/tdn/358.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 359
-http://teledunet.com:8080/live/tdn/tdn/359.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 360
-http://teledunet.com:8080/live/tdn/tdn/360.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 361
-http://teledunet.com:8080/live/tdn/tdn/361.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 362
-http://teledunet.com:8080/live/tdn/tdn/362.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 363
-http://teledunet.com:8080/live/tdn/tdn/363.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 364
-http://teledunet.com:8080/live/tdn/tdn/364.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 366
-http://teledunet.com:8080/live/tdn/tdn/366.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 368
-http://teledunet.com:8080/live/tdn/tdn/368.ts
 
 
 #EXTM3U
@@ -2911,6 +2922,11 @@ http://154.58.202.185:8000/play/a03h
 http://154.58.202.185:8000/play/a03m
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Sahel TV
 http://154.58.202.185:8000/play/a0ac
+#EXTINF:-1 group-title="🇹🇳تونسTUNISIE", TELVZA TV
+http://teledunet.com:8080/live/tdn/tdn/280.ts
+#EXTINF:-1 group-title="🇹🇳تونسTUNISIE", AL HIWAR TUNIS
+http://teledunet.com:8080/live/tdn/tdn/9961070.ts
+
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://yt3.googleusercontent.com/GWXUWvdkhVQZDS901ADghvh6RZimTuUK1JPH6lxRxXjiqTwsG2ouY0pPb1h2ZghGwG9mJ4uo=s900-c-k-c0x00ffffff-no-rj" group-title="🇹🇳تونسTUNISIE",Telvza TV
 http://154.58.202.185:8000/play/a03n
 
