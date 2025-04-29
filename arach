@@ -2704,26 +2704,7 @@ http://teledunet.com:8080/live/tdn/tdn/354.ts
 http://teledunet.com:8080/live/tdn/tdn/355.ts
 
 
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 356
-http://teledunet.com:8080/live/tdn/tdn/356.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 358
-http://teledunet.com:8080/live/tdn/tdn/358.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 359
-http://teledunet.com:8080/live/tdn/tdn/359.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 360
-http://teledunet.com:8080/live/tdn/tdn/360.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 361
-http://teledunet.com:8080/live/tdn/tdn/361.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 362
-http://teledunet.com:8080/live/tdn/tdn/362.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 363
-http://teledunet.com:8080/live/tdn/tdn/363.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 364
-http://teledunet.com:8080/live/tdn/tdn/364.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 366
-http://teledunet.com:8080/live/tdn/tdn/366.ts
-#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 368
-http://teledunet.com:8080/live/tdn/tdn/368.ts
+
 
 
 
@@ -2800,17 +2781,26 @@ http://teledunet.com:8080/live/tdn/tdn/238.ts
 http://teledunet.com:8080/live/tdn/tdn/239.ts
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile sport
 http://teledunet.com:8080/live/tdn/tdn/240.ts
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 356
+http://teledunet.com:8080/live/tdn/tdn/356.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 358
+http://teledunet.com:8080/live/tdn/tdn/358.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 359
+http://teledunet.com:8080/live/tdn/tdn/359.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 360
+http://teledunet.com:8080/live/tdn/tdn/360.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 361
+http://teledunet.com:8080/live/tdn/tdn/361.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 362
+http://teledunet.com:8080/live/tdn/tdn/362.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 363
+http://teledunet.com:8080/live/tdn/tdn/363.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 364
+http://teledunet.com:8080/live/tdn/tdn/364.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 366
+http://teledunet.com:8080/live/tdn/tdn/366.ts
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt", CHANNEL 368
+http://teledunet.com:8080/live/tdn/tdn/368.ts
 
 
 #EXTM3U
