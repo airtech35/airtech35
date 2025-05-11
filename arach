@@ -35,6 +35,24 @@ http://154.58.202.131:8000
 
 
 
+Barcelone vs Real Madrid 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store/bein1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://cma.footballii.ir/hls2/b1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://wo.cma.footballii.ir/hls2/b1_high.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://abc.yallashooot.store/bein1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://abc.yallashooot.store/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://wo.cma.footballii.ir/hls2/laligatv.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00+
+https://cma.footballii.ir/hls2/laligatv.m3u8
+
 
 Juventus vs Lazio 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
@@ -60,11 +78,8 @@ https://ll.gggssjmjh756hgffreewguiijnbvcfg7.store/bein3/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://ll.gggssjmjh756hgffreewguiijnbvcfg7.store/bein3/tracks-v1a1/mono.ts.m3u8
 
-Bayern Munich vs Monchengladch 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store/bein1/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store/bein1/tracks-v1a1/mono.ts.m3u8
+
+
 
 Aston Villa vs Bournemouth 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
