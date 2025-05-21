@@ -33,7 +33,8 @@ http://154.58.202.131:8000/play/a034
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://alkhabarkw.com/wp-content/uploads/2024/09/Resizer_17269345810371.jpeg",beIN SPORTS HD
 http://154.58.202.131:8000
 
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://cma.footballii.ir/hls2/feed1.m3u8
 
 Inter Miami vs Orlendo City 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
