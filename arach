@@ -907,7 +907,10 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORT رياضية",Abu Dhabi Sports 2
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream/index.m3u8
+
+https://live.elahmad.net/https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/stream_01/index.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORT رياضية",Dubai Racing 2
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="SPORT رياضية",Dubai Racing 3
@@ -2248,6 +2251,15 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",Hala_London 🇱🇧
 https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",Taha TV
+https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",OTV
+https://live20.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",Al Jadeed
+https://live20.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC HD 🇱🇧
 http://154.58.202.185:8000/play/a0ba
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC International 🇱🇧
@@ -2512,6 +2524,11 @@ https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraq Future
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV
+https://live20.bozztv.com/gin-36bay3/ga-ALRabiaaTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV
 http://154.58.202.131:8000/play/a008
@@ -2617,6 +2634,30 @@ http://teledunet.com:8080/tdn/tdn/368
 http://teledunet.com:8080/tdn/tdn/348
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Cairo+ Today
 https://ffs3.gulfsat.com/hbc/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",DMC Drama
+https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat Drama
+https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",On Drama
+https://live20.bozztv.com/gin-36bay4/ga-ondrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
+https://live20.bozztv.com/gin-36bay4/ga-alnahardrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC Drama
+https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al Masriyah
+https://live20.bozztv.com/gin-36bay4/ga-almasriya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",TeN
+https://live20.bozztv.com/gin-36bay3/ga-tentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat TV
+https://live20.bozztv.com/gin-36bay4/ga-alhayah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas
+https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar
+https://live20.bozztv.com/gin-36bay4/ga-alnahar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",El Mehwar Channel
+https://live20.bozztv.com/gin-36bay4/ga-elmehwar/tracks-v1a1/mono.m3u8
 
 
 
@@ -2841,6 +2882,11 @@ http://teledunet.com:8080/live/tdn/tdn/283.ts
 http://teledunet.com:8080/live/tdn/tdn/287.ts
 
 
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Carthage+
+https://live20.bozztv.com/gin-36bay3/ga-carthageplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Attessia TV
+https://live20.bozztv.com/gin-36bay3/ga-attessiatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
 https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
@@ -2915,6 +2961,14 @@ http://154.58.202.131:8000/play/a03l
 http://154.58.202.185:8000/play/a0ah
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Wataniya 🇩🇿
 http://154.58.202.185:8000/play/a0ad
+
+
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Echorouk News
+https://live20.bozztv.com/gin-36bay3/ga-echorouknews/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Ennahar TV
+https://live20.bozztv.com/gin-36bay3/ga-ennahartv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Echorouk TV
+https://live20.bozztv.com/gin-36bay3/ga-echorouktv/tracks-v1a1/mono.m3u8
 
 
 
@@ -3220,6 +3274,8 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="🇾🇪اليمن Yemen",Yemen Shabab Channel  
 https://starmenajo.com/hls/yemenshabab/index.m3u8
+#EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="🇾🇪اليمن Yemen",Yemen Shabab Channel
+https://live20.bozztv.com/gin-36bay4/ga-yemenshabab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV
