@@ -851,36 +851,12 @@ http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORT VIP 🏆", TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
 
-
-#EXTINF:0 tvg-id="TSN1.ca" group-title="SPORT VIP 🏆",TSN1 SD
-https://tvpass.org/live/tsn1/sd
-#EXTINF:0 tvg-id="TSN1.ca" group-title="SPORT VIP 🏆",TSN1 HD
-https://tvpass.org/live/tsn1/hd
-#EXTINF:0 tvg-id="TSN2.ca" group-title="SPORT VIP 🏆",TSN2 SD
-https://tvpass.org/live/tsn2/sd
-#EXTINF:0 tvg-id="TSN2.ca" group-title="SPORT VIP 🏆",TSN2 HD
-https://tvpass.org/live/tsn2/hd
-#EXTINF:0 tvg-id="TSN3.ca" group-title="SPORT VIP 🏆",TSN3 SD
-https://tvpass.org/live/tsn3/sd
-#EXTINF:0 tvg-id="TSN3.ca" group-title="SPORT VIP 🏆",TSN3 HD
-https://tvpass.org/live/tsn3/hd
-#EXTINF:0 tvg-id="TSN4.ca" group-title="SPORT VIP 🏆",TSN4 SD
-https://tvpass.org/live/tsn4/sd
-#EXTINF:0 tvg-id="TSN4.ca" group-title="SPORT VIP 🏆",TSN4 HD
-https://tvpass.org/live/tsn4/hd
-#EXTINF:0 tvg-id="TSN5.ca" group-title="SPORT VIP 🏆",TSN5 SD
-https://tvpass.org/live/tsn5/sd
-#EXTINF:0 tvg-id="TSN5.ca" group-title="SPORT VIP 🏆",TSN5 HD
-https://tvpass.org/live/tsn5/hd
-
 #EXTINF:-1 tvg-logo="https://iili.io/dK1XSpf.webp" group-title="SPORT VIP 🏆", Bein Sports Xtra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/3EMQtXj",Eurosport 1 🏆
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:0 group-title="SPORT VIP 🏆" tvg-logo="https://bit.ly/3EMQtXj",Eurosport 2 🏆
 http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Eurosport 1 hd
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", Trace Sport Stars
