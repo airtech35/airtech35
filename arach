@@ -2229,14 +2229,8 @@ https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8r
 https://live.presstv.ir/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",Hala_London 🇱🇧
 https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",Taha TV
 https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",OTV
-https://live20.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LEBANON لبنان",Al Jadeed
-https://live20.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC HD 🇱🇧
@@ -2502,13 +2496,8 @@ http://95.216.180.111:1935/live/118/index.m3u8
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraq Future
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV
-https://live20.bozztv.com/gin-36bay3/ga-ALRabiaaTV/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV
 http://154.58.202.131:8000/play/a008
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya
@@ -2613,30 +2602,6 @@ http://teledunet.com:8080/tdn/tdn/368
 http://teledunet.com:8080/tdn/tdn/348
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Cairo+ Today
 https://ffs3.gulfsat.com/hbc/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",DMC Drama
-https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat Drama
-https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",On Drama
-https://live20.bozztv.com/gin-36bay4/ga-ondrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
-https://live20.bozztv.com/gin-36bay4/ga-alnahardrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC Drama
-https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al Masriyah
-https://live20.bozztv.com/gin-36bay4/ga-almasriya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",TeN
-https://live20.bozztv.com/gin-36bay3/ga-tentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat TV
-https://live20.bozztv.com/gin-36bay4/ga-alhayah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas
-https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar
-https://live20.bozztv.com/gin-36bay4/ga-alnahar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",El Mehwar Channel
-https://live20.bozztv.com/gin-36bay4/ga-elmehwar/tracks-v1a1/mono.m3u8
 
 
 
@@ -2803,8 +2768,6 @@ http://149.62.177.103:8000/play/a08b
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="🇲🇦المغربMAROCCO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" referer="https://2m.ma",2M MONDE الثانية
 http://149.62.177.67:8080/play/a14g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="🇲🇦المغربMAROCCO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" referer="https://2m.ma",2M MONDE الثانية
-https://live20.bozztv.com/trn03/gin-2monde/index.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 🇲🇦
 https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Laayoune 🇲🇦
@@ -2859,13 +2822,6 @@ http://teledunet.com:8080/live/tdn/tdn/282.ts
 http://teledunet.com:8080/live/tdn/tdn/283.ts
 #EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",almustakillahtv
 http://teledunet.com:8080/live/tdn/tdn/287.ts
-
-
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Carthage+
-https://live20.bozztv.com/gin-36bay3/ga-carthageplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Attessia TV
-https://live20.bozztv.com/gin-36bay3/ga-attessiatv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
 https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
@@ -2930,8 +2886,7 @@ https://bit.ly/3DF4NAn
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="🇩🇿الجزائرALGERIEN",TV2 🇩🇿
 https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV4.dz" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="🇩🇿الجزائرALGERIEN",TV4 🇩🇿
-https://live20.bozztv.com/dvrfl05/ga-algeria4/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV 🇩🇿
 http://154.58.202.131:8000/play/a0ar
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama 🇩🇿
@@ -2942,14 +2897,6 @@ http://154.58.202.185:8000/play/a0ah
 http://154.58.202.185:8000/play/a0ad
 
 
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Echorouk News
-https://live20.bozztv.com/gin-36bay3/ga-echorouknews/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Ennahar TV
-https://live20.bozztv.com/gin-36bay3/ga-ennahartv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Echorouk TV
-https://live20.bozztv.com/gin-36bay3/ga-echorouktv/tracks-v1a1/mono.m3u8
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA 🇱🇾
@@ -2958,8 +2905,6 @@ https://bit.ly/3xYLaRh
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="🇱🇾ليبياLIBYA",Libya Al Wataniya 🇱🇾
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="🇱🇾ليبياLIBYA",Libya Al Wataniya 🇱🇾
-https://live20.bozztv.com/dvrfl05/gin-libya/index.m3u8
 #EXTINF:-1 tvg-id="SalamTV.ly" tvg-logo="https://i.imgur.com/u1sgEdd.png" group-title="🇱🇾ليبياLIBYA",Salam TV 🇱🇾
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾ليبياLIBYA",Tanasuh TV 🇱🇾
@@ -2968,9 +2913,6 @@ https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TN: ALMUSTAKILLAH TV" tvg-logo="http://pro.netmos.ovh:6051/img/almustakillahtv.png" group-title="🇱🇾ليبياLIBYA",ALMUSTAKILLAH TV 🇱🇾
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/148.m3u8
-
-https://live20.bozztv.com/dvrfl05/gin-libya/index.m3u8
-
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.ly" tvg-logo="https://alrasmia.ly/wp-content/uploads/2024/05/channels4_profile-01.png" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia 🇱🇾
 http://154.58.202.185:8000/play/a05y
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJAYnnyLZhQZf2EGPUeOn5SyuUoMAa9B8pg&s" group-title="🇱🇾ليبياLIBYA",ibya Education 🇱🇾
@@ -2991,8 +2933,6 @@ http://154.58.202.131:8000/play/a04n
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="🇸🇩السودانSUDAN",Sudan TV 🇸🇩
 https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="🇸🇩السودانSUDAN",Sudan TV 🇸🇩
-https://live20.bozztv.com/trn03/gin-sudantv/index.m3u8
 #EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="🇸🇩السودانSUDAN",Sudan TV 🇸🇩
 https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="🇸🇩السودانSUDAN",Al Alamiya 2 🇸🇩
@@ -3253,16 +3193,10 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="🇾🇪اليمن Yemen",Yemen Shabab Channel  
 https://starmenajo.com/hls/yemenshabab/index.m3u8
-#EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="🇾🇪اليمن Yemen",Yemen Shabab Channel
-https://live20.bozztv.com/gin-36bay4/ga-yemenshabab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8
-
-#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Yemen_Tv.jpg" group-title="🇾🇪اليمن Yemen",Yemen TV
-https://live20.bozztv.com/trn03/gin-yementv/index.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1352627681255452679/yF9UYjEu_400x400.jpg" group-title="🇾🇪اليمن Yemen",ALHAWYAH TV
 http://154.58.202.131:8000/play/a01h
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Aden_tv.jpg" group-title="🇾🇪اليمن Yemen",Aden TV
