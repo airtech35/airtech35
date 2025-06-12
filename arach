@@ -2496,6 +2496,8 @@ https://cdn.live.easybroadcast.io/ts_corp/73_almaghribia_83tz85q/playlist_dvr.m3
 https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="🇲🇦المغربMAROCCO",Tamazight 🇲🇦
 https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://media0078.elcinema.com/tvguide/1207_1.png" group-title="🇲🇦المغربMAROCCO",Aflam TV 7
+https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="🇲🇦المغربMAROCCO",Chada TV 🇲🇦
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="🇲🇦المغربMAROCCO",M24 TV  🇲🇦
