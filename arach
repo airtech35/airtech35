@@ -1850,20 +1850,13 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/DLDfFpu.png" group-title="ROTANA روتانا",Rotana Aflam+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
 https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
-http://148.163.96.58/live/rotana_classic/index.m3u8
-#EXTINF:-1 tvg-id="MPlusHD.sa" tvg-logo="hhttps://i.imgur.com/Ho8N310.png" group-title="ROTANA روتانا",ROTANA M PLUS
+#EXTINF:-1 tvg-id="MPlusHD.sa" tvg-logo="https://i.imgur.com/Ho8N310.png" group-title="ROTANA روتانا",ROTANA M PLUS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ROTANA روتانا" http-referrer="https://rotana.net/",Rotana Khalijia
 http://148.163.96.58/live/rotana_khalijiah/index.m3u8
@@ -1882,6 +1875,8 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 
 #EXTINF:-1 tvg-id="RotanaPlus(English).fr(m3u4u)" tvg-name="ROTANA AFLAM+" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp" group-title="ROTANA روتانا",ROTANA AFLAM+
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
+http://148.163.96.58/live/rotana_classic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ROTANA M+" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402611.webp" group-title="ROTANA روتانا",ROTANA M+
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="RotanaMousica(English).ca(m3u4u)" tvg-name="ROTANA MUSIC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402600.webp" group-title="ROTANA روتانا",ROTANA MUSIC
