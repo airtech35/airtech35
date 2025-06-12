@@ -1426,6 +1426,8 @@ https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MphckC" group-title="📰NEWS الاخبار",ALMAMLKA 📰
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="📰NEWS الاخبار",Al Qahera News 
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39e3Wuy" group-title="📰NEWS الاخبار",SKY NEWS ARABIC 📰
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="📰NEWS الاخبار",Sky News HD
@@ -1850,7 +1852,8 @@ http://154.197.91.168:7003/play/a0fh
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-
+#EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHGwEyPQhesYilsdUyllPZXjpXuFyFnKQkA&s" group-title="ROTANA روتانا",Rotana lbc
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/0wxwMjs.png" group-title="ROTANA روتانا",Rotana Aflam+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
@@ -2225,6 +2228,8 @@ http://91.134.145.75:10001/Dijlah/index.m3u8
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="🇮🇶العراق IRAQ",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://media0078.elcinema.com/tvguide/1381_1.png" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV
+https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Anwar 2
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 #EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="🇮🇶العراق IRAQ",Al Eshraq TV
