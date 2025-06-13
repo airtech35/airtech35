@@ -1395,6 +1395,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 📰
 https://live-hls-apps-aja-v3-fa.getaj.net/alternative/AJA/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 📰
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA SD📰
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="📰NEWS الاخبار",AL JAZEERA MUBASHER 📰
