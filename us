@@ -6877,37 +6877,17 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u
 
 #EXTM3U
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="🇮🇷 Iran",IRIB1
-https://cdnw.telewebion.com/tv1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="🇮🇷 Iran",IRIB1+
-https://live.aionet.ir/hls/tv1/tv1.m3u8
+https://live-azd1121.telewebion.com/ek/tv1/live/480p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="🇮🇷 Iran",IRIB2
-https://cdnw.telewebion.com/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="🇮🇷 Iran",IRIB2+
-https://cdnw.telewebion.com/tv2/live/playlist.m3u8
+https://live-azd1121.telewebion.com/ek/tv2/live/480p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="🇮🇷 Iran",IRIB3
-https://cdnw.telewebion.com/tv3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="🇮🇷 Iran",IRIB3+
-https://gr1-cdn.sepehrtv.ir/vod/auto_convert/vpn/out_0.m3u8
+https://live-azd1121.telewebion.com/ek/tv3/live/480p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="🇮🇷 Iran",IRIB4 
-https://cdnw.telewebion.com/tv4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="🇮🇷 Iran",IRIB4 +
-https://live.aionet.ir/hls/tv4/tv4.m3u8
+https://live-azd1108.telewebion.com/ek/tv4/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="🇮🇷 Iran",IRIB5 
-https://cdnw.telewebion.com/tehran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="🇮🇷 Iran",IRIB5 +
-https://live.aionet.ir/hls/tv5/tv5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="🇮🇷 Iran",IRIB 1 (backup)
-https://s1.ettehadlive.com/live/39/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="🇮🇷 Iran",IRIB 2 (backup)
-https://s1.ettehadlive.com/live/40/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="🇮🇷 Iran",IRIB 3 (backup)
-https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="🇮🇷 Iran",IRIB 3 (backup)
-https://s1.ettehadlive.com/live/114/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="🇮🇷 Iran",IRIB 4 (backup)
-https://s1.ettehadlive.com/live/41/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png" group-title="🇮🇷 Iran",IRIB 5 (backup)
-https://ncdn.telewebion.com/tv5/live/playlist.m3u8
+https://live-azd1110.telewebion.com/ek/tehran/live/576p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="🇮🇷 Iran",IRIB IRINN (backup)
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇷 Iran",247 Box
@@ -7048,153 +7028,28 @@ https://hls.nejat.live/hls/stream.m3u8
 https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="🇮🇷 Iran",YourTime TV  
 https://hls.yourtime.live/hls/stream.m3u8
-#EXTINF:0 tvg-id="habar" group-title="🇮🇷Iran",Khabar
-https://cdnw.telewebion.com/irinn/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Varzesh
-https://cdnw.telewebion.com/varzesh/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Varzesh
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",IRIB UHD
-https://cdnw.telewebion.com/faratar/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Tamasha
-https://cdnw.telewebion.com/hdtest/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Tamasha
-https://live.aionet.ir/hls/tamasha/tamasha.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nasim
-https://cdnw.telewebion.com/nasim/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nasim
-https://live.aionet.ir/hls/nasim/nasim.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Amouzesh
-https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ifilm
-https://cdnw.telewebion.com/ifilm/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ifilm
-https://live.aionet.ir/hls/ifilm/ifilm.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mostanad
-https://cdnw.telewebion.com/mostanad/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mostanad
-https://live.aionet.ir/hls/mostanad/mostanad.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Namayesh
-https://cdnw.telewebion.com/namayesh/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Namayesh
-https://live.aionet.ir/hls/namayesh/namayesh.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Quran
-https://cdnw.telewebion.com/quran/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ofogh
-https://cdnw.telewebion.com/ofogh/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Omid
-https://cdnw.telewebion.com/omid/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Pouya
-https://cdnw.telewebion.com/pooya/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Salamat
-https://cdnw.telewebion.com/salamat/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Sepehr
-https://cdnw.telewebion.com/sepehr/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Javaneh
-https://cdnw.telewebion.com/javaneh/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ara
-https://cdnw.telewebion.com/ara/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jaam
-https://cdnw.telewebion.com/jam/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nama
-https://cdnw.telewebion.com/nama/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Nava
-https://cdnw.telewebion.com/nava/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jame Jam 1
-https://cdnw.telewebion.com/jjtv1/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jame Jam 2
-https://cdnw.telewebion.com/jjtv2/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jame Jam 3
-https://cdnw.telewebion.com/jjtv3/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Abadan
-https://cdnw.telewebion.com/abadan/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Aflak
-https://cdnw.telewebion.com/aflak/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Aftab
-https://cdnw.telewebion.com/aftab/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Azarbayjan
-https://cdnw.telewebion.com/azarbayjangharbi/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Alborz
-https://cdnw.telewebion.com/alborz/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Baran
-https://cdnw.telewebion.com/baran/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Bushehr
-https://cdnw.telewebion.com/bushehr/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Dena
-https://cdnw.telewebion.com/dena/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Esfahan
-https://cdnw.telewebion.com/esfahan/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Eshragh
-https://cdnw.telewebion.com/eshragh/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Fars
-https://cdnw.telewebion.com/fars/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Golestan
-https://cdnw.telewebion.com/sabz/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Hamedan
-https://cdnw.telewebion.com/sina/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Hamoon
-https://cdnw.telewebion.com/hamoon/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Ilam
-https://cdnw.telewebion.com/ilam/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Jahanbin
-https://cdnw.telewebion.com/jahanbin/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kerman
-https://cdnw.telewebion.com/kerman/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kermanshah
-https://cdnw.telewebion.com/zagros/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khalije Fars
-https://cdnw.telewebion.com/khalijefars/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khorasan Jonoobi
-https://cdnw.telewebion.com/khavaran/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khorasan Razavi
-https://cdnw.telewebion.com/khorasanrazavi/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khorasan Shomali
-https://cdnw.telewebion.com/atrak/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Khoozestan
-https://cdnw.telewebion.com/khoozestan/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kish
-https://cdnw.telewebion.com/kish/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Kordestan
-https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mahabad
-https://cdnw.telewebion.com/mahabad/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mazandaran
-https://cdnw.telewebion.com/tabarestan/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Noor
-https://cdnw.telewebion.com/noor/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Qazvin
-https://cdnw.telewebion.com/qazvin/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Sabalan
-https://cdnw.telewebion.com/sabalan/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Sahand
-https://cdnw.telewebion.com/sahand/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Semnan
-https://cdnw.telewebion.com/semnan/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Taban
-https://cdnw.telewebion.com/taban/live/playlist.m3u8
-#EXTINF:-1 tvg-id="120" tvg-country="🇮🇷Iran" tvg-language="Farsi" group-title="🇮🇷Iran" tvg-name="" tvg-logo=" ",IRIB IRINN
+#EXTINF:-1 tvg-id="120" tvg-country="🇮🇷 Iran" tvg-language="Farsi" group-title="🇮🇷 Iran" tvg-name="" tvg-logo=" ",IRIB IRINN
 http://194.37.92.14:12000/play/a06o
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Iran_International
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷 Iran",Iran_International
 https://live.playstop.me/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",BBC_Per
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷 Iran",BBC_Per
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Mbc_PER
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷 Iran",Mbc_PER
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Parnian
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷 Iran",Parnian
 https://live2.parnian.tv/hls/live/play.m3u8
-#EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna" tvg-url="" group-title="🇮🇷Iran",PMC
+#EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna" tvg-url="" group-title="🇮🇷 Iran",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Radio_Javan
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷 Iran",Radio_Javan
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Iran International
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷 Iran",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Omid Javedan
+#EXTINF:0 tvg-id="ext" group-title="🇮🇷 Iran",Omid Javedan
 https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/eNGthNI.jpg" group-title="🇮🇷Iran",Parnian TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/eNGthNI.jpg" group-title="🇮🇷 Iran",Parnian TV
 https://live2.parnian.tv/hls/.m3u8
-#EXTINF:-1 tvg-id="TinTV.ir" tvg-name="Tin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="🇮🇷Iran",Tin TV
+#EXTINF:-1 tvg-id="TinTV.ir" tvg-name="Tin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="🇮🇷 Iran",Tin TV
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="🇨🇮 Ivory Coast",7 Info  
