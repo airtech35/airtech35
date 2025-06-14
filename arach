@@ -1399,6 +1399,12 @@ https://live-hls-apps-aja-v3-fa.getaj.net/alternative/AJA/index.m3u8
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 📰
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://play-lh.googleusercontent.com/KaCd66zosNRkQYI7DuRR-7KMoYQL-ZjlxMo25lBcVSGj9y3EihMIf8XVhJq07CVYXMY" group-title="📰NEWS الاخبار",Al Jazeera Mubasher Broadcast 2
+https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="📰NEWS الاخبار",Al Jazeera Mubasher 24
+https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="📰NEWS الاخبار",Al Jazeera English
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="📰NEWS الاخبار",AL JAZEERA MUBASHER 📰
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
@@ -2481,6 +2487,8 @@ http://149.62.177.103:8000/play/a08b
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="🇲🇦المغربMAROCCO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" referer="https://2m.ma",2M MONDE الثانية
 http://149.62.177.67:8080/play/a14g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="🇲🇦المغربMAROCCO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" referer="https://2m.ma",2M MONDE الثانية
+https://jmp2.uk/sam-ES4700001VS.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 🇲🇦
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="🇲🇦المغربMAROCCO",Al Aoula Laayoune 🇲🇦
