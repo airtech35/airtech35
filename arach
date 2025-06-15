@@ -831,6 +831,10 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
+#EXTINF:-1 group-title="SPORT VIP 🏆" tvg-logo="",Eurosport1
+http://185.189.225.150:85/Eurosport1/index.m3u8
+#EXTINF:-1 group-title="SPORT VIP 🏆" tvg-logo="",Eurosport2
+http://185.189.225.150:85/Eurosport2/index.m3u8
 #EXTINF:-1 group-title="SPORT VIP 🏆" tvg-logo="https://exchange4media.gumlet.io/news-photo/93752-StarSports1Kannada.jpg",Star Sport 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png" group-title="SPORT VIP 🏆", SPORTS FRANCE
