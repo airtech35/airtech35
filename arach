@@ -1387,6 +1387,12 @@ https://bit.ly/3DF4NAn
 
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://m.media-amazon.com/images/I/41UpCIriqhL.png" group-title="● Roku",Roku
+https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://image.roku.com/developer_channels/prod/020a89845a9df27c3c7b8de7258103c0d2f94bfdb45351f16a20a913c27a325d.png" group-title="● STIRR",STIRR
+https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2023/03/Logo-e1678983003482.jpeg" group-title="● Tubi",Tubi
+https://bit.ly/3DF4NAn
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="📰NEWS الاخبار",الاخبارNEWS📰
 https://bit.ly/3xYLaRh
