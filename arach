@@ -1705,8 +1705,6 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",MBC 3 KSA  SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_5.m3u8
-#EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",MBC 3 USA  SD
-https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_5.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC أم بي سي",MBC 4  SD
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="MBC أم بي سي",MBC 5 SD
@@ -1725,8 +1723,6 @@ https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_5.m3u8
 #EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC أم بي سي",MBC Masr Drama SD
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_5.m3u8
-#EXTINF:-1 tvg-id="MBCMasrUSA.us" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC أم بي سي",MBC Masr USA  SD
-https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_5.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC أم بي سي",MBC MAX  SD
 http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uOdmrz" group-title="MBC أم بي سي",|MBC| Action
