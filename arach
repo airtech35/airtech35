@@ -730,6 +730,10 @@ https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetMo
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://qna.org.qa/media/k5yfisa3/alkass_one-300x143.png" ,Al Kass Sports 1
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://qna.org.qa/media/1aaphrlf/al-kass-two-hd-light-300x186.png" ,Al Kass Sports 2
+https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 #EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
