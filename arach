@@ -2392,7 +2392,10 @@ https://ffs3.gulfsat.com/hbc/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",DMC
+https://fl1002.bozztv.com/ga-dmc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC
+https://fl1002.bozztv.com/ga-cbc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",DMC Drama
 https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat Drama
