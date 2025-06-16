@@ -6859,6 +6859,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="🇮🇷 Iran",IRIB1
+https://live-azd1121.telewebion.com/ek/tv1/live/480p/index.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="🇮🇷 Iran",IRIB2
+https://live-azd1121.telewebion.com/ek/tv2/live/480p/index.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="🇮🇷 Iran",IRIB3
+https://live-azd1121.telewebion.com/ek/tv3/live/480p/index.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="🇮🇷 Iran",IRIB4 
+https://live-azd1108.telewebion.com/ek/tv4/live/576p/index.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="🇮🇷 Iran",IRIB5 
+https://live-azd1110.telewebion.com/ek/tehran/live/576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="🇮🇷 Iran",IRIB 1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="🇮🇷 Iran",IRIB 2
