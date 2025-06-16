@@ -1661,6 +1661,24 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="🇧🇬 Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png",TV1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria",Folk Club TV
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hope-channel-bulgaria-us-bg.png",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria",Kanal 8
+http://kanal8.hugo.mk:1935/live/kanal8/chunklist_w1627597037.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/HasBahCa.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria",Light Channel (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/HasBahCa.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria",RM TV
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria" tvg-id="TVNBulgaria.bg" tvg-logo="https://i.imgur.com/kkNtmAW.png" ,TVN-Bulgaria
+https://obs.friendshipchurch.eu/tvn/mystream.m3u8
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="🇧🇬 Bulgaria",This is Bulgaria HD 
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="https://i.imgur.com/fdogzKO.png" group-title="🇧🇬 Bulgaria",Travel TV 
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-logo="https://i.imgur.com/HDGfDkL.png" group-title="🇧🇬 Bulgaria",TV Zagora 
@@ -1681,8 +1699,7 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-id="TheVoice.bg" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="🇧🇬 Bulgaria",The Voice TV 
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="🇧🇬 Bulgaria",This is Bulgaria HD 
-https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+
 #EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="🇧🇬 Bulgaria",Tiankov Folk 
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 #EXTINF:-1 tvg-id="TiankovOrientFolk.bg" tvg-logo="https://i.imgur.com/33LexyP.png" group-title="🇧🇬 Bulgaria",Tiankov Orient Folk 
