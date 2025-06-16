@@ -9466,11 +9466,7 @@ http://pl.seetv.cc/play/922/1E20008EF0CBB6F/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TNT SPORTS 2 🇬🇧
 http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
-
-
-
-
-
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇷 Turkey",TURKEY TV
 https://bit.ly/3xYLaRh
@@ -9627,11 +9623,7 @@ http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="🇹🇷 Turkey",Zarok TV Kürtçe
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-
-
 ------------------------------------------------------------------------
-
-
 
 #EXTINF:0 tvg-id="StarTV.ch" group-title="🇹🇷 Turkey",STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
@@ -9966,10 +9958,7 @@ https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey",BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
-
-
 --------------------------------------------
-
 
 #EXTINF:-1 Yedek="http://89.187.191.41/TRT-1-HD-TR/video.m3u8" Yedek2="http://89.34.226.39:8080/live/test_acct/ohbo1veifa4AhD/507.ts" Yedek3="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" Yedek4="http://95.174.71.114/TR-TRT1/index.m3u8" Yedek5="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1643" Yedek6="https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web" Yedek7="http://185.234.111.229:8000/play/a00c" Yedek8="https://217.30.11.74/e/200.m3u8" Yedek9="http://194.76.0.61:8070/live/test_acct/ohbo1veifa4AhD/507.ts" tvg-id="TRT1 HD.tr" Yedek10="https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 Turkey",TRT1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
