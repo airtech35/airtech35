@@ -1570,8 +1570,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="documentary الوثائقية",Oman 🏞️الوثائقية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="documentary الوثائقية",National Geographic Wild East
 https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="documentary الوثائقية",Pluto TV Animals
@@ -1594,11 +1592,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8696-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48a854a2-55e8-45ea-9da1-dc34e62691ed
 #EXTINF:-1 tvg-id="PlutoTVHistory.us@Germany" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="documentary الوثائقية",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea081-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d66523d-c59b-4354-aedb-17d13edf0d26
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="documentary الوثائقية",Outdoor Channel HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cltzGd4.png" group-title="documentary الوثائقية",History HD
-http://170.254.18.106/HISTORY/index.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/4bSHpxW" group-title="documentary الوثائقية",Akwarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vZOXft" group-title="documentary الوثائقية",Animaux🏞️
@@ -1613,7 +1608,6 @@ https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x7
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="documentary الوثائقية" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png",🇫🇷 ➾ Nature Time [Pluto]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="documentary الوثائقية" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png",🇺🇸 ➾ WildEarthᴴᴰ [Plex]
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="documentary الوثائقية" tvg-logo="http://tv.10dailythings.com/images/channels/US/local-now-discover-720p/normal.png",🇺🇸 ➾ Local Now Discoverᴴᴰ [Stirr]
