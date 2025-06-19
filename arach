@@ -1397,11 +1397,11 @@ https://bit.ly/3gj9PK5
 https://live-hls-apps-aja-v3-fa.getaj.net/alternative/AJA/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA SD📰
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/03.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 📰(Backup 1)
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://play-lh.googleusercontent.com/KaCd66zosNRkQYI7DuRR-7KMoYQL-ZjlxMo25lBcVSGj9y3EihMIf8XVhJq07CVYXMY" group-title="📰NEWS الاخبار",Al Jazeera Mubasher Broadcast 2
 https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="📰NEWS الاخبار",Al Jazeera Mubasher 24
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="📰NEWS الاخبار",Al Jazeera Mubasher 24(Backup 1)
 https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="📰NEWS الاخبار",AL JAZEERA MUBASHER SD📰
 https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
@@ -1409,13 +1409,13 @@ https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA 📰
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA 📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA 📰(Backup 1)
 https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰(Backup 1)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰
 https://svs.itworkscdn.net/alarabiyalive/alhadathhd.smil/alarabiapublish/alhadath_720p/chunks.m3u8
@@ -1423,11 +1423,11 @@ https://svs.itworkscdn.net/alarabiyalive/alhadathhd.smil/alarabiapublish/alhadat
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business 📰
 https://alarabiya-business-enc.edgenextcdn.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business📰(Backup 1)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel HD📰
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel SD📰
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel SD📰(Backup 1)
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png" group-title="📰NEWS الاخبار",Al Ekhbaria HD📰
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
