@@ -1482,8 +1482,6 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKCRSP" group-title="📰NEWS الاخبار",Al Etejah TV📰
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NnhxgBz.png" group-title="📰NEWS الاخبار",France 24 Arabic HD
-http://95.216.180.111:1935/live/26/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtgHPlQ.png" group-title="📰NEWS الاخبار",CNBC Arabia HD
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",AL Mashhad HD
@@ -1494,9 +1492,9 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",AL24 News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/AL24_News_Logo.svg" group-title="📰NEWS الاخبار",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",Al Iraqia News
+#EXTINF:-1 tvg-logo="https://imn.iq/wp-content/uploads/2024/06/live.png" group-title="📰NEWS الاخبار",Al Iraqia News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
                                       -------EN-------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News UK HD
@@ -1566,8 +1564,6 @@ https://bit.ly/3gj9PK5
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" group-title="documentary الوثائقية",Asharq Discovery HD
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
-http://95.216.180.111:1935/live/111/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
 https://s1.ettehadlive.com/live/111/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 3)🏞️
@@ -2208,8 +2204,6 @@ https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya News 
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42Ry1ap" group-title="🇮🇶العراق IRAQ",IRQ-AL Sharqiya News HD(Backup)🇮🇶
-http://95.216.180.111:1935/live/4/index.m3u8
 #EXTINF:-1 tvg-id="AlIraqia.iq" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="🇮🇶العراق IRAQ",Al Iraqia 
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="🇮🇶العراق IRAQ",Al Iraqia News 
@@ -2228,56 +2222,20 @@ https://listen.radioking.com/radio/96766/stream/136030
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://media0078.elcinema.com/tvguide/1381_1.png" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV
 https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Anwar 2
-http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
-#EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="🇮🇶العراق IRAQ",Al Eshraq TV
-http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 #EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="🇮🇶العراق IRAQ",Al-Naeem TV 
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
-#EXTINF:-1 tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="🇮🇶العراق IRAQ",Alforat TV 
-http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Alqanat9 TV 
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Althaqalayn TV
-http://63b03f7689049.streamlock.net:1935/live/16/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Althaqalayn TV
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 #EXTINF:-1 tvg-id="DuaChannel.iq" tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="🇮🇶العراق IRAQ",Dua Channel 
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Hudhud TV
-http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="🇮🇶العراق IRAQ",iNEWS🇮🇶
-http://95.216.180.111:1935/live/34/index.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="🇮🇶العراق IRAQ",Zagros  
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="🇮🇶العراق IRAQ",Alhurra 
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="🇮🇶العراق IRAQ",Alhurra Iraq 
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlEtejah.iq" tvg-logo="https://i.imgur.com/TkjdGhy.png" group-title="🇮🇶العراق IRAQ",Al Etejah TV
-http://95.216.180.111:1935/live/33/index.m3u8
-#EXTINF:-1 tvg-id="AlghadeerTV.iq" tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="🇮🇶العراق IRAQ",Al Ghadeer TV🇮🇶
-http://95.216.180.111:1935/live/2/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wXutEM" group-title="🇮🇶العراق IRAQ",🇮🇶بلادي
-http://95.216.180.111:1935/live/68/index.m3u8
-#EXTINF:-1 tvg-id="AfaqTV.iq" tvg-logo="https://i.imgur.com/t7CaTu3.png" group-title="🇮🇶العراق IRAQ",Afaq TV🇮🇶
-http://95.216.180.111:1935/live/1/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lcOF32" group-title="🇮🇶العراق IRAQ",🇮🇶قناة الايام الفضائية
-http://95.216.180.111:1935/live/6/index.m3u8
-#EXTINF:-1 tvg-id="AlahadTV.iq" tvg-logo="https://i.imgur.com/uWibV0i.png" group-title="🇮🇶العراق IRAQ",Al Ahad TV
-http://95.216.180.111:1935/live/7/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HVAabF" group-title="🇮🇶العراق IRAQ",🇮🇶وكالة انباء الفرات نيوز
-http://95.216.180.111:1935/live/10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zTeGvt" group-title="🇮🇶العراق IRAQ",Al Janoub TV
-http://95.216.180.111:1935/live/18/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HElhKq" group-title="🇮🇶العراق IRAQ",🇮🇶الطليعة الفضائية
-http://95.216.180.111:1935/live/36/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HVhdH3" group-title="🇮🇶العراق IRAQ",🇮🇶كربلاء الفضائية
-http://95.216.180.111:1935/live/45/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40q3Ndz" group-title="🇮🇶العراق IRAQ",🇮🇶شهاب
-http://95.216.180.111:1935/live/67/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ma6cUG" group-title="🇮🇶العراق IRAQ",🇮🇶الكونز
-http://95.216.180.111:1935/live/118/index.m3u8
 #EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
@@ -3254,8 +3212,6 @@ http://halabjatv.ddns.net:40/live/halabjatv/chunklist.m3u8
 http://baskhd.ddns.net:40/live/bangawaztv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", istar folklor
 http://85.237.89.6:9590/ku/local-ISTAR-Folklor-TimeSheft/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Sahar Kurdi
-http://95.216.180.111:1935/live/103/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", LIVE 24 SPORT GLOBAL HD
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Channel 8 kurdish
