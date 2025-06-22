@@ -34,10 +34,9 @@ http://154.58.202.131:8000
 
 
 
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -++
-https://abcc.yallashooot.store:8181/action/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -++
-https://abcc.yallashooot.store:8181/action/tracks-v1a1/mono.ts.m3u8
+https://dca-co-live-gcr.gcdn.co/loxmmz32z9319024lf6zw5nl/all/avc_hls_global-video=3000000.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -++
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -++
