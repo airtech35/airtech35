@@ -2376,7 +2376,7 @@ https://fl1002.bozztv.com/ga-cbc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",DMC Drama
 https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat Drama
-https://fl1002.bozztv.com/ga-alhayahseries/index.m3u8
+https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",On Drama
 https://fl1002.bozztv.com/ga-ondrama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
