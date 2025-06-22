@@ -1426,8 +1426,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a2
 https://svs.itworkscdn.net/alarabiyalive/alhadathhd.smil/alarabiapublish/alhadath_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="📰NEWS الاخبار",Al Arabiya Programs
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business 📰
-https://alarabiya-business-enc.edgenextcdn.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business 📰 HD
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business📰(Backup 1)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel HD📰
@@ -1454,7 +1454,7 @@ https://live2.alalam.ir/live/Alalam/index.m3u8
 https://rp.tactivemedia.com/watantv_source/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lRUGXdU.png" group-title="📰NEWS الاخبار",DW HD
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="📰NEWS الاخبار",AL KHALIJ HD📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1460540748261171203/rnpH_Qto_400x400.jpg" group-title="📰NEWS الاخبار",AL KHALIJ HD📰
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Zw34rP.png" group-title="📰NEWS الاخبار",TRT Arabi HD
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -1490,6 +1490,11 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="📰NEWS الاخبار",rt.arabic HD
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Iraqia News
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
                                       -------EN-------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News UK HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
