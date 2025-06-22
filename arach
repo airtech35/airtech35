@@ -1491,9 +1491,12 @@ https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="📰NEWS الاخبار",rt.arabic HD
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: AL24 News
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Iraqia News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",Al Iraqia News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
                                       -------EN-------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News UK HD
