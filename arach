@@ -140,6 +140,10 @@ http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 88 🇶🇦
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium491%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -1614,11 +1618,9 @@ https://bit.ly/3gj9PK5
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" group-title="documentary الوثائقية",Asharq Discovery HD
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
-https://s1.ettehadlive.com/live/111/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 3)🏞️
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 1)🏞️
 http://154.58.202.131:8000/play/a00l
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 4)🏞️
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 2)🏞️
 http://154.58.202.185:8000/play/a095
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
@@ -2284,8 +2286,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="🇮🇶العراق IRAQ",Alhurra Iraq 🇮🇶
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba🇮🇶
-https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraq Future🇮🇶
