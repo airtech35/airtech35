@@ -1470,7 +1470,7 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="🇯🇴الاردنJORDAN",Al Mamlaka TV 🇯🇴
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="📰NEWS الاخبار",Al Mamlaka TV 🇯🇴
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png" group-title="📰NEWS الاخبار",Alhaqeqa Aldawlia 🇯🇴
 https://ghaasiflu.online/alhqeqa/index.m3u8
@@ -1478,13 +1478,14 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-logo="https://imn.iq/wp-content/uploads/2024/06/live.png" group-title="📰NEWS الاخبار",Al Iraqia News 🇮🇶
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="🇮🇶العراق IRAQ",Shams TV 🇮🇶
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="📰NEWS الاخبار",Shams TV 🇮🇶
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/18/b1/b8/18b1b893-6534-db82-056e-2a79dad84357/source/512x512bb.jpg" group-title="📰NEWS الاخبار",Al-Sharqiya News 🇮🇶
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/INEWSTViq.jpg" group-title="🇮🇶العراق IRAQ",iNEWS TV
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/INEWSTViq.jpg" group-title="📰NEWS الاخبار",iNEWS TV
 https://live.i-news.tv/hls/stream.m3u8
-
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://almasra.iq/wp-content/uploads/2023/03/almasra-logo1.png" group-title="📰NEWS الاخبار",Almasra TV 🇮🇶
+https://live.bradosti.net/live/Almasra/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="📰NEWS الاخبار",Nabaa TV 🇱🇾
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
@@ -2241,9 +2242,11 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="🇮🇶العراق IRAQ",UTV 
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
-#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="🇮🇶العراق IRAQ",Shams TV🇮🇶
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="🇮🇶العراق IRAQ",Shams TV 🇮🇶
 https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",Samirra🇮🇶
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://almasra.iq/wp-content/uploads/2023/03/almasra-logo1.png" group-title="🇮🇶العراق IRAQ",Almasra TV 🇮🇶
+https://live.bradosti.net/live/Almasra/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",Samirra 🇮🇶
 https://live.bradosti.net/live/AlSamara/index.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",Al-Sharqiya 🇮🇶
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
