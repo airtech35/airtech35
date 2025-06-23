@@ -1398,103 +1398,154 @@ https://bit.ly/3DF4NAn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="📰NEWS الاخبار",📰كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 📰
-https://live-hls-apps-aja-v3-fa.getaj.net/alternative/AJA/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA SD📰
-https://live-hls-apps-aja-v3-fa.getaj.net/AJA/03.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 📰(Backup 1)
-https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://play-lh.googleusercontent.com/KaCd66zosNRkQYI7DuRR-7KMoYQL-ZjlxMo25lBcVSGj9y3EihMIf8XVhJq07CVYXMY" group-title="📰NEWS الاخبار",Al Jazeera Mubasher Broadcast 2
-https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="📰NEWS الاخبار",Al Jazeera Mubasher 24(Backup 1)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA HD 🇶🇦
+https://live-hls-web-aja-fa.thehlive.com/alternative/AJA/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="📰NEWS الاخبار",AL JAZEERA SD 🇶🇦
+https://live-hls-web-aja-fa.thehlive.com/alternative/AJA/03.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="📰NEWS الاخبار",Al Jazeera Mubasher 24 HD 🇶🇦
 https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="📰NEWS الاخبار",AL JAZEERA MUBASHER SD📰
-https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="📰NEWS الاخبار",Al Jazeera English
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="📰NEWS الاخبار",Al Jazeera Mubasher 24 SD 🇶🇦
+https://live-hls-web-ajm24-fa.thehlive.com/AJM24/03.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="📰NEWS الاخبار",Al Jazeera English HD 🇶🇦
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA 📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="📰NEWS الاخبار",Al Jazeera English SD 🇶🇦
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="📰NEWS الاخبار",al jazeera america HD 🇶🇦
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="📰NEWS الاخبار",al jazeera america SD 🇶🇦
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/250px-Al_Jazeera_Balkans.png" group-title="📰NEWS الاخبار",al jazeera balkans HD 🇶🇦
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/250px-Al_Jazeera_Balkans.png" group-title="📰NEWS الاخبار",al jazeera balkans SD 🇶🇦
+https://live-hls-web-ajb.getaj.net/AJB/03.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA HD 🇸🇦
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA 📰(Backup 1)
-https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰(Backup 1)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH 📰
-https://svs.itworkscdn.net/alarabiyalive/alhadathhd.smil/alarabiapublish/alhadath_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="📰NEWS الاخبار",Al Arabiya Programs
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA SD 🇸🇦
+https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_36.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH HD 🇸🇦
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰NEWS الاخبار",AL HADATH SD 🇸🇦
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/manifest/video/576p1200kbps/video.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="📰NEWS الاخبار",Al Arabiya Programs HD 🇸🇦
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business 📰 HD
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business📰(Backup 1)
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="📰NEWS الاخبار",Al Arabiya Programs SD 🇸🇦
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business HD 🇸🇦
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel HD📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰NEWS الاخبار",Al Arabiya Business SD 🇸🇦
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel HD 🇸🇦
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel SD📰(Backup 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="📰NEWS الاخبار",Asharq News Channel SD 🇸🇦
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png" group-title="📰NEWS الاخبار",Al Ekhbaria HD📰
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png" group-title="📰NEWS الاخبار",Al Ekhbaria HD 🇸🇦
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MphckC" group-title="📰NEWS الاخبار",ALMAMLKA 📰
-https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="📰NEWS الاخبار",Al Qahera News 
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39e3Wuy" group-title="📰NEWS الاخبار",SKY NEWS ARABIC 📰
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="📰NEWS الاخبار",Sky News HD
-https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="📰NEWS الاخبار",BBC ARABIC 📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="📰NEWS الاخبار",BBC ARABIC 🇸🇦
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png" group-title="📰NEWS الاخبار",BBC Arabic HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png" group-title="📰NEWS الاخبار",BBC Arabic HD 🇸🇦
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="📰NEWS الاخبار",AL ALAM HD📰
-https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="📰NEWS الاخبار",WATAN HD📰
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="📰NEWS الاخبار",Syria TV 
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqMfXqB.png" group-title="📰NEWS الاخبار",Al Araby 1 TV
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="📰NEWS الاخبار",ALARABY 2 TV
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="📰NEWS الاخبار",Al Yaum TV
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3UOLU5T" group-title="📰NEWS الاخبار",AL MAYADEEN HD 🇱🇧
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="📰NEWS الاخبار",Al Manar 🇱🇧
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-id="NBN.lb" tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="📰NEWS الاخبار",NBN 🇱🇧
+http://5.9.119.146:8883/nbn/index.m3u8
+#EXTINF:-1 tvg-id="ALWifakNewsTV.lb" tvg-logo="https://i.imgur.com/1vqhmNz.png" group-title="📰NEWS الاخبار",ALWifak News TV 🇱🇧
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="🇯🇴الاردنJORDAN",Al Mamlaka TV 🇯🇴
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png" group-title="📰NEWS الاخبار",Alhaqeqa Aldawlia 🇯🇴
+https://ghaasiflu.online/alhqeqa/index.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+#EXTINF:-1 tvg-logo="https://imn.iq/wp-content/uploads/2024/06/live.png" group-title="📰NEWS الاخبار",Al Iraqia News 🇮🇶
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="🇮🇶العراق IRAQ",Shams TV 🇮🇶
+https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/18/b1/b8/18b1b893-6534-db82-056e-2a79dad84357/source/512x512bb.jpg" group-title="📰NEWS الاخبار",Al-Sharqiya News 🇮🇶
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/INEWSTViq.jpg" group-title="🇮🇶العراق IRAQ",iNEWS TV
+https://live.i-news.tv/hls/stream.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="📰NEWS الاخبار",Nabaa TV 🇱🇾
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="📰NEWS الاخبار",AL GHAD TV 🇪🇬
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="📰NEWS الاخبار",AL GHAD PLUS 🇪🇬
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="📰NEWS الاخبار",Al Qahera News 🇪🇬
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="📰NEWS الاخبار",WATAN HD 🇪🇬
 https://rp.tactivemedia.com/watantv_source/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lRUGXdU.png" group-title="📰NEWS الاخبار",DW HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3FHyEcq" group-title="📰NEWS الاخبار",Al Qahera News 🇪🇬
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q47QXN" group-title="📰NEWS الاخبار",Alsharq 🇪🇬
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39e3Wuy" group-title="📰NEWS الاخبار",SKY NEWS ARABIC 🇦🇪
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="📰NEWS الاخبار",Sky News 🇦🇪
+https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",AL Mashhad  🇦🇪
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+#EXTINF:-1 tvg-id="KTVNews.kw" tvg-logo="https://i.imgur.com/erZ0Ol1.png" group-title="📰NEWS الاخبار",KTV News 🇰🇼
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vlaUoV" group-title="📰NEWS الاخبار",ALqanat 9 🇹🇳
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/AL24_News_Logo.svg" group-title="📰NEWS الاخبار",AL24 News 🇩🇿
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="📰NEWS الاخبار",AL ALAM 🇮🇷
+https://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="📰NEWS الاخبار",Iran International 🇮🇷
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="📰NEWS الاخبار",France 24 Arabic 🇫🇷
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lRUGXdU.png" group-title="📰NEWS الاخبار",DW 🇩🇪
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1460540748261171203/rnpH_Qto_400x400.jpg" group-title="📰NEWS الاخبار",AL KHALIJ HD📰
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zw34rP.png" group-title="📰NEWS الاخبار",TRT Arabi HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zw34rP.png" group-title="📰NEWS الاخبار",TRT Arabi 🇹🇷
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="📰NEWS الاخبار",AL GHAD TV
-https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="📰NEWS الاخبار",AL GHAD PLUS
-https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰NEWS الاخبار",CGTN الاخبارNEWS📰
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰NEWS الاخبار",CGTN الاخبارNEWS 🇨🇳
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WqMfXqB.png" group-title="📰NEWS الاخبار",Al Araby HD
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="📰NEWS الاخبار",ALARABY 2 TV HD📰
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vlaUoV" group-title="📰NEWS الاخبار",ALqanat 9📰
-https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3FHyEcq" group-title="📰NEWS الاخبار",Al Qahera News
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3UOLU5T" group-title="📰NEWS الاخبار",AL MAYADEEN HD📰
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YtPfe6" group-title="📰NEWS الاخبار",AL HIWAR NEWS 📰
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://arbne.ws/3MoHfkW" group-title="📰NEWS الاخبار",Al Hurra📰
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q47QXN" group-title="📰NEWS الاخبار",Alsharq📰
-https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtgHPlQ.png" group-title="📰NEWS الاخبار",CNBC Arabia HD
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",AL Mashhad HD
-https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="📰NEWS الاخبار",rt.arabic HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="📰NEWS الاخبار",rt.arabic 🇷🇺
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/AL24_News_Logo.svg" group-title="📰NEWS الاخبار",AL24 News
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imn.iq/wp-content/uploads/2024/06/live.png" group-title="📰NEWS الاخبار",Al Iraqia News
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-                                      -------EN-------
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News UK HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News US HD
@@ -1931,7 +1982,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Syria سورية",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="Syria سورية",Syria TV 
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Althania.sy" tvg-logo="https://www.althania.tv/images/logo2.png" group-title="Syria سورية",Syria TV 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria سورية",LTV 
@@ -1987,8 +2038,6 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV 🇱🇧
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="LEBANON لبنان",Nabaa TV 🇱🇧
-http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="NBN.lb" tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="LEBANON لبنان",NBN 🇱🇧
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="OneTV.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="LEBANON لبنان",One TV 🇱🇧
@@ -2192,65 +2241,65 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="🇮🇶العراق IRAQ",UTV 
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
-#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="🇮🇶العراق IRAQ",Shams TV
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="🇮🇶العراق IRAQ",Shams TV🇮🇶
 https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",Samirra
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",Samirra🇮🇶
 https://live.bradosti.net/live/AlSamara/index.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",Al-Sharqiya 
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",Al-Sharqiya 🇮🇶
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya News 
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya News 🇮🇶
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8 
-#EXTINF:-1 tvg-id="AlIraqia.iq" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="🇮🇶العراق IRAQ",Al Iraqia 
+#EXTINF:-1 tvg-id="AlIraqia.iq" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="🇮🇶العراق IRAQ",Al Iraqia 🇮🇶
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="🇮🇶العراق IRAQ",Al Iraqia News 
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="🇮🇶العراق IRAQ",Al Iraqia News 🇮🇶
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="🇮🇶العراق IRAQ",Al Rasheed
+#EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="🇮🇶العراق IRAQ",Al Rasheed🇮🇶
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I0cLqH" group-title="🇮🇶العراق IRAQ",ALrafidain tv 🇮🇶
 http://51.255.84.28:8081/arrafidaintv/source2/chunks.m3u8
-#EXTINF:-1 tvg-id="DijlahTV.iq" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="🇮🇶العراق IRAQ",Dijlah TV 
+#EXTINF:-1 tvg-id="DijlahTV.iq" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="🇮🇶العراق IRAQ",Dijlah TV 🇮🇶
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="🇮🇶العراق IRAQ",قناة دجلة Dijlah TV (Backup)🇮🇶
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="🇮🇶العراق IRAQ",Dijlah fm
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="🇮🇶العراق IRAQ",Dijlah fm🇮🇶
 https://listen.radioking.com/radio/96766/stream/136030
-#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="🇮🇶العراق IRAQ",MBC Iraq
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="🇮🇶العراق IRAQ",MBC Iraq🇮🇶
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://media0078.elcinema.com/tvguide/1381_1.png" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://media0078.elcinema.com/tvguide/1381_1.png" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV🇮🇶
 https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="🇮🇶العراق IRAQ",Al-Naeem TV 
+#EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="🇮🇶العراق IRAQ",Al-Naeem TV 🇮🇶
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Alqanat9 TV 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Alqanat9 TV 🇮🇶
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Althaqalayn TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Althaqalayn TV🇮🇶
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
-#EXTINF:-1 tvg-id="DuaChannel.iq" tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="🇮🇶العراق IRAQ",Dua Channel 
+#EXTINF:-1 tvg-id="DuaChannel.iq" tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="🇮🇶العراق IRAQ",Dua Channel 🇮🇶
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
-#EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="🇮🇶العراق IRAQ",Zagros  
+#EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="🇮🇶العراق IRAQ",Zagros  🇮🇶
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="🇮🇶العراق IRAQ",Alhurra 
+#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="🇮🇶العراق IRAQ",Alhurra 🇮🇶
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="🇮🇶العراق IRAQ",Alhurra Iraq 
+#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="🇮🇶العراق IRAQ",Alhurra Iraq 🇮🇶
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba
+#EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="🇮🇶العراق IRAQ",Al Nujaba🇮🇶
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraq Future
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraq Future🇮🇶
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV🇮🇶
 http://154.58.202.131:8000/play/a008
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya🇮🇶
 http://154.58.202.131:8000/play/a00h
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Diwan
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Diwan🇮🇶
 http://154.58.202.131:8000/play/a02j
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Fursan Aliraq TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Fursan Aliraq TV🇮🇶
 http://154.58.202.131:8000/play/a07t
-#EXTINF:-1 tvg-name="Iraq Future Ⓢ" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-id="IraqFuture.iq" group-title="🇮🇶العراق IRAQ",Iraq Future Ⓢ
+#EXTINF:-1 tvg-name="Iraq Future Ⓢ" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-id="IraqFuture.iq" group-title="🇮🇶العراق IRAQ",Iraq Future Ⓢ🇮🇶
 http://154.58.202.131:8000/play/a01w
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Sport HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Sport HD🇮🇶
 http://154.58.202.131:8000/play/a02z
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Turkuman
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Turkuman🇮🇶
 http://154.58.202.131:8000/play/a02x
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -2764,6 +2813,7 @@ https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
 #EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="🇸🇦السعودية Saudi-Arabia",Al Saudiya Alaan 🇸🇦
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 #EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="🇸🇦السعودية Saudi-Arabia",Al Saudiya 🇸🇦
@@ -2859,47 +2909,47 @@ http://154.58.202.185:8000/play/a07a
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇦🇪الامارات EMIRATES",🇦🇪كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🇦🇪الامارات EMIRATES",Dubai TV
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🇦🇪الامارات EMIRATES",Dubai TV 🇦🇪
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="🇦🇪الامارات EMIRATES",Dubai Zaman
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="🇦🇪الامارات EMIRATES",Dubai Zaman 🇦🇪
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="🇦🇪الامارات EMIRATES",Dubai One
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="🇦🇪الامارات EMIRATES",Dubai One 🇦🇪
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="🇦🇪الامارات EMIRATES",Sama Dubai
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="🇦🇪الامارات EMIRATES",Sama Dubai 🇦🇪
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/DLe7ZuM.png" group-title="🇦🇪الامارات EMIRATES",Noor Dubai
+#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/DLe7ZuM.png" group-title="🇦🇪الامارات EMIRATES",Noor Dubai 🇦🇪
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi Aloula
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi Aloula 🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi Emirates
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi Emirates 🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="🇦🇪الامارات EMIRATES",National Geographic Abu Dhabi [Geo-blocked]
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="🇦🇪الامارات EMIRATES",National Geographic Abu Dhabi [Geo-blocked]  🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="🇦🇪الامارات EMIRATES",Ajman TV
+#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="🇦🇪الامارات EMIRATES",Ajman TV 🇦🇪
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-logo="https://i.imgur.com/sOMOe9t.png" group-title="🇦🇪الامارات EMIRATES",Al Dafrah TV 
+#EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-logo="https://i.imgur.com/sOMOe9t.png" group-title="🇦🇪الامارات EMIRATES",Al Dafrah TV  🇦🇪
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
-#EXTINF:-1 tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="🇦🇪الامارات EMIRATES",Al Mashhad
+#EXTINF:-1 tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="🇦🇪الامارات EMIRATES",Al Mashhad 🇦🇪
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-logo="https://i.imgur.com/otAHLRo.png" group-title="🇦🇪الامارات EMIRATES",Al Shallal TV
+#EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-logo="https://i.imgur.com/otAHLRo.png" group-title="🇦🇪الامارات EMIRATES",Al Shallal TV 🇦🇪
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="🇦🇪الامارات EMIRATES",Al Sharqiya Min Kabla
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="🇦🇪الامارات EMIRATES",Al Sharqiya Min Kabla 🇦🇪
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="🇦🇪الامارات EMIRATES",Al Wousta TV
+#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="🇦🇪الامارات EMIRATES",Al Wousta TV 🇦🇪
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BaynounahTV.ae" tvg-logo="https://i.imgur.com/n2nczHO.png" group-title="🇦🇪الامارات EMIRATES",Baynounah TV
+#EXTINF:-1 tvg-id="BaynounahTV.ae" tvg-logo="https://i.imgur.com/n2nczHO.png" group-title="🇦🇪الامارات EMIRATES",Baynounah TV 🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="🇦🇪الامارات EMIRATES",Fujairah TV
+#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="🇦🇪الامارات EMIRATES",Fujairah TV 🇦🇪
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NourTV.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="🇦🇪الامارات EMIRATES",Nour TV
+#EXTINF:-1 tvg-id="NourTV.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="🇦🇪الامارات EMIRATES",Nour TV 🇦🇪
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="🇦🇪الامارات EMIRATES",Peace TV Chinese
+#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="🇦🇪الامارات EMIRATES",Peace TV Chinese 🇦🇪
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="🇦🇪الامارات EMIRATES",Sharjah 2
+#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="🇦🇪الامارات EMIRATES",Sharjah 2 🇦🇪
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/tq5Aj9i.png" group-title="🇦🇪الامارات EMIRATES",Sharjah TV
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/tq5Aj9i.png" group-title="🇦🇪الامارات EMIRATES",Sharjah TV 🇦🇪
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="🇦🇪الامارات EMIRATES",Wanasah
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="🇦🇪الامارات EMIRATES",Wanasah 🇦🇪
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi FM.png" tvg-id="AbuDhabiFM.ae" tvg-name="Abu Dhabi FM",Abu Dhabi FM
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/HLS/index.m3u8
