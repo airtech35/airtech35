@@ -1510,6 +1510,8 @@ https://rp.tactivemedia.com/watantv_source/live/chunks.m3u8
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q47QXN" group-title="📰NEWS الاخبار",Alsharq 🇪🇬
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/8tNi4fU_cSNFhfDgoVeAXhqqUkxvJAJv_DnfJ2HjM8miaeobVYX8jkFMGV5Bt5KPmIz11I9y_w=s900-c-k-c0x00ffffff-no-rj" group-title="📰NEWS الاخبار",AlShoub
+https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39e3Wuy" group-title="📰NEWS الاخبار",SKY NEWS ARABIC 🇦🇪
 https://stream.skynewsarabia.com/hls/sna.m3u8
