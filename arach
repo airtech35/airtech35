@@ -1976,8 +1976,6 @@ https://samaflix.com:12103/channel6/index.m3u8
 http://185.9.2.18/chid_312/mono.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",AR | [LIB] LBC 🇱🇧 
 http://185.9.2.18/chid_327/mono.m3u8
-#EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",AR | [LIB] LBC  🇱🇧
-http://iptv.icsnleb.com:25461/live//a/b//26.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AR | [LIB] AL JADEED HD" tvg-logo="https://bit.ly/3EaE6a4" group-title="LEBANON لبنان",AR | [LIB] AL JADEED HD 🇱🇧
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AR | [LIB] AL JADEED HD" tvg-logo="https://bit.ly/3EaE6a4" group-title="LEBANON لبنان",AR | [LIB] AL JADEED HD 🇱🇧
