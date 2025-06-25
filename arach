@@ -662,41 +662,6 @@ http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 1 FHD
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-1-HQ.php
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 1
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-1.php
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 2
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://tv.alfajertv.com/live-westbank-2.php
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 3
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-3.php
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 4
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-4.php
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 5
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-5.php
-#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD1_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 2
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 3
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hr.ps/media/logo-01.png" group-title="Fajer TV",الحرية الرياضية
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https%3A%2F%2Fhtvint.mada.ps%2Falhouriyah3%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",حلا الرياضية 
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https%3A%2F%2Fvstream3.hadara.ps%3A8443%2F7alafm2020%2F7alafm2020%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",وتر الرياضية
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http%3A%2F%2Fhtvmada.mada.ps%3A8888%2Forient2%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo-h.png" group-title="Fajer TV",وتر الرياضية 2
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http%3A%2F%2Fvstream3.hadara.ps%3A8081%2Fwatar%2Fwatar%2Fchunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.salam-tv.net/media/images/logo-bn.png" group-title="Fajer TV",تلفزيون السلام
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http%3A%2F%2Fhtvint.mada.ps%3A8889%2F%2Fsalamtv%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Fajer TV",كل الناس
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=http%3A%2F%2Fhtvmada.mada.ps%3A8888%2Fkolalnas%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-logo="https://hr.ps/media/logo-01.png" group-title="Fajer TV",الحرية
-https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https%3A%2F%2Fhtvint.mada.ps%2Falhouriyah2%2Ftracks-v1a1%2Fmono.m3u8
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",SPORT CHANNELS
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",كيف احصل على الكود
