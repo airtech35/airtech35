@@ -2099,10 +2099,6 @@ https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 cuid="245" tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/The_Simpsons_promo.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Os Simpsons 🇧🇷
 http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
-#EXTINF:-1 cuid="246" tvg-name="" tvg-id="Animax.hk" tvg-logo="https://logo.iptveditor.com/animax.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎"",Animax 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 cuid="247" tvg-name="TVG Xabarin 🇪🇸" tvg-logo="https://crtvg.gal/documents/2915657/2918041/Xabar%C3%ADn+logo+con+G+e+texto+con+sombra.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",TVG Xabarin 🇪🇸
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 #EXTINF:-1 cuid="248" tvg-name="Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]" tvg-id="ES900001SH" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]
@@ -2111,6 +2107,37 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 https://us.streaminghd.cl/torococotelevision/video.m3u8
 #EXTINF:-1 cuid="250" tvg-name="Pequeradio TV 🇪🇸" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Pequeradio TV 🇪🇸
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+𝘼𝙉𝙄𝙈𝙀
+
+#EXTINF:-1 cuid="206" tvg-name="Anime Max" tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Max-anime-logo-1.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime Max 🇪🇸
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1 cuid="207" tvg-name="loading tv 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",loading tv 🇧🇷
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 cuid="208" tvg-name="Geekdot 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_CCTRU7Y.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Geekdot 🇧🇷
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 cuid="209" tvg-name="Anime 🇧🇷" tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime 🇧🇷
++https://bit.ly/3qY2y4m?profile=608181d420fc8500075f612a.m3u8
+#EXTINF:-1 cuid="210" tvg-name="Anime Ação 🇧🇷" tvg-id="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime Ação 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 cuid="211" tvg-name="Anime TV 🇧🇷" tvg-logo="https://logo.com/image-cdn/images/kts928pd/production/a6dfe8cb484e8581a7f5cee1abb39d6814855920-731x731.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime TV 🇧🇷
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 cuid="212" tvg-name="Hallo! Anime 🇧🇷" tvg-logo="https://hallo.tv.br/img/ANIME.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Hallo! Anime 🇧🇷
+https://cdn-3.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
+#EXTINF:-1 cuid="213" tvg-name="Anime Onegai₁ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime Onegai₁ 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+#EXTINF:-1 cuid="214" tvg-name="Anime Onegai₂ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime Onegai₂ 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+#EXTINF:-1 cuid="215" tvg-name="Anime Onegai₃ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime Onegai₃ 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+#EXTINF:-1 cuid="216" tvg-name="Anime Onegai₄ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime Onegai₄ 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+#EXTINF:-1 cuid="217" tvg-name="Anime Onegai₅ 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Anime Onegai₅ 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
+#EXTINF:-1 cuid="218" tvg-name="Anime Onegai₅ 🇧🇷" tvg-logo="https://zplay.cl/image/zplay_blanco.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™🌎|☆ Anime",Ztv 🇨🇱
+https://mitv.zplay.cl/Ztv/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
