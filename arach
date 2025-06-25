@@ -1620,6 +1620,14 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340ee
 #EXTINF:-1 cuid="1023" tvg-name="Hallo! doc" tvg-id="" tvg-logo="https://hallo.tv.br/img/DOC.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Hallo! Doc 🇧🇷
 https://aovivo.doozytv.com.br/31025556/10162730/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="​🆁™ وثائقيDoc & History 🏛️", DocuBox
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:-1 tvg-id="TheBoatShow.us" group-title="​🆁™ وثائقيDoc & History 🏛️" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 tvg-id="localnow_True History" group-title="​🆁™ وثائقيDoc & History 🏛️" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png",🇺🇸 ➾ True Historyᴴᴰ [Localnow]
+https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-id="DistroTV_True History"group-title="​🆁™ وثائقيDoc & History 🏛️" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg",🇺🇸 ➾ True History [Distrotv]
+https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -1671,14 +1679,6 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 http://iptv.prosto.tv:7000/ch325/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vZOXft" group-title="🆁™ Wildlife الحياة البرية🐘",Animaux🏞️
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8cedcb05-c40d-11ec-9e8c-0242ac110003
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="🆁™ Wildlife الحياة البرية🐘", DocuBox
-http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1 tvg-id="TheBoatShow.us" group-title="🆁™ Wildlife الحياة البرية🐘" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 tvg-id="localnow_True History" group-title="🆁™ Wildlife الحياة البرية🐘" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png",🇺🇸 ➾ True Historyᴴᴰ [Localnow]
-https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-id="DistroTV_True History"group-title="🆁™ Wildlife الحياة البرية🐘" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg",🇺🇸 ➾ True History [Distrotv]
-https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🆁™ Wildlife الحياة البرية🐘" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png",🇫🇷 ➾ Nature Time [Pluto]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🆁™ Wildlife الحياة البرية🐘" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png",🇺🇸 ➾ WildEarthᴴᴰ [Plex]
