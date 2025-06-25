@@ -108,9 +108,6 @@ http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 🇶🇦
-https://ott.udptv.com/stream/skyuk/tntsports1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
-
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -1551,6 +1548,60 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsu
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="documentary الوثائقية" tvg-logo="http://tv.10dailythings.com/images/channels/US/local-now-discover-720p/normal.png",🇺🇸 ➾ Local Now Discoverᴴᴰ [Stirr]
 https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+--- 🌈VIDA SELVAGEM
+#EXTINF:-1 cuid="1059" tvg-name="Love Nature 🇪🇸" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Love Nature 🇪🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 cuid="1060" tvg-name="Love Nature 🇧🇷" tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Love Nature 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 cuid="1061" tvg-name="WildEarth" tvg-id="plex.tv.WildEarth.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",WildEarth 🇺🇸
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=MX62w_sAFbQMHQUaFY9h
+#EXTINF:-1 cuid="1062" tvg-name="Clarity⁴ᴷ 🇺🇸" tvg-id="USBA3800005NI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20240813T021325SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Clarity⁴ᴷ 🇺🇸
++https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1 cuid="1063" tvg-name="Spike Outdoors 🇬🇧" tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Spike Outdoors 🇬🇧
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+#EXTINF:-1 cuid="1064" tvg-name="TV Backcountry 🇺🇸" tvg-id="5cabdf1437b88b26947346b2" tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",TV Backcountry 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+#EXTINF:-1 cuid="1065" tvg-name="BBC Earth" tvg-id="656535fc2c46f30008870fae" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBCEarth.webp" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",BBC Earth 🇬🇧
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+#EXTINF:-1 cuid="1066" tvg-name="Wild Nature" tvg-id="" tvg-logo="https://ugc.production.linktr.ee/b23a6c07-ebcd-447c-9d9d-830577fb0abf_WildNature-Bug-RGB.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Wild Nature 🇬🇧
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+#EXTINF:-1 cuid="1067" tvg-name="Love The Planet 🇮🇹 [xɪᴀᴏᴍɪ]" tvg-id="65c243143ef47d00084c90a9" tvg-logo="https://images.pluto.tv/channels/65c243143ef47d00084c90a9/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Love The Planet 🇮🇹 [xɪᴀᴏᴍɪ]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetit-xiaomi/playlist.m3u8
+#EXTINF:-1 cuid="1068" tvg-name="Earthday 365 🇺🇸" tvg-id="650b69cfd1f20c0008586bac" tvg-logo="https://images.pluto.tv/channels/650b69cfd1f20c0008586bac/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Earthday 365 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/650b69cfd1f20c0008586bac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+#EXTINF:-1 cuid="1069" tvg-name="XtremaAnimal" tvg-id="XtremaAnimal.ar" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Xtrema Animal 🇦🇷
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 cuid="1070" tvg-name="Earth Touch tv 🇺🇸" tvg-id="GBBD3200001E2" tvg-logo="https://www.earthtouch.tv/media/1954995/logo-big.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Earth Touch tv 🇺🇸
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 cuid="1071" tvg-name="Inwild tv 🇺🇸" tvg-id="GBBA220000751" tvg-logo="https://cdn.prod.website-files.com/66674f5e1df7751fcf01ae62/66bcf05573c002cd0c734d12_INWILD.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Inwild tv 🇺🇸
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 cuid="1072" tvg-name="Nature Time 🇺🇸" tvg-id="61eeb4a701020c00075676ef" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Nature Time 🇺🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+#EXTINF:-1 cuid="1073" tvg-name="Adventure Earth 🇺🇸" tvg-id="GBBC900015D3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a5f2eb3-3df9-4ef7-af45-56ef0f7f44dd/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Adventure Earth 🇺🇸
+https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8
+#EXTINF:-1 cuid="1074" tvg-name="Real Wild 🇺🇸 [ʀᴀkυᴛᴇɴ]" tvg-id="GBBB1000005IO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Real Wild 🇺🇸 [ʀᴀkυᴛᴇɴ]
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 cuid="1075" tvg-name="Wild Planet 🇺🇸" tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Wild Planet 🇺🇸
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+https://is.gd/AN3Wnm?GBBB5000002PL.m3u8
+#EXTINF:-1 cuid="1076" tvg-name="Animals tv  🇺🇸" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Animals tv  🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 cuid="1077" tvg-name="Wildlife tv 🇺🇸" tvg-id="USBA3000043LH" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Wildlife tv 🇺🇸
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 cuid="1078" tvg-name="Animaux 🇫🇷" tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Animaux 🇫🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 cuid="1079" tvg-name="Xplore 🇺🇸" tvg-id="USBC2100008DP" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/xplore.webp" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Xplore 🇺🇸
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 cuid="1080" tvg-name="The Jack Hanna Channel 🇺🇸" tvg-id="USBC2100009GT" tvg-logo="https://images.pluto.tv/channels/650b6a0c6625510008e1043b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",The Jack Hanna Channel 🇺🇸
+https://is.gd/XT45y6?USBC2100009GT.m3u8
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
