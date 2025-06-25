@@ -5759,6 +5759,9 @@ http://live02.mc-doualiya.com/mc-doualiya.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="WWEمصارعه حره",IMPACT! Wrestling | US
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1  tvg-id="Peacock.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" group-title="WWEمصارعه حره",WWE Network
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium376%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="WWEمصارعه حره",GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="WWEمصارعه حره",FIGHTBOX | US
@@ -5775,6 +5778,12 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d8
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="WWEمصارعه حره" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting 🇺🇸 
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Belator MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="WWEمصارعه حره",Belator MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="ext" tvg-name="PFL MMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAl_uBI7OdY63TeC-t66lsdbcuvRA1QLUKBw&usqp=CAU" group-title="WWEمصارعه حره",PFL MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTM3U
