@@ -4985,14 +4985,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882b
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-HBO-Boxing.m3u8
 #EXTINF:-1 cuid="1177" tvg-chno="1177" tvg-name="Boxing TV" tvg-id="Boxing.TV.distro" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png" group-title="Combat 🥊",Boxing TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-#EXTINF:-1 cuid="1178" tvg-chno="1178" tvg-name="AXS tv 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://axs.tv/wp-content/uploads/2024/05/axs-bug-300x122.png" group-title="Combat 🥊",AXS tv 🇺🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
 #EXTINF:-1 cuid="1179" tvg-chno="1179" tvg-name="Swerve Combat 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-61f04d2bb01a6e8df3f72902" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa449194-1789-42d6-8a03-55ef1e991c40/PLEX_1500x1000_Logo_Dark.png" group-title="Combat 🥊",Swerve Combat 🇺🇸
 https://linear-253.frequency.stream/dist/localnow/253/hls/master/playlist.m3u8
-#EXTINF:-1 cuid="1180" tvg-chno="1180" tvg-name="Professional Fighters League 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png" group-title="Combat 🥊",Professional Fighters League 🇺🇸
-https://bit.ly/3NjCdK6?profile=inspirationFreetv.m3u8
-#EXTINF:-1 cuid="1181" tvg-chno="1181" tvg-name="PFL MMA 🇺🇸" tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Combat 🥊",PFL MMA 🇺🇸
-https://is.gd/JykFJR?6334a574605f140007e233c4.m3u8
 #EXTINF:-1 cuid="1182" tvg-chno="1182" tvg-name="Unbeaten Sports Channel 🇺🇸" tvg-id="639b549d69e63c0007854fa0" tvg-logo="https://images.pluto.tv/channels/639b549d69e63c0007854fa0/colorLogoPNG.png" group-title="Combat 🥊",Unbeaten Sports Channel 🇺🇸
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
 #EXTINF:-1 cuid="1183" tvg-chno="1183" tvg-name="Strongman Champion League 🇺🇸" tvg-id="GBBC90001089" tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png" group-title="Combat 🥊",Strongman Champion League 🇺🇸
@@ -5001,18 +4995,12 @@ https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/65b14aae0cb1a100087a216e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c6d80ad9-6948-11ef-a12a-067b07706ed1
 #EXTINF:-1 cuid="1184" tvg-chno="1184" tvg-name="Dazn Ringside 🇺🇸" tvg-id="65b14aae0cb1a100087a216e" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="Combat 🥊",DAZN Ringside 🇺🇸
 https://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
-#EXTINF:-1 cuid="1185" tvg-chno="1185" tvg-name="Dazn Combat 🇺🇸" tvg-id="64df7a9a44fe100009b6ac5a" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png" group-title="Combat 🥊",DAZN Combat 🇺🇸
-https://is.gd/nWkt1L?64df7a9a44fe100009b6ac5a.m3u8
 #EXTINF:-1 cuid="1186" tvg-chno="1186" tvg-name="XFC MMA 🇺🇸" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg" group-title="Combat 🥊",XFC MMA 🇺🇸
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 #EXTINF:-1 cuid="1187" tvg-chno="1187" tvg-name="Fite 24/7 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Combat 🥊",Fite 24/7 🇺🇸
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-RAD/263.m3u8
 #EXTINF:-1 cuid="1188" tvg-chno="1188" tvg-name="Hard Knock Fighting 🇺🇸" tvg-id="UK:.Hard.Knocks.Fighting.Championship.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Combat 🥊",Hard Knock Fighting 🇺🇸
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
-#EXTINF:-1 cuid="1189" tvg-chno="1189" tvg-name="Hard Knocks Fighting Championship 🇺🇸" tvg-id="UK:.Hard.Knocks.Fighting.Championship.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Combat 🥊",Hard Knocks Fighting Championship 🇺🇸
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_hardknocks_002.m3u8
-#EXTINF:-1 cuid="1190" tvg-chno="1190" tvg-name="Impact! Wrestling 🇺🇸" tvg-id="63d8dcefda71180008829bcd" tvg-logo="https://images.pluto.tv/channels/63d8dcefda71180008829bcd/colorLogoPNG.png" group-title="Combat 🥊",Impact! Wrestling 🇺🇸
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 cuid="1191" tvg-chno="1191" tvg-name="MSG Sports Zone 🇺🇸" tvg-id="USBD300021B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20240520T220114CIRCLE.png" group-title="Combat 🥊",MSG Sports Zone 🇺🇸
 https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 
