@@ -2084,7 +2084,7 @@ https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 cuid="240" tvg-name="Duck tv 🇪🇸🇺🇸" tvg-id="ESBC4700001GR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Duck tv 🇪🇸
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
-#EXTINF:-1 cuid="241" tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://logo.iptveditor.com/locomotiontv.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Anime",Locomotion 🇪🇸
+#EXTINF:-1 cuid="241" tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://logo.iptveditor.com/locomotiontv.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Locomotion 🇪🇸
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 cuid="242" tvg-name="" tvg-id="Canal.BabyFirst.TV.mx" tvg-logo="https://logo.iptveditor.com/babyfirst.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",BabyFirst 🇪🇸
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
@@ -2097,15 +2097,15 @@ https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1 cuid="245" tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/The_Simpsons_promo.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ ​Fanny & Comedy 😂",Os Simpsons 🇧🇷
+#EXTINF:-1 cuid="245" tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/The_Simpsons_promo.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Os Simpsons 🇧🇷
 http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
-#EXTINF:-1 cuid="246" tvg-name="" tvg-id="Animax.hk" tvg-logo="https://logo.iptveditor.com/animax.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Anime",Animax 
+#EXTINF:-1 cuid="246" tvg-name="" tvg-id="Animax.hk" tvg-logo="https://logo.iptveditor.com/animax.png" group-logo="https://img.icons8.com/?size=512&id=sxtLRm71kvmx&format=png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎"",Animax 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 cuid="247" tvg-name="TVG Xabarin 🇪🇸" tvg-logo="https://crtvg.gal/documents/2915657/2918041/Xabar%C3%ADn+logo+con+G+e+texto+con+sombra.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",TVG Xabarin 🇪🇸
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:-1 cuid="248" tvg-name="Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]" tvg-id="ES900001SH" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="🆁™ ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ ​Fanny & Comedy 😂",Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]
+#EXTINF:-1 cuid="248" tvg-name="Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]" tvg-id="ES900001SH" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 cuid="249" tvg-name="Torococo TV 🇻🇪" tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🆁™ ​أطفال 🌎|☆ Kids 🧒🌎",Torococo TV 🇻🇪
 https://us.streaminghd.cl/torococotelevision/video.m3u8
