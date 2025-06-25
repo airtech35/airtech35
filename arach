@@ -1025,8 +1025,6 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8?token=
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wjsItZW.png",[$]SPORT PLUS 5HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/tJbH505.png",[$]SPORT PLUS 7HD
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]MMN SPORT HD
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
@@ -5757,11 +5755,8 @@ http://live02.mc-doualiya.com/mc-doualiya.mp3
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="WWEمصارعه حره",IMPACT! Wrestling | US
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  tvg-id="Peacock.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" group-title="WWEمصارعه حره",WWE Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium376%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="WWEمصارعه حره",GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="WWEمصارعه حره",FIGHTBOX | US
