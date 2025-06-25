@@ -1561,7 +1561,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e1
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=MX62w_sAFbQMHQUaFY9h
 #EXTINF:-1 cuid="1062" tvg-name="Clarity⁴ᴷ 🇺🇸" tvg-id="USBA3800005NI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20240813T021325SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Clarity⁴ᴷ 🇺🇸
-+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 cuid="1063" tvg-name="Spike Outdoors 🇬🇧" tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Spike Outdoors 🇬🇧
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 #EXTINF:-1 cuid="1064" tvg-name="TV Backcountry 🇺🇸" tvg-id="5cabdf1437b88b26947346b2" tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",TV Backcountry 🇺🇸
@@ -1593,14 +1593,11 @@ https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://is.gd/AN3Wnm?GBBB5000002PL.m3u8
 #EXTINF:-1 cuid="1076" tvg-name="Animals tv  🇺🇸" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Animals tv  🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 cuid="1077" tvg-name="Wildlife tv 🇺🇸" tvg-id="USBA3000043LH" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Wildlife tv 🇺🇸
-https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 cuid="1078" tvg-name="Animaux 🇫🇷" tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Animaux 🇫🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 cuid="1079" tvg-name="Xplore 🇺🇸" tvg-id="USBC2100008DP" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/xplore.webp" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",Xplore 🇺🇸
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 cuid="1080" tvg-name="The Jack Hanna Channel 🇺🇸" tvg-id="USBC2100009GT" tvg-logo="https://images.pluto.tv/channels/650b6a0c6625510008e1043b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Vida Selvagem 🐘",The Jack Hanna Channel 🇺🇸
-https://is.gd/XT45y6?USBC2100009GT.m3u8
+
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
