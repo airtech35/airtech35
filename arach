@@ -10496,23 +10496,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
 
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪 Germany",Das Erste Ⓖ
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪 Germany",RTL Zwei
-http://178.219.128.68:64888/RTL2
+
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/3LBQCQw" group-title="🇩🇪 Germany",ZDF DE
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/46kGEfF" group-title="🇩🇪 Germany",RTL 1
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/4eeIDWB" group-title="🇩🇪 Germany",RTL 2
 https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
-#EXTINF:-1 tvg-id="RTLZwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="🇩🇪 Germany",RTL Zwei
-http://178.219.128.68:64888/RTL2
 #EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="🇩🇪 Germany",RTL Zwei HD
 http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="🇩🇪 Germany",RTL (Germany)
-http://178.219.128.68:64888/RTL
-
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="🇩🇪 Germany",VOX DE
-http://178.219.128.68:64888/VOX
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/44434500?profile=pass
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="🇩🇪 Germany",Super RTL DE
 http://154.58.225.25:9999/superrtl/index.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="🇩🇪 Germany",3sat  [Geo-blocked]
