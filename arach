@@ -2640,8 +2640,10 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 https://samaflix.com:12103/channel2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/ee/Lb2intl.jpg" group-title="LEBANON لبنان",LBC INT 2
 https://samaflix.com:12103/channel6/index.m3u8
-#EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://yt3.googleusercontent.com/0o27IMIdPe_tR7nqeISxd6wd_xm-Ya5giQSKUOsPL9RXFCPiMvYLV53wMCQt8CvR3g8NEwcp-7A=s900-c-k-c0x00ffffff-no-rj" group-title="LEBANON لبنان",AR | [LIB] OTV 🇱🇧
+#EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="LEBANON لبنان",AR | [LIB] OTV 🇱🇧
 http://185.9.2.18/chid_312/mono.m3u8
+#EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="LEBANON لبنان",AR | [LIB] OTV 🇱🇧
+https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",AR | [LIB] LBC 🇱🇧 
 http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AR | [LIB] AL JADEED HD" tvg-logo="https://bit.ly/3EaE6a4" group-title="LEBANON لبنان",AR | [LIB] AL JADEED HD 🇱🇧
@@ -3322,7 +3324,11 @@ https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="🇩🇿الجزائرALGERIEN",TV2 ALGÉRIE
 http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1 tvg-id="TV2.dz" tvg-logo="" group-title="🇩🇿الجزائرALGERIEN",TV3 ALGÉRIE
+https://fl1002.bozztv.com/ga-algeria3/index.m3u8
+#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="" group-title="🇩🇿الجزائرALGERIEN",TV3 ALGÉRIE
 http://69.64.57.208/canalalgerie/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV 🇩🇿
 http://154.58.202.131:8000/play/a0ar
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama 🇩🇿
