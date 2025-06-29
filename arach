@@ -182,6 +182,17 @@ https://live-cdn-65984.varplaycdn.cfd/eurosport2/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
 #EXTINF:0 tvg-id="ASpor.tr" group-title="Bein Sports TR",aspor TR
 https://live-cdn-65984.varplaycdn.cfd/aspor/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES PREMİERE
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES ACTİON
+https://tv.arectv31.sbs/live/bsaction1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES STARS
+https://tv1.arectv30.sbs/live/bsstars.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES FAMİLY" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES FAMİLY
+https://tv1.arectv30.sbs/live/bsfamily.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES TÜRK
+https://tv1.arectv30.sbs/live/bsturk.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Sports English VIP",Live Event 1
