@@ -32,6 +32,8 @@ https://bit.ly/3gj9PK5
 http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png",beIN SPORTS HD (Backup 1)
 http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",beIN SPORTS NEWS (Backup 2)
+http://135.125.109.73:9000/beinsportnew_.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png",beIN SPORTS HD
 http://154.58.202.131:8000
