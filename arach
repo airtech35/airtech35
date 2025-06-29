@@ -108,58 +108,68 @@ http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 
 
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",Bein-Sport 1 HD TR
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS 1 VİP TR
+https://v.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 VİP" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS 2 VİP TR
+https://v.arectv30.sbs/static/bs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 VİP" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS 3 VİP TR
+https://v.arectv30.sbs/static/bs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 VİP" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS 4 VİP TR
+https://v.arectv30.sbs/static/bs4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 VİP" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS 5 VİP TR
+https://v.arectv30.sbs/static/bs5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 FHD" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS MAX 1 FHD TR
+https://tv.arectv34.sbs/live/bm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 FHD" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS MAX 2 FHD TR
+https://tv.arectv34.sbs/live/bm2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",Bein-Sport 1 HD TR
 https://live-cdn-65984.varplaycdn.cfd/601/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",Bein-Sport 2 HD TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",Bein-Sport 2 HD TR
 https://live-cdn-65984.varplaycdn.cfd/602/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",Bein-Sport 3 HD TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",Bein-Sport 3 HD TR
 https://live-cdn-65984.varplaycdn.cfd/603/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",Bein-Sport 4 HD TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",Bein-Sport 4 HD TR
 https://live-cdn-65984.varplaycdn.cfd/604/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",Bein-Sport 5 HD TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",Bein-Sport 5 HD TR
 https://live-cdn-65984.varplaycdn.cfd/605/index.m3u8
-#EXTINF:0 tvg-id="SSport.tr" group-title="BEIN SPORT بين سبور",S Sport HD TR
+#EXTINF:0 tvg-id="SSport.tr" group-title="Bein Sports TR",S Sport HD TR
 https://live-cdn-65984.varplaycdn.cfd/607/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",S Sport 2 HD TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",S Sport 2 HD TR
 https://live-cdn-65984.varplaycdn.cfd/608/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",SPOR Smart HD TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",SPOR Smart HD TR
 https://live-cdn-65984.varplaycdn.cfd/609/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",SPOR Smart 2 HD TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",SPOR Smart 2 HD TR
 https://live-cdn-65984.varplaycdn.cfd/610/index.m3u8
-#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="BEIN SPORT بين سبور",Tivibu Spor 1 TR
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="Bein Sports TR",Tivibu Spor 1 TR
 https://live-cdn-65984.varplaycdn.cfd/701/index.m3u8
-#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="BEIN SPORT بين سبور",Tivibu Spor 2 TR
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="Bein Sports TR",Tivibu Spor 2 TR
 https://live-cdn-65984.varplaycdn.cfd/702/index.m3u8
-#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="BEIN SPORT بين سبور",Tivibu Spor 3 TR
+#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="Bein Sports TR",Tivibu Spor 3 TR
 https://live-cdn-65984.varplaycdn.cfd/703/index.m3u8
-#EXTINF:0 tvg-id="TivibuSpor4.tr" group-title="BEIN SPORT بين سبور",Tivibu Spor 4 TR
+#EXTINF:0 tvg-id="TivibuSpor4.tr" group-title="Bein Sports TR",Tivibu Spor 4 TR
 https://live-cdn-65984.varplaycdn.cfd/704/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",tabii sport TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",tabii sport TR
 https://live-cdn-65984.varplaycdn.cfd/tabii/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",tabii sport 1 TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",tabii sport 1 TR
 https://live-cdn-65984.varplaycdn.cfd/tabii1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",tabii sport 2 TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",tabii sport 2 TR
 https://live-cdn-65984.varplaycdn.cfd/tabii2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",tabii sport 3 TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",tabii sport 3 TR
 https://live-cdn-65984.varplaycdn.cfd/tabii3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",tabii sport 4 TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",tabii sport 4 TR
 https://live-cdn-65984.varplaycdn.cfd/tabii4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",tabii sport 5 TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",tabii sport 5 TR
 https://live-cdn-65984.varplaycdn.cfd/tabii5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",tabii sport 6 TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",tabii sport 6 TR
 https://live-cdn-65984.varplaycdn.cfd/tabii6/index.m3u8
-#EXTINF:0 tvg-id="esp" group-title="BEIN SPORT بين سبور",eurosport 1 TR
+#EXTINF:0 tvg-id="esp" group-title="Bein Sports TR",eurosport 1 TR
 https://live-cdn-65984.varplaycdn.cfd/eurosport1/index.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="BEIN SPORT بين سبور",eurosport 2 TR
+#EXTINF:0 tvg-id="esp2" group-title="Bein Sports TR",eurosport 2 TR
 https://live-cdn-65984.varplaycdn.cfd/eurosport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT بين سبور",trtspor TR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports TR",trtspor TR
 https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
-#EXTINF:0 tvg-id="ASpor.tr" group-title="BEIN SPORT بين سبور",aspor TR
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Bein Sports TR",aspor TR
 https://live-cdn-65984.varplaycdn.cfd/aspor/index.m3u8
-
-
-
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Sports English VIP",Live Event 1
