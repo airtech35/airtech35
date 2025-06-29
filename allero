@@ -868,7 +868,6 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 https://strm.hdtvizlecanli.com/live/orf1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png" group-title="🇦🇹Austria",ORF 2 HD
 https://strm.hdtvizlecanli.com/live/orf2.m3u8
-
 #EXTINF:-1 tvg-id="ORF1.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png" group-title="🇦🇹Austria",ORF 1 HD
 https://s6.hopslan.com/orfx11/index.m3u8
 #EXTINF:-1 tvg-id="ORF2.at" tvg-logo="https://i.imgur.com/svgv2q5.png" group-title="🇦🇹Austria",ORF 2 
@@ -879,28 +878,15 @@ https://cachehsi1a.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="🇦🇹Austria",ORF Kids 
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 tvg-id="P3tv.at" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="🇦🇹Austria",P3tv  
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-id="R9.at" tvg-logo="https://i.imgur.com/SVJiXxh.png" group-title="🇦🇹Austria",R9  
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🇦🇹Austria",Rakuten TV Action Movies Austria 
-https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🇦🇹Austria",Rakuten TV Comedy Movies Austria 
-https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🇦🇹Austria",Rakuten TV Drama Movies Austria 
-https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🇦🇹Austria",Rakuten TV Family Movies Austria 
-https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenneKaernten.at" tvg-logo="https://i.imgur.com/nUKFDsb.jpeg" group-title="🇦🇹Austria",Antenne Kaernten 
 https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenneSteiermark.at" tvg-logo="https://i.imgur.com/qnappvd.jpeg" group-title="🇦🇹Austria",Antenne Steiermark 
 https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
-https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" group-title="🇦🇹Austria",ATV2 HD
 https://cachehsi1a.netplus.ch/live/eds/atv/browser-dash/atv.mpd
-#EXTINF:-1 tvg-id="ATV.at" tvg-logo="https://i.imgur.com/1pA0Tid.png" group-title="🇦🇹Austria",ATV (576p)
+#EXTINF:-1 tvg-id="ATV.at" tvg-logo="https://i.imgur.com/1pA0Tid.png" group-title="🇦🇹Austria",ATV
 https://strm.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="🇦🇹Austria",Balkan Radio Salzburg 
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
@@ -922,24 +908,12 @@ https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="🇦🇹Austria",Schladming-Dachstein TV 
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ServusTV.at" tvg-logo="https://i.imgur.com/6W637Gn.png" group-title="🇦🇹Austria",ServusTV  
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 tvg-id="SteiermarkTV.at" tvg-logo="https://i.imgur.com/AJrUPze.png" group-title="🇦🇹Austria",Steiermark TV 
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="SwamijiTVAmerican.at" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="🇦🇹Austria",Swamiji TV American  
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="🇦🇹Austria",Swamiji TV Australian  
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SwamijiTVEuropean.at" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="🇦🇹Austria",Swamiji TV European  
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TirolTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/512px-TIROL_TV_Logo_2019.png" group-title="🇦🇹Austria",Tirol TV  
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-id="TV1Oberosterreich.at" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="🇦🇹Austria",TV 1 Oberösterreich 
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:-1 tvg-id="UpperaBalkan.at" tvg-logo="https://i.imgur.com/eqcmi5G.png" group-title="🇦🇹Austria",Uppera Balkan
-http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-#EXTINF:-1 tvg-id="VM1Sehen.at" tvg-logo="https://i.imgur.com/z8x7YYz.png" group-title="🇦🇹Austria",VM1 Sehen 
-https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="W24.at" tvg-logo="https://i.imgur.com/FpVNrxk.png" group-title="🇦🇹Austria",W24  
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
