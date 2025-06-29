@@ -23,17 +23,11 @@ https://ertflix.akamaized.net/ertlive/ertsports3/clrdef24724c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KYrkMLk/ertsports4.png" group-title="🇬🇷Greece",ERT SPORTS 4
 https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbvFC65/ertkids.jpg" group-title="🇬🇷Greece",ERT KIDS
-https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zbvFC65/ertkids.jpg" group-title="🇬🇷Greece",ERT KIDS
 http://hbbtvapp.ert.gr/stream.php/v/vid_kidstv-hbbtv_mpeg.2ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c8NJjxh/ertmusic.jpg" group-title="🇬🇷Greece",ERT MUSIC
-https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8NJjxh/ertmusic.jpg" group-title="🇬🇷Greece",ERT MUSIC
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png" group-title="🇬🇷Greece",ALPHA TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png" group-title="🇬🇷Greece",ALPHA TV
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1
@@ -44,10 +38,6 @@ https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8
 https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1
 https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1
-https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1
-https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/df2r3NS/skai.jpg" group-title="🇬🇷Greece",SKAI
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/df2r3NS/skai.jpg" group-title="🇬🇷Greece",SKAI
@@ -65,73 +55,37 @@ https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="🇬🇷Greece",MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="🇬🇷Greece",MEGA
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="🇬🇷Greece",MEGA
 https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="🇬🇷Greece",MEGA
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/megr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="🇬🇷Greece",MEGA PLAY
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" group-title="🇬🇷Greece",MEGA PLAY
-http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynxKwfdR/meganews.png" group-title="🇬🇷Greece",MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynxKwfdR/meganews.png" group-title="🇬🇷Greece",MEGA NEWS
-http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2Xxhty/mak.png" group-title="🇬🇷Greece",MAK TV
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2Xxhty/mak.png" group-title="🇬🇷Greece",MAK TV
-http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6hwDfS/netmax.jpg" group-title="🇬🇷Greece",NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png" group-title="🇬🇷Greece",OPEN TV
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png" group-title="🇬🇷Greece",OPEN TV
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xq8t3P5/attica.jpg" group-title="🇬🇷Greece",ATTICA
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPtkhnL/sigma.png" group-title="🇬🇷Greece",SIGMA TV
-https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPtkhnL/sigma.png" group-title="🇬🇷Greece",SIGMA TV
-http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/txd3r3P/magic.png" group-title="🇬🇷Greece",MAGIC TV
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs4djtL/makedonia.png" group-title="🇬🇷Greece",MAKEDONIA TV
-https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png" group-title="🇬🇷Greece",NET TV TORONTO
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png" group-title="🇬🇷Greece",NET TV EUROPE
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQmhZ0K/netmax.png" group-title="🇬🇷Greece",NET MAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" user-agent="VLC/3.0.20 LibVLC/3.0.20" group-title="🇬🇷Greece",ANT 1 COMEDY
 http://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1 COMEDY
-http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" user-agent="VLC/3.0.20 LibVLC/3.0.20" group-title="🇬🇷Greece",ANT 1 DRAMA
 http://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1 DRAMA
-http://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk1SMGf/ant1.jpg" group-title="🇬🇷Greece",ANT 1 MUSIC
 http://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png" group-title="🇬🇷Greece",MAD WORLD
-https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png" group-title="🇬🇷Greece",MAD WORLD
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W5DZtvt/madtv.png" group-title="🇬🇷Greece",MAD WORLD
-http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPGzY4C/omega.png" group-title="🇬🇷Greece",OMEGA
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/480p4sv/alpha.png" group-title="🇬🇷Greece",ALPHA TV CYPRUS
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="🇬🇷Greece",RIK SAT CYPRUS
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="🇬🇷Greece",RIK 1
-http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="🇬🇷Greece",RIK 2
-http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png" group-title="🇬🇷Greece",RIK HD
-http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56kWP6F/action24.png" group-title="🇬🇷Greece",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png" group-title="🇬🇷Greece",GROOVY TV
@@ -142,8 +96,6 @@ https://cdn1.smart-tv-data.com/skai/skaiBB/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2mBMBk/baraza.jpg" group-title="🇬🇷Greece",BARAZA RELAXING TV
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72657Kw/xalastra.jpg" group-title="🇬🇷Greece",XALASTRA TV
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z6zPQL8/nrg.png" group-title="🇬🇷Greece",NRG TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",BOYAH TV - KANALI VOULIS
@@ -170,12 +122,8 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYy73hyQ/extacytv.jpg" group-title="🇬🇷Greece",EXTACY TV
-https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",GREEK TV LONDON
-https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",GRD CHANNEL
-https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",CORFU
@@ -186,8 +134,9 @@ https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",BARAZA TV
 https://eco.streams.ovh:8081/barazatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png" group-title="🇬🇷Greece",10 CHANNEL
-https://castor.streamthatvideo.co:8081/10channel/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQZKgNX/ertworld.png" group-title="🇬🇷Greece",ERT WORLD (backup)
 https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQZKgNX/ertworld.png" group-title="🇬🇷Greece",ERT WORLD (backup)
