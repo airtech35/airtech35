@@ -183,6 +183,17 @@ https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
 #EXTINF:0 tvg-id="ASpor.tr" group-title="Bein Sports TR",aspor TR
 https://live-cdn-65984.varplaycdn.cfd/aspor/index.m3u8
 
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports TR",BEINSPORTS 1
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports TR",BEINSPORTS 1
+http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports TR",BEINSPORTS 1 rectv
+https://bs.arectv33.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Haber" group-title="Bein Sports TR", Bein Sports Haber
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beinsports-haber-hd
+#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES PREMİERE
 https://tv1.arectv30.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES ACTİON
