@@ -120,7 +120,28 @@ http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 2 🇶🇦
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 4 🇶🇦
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 5 🇶🇦
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 6 🇶🇦
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 7 🇶🇦
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 8 🇶🇦
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 9 🇶🇦
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 10 🇶🇦
+http://135.125.109.73:9000/beinsport10_.m3u8
 
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP" tvg-logo="" group-title="Bein Sports TR",BEİN SPORTS 1 VİP TR
 https://v.arectv30.sbs/static/bs1.m3u8
@@ -184,17 +205,9 @@ https://live-cdn-65984.varplaycdn.cfd/eurosport2/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
 #EXTINF:0 tvg-id="ASpor.tr" group-title="Bein Sports TR",aspor TR
 https://live-cdn-65984.varplaycdn.cfd/aspor/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports TR",BEINSPORTS 1
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports TR",BEINSPORTS 1
-http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Bein Sports TR",BEINSPORTS 1 rectv
 https://bs.arectv33.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-name="Bein Sports Haber" group-title="Bein Sports TR", Bein Sports Haber
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beinsports-haber-hd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Bein Sports TR",BEİN MOVİES PREMİERE
 https://tv1.arectv30.sbs/live/bspremier1.m3u8
