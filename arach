@@ -27,14 +27,21 @@ https://bit.ly/3OG5wq7
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",beIN SPORTS NEWS
-http://154.58.202.131:8000/play/a034
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",beIN SPORTS NEWS (Backup 1)
 http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png",beIN SPORTS HD
-http://154.58.202.131:8000
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png",beIN SPORTS HD (Backup 1)
 http://135.125.109.73:9000/beinsportglobal_.m3u8
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png",beIN SPORTS HD
+http://154.58.202.131:8000
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",beIN SPORTS NEWS
+http://154.58.202.131:8000/play/a034
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg",Bein Sport 1 En
+http://135.125.109.73:9000/beinsporten1_.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png",Bein Sport 2 En
+http://135.125.109.73:9000/beinsporten2_.m3u8
 
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 MBC Masr 2
@@ -990,6 +997,9 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🆁™ ​🌎|☆ Sports • Combat & Box 🥊",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 
+
+#EXTINF:-1 tvg-logo="https://logolook.net/wp-content/uploads/2024/03/Ultimate-Fighting-Championship-UFC-Logo.png" group-title="🆁™ ​🌎|☆ Sports • Combat & Box 🥊",Ufc
+http://143.244.60.30/UFC/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="🆁™ ​🌎|☆ Sports • Combat & Box 🥊",GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="🆁™ ​🌎|☆ Sports • Combat & Box 🥊",FIGHTBOX | US
