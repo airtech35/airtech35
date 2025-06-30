@@ -50,6 +50,9 @@ http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",LIVE 24 ALWAN-1-HD
 http://cdnfest.com:8080/ALWAN-1-HD/playlist.mpd
 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -000
+https://shawkat-zebari.short.gy/Gewher.m3u8
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01+
@@ -154,6 +157,16 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 10 🇶🇦
 http://135.125.109.73:9000/beinsport10_.m3u8
+
+
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
+https://dca-co-live-gcr.gcdn.co/vgtunjjz30n11nfhm6uhx9s5r/web/stream.m3u8?channel=2652&outlet=dazn-mena&plang=ar
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
+https://dca-co-live-gcr.gcdn.co/vgtunjjz30n11nfhm6uhx9s5r/all/avc_hls_global-video=288000.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
+https://dca-co-live-gcr.gcdn.co/y7gqawg6345i1i3jjzpf0jq33/web/stream.m3u8?channel=1660&outlet=dazn-mena&plang=ar
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png", DAZN 1 4k AR
+https://dca-co-live-gcr.gcdn.co/y7gqawg6345i1i3jjzpf0jq33/web/stream.m3u8?channel=1660&outlet=dazn-mena&plang=ar
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
