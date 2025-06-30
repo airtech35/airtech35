@@ -52,6 +52,15 @@ http://cdnfest.com:8080/ALWAN-1-HD/playlist.mpd
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -000
 https://shawkat-zebari.short.gy/Gewher.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://dcb-fl-live.dtcdn.dazn.com/4brpcesn5mhy11qw1w5qj6uhg/mob25f/stream.m3u8?channel=2653&outlet=dazn-mena&plang=ar
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+
+https://yyyy.yallashoot.space/dnazfr/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0++
+https://abcc.yallashooot.store:8181/dnazfr/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+++
+https://abcc.yallashooot.store:8181/dnazfr/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
