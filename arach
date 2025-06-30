@@ -50,10 +50,6 @@ http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",LIVE 24 ALWAN-1-HD
 http://cdnfest.com:8080/ALWAN-1-HD/playlist.mpd
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -++
-https://abcc.yallashooot.store:8181/dnaza/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-http://trn03.bozztv.com/gin-iribvarzesh/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01+
@@ -703,11 +699,6 @@ https://www.sportlo.live/SSC-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SSC 5 4K" tvg-logo="https://iili.io/JhkLw57.png" group-title="ARABIC SPORTS",SSC 5+
 https://www.sportlo.live/SSC-5/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC 1 
-https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC 1
-https://stream.sainaertebat.com/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC News HD
 http://154.58.202.185:8000/play/a06l
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC1
