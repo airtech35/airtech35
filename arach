@@ -45,9 +45,9 @@ http://135.125.109.73:9000/beinsporten2_.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_1
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://stadt-bremerhaven.de/wp-content/uploads/2022/05/logo-dazn_.jpg",fifa world cup club dazn_1
 http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 ALWAN-1-HD
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",LIVE 24 ALWAN-1-HD
 http://cdnfest.com:8080/ALWAN-1-HD/playlist.mpd
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -++
