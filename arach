@@ -34,26 +34,30 @@ http://135.125.109.73:9000/beinsportnew_.m3u8
 http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",beIN SPORTS NEWS (Backup 2)
 http://135.125.109.73:9000/beinsportnew_.m3u8
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png",beIN SPORTS HD
 http://154.58.202.131:8000
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a034
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg",Bein Sport 1 En
 http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png",Bein Sport 2 En
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_1
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 ALWAN-1-HD
+http://cdnfest.com:8080/ALWAN-1-HD/playlist.mpd
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -++
 https://abcc.yallashooot.store:8181/dnaza/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://trn03.bozztv.com/gin-iribvarzesh/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01+
+http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -03
@@ -687,6 +691,19 @@ https://bit.ly/3DF4NAn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
+#EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1+
+https://www.sportlo.live/SSC-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SSC 2 4K" tvg-logo="https://iili.io/JhkQMTF.png" group-title="ARABIC SPORTS",SSC 2+
+https://www.sportlo.live/SSC-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SSC 3 4K" tvg-logo="https://iili.io/JhkQVhg.png" group-title="ARABIC SPORTS",SSC 3+
+https://www.sportlo.live/SSC-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SSC 4 4K" tvg-logo="https://iili.io/JhkQWQa.png" group-title="ARABIC SPORTS",SSC 4+
+https://www.sportlo.live/SSC-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SSC 5 4K" tvg-logo="https://iili.io/JhkLw57.png" group-title="ARABIC SPORTS",SSC 5+
+https://www.sportlo.live/SSC-5/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC 1 
 https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC 1
@@ -2186,6 +2203,8 @@ https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 --- 🌈VIDA SELVAGEM
+#EXTINF:-1 cuid="1059" tvg-name="Love Nature 🇪🇸" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Wildlife الحياة البرية🐘",Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfi/playlist.m3u8
 #EXTINF:-1 cuid="1059" tvg-name="Love Nature 🇪🇸" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Wildlife الحياة البرية🐘",Love Nature 🇪🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 cuid="1060" tvg-name="Love Nature 🇧🇷" tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Wildlife الحياة البرية🐘",Love Nature 🇧🇷
