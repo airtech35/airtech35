@@ -2573,7 +2573,7 @@ http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",MBC 3 KSA  SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_5.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC أم بي سي",MBC 4  SD
-https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/576p1200kbps/video.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="MBC أم بي سي",MBC 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_5.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="MBC أم بي سي",MBC Bollywood  SD
@@ -2601,7 +2601,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC أم بي سي",|MBC| 3 FHD
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC أم بي سي",|MBC| 4 FHD
-https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC أم بي سي",|MBC| 5 FHD
 https://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png" group-title="MBC أم بي سي",|MBC| Iraq FHD
@@ -2649,7 +2649,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC أم بي سي",|MBC| 3 LOW
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC أم بي سي",|MBC| 4 LOW
-https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/468p750kbps/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC أم بي سي",|MBC| 5 LOW
 https://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png" group-title="MBC أم بي سي",|MBC| Iraq LOW
@@ -2673,7 +2673,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",MY-MBC 3 
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC أم بي سي",MY-MBC 4 
-https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC أم بي سي",MY-MBC 5 
 https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png" group-title="MBC أم بي سي",MY-MBC IRAQ 
