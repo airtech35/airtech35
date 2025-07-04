@@ -3089,8 +3089,6 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraq Future🇮🇶
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV🇮🇶
 http://154.58.202.131:8000/play/a008
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya🇮🇶
@@ -3844,6 +3842,8 @@ https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="🇰🇼الكويت Kuwait",KTV Sport Plus 🇰🇼
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Tv_funoon_tv.png" group-title="🇰🇼الكويت Kuwait",Funoon TV
+https://241600.global.ssl.fastly.net/68175ce05c21676cb509f713/live_8bd95a1028e311f0898871faeff321ef/index.m3u8
 #EXTINF:-1 tvg-id="MarinaTV.kw" tvg-logo="https://i.imgur.com/F2PzEaw.png" group-title="🇰🇼الكويت Kuwait",Marina TV 🇰🇼
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 #EXTINF:-1 tvg-id="AlSabah.kw" tvg-logo="https://i.imgur.com/5fujkfE.png" group-title="🇰🇼الكويت Kuwait",Al Sabah 🇰🇼
