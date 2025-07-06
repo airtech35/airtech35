@@ -2597,7 +2597,7 @@ http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uOdmrz" group-title="MBC أم بي سي",|MBC| Action
 http://149.57.37.10/EX/MBC_ACTION_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/tsWQ5pz/panorama.jpg" group-title="MBC أم بي سي",|MBC| Panorama SD
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_3.m3u8
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC أم بي سي",|MBC| 1 FHD
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC أم بي سي",|MBC| 3 FHD
@@ -2621,7 +2621,7 @@ https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a6
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC أم بي سي",|MBC| Bollywood FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="hhttps://i.ibb.co/tsWQ5pz/panorama.jpg" group-title="MBC أم بي سي",|MBC| Panorama FHD
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index_7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC أم بي سي",|MBC| 1 HD
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC أم بي سي",|MBC| 3 HD
@@ -2669,7 +2669,7 @@ https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a6
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC أم بي سي",|MBC| Bollywood LOW
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/360p500kbps/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/tsWQ5pz/panorama.jpg" group-title="MBC أم بي سي",|MBC| Panorama LOW
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_5.m3u8
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index_6.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC أم بي سي",MY-MBC 1 
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",MY-MBC 3 
@@ -2699,7 +2699,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="MBC أم بي سي",MY-MBC FM 
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/tsWQ5pz/panorama.jpg" group-title="MBC أم بي سي",MY-MBC panoramafm 
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
