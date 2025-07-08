@@ -2721,7 +2721,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/DLDfFpu.png" group-title="ROTANA روتانا",Rotana Aflam+ HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
@@ -3129,7 +3129,7 @@ https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-id="OnE.eg" tvg-logo="https://i.imgur.com/EPln9yU.png" group-title="🇪🇬المصرية Egypt",On E
 https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="🇪🇬المصرية Egypt",PNC Drama
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
 #EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="🇪🇬المصرية Egypt",TeN
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="AlGhadPlus.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="🇪🇬المصرية Egypt",Al Ghad Plus
