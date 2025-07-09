@@ -2135,7 +2135,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="​🆁™ وثائقيDoc & History 🏛️",Oman 🏞️الوثائقية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="​🆁™ وثائقيDoc & History 🏛️",DOCSTORY
+https://jmp2.uk/sam-FR1200001N2.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Wild East
 https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Pluto TV Animals
@@ -2264,6 +2265,8 @@ https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 --- 🌈VIDA SELVAGEM
+#EXTINF:-1 cuid="1059" tvg-name="Love Nature 🇪🇸" tvg-id="" tvg-logo="" group-logo="" group-title="🆁™ Wildlife الحياة البرية🐘",Nature T
+https://jmp2.uk/sam-FRBB4900002D4.m3u8
 #EXTINF:-1 cuid="1059" tvg-name="Love Nature 🇪🇸" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Wildlife الحياة البرية🐘",Love Nature
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfi/playlist.m3u8
 #EXTINF:-1 cuid="1059" tvg-name="Love Nature 🇪🇸" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="🆁™ Wildlife الحياة البرية🐘",Love Nature 🇪🇸
