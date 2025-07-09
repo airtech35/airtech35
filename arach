@@ -176,6 +176,16 @@ https://edge11.620097.ir.cdn.ir/hls2/b1.m3u8
 https://edge11.620097.ir.cdn.ir/hls2/b2.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 1
+http://125x.org:8080/bn1hevc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 2
+http://125x.org:8080/bn2hevc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 3
+http://125x.org:8080/bn3hevc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1595px-Logo_bein_sports_4.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 4
+http://125x.org:8080/bn4hevc/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagesf8505586997801f2.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Canal_Sport_2015.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport
