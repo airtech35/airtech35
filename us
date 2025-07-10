@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png"  group-title="🇵🇹 Portugal",RTP I
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" group-title="🇵🇹 Portugal",RTP 1
