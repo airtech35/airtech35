@@ -2334,7 +2334,7 @@ https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a14265
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="Children أطفال",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://bit.ly/3PFq9Up" group-title="Children أطفال",Majid 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",Amou Yazid TV
@@ -3982,9 +3982,13 @@ https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Show
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdmax Show
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/MojrqNd.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KURDMAX HD KUR
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Music
+https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Sorani
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/p7eAbYD.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
