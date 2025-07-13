@@ -72,6 +72,16 @@ http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 1 🇬🇧
 https://off1.gogohaalmal.com:1686/hls/bbtsp1.m3u8?md5=-Iof7AJUA1CZMNk0bGgjAQ&expires=1752419801
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", TUDN
+https://1.org.vn/TUDN
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 France
+https://1.org.vn/dazn1fr
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 DE
+https://1.org.vn/dazn1DE
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", SuperSport Premier League
+https://263.org.vn/supersportpl
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", SuperSport 3
+https://1.org.vn/SuperSport-3
 
 #EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/BAzTqQp.png" group-title="BEIN SPORT بين سبور",CAR: RUSH Sports
 https://a1xs.vip/2501
@@ -82,13 +92,11 @@ https://1.org.vn/Channel5
 #EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="BEIN SPORT بين سبور",US: TNT
 https://a1xs.vip/300001
 
+
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://stadt-bremerhaven.de/wp-content/uploads/2022/05/logo-dazn_.jpg",fifa world cup club dazn_1
 http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -000
 https://shawkat-zebari.short.gy/Gewher.m3u8
-
-
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
