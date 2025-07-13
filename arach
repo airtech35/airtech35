@@ -61,7 +61,7 @@ https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJj
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1MjQxNTIwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTI0MDA4MDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.UyUTXQEB6dfv0TiFJa2aqeDRtQ1RDnx9S3j2xdZhpXc/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png",TELECINCO 🇪🇸
 https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco 🇪🇸
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco 🇪🇸(backup)
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="BEIN SPORT بين سبور",TRT 1🇹🇷
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
