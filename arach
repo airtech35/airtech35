@@ -77,6 +77,8 @@ https://off1.gogohaalmal.com:1686/hls/bbtsp1.m3u8?md5=-Iof7AJUA1CZMNk0bGgjAQ&exp
 https://a1xs.vip/2501
 #EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="BEIN SPORT بين سبور",UK: Channel 5 🇬🇧
 https://a1xs.vip/1000030
+#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="BEIN SPORT بين سبور",UK: Channel 5 🇬🇧(backup)
+https://1.org.vn/Channel5
 #EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="BEIN SPORT بين سبور",US: TNT
 https://a1xs.vip/300001
 
