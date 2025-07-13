@@ -68,6 +68,9 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="BEIN SPORT بين سبور",TRT 1🇹🇷 (backup)
 http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 1 🇬🇧
+https://off1.gogohaalmal.com:1686/hls/bbtsp1.m3u8?md5=-Iof7AJUA1CZMNk0bGgjAQ&expires=1752419801
+
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://stadt-bremerhaven.de/wp-content/uploads/2022/05/logo-dazn_.jpg",fifa world cup club dazn_1
 http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -000
