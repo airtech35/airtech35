@@ -40,7 +40,10 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png",Bein Sport 2 En
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
-
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="BEIN SPORT بين سبور",MBC 1  SD 🇪🇬 
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="BEIN SPORT بين سبور",MY-MBC 1  🇪🇬 
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MBC_Masr_2_Logo.svg/1200px-MBC_Masr_2_Logo.svg.png",LIVE 24 MBC Masr 2 HD 🇪🇬 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://gamecardi.com/wp-content/uploads/2024/12/Shahid-Vip-sports.png",LIVE 24 Shahid Sport 🇸🇦
