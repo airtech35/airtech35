@@ -57,43 +57,28 @@ https://strm.hdtvizlecanli.com/live/sat1.m3u8
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="BEIN SPORT بين سبور",TF1 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="BEIN SPORT بين سبور",TF1 🇫🇷(backup)
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4Mi42Ni4xNzYuMjUzIiwiY21jZCI6IiIsImV4cCI6MTc1MjQxOTg5MywiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3NTI0MDU0OTMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.o1JXAgUzD9zfShoaaaA9ZhzLa-_4dvlz_GTFggo1tNc/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="BEIN SPORT بين سبور",TF1 🇫🇷 (backup)
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1MjQxNTIwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTI0MDA4MDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.UyUTXQEB6dfv0TiFJa2aqeDRtQ1RDnx9S3j2xdZhpXc/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png",TELECINCO 🇪🇸
 https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",Telecinco 🇪🇸(backup)
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="BEIN SPORT بين سبور",TRT 1🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="BEIN SPORT بين سبور",TRT 1🇹🇷 (backup)
 http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 
 
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", TUDN
-https://1.org.vn/TUDN
+
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 France
 https://1.org.vn/dazn1fr
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 DE
-https://1.org.vn/dazn1DE
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", SuperSport Premier League
-https://263.org.vn/supersportpl
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", SuperSport 3
-https://1.org.vn/SuperSport-3
+
+
 
 #EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/BAzTqQp.png" group-title="BEIN SPORT بين سبور",CAR: RUSH Sports
 https://a1xs.vip/2501
-#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="BEIN SPORT بين سبور",UK: Channel 5 🇬🇧
-https://a1xs.vip/1000030
+
 #EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="BEIN SPORT بين سبور",UK: Channel 5 🇬🇧(backup)
 https://1.org.vn/Channel5
-#EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="BEIN SPORT بين سبور",US: TNT
-https://a1xs.vip/300001
 
 
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://stadt-bremerhaven.de/wp-content/uploads/2022/05/logo-dazn_.jpg",fifa world cup club dazn_1
-http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -000
 https://shawkat-zebari.short.gy/Gewher.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
