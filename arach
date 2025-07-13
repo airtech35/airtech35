@@ -71,6 +71,17 @@ http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 1 🇬🇧
 https://off1.gogohaalmal.com:1686/hls/bbtsp1.m3u8?md5=-Iof7AJUA1CZMNk0bGgjAQ&expires=1752419801
 
+#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/BAzTqQp.png" group-title="BEIN SPORT بين سبور",CAR: RUSH Sports
+https://a1xs.vip/2501
+#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="BEIN SPORT بين سبور",UK: Channel 5 🇬🇧
+https://a1xs.vip/1000030
+#EXTINF:-1  tvg-name="TBS" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="BEIN SPORT بين سبور",US: TBS
+https://a1xs.vip/300038
+#EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="BEIN SPORT بين سبور",US: TNT
+https://a1xs.vip/300001
+#EXTINF:-1  tvg-name="truTV FH" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/D9Ofkf5.png" group-title="BEIN SPORT بين سبور",US: truTV
+https://a1xs.vip/300002
+
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://stadt-bremerhaven.de/wp-content/uploads/2022/05/logo-dazn_.jpg",fifa world cup club dazn_1
 http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -000
