@@ -2936,7 +2936,7 @@ https://samaflix.com:12103/channel7/index.m3u8
 #EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="LEBANON لبنان",AR | [LIB] MTV 🇱🇧
 http://185.9.2.18/chid_387/mono.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="LEBANON لبنان",Al Ittihad   🇱🇧
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+https://live.alittihad.tv:444/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="LEBANON لبنان",Al Manar 🇱🇧
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="LEBANON لبنان",Al Mayadeen 🇱🇧
