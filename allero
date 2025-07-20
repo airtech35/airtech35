@@ -1003,7 +1003,12 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1614" tvg-logo="https://picserve.netplus.ch/channels/orf1.png" tvg-country="DE" group-title="🇦🇹Austria",1614. ORF 1 [DE]
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1615" tvg-logo="https://picserve.netplus.ch/channels/orf2.png" tvg-country="DE" group-title="🇦🇹Austria",1615. ORF 2 [DE]
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="🇦🇹Austria",ORF 1 HD
 https://strm.hdtvizlecanli.com/live/orf1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png" group-title="🇦🇹Austria",ORF 2 HD
@@ -1060,7 +1065,16 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTM3U
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1621" tvg-logo="https://picserve.netplus.ch/channels/srf1hd.png" tvg-country="DE" group-title="🇨🇭 Switzerland",1621. SRF 1 HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1622" tvg-logo="https://picserve.netplus.ch/channels/srf2hd.png" tvg-country="DE" group-title="🇨🇭 Switzerland",1622. SRF 2 HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1623" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" tvg-country="DE" group-title="🇨🇭 Switzerland",1623. SRF INFO [DE]
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SRF_1HD.svg/1200px-SRF_1HD.svg.png" group-title="🇨🇭 Switzerland",SRF 1 HD
 https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqd6TWAgH65I4JDF8d6Et1D2PqQbOksKTsg&s" group-title="🇨🇭 Switzerland",SRF info HD
@@ -1167,8 +1181,39 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
 
 
-
-#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1702" tvg-logo="https://picserve.netplus.ch/channels/canale5.png" tvg-country="IT" group-title="🇮🇹Italy",1702. CANALE 5 [IT]
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1703" tvg-logo="https://picserve.netplus.ch/channels/italia1.png" tvg-country="IT" group-title="🇮🇹Italy",1703. ITALIA 1 [IT]
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1704" tvg-logo="https://picserve.netplus.ch/channels/la7.png" tvg-country="IT" group-title="🇮🇹Italy",1704. LA 7 [IT]
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1705" tvg-logo="https://picserve.netplus.ch/channels/la7d.png" tvg-country="IT" group-title="🇮🇹Italy",1705. LA7D [IT]
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1706" tvg-logo="https://picserve.netplus.ch/channels/rai1.png" tvg-country="IT" group-title="🇮🇹Italy",1706. RAI 1 [IT]
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1707" tvg-logo="https://picserve.netplus.ch/channels/rai2.png" tvg-country="IT" group-title="🇮🇹Italy",1707. RAI 2 [IT]
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1708" tvg-logo="https://picserve.netplus.ch/channels/rai3.png" tvg-country="IT" group-title="🇮🇹Italy",1708. RAI 3 [IT]
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1709" tvg-logo="https://picserve.netplus.ch/channels/raigulp.png" tvg-country="IT" group-title="🇮🇹Italy",1709. RAI GULP [IT]
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1710" tvg-logo="https://picserve.netplus.ch/channels/rete4.png" tvg-country="IT" group-title="🇮🇹Italy",1710. RETE 4 [IT]
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1711" tvg-logo="https://picserve.netplus.ch/channels/rsila1hd.png" tvg-country="IT" group-title="🇮🇹Italy",1711. RSI LA 1 HD [IT]
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1712" tvg-logo="https://picserve.netplus.ch/channels/rsila2hd.png" tvg-country="IT" group-title="🇮🇹Italy",1712. RSI LA 2 HD [IT]
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai1.png",Rai 1ᴴᴰ 🇮🇹
 http://37.18.239.36:8888/RAI_1_HD/index.m3u8
 #EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Rai2.png",Rai 2ᴴᴰ 🇮🇹
@@ -1199,15 +1244,6 @@ http://37.18.239.36:8888/TOP_Crime/index.m3u8
 http://37.18.239.36:8888/Focus_HD/index.m3u8
 #EXTINF:-1 group-title="🇮🇹Italy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Solocalcio.png",SoloCalcioᴴᴰ 🇮🇹
 https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
-
-#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="🇮🇹Italy",Rai 1
-
-#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-logo="https://iili.io/Jmo4ZiP.png" group-title="🇮🇹Italy",Rai 2
-
-#EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="🇮🇹Italy",Rai 3
-
-#EXTINF:-1 tvg-id="Rai 5.it" tvg-logo="https://iili.io/Jmo4yJa.png" group-title="🇮🇹Italy",Rai 5
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",RAI Italia
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4291.ch
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai Gul 🇮🇹
@@ -1216,11 +1252,6 @@ http://37.18.239.36:8888/RAI_Gulp/index.m3u8
 http://37.18.239.36:8888/RAI_Scuola/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹Italy",Rai YoYo 🇮🇹
 http://37.18.239.36:8888/RAI_Yoyo_HD/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="🇮🇹Italy",12 TV Parma  
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
