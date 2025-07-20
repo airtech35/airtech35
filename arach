@@ -10782,6 +10782,101 @@ http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1600" tvg-logo="https://picserve.netplus.ch/channels/3sathd.png" tvg-country="DE" group-title="🇩🇪 Germany",1600. 3SAT HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1601" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" tvg-country="DE" group-title="🇩🇪 Germany",1601. BLUE ZOOM DE [DE]
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1602" tvg-logo="https://picserve.netplus.ch/channels/bralpha.png" tvg-country="DE" group-title="🇩🇪 Germany",1602. BR ALPHA [DE]
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1603" tvg-logo="https://picserve.netplus.ch/channels/brhdsud.png" tvg-country="DE" group-title="🇩🇪 Germany",1603. BR HD SUD [DE]
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1604" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png" tvg-country="DE" group-title="🇩🇪 Germany",1604. DAS ERSTE HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1605" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png" tvg-country="DE" group-title="🇩🇪 Germany",1605. DISNEY CHANNEL DE [DE]
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1606" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" tvg-country="DE" group-title="🇩🇪 Germany",1606. EUROSPORT DE [DE]
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1607" tvg-logo="https://picserve.netplus.ch/channels/hr.png" tvg-country="DE" group-title="🇩🇪 Germany",1607. HR [DE]
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1608" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" tvg-country="DE" group-title="🇩🇪 Germany",1608. KANAL 9 [DE]
+https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1609" tvg-logo="https://picserve.netplus.ch/channels/kikahd.png" tvg-country="DE" group-title="🇩🇪 Germany",1609. KIKA HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1610" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" tvg-country="DE" group-title="🇩🇪 Germany",1610. MDR [DE]
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1611" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" tvg-country="DE" group-title="🇩🇪 Germany",1611. NDR [DE]
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1612" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png" tvg-country="DE" group-title="🇩🇪 Germany",1612. NICK [DE]
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1613" tvg-logo="https://picserve.netplus.ch/channels/ntv.png" tvg-country="DE" group-title="🇩🇪 Germany",1613. N TV [DE]
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1616" tvg-logo="https://picserve.netplus.ch/channels/phoenixhd.png" tvg-country="DE" group-title="🇩🇪 Germany",1616. PHOENIX HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1617" tvg-logo="https://picserve.netplus.ch/channels/rtl.png" tvg-country="DE" group-title="🇩🇪 Germany",1617. RTL [DE]
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1618" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png" tvg-country="DE" group-title="🇩🇪 Germany",1618. RTL 2 [DE]
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1619" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png" tvg-country="DE" group-title="🇩🇪 Germany",1619. RTL NITRO [DE]
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1620" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" tvg-country="DE" group-title="🇩🇪 Germany",1620. SPORT 1 [DE]
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1624" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png" tvg-country="DE" group-title="🇩🇪 Germany",1624. SUPER RTL [DE]
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1625" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png" tvg-country="DE" group-title="🇩🇪 Germany",1625. SWR BW [DE]
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1626" tvg-logo="https://picserve.netplus.ch/channels/tele5.png" tvg-country="DE" group-title="🇩🇪 Germany",1626. TELE 5 [DE]
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1627" tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" tvg-country="DE" group-title="🇩🇪 Germany",1627. TELE BAERN [DE]
+https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1628" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png" tvg-country="DE" group-title="🇩🇪 Germany",1628. TELEBIELINGUE [DE]
+https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1629" tvg-logo="https://picserve.netplus.ch/channels/tv24.png" tvg-country="DE" group-title="🇩🇪 Germany",1629. TV24 [DE]
+https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1630" tvg-logo="https://picserve.netplus.ch/channels/vox.png" tvg-country="DE" group-title="🇩🇪 Germany",1630. VOX [DE]
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1631" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" tvg-country="DE" group-title="🇩🇪 Germany",1631. WDR HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1632" tvg-logo="https://picserve.netplus.ch/channels/n24.png" tvg-country="DE" group-title="🇩🇪 Germany",1632. WELT [DE]
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1633" tvg-logo="https://picserve.netplus.ch/channels/zdfhd.png" tvg-country="DE" group-title="🇩🇪 Germany",1633. ZDF HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1634" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png" tvg-country="DE" group-title="🇩🇪 Germany",1634. ZDF INFO HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="1635" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png" tvg-country="DE" group-title="🇩🇪 Germany",1635. ZDF NEO HD [DE]
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ARD
 https://strm.hdtvizlecanli.com/live/ard1.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",ZDF
