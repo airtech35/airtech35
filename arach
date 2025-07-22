@@ -797,10 +797,8 @@ http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
 http://@185.222.138.163:9000/play/a0tt
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/RApShhr.png",[$]SS-3HD
 http://197.220.88.26:2200/AFR-EX/SuperSport_Maximo_1_HD-dstv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/HP8vJ7F.png",[$]SS-4HD
-http://raalbatros.serv00.net/Freeshot.php?ID=b/271
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DIGI SPORT 1HD
 http://91.201.172.14:35005/
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DIGI SPORT 2HD
@@ -856,16 +854,7 @@ http://cdntv.online/low/9mlxywika2/38.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
 http://cdntv.online/low/9mlxywika2/40.m3u8
 
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/uVNwXjS.png",[$]SUPER SPORT 1HD
-http://89.187.191.99:8080/ss1hd/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/DTeLqi0.png",[$]SUPER SPORT 2HD
-http://89.187.191.99:8080/ss2hd/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/Bvffric.png",[$]SUPER SPORT 3HD
-http://89.187.191.99:8080/ss3hd/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/OCe0PNo.png",[$]SUPER SPORT 4HD
-http://89.187.191.99:8080/ss4hd/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/OjdOi0r.png",[$]SUPER SPORT 5HD
-http://89.187.191.99:8080/ss5hd/index.m3u8
+
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/j7y5G1T.png",[$]SS-1HD
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/fGz7bOh.png",[$]SS-2HD
@@ -874,16 +863,7 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 http://89.187.191.99:8080/ss3hd/video.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/HP8vJ7F.png",[$]SS-4HD
 http://89.187.191.99:8080/ss4hd/video.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/lyMfq7d.png",[$]SS-1HD (BACKUP)
-http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/e8NyDC2.png",[$]SS-2HD (BACKUP)
-http://@195.181.169.152:8080/Super_Sport_2_HD_AL/index.m3u8?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/Xm05UWq.png",[$]SS-3HD (BACKUP)
-http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/HLb4fcp.png",[$]SS-4HD (BACKUP)
-http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/XEz5qYa.png",[$]TRING SPORT NEWS HD
-http://@iptv3.kbc.al:25461/Beharii/nhTBJMPfFJ/600
+
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1HD 
 http://89.187.191.99:8080/tringsport1/index.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/zp4VUm9.png",[$]TRING SPORT 2HD 
@@ -908,10 +888,7 @@ http://89.187.191.99:8080/ksport2/index.m3u8
 http://89.187.191.99:8080/ksport3/index.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/bXR4GHN.png",[$]KUJTESA SPORT 4HD
 http://89.187.191.99:8080/ksport4/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD
-http://@51.178.185.49:5151/live/rtshsport/playlist.m3u8 
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/NwfPl4j.png",[$]FIGHTBOX HD
-http://84.22.33.254/unicast.fightbox/mpegts?token=tv
+
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/8xExuVl.png",[$]PARTIZANI CHANNEL HD
 http://138.201.120.59:1935/partizanitv/partizanitv/index.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ARENA SPORT 1HD BH
