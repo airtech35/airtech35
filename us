@@ -1830,8 +1830,110 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 
 #EXTM3U
+
+#EXTM3U
+#EXTINF:0 tvg-id="BNT1.bg" group-title="🇧🇬 Bulgaria",BG: BNT 1
+http://87.246.60.6:11005
+#EXTINF:0 tvg-id="bTV.bg" group-title="🇧🇬 Bulgaria",BG: BTV HD
+http://87.246.60.6:11036
+#EXTINF:0 tvg-id="bTVAction.bg" group-title="🇧🇬 Bulgaria",BG: BTV Action HD
+http://87.246.60.6:11038
+#EXTINF:0 tvg-id="bTVComedy.bg" group-title="🇧🇬 Bulgaria",BG: BTV COMEDY
+http://87.246.60.6:11013
+#EXTINF:0 tvg-id="bTVCinema.bg" group-title="🇧🇬 Bulgaria",BG: BTV CINEMA
+http://87.246.60.6:11015
+#EXTINF:0 tvg-id="BTVStory.bg" group-title="🇧🇬 Bulgaria",BG: BTV Story
+http://87.246.60.6:30022
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: STAR CHANNEL
+http://87.246.60.6:11010
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: STAR LIFE
+http://87.246.60.6:11011
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: STAR CRIME
+http://87.246.60.6:11012
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: Nickjr.
+http://87.246.60.6:11041
+#EXTINF:0 tvg-id="Nicktoons.bg" group-title="🇧🇬 Bulgaria",BG: nicktoons
+http://87.246.60.6:11020
+#EXTINF:0 tvg-id="Nickelodeon.bg" group-title="🇧🇬 Bulgaria",BG: NICKELODEON
+http://87.246.60.6:11004
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: DISNEY CHANEL
+http://87.246.60.6:11008
+#EXTINF:0 tvg-id="EKids.bg" group-title="🇧🇬 Bulgaria",BG: EKIDS
+http://87.246.60.6:11027
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: BABY TV
+http://87.246.60.6:11030
+#EXTINF:0 tvg-id="BNT2.bg" group-title="🇧🇬 Bulgaria",BG: BNT 2
+http://87.246.60.6:11006
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: BNT 3
+http://87.246.60.6:11037
+#EXTINF:0 tvg-id="TV1.bg" group-title="🇧🇬 Bulgaria",BG: TV1
+http://87.246.60.6:11043
+#EXTINF:0 tvg-id="DMSat.bg" group-title="🇧🇬 Bulgaria",BG: DM SAT
+http://87.246.60.6:11031
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: THE WORD
+http://87.246.60.6:11045
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: WILD HD
+http://87.246.60.6:11033
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: NATIONAL GEOGRAPHIC HD
+http://87.246.60.6:11034
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: BLOOMBER TV BULGARIA
+http://87.246.60.6:11018
+#EXTINF:0 tvg-id="RINGBG.bg" group-title="🇧🇬 Bulgaria",BG: RING HD
+http://87.246.60.6:11035
+#EXTINF:0 tvg-id="24Kitchen.bg" group-title="🇧🇬 Bulgaria",BG: 24 KITCHEN
+http://87.246.60.6:11017
+#EXTINF:0 tvg-id="DMSat.bg" group-title="🇧🇬 Bulgaria",BG: DM SAT
+http://87.246.60.6:19281
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: DW
+http://87.246.60.6:11021
+#EXTINF:0 tvg-id="CNN.bg" group-title="🇧🇬 Bulgaria",BG: CNN
+http://87.246.60.6:11044
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: БЪЛГАРИЯ 24
+http://87.246.60.6:11023
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: FRANCE 24
+http://87.246.60.6:11002
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: FRANCE 24
+http://87.246.60.6:11001
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: DW
+http://87.246.60.6:11009
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: TV 5 MONDE EUROPE
+http://87.246.60.6:11046
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: EURONEWS
+http://87.246.60.6:11032
+#EXTINF:0 tvg-id="Balkanika.bg" group-title="🇧🇬 Bulgaria",BG: Balkanika
+http://87.246.60.6:11007
+#EXTINF:0 tvg-id="PlanetaFolk.bg" group-title="🇧🇬 Bulgaria",BG: PLANETA FOLK
+http://87.246.60.6:11024
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: ФОЛКЛОР ТВ HD
+http://87.246.60.6:11026
+#EXTINF:0 tvg-id="FANTV.bg" group-title="🇧🇬 Bulgaria",BG: FEN TV
+http://87.246.60.6:11029
+#EXTINF:0 tvg-id="FANTV.bg" group-title="🇧🇬 Bulgaria",BG: FEN TV
+http://87.246.60.6:11047
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: MTV 80s
+http://87.246.60.6:11040
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG:City TV
+http://87.246.60.6:11003
+#EXTINF:0 tvg-id="CityTV.bg" group-title="🇧🇬 Bulgaria",BG: CITY
+http://87.246.60.6:11016
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: MAGIC
+http://87.246.60.6:11028
+#EXTINF:0 tvg-id="FenFolkTV.bg" group-title="🇧🇬 Bulgaria",BG: FEN FOLK TV
+http://87.246.60.6:11042
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: test
+http://87.246.60.6:11025
+#EXTINF:0 tvg-id="BTVStory.bg" group-title="🇧🇬 Bulgaria",BG: BTV STORY
+http://87.246.60.6:11014
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬 Bulgaria",BG: test
+http://87.246.60.6:11019
+#EXTINF:0 tvg-id="PlanetaHD.bg" group-title="🇧🇬 Bulgaria",BG: PLANETA HD
+http://87.246.60.6:11039
+
+
 #EXTINF:-1 tvg-id="TV1.bg" tvg-logo="https://i.imgur.com/YLDp5u3.png" group-title="🇧🇬 Bulgaria",TV 1 
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
+#EXTINF:-1 group-title="🇧🇬 Bulgaria" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-logo="https://i.imgur.com/HDGfDkL.png" group-title="🇧🇬 Bulgaria",TV Zagora 
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="RMTV.bg" tvg-logo="https://rmtv.bg/img/logo.png" group-title="🇧🇬 Bulgaria",RMTV 
@@ -1856,6 +1958,9 @@ https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 
 
+
+#EXTINF:0,City (Bulgaria) (🇧🇬)
+https://tv.city.bg/play/tshls/citytv/index.m3u8
 
 
 
