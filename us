@@ -1831,7 +1831,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="TV1.bg" tvg-logo="https://i.imgur.com/YLDp5u3.png" group-title="🇧🇬 Bulgaria",TV 1 
-https://tv1.cloudcdn.bg:8081/stream.m3u8
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-logo="https://i.imgur.com/HDGfDkL.png" group-title="🇧🇬 Bulgaria",TV Zagora 
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="RMTV.bg" tvg-logo="https://rmtv.bg/img/logo.png" group-title="🇧🇬 Bulgaria",RMTV 
