@@ -1213,6 +1213,13 @@ http://154.58.202.185:8000/play/a0a2
 http://154.58.202.185:8000/play/a09y
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORT 4
 http://154.58.202.185:8000/play/a0eb
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA Sports 1 HD
+http://175.107.244.52:4457/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA Sports 2 HD
+http://175.107.244.52:4457/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA Sports 3 HD
+http://175.107.244.52:4457/play/a06c/index.m3u8
+
 #EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="SPORT رياضية", EVENTOS TyC SPORT PLAY 1
@@ -2552,6 +2559,8 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 http://154.58.202.131:8000/play/a00l
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",Al Jazeera Documentary (Backup 2)🏞️
 http://154.58.202.185:8000/play/a095
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",Al Jazeera Documentary (Backup 3)🏞️
+http://154.58.202.131:8000/play/a02p
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
@@ -2761,6 +2770,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/640px-Cartoon_Network_Arabic_logo.png" group-title="Children أطفال", Cartoon Network AR
+http://154.58.202.131:8000/play/a0az
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children أطفال",ROTANA_KIDS
@@ -3552,6 +3563,7 @@ http://154.58.202.131:8000/play/a01w
 http://154.58.202.131:8000/play/a02z
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Turkuman🇮🇶
 http://154.58.202.131:8000/play/a02x
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
