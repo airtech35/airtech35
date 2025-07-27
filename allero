@@ -1102,8 +1102,6 @@ https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="🇨🇭 Switzerland",Canal Alpha Neuchatel  
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac1.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="🇨🇭 Switzerland",Carac 1 
-https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac2.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="🇨🇭 Switzerland",Carac 2 
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac3.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="🇨🇭 Switzerland",Carac 3 
@@ -1134,6 +1132,48 @@ https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="TVM 3" tvg-logo="https://i.imgur.com/3v6iZE6.png" tvg-id="TVM3.ch" group-title="🇨🇭 Switzerland",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+
+
+
+---------
+
+#EXTINF:-1 group-title="🇨🇭 Switzerland",Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",Canal Alpha
+https://canalalpha.vedge.infomaniak.com/livecast/smil:canalalpha.smil/manifest.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",Canal Alpha Ju
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 2
+https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png",Carac 2 
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 3
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png",Carac 4 
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",CARAC TV 3
+https://edge21.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w698741955_b3000000.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",CARAC TV 4
+https://edge19.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1458474290_b3000000.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac2-ch.png",carac2 
+https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac3-ch.png",carac3 
+https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://i.imgur.com/cvgVmZw.png",Drita TV
+https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",Tele Bielingue
+https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland" tvg-logo="https://i.imgur.com/8PY1o81.jpg",TV Rheintal 
+https://rtmp-vm.fidion.de/live/tvrt.m3u8
+#EXTINF:-1 group-title="🇨🇭 Switzerland",TVM 3
+http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+
+
+
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
