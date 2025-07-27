@@ -3090,7 +3090,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC أم بي سي",|MBC| Masr HD
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_48.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg" group-title="MBC أم بي سي",|MBC| Masr 2 HD
-https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC أم بي سي",|MBC| Masr Drama HD
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zkk7A8" group-title="MBC أم بي سي",|MBC| Drama HD
@@ -3574,7 +3574,7 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="🇪🇬المصرية Egypt",MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="🇪🇬المصرية Egypt",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="🇪🇬المصرية Egypt",MBC Masr Drama 
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://media0078.elcinema.com/tvguide/1290_1.png" group-title="🇪🇬المصرية Egypt",DMC
