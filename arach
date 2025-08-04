@@ -4677,6 +4677,8 @@ https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Sharjahtv2 TV🕌
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Al Rahma TV
+https://rumble.com/live-hls-dvr/6u42de/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Al Rahma TV
 http://154.58.202.185:8000/play/a0b3
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Ressala HD
 http://154.58.202.185:8000/play/a0bb
