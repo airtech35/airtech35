@@ -3300,7 +3300,7 @@ https://p-ltv.akamaized.net/ltv/ltv.m3u8
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="Syria سورية",Alaraby TV 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="Syria سورية",Al Yaum TV 🇸🇾
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="Syria سورية",Al Yaum TV
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://yt3.googleusercontent.com/PzIpFtLlkTzD0tFwKmdOTpE-X9MdV4fCBlkD-tFn364wRLOMcQn_BUipZEdbWLSMhXycdT6ZzA=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",Misk Syria TV
 http://154.58.202.185:8000/play/a0eg
