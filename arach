@@ -740,6 +740,15 @@ https://a1xs.vip/8000012
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="[⚽]SPORTE VIP", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
+#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 1HD
+http://146.59.54.156/6049/mpegts?token=test
+#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 2HD
+http://146.59.54.156/6043/mpegts?token=test
+#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 3HD
+http://146.59.54.156/6041/mpegts?token=test
+#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 4HD
+http://146.59.54.156/6040/mpegts?token=test
+
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/j7y5G1T.png",[$]SS-1HD
 http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/fGz7bOh.png",[$]SS-2HD
@@ -946,28 +955,8 @@ http://5.180.55.81:8082/onpl/Oneplay%20Sport%204.m3u8
 http://5.180.55.81:8082/onpl/Arena%20Sport%201.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ARENA SPORT 2HD
 http://5.180.55.81:8082/onpl/Arena%20Sport%202.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 1HD
-http://146.59.54.156/6049/mpegts?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 2HD
-http://146.59.54.156/6043/mpegts?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 3HD
-http://146.59.54.156/6041/mpegts?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]RMC SPORT 4HD
-http://146.59.54.156/6040/mpegts?token=test
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DAZN 1HD 
-http://135.125.232.151:8989/ElevenSports1/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DAZN 2HD 
-http://135.125.232.151:8989/ElevenSports2/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DAZN 3HD 
-http://135.125.232.151:8989/ElevenSports3/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DAZN 4HD 
-http://135.125.232.151:8989/ElevenSports4/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DAZN 5HD 
-http://135.125.232.151:8989/ElevenSports5/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]DAZN 6HD 
-http://135.125.232.151:8989/ElevenSports6/index.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]SPORTTV 2HD 
-http://135.125.232.151:8989/SPORTTV2/index.m3u8
+
+
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]SONY SPORTS 2HD
 http://182.176.185.207:7500/play/a06z/index.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]STAR SPORTS SELECT 1HD
