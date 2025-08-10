@@ -925,36 +925,7 @@ http://91.132.74.5:8000/play/a00g
 http://91.132.74.5:8000/play/a00l
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ARENA PREMIUM 3HD 
 http://91.132.74.5:8000/play/a00h
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]NOVA SPORT 1HD
-http://5.180.55.81:8082/onpl/Nova%20Sport%201%20HD.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]NOVA SPORT 2HD
-http://5.180.55.81:8082/onpl/Nova%20Sport%202%20HD.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]NOVA SPORT 3HD
-http://5.180.55.81:8082/onpl/Nova%20Sport%203%20HD.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]NOVA SPORT 4HD
-http://5.180.55.81:8082/onpl/Nova%20Sport%204%20HD.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]NOVA SPORT 5HD
-http://5.180.55.81:8082/onpl/Nova%20Sport%205%20HD.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]NOVA SPORT 6HD
-http://5.180.55.81:8082/onpl/Nova%20Sport%206%20HD.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]PREMIER SPORT 1HD
-http://5.180.55.81:8082/onpl/Premier%20Sport%201.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]PREMIER SPORT 2HD
-http://5.180.55.81:8082/onpl/Premier%20Sport%202.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]PREMIER SPORT 3HD
-http://5.180.55.81:8082/onpl/Premier%20Sport%203.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ONEPLAY SPORT 1HD
-http://5.180.55.81:8082/onpl/Oneplay%20Sport%201.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ONEPLAY SPORT 2HD
-http://5.180.55.81:8082/onpl/Oneplay%20Sport%202.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ONEPLAY SPORT 3HD
-http://5.180.55.81:8082/onpl/Oneplay%20Sport%203.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ONEPLAY SPORT 4HD
-http://5.180.55.81:8082/onpl/Oneplay%20Sport%204.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ARENA SPORT 1HD
-http://5.180.55.81:8082/onpl/Arena%20Sport%201.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]ARENA SPORT 2HD
-http://5.180.55.81:8082/onpl/Arena%20Sport%202.m3u8
+
 
 
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="",[$]SONY SPORTS 2HD
