@@ -4526,6 +4526,8 @@ http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", MMN quran ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zoomnews.info/wp-content/themes/soledad/images/logo.png" group-title="KURDISH", ZOOM
+https://live.zoomnews.info/live/Zoom/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Sada HD
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH", Afarin Kids ᴴᴰ
