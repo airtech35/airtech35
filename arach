@@ -3319,7 +3319,7 @@ https://bit.ly/3gj9PK5
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="LEBANON لبنان",MTV 🇱🇧
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="General",Al Jadeed
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="LEBANON لبنان",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="LEBANON لبنان",AR | [LIB] OTV 🇱🇧
 http://185.9.2.18/chid_312/mono.m3u8
@@ -3887,11 +3887,11 @@ http://149.62.177.103:8000/play/a08b
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇲🇦المغربMAROCCO", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde 
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde 
 https://jmp2.uk/sam-ES4700001VS.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde +1
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +2
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦المغربMAROCCO",2M Monde +2
 https://fl1002.bozztv.com/ga-2mmaroc-hd/index.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="🇲🇦المغربMAROCCO",Al Aoula International 🇲🇦
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
