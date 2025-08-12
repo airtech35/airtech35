@@ -3027,8 +3027,6 @@ https://bit.ly/3gj9PK5
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC أم بي سي",MBC 1 USA (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="MBC أم بي سي",MBC 2 (4K)
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",MBC 3 USA (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC أم بي سي",MBC 4 (4K)
@@ -3053,6 +3051,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="MBC أم بي سي",MBC+ Drama (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/MBC_Persia_Logo.svg" group-title="MBC أم بي سي",MBC-Persia (4K)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="MBC أم بي سي",MY-MBC Wanasah  (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="MBC أم بي سي",MY-MBC FM  (4K)
