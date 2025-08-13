@@ -3553,8 +3553,6 @@ https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="🇪🇬المصرية Egypt",PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
-#EXTINF:-1 tvg-id="AlKaheraWalNas.eg@SD" tvg-logo="https://i.imgur.com/xa7RK5p.png" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas
-https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="https://yt3.googleusercontent.com/dB8EHJ6PctY5KeLwv1As_a8cRlEechp5LSCsQ-aKmohEicId1H1dChy5OIK5vv1Ehuzv_tIr_g=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇬المصرية Egypt",Al-Nahar
 https://fl1002.bozztv.com/ga-alnahar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="🇪🇬المصرية Egypt",Alhayat TV
@@ -3618,7 +3616,7 @@ https://fl1002.bozztv.com/ga-cbc/index.m3u8
 #EXTINF:-1 tvg-id="DMCDrama.eg@SD" tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="🇪🇬المصرية Egypt",DMC Drama
 https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
 #EXTINF:-1 tvg-id="ElMehwarChannel.eg@SD" tvg-logo="https://i.imgur.com/dCAHZfG.png" group-title="🇪🇬المصرية Egypt",El Mehwar Channel
-https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ga-elmehwar/index.m3u8
 #EXTINF:-1 tvg-id="AlhayatDrama.eg@SD" tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="🇪🇬المصرية Egypt",Alhayat Drama
 https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",On Drama
@@ -3627,7 +3625,7 @@ https://fl1002.bozztv.com/ga-ondrama/index.m3u8
 https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
 #EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="🇪🇬المصرية Egypt",CBC Drama
 https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
-#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="🇪🇬المصرية Egypt",Alhayat TV
+#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/wTeOM2J.png" group-title="🇪🇬المصرية Egypt",Al Masriyah TV
 https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",TeN
 https://fl1002.bozztv.com/ga-tentv/index.m3u8
@@ -3637,8 +3635,6 @@ https://fl1002.bozztv.com/ga-alhayah/index.m3u8
 https://fl1002.bozztv.com/ga-alkahera/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar
 https://fl1002.bozztv.com/ga-alnahar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",El Mehwar Channel
-https://fl1002.bozztv.com/ga-elmehwar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mpSdj2YblCM/hq720.jpg" group-title="🇪🇬المصرية Egypt",PRO MIX
 https://ffs3.gulfsat.com/hbc/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Drama+
