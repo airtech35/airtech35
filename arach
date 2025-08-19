@@ -1126,15 +1126,15 @@ http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" ,Fajer TV 1
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" ,Fajer TV 1 Fhd
 http://cdnfest.com:8080/ftv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 2
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 2 Fhd
 http://cdnfest.com:8080/ftv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 3
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 3 Fhd
 http://cdnfest.com:8080/ftv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 4
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 4 Fhd
 http://cdnfest.com:8080/ftv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 5
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 5 Fhd
 http://cdnfest.com:8080/ftv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 1 Hd
 http://cdnfest.com:8080/ftv1_720p/playlist.m3u8
