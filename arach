@@ -127,16 +127,7 @@ https://leeeeeeeel.dupereasy.com/event/99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/O9lTxQA.png" group-title="BEIN SPORT بين سبور",bexstra 1
 https://leeeeeeeel.dupereasy.com/event/100.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
-http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦
-http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦
-http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 🇶🇦
-http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
-http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦
 http://135.125.109.73:9000/beinsport1_.m3u8
@@ -160,32 +151,12 @@ http://135.125.109.73:9000/beinsport9_.m3u8
 http://135.125.109.73:9000/beinsport10_.m3u8
 
 
-#EXTINF:-1  tvg-logo="" group-title="BEIN SPORT بين سبور",Bein Sports 1 HD 🇶🇦
-https://edge11.620097.ir.cdn.ir/hls2/b1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="BEIN SPORT بين سبور",Bein Sports 2 HD 🇶🇦
-https://edge11.620097.ir.cdn.ir/hls2/b2.m3u8
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 1+
-http://125x.org:8080/bn1hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 2+
-http://125x.org:8080/bn2hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 3+
-http://125x.org:8080/bn3hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1595px-Logo_bein_sports_4.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 4+
-http://125x.org:8080/bn4hevc/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",bein_koora_sport_1++
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",bein_koora_sport_1
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",bein_koora_sport_2++
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",bein_koora_sport_2
 http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",bein_koora_sport_3++
-http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",bein_koora_sport_4++
-http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",bein_koora_sport_6++
-http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagesf8505586997801f2.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport HD
