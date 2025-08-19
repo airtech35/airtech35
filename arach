@@ -1085,7 +1085,7 @@ http://154.58.202.185:8000/play/a06k
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSCz4wXP/ssc1.png" group-title="SSC SPORT",SSC 1
 https://sportlo.live/SSC-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Px8ZZf1S/ssc2.png" group-title="SSC SPORT"",SSC 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Px8ZZf1S/ssc2.png" group-title="SSC SPORT",SSC 2
 https://sportlo.live/SSC-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sghRttPt/ssc3.png" group-title="SSC SPORT",SSC 3
 https://sportlo.live/SSC-3/tracks-v1a1/mono.m3u8
@@ -1094,7 +1094,7 @@ https://sportlo.live/SSC-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4mRYT7V/ssc5.webp" group-title="SSC SPORT",SSC 5
 https://sportlo.live/SSC-5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tTs9rYTH/ssc-E1.png" group-title="SPORTS",SSC EXTRA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tTs9rYTH/ssc-E1.png" group-title="SSC SPORT",SSC EXTRA 1
 https://sportlo.live/SSC-EXTRA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alkhalifitv.github.io/TV/big/ssc-x2.png" group-title="SSC SPORT",SSC EXTRA 2
 https://sportlo.live/SSC-EXTRA-2/tracks-v1a1/mono.m3u8
