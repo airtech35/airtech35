@@ -1123,6 +1123,31 @@ http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 5
 http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" ,Fajer TV 1
+http://cdnfest.com:8080/ftv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 2
+http://cdnfest.com:8080/ftv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 3
+http://cdnfest.com:8080/ftv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 4
+http://cdnfest.com:8080/ftv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 5
+http://cdnfest.com:8080/ftv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 1 Hd
+http://cdnfest.com:8080/ftv1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 2 Hd
+http://cdnfest.com:8080/ftv2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 3 Hd
+http://cdnfest.com:8080/ftv3_720p/playlist.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 4 Hd
+http://cdnfest.com:8080/ftv4_720p/playlist.m3u8
+#EXTINF:-1 group-title="Fajer TV"tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" ,Fajer TV 5 Hd
+http://cdnfest.com:8080/ftv5_720p/playlist.m3u8
+
+ 
 #EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
 https://htvmada.mada.ps:4443/raya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ps4l.org/uploads/100Q200W370H1582656598234261246.png" group-title="Fajer TV",Palestine Sport
