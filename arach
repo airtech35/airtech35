@@ -2447,10 +2447,6 @@ https://bit.ly/airmaxtvproooO
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" group-title="​🆁™ وثائقيDoc & History 🏛️",Asharq Discovery HD
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",Al Jazeera Documentary (Backup 1)🏞️
-http://154.58.202.131:8000/play/a00l
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",Al Jazeera Documentary (Backup 3)🏞️
-http://154.58.202.131:8000/play/a02p
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
@@ -2664,8 +2660,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/640px-Cartoon_Network_Arabic_logo.png" group-title="Children أطفال", Cartoon Network AR
-http://154.58.202.131:8000/play/a0az
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children أطفال",ROTANA_KIDS
@@ -3088,8 +3082,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="Syria سورية",Al Yaum TV
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://yt3.googleusercontent.com/PzIpFtLlkTzD0tFwKmdOTpE-X9MdV4fCBlkD-tFn364wRLOMcQn_BUipZEdbWLSMhXycdT6ZzA=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",Misk Syria TV
-http://154.58.202.131:8000/play/a0b1
+
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -3373,20 +3366,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",1 IRAQ TV🇮🇶
-http://154.58.202.131:8000/play/a008
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Albaghdadiya🇮🇶
-http://154.58.202.131:8000/play/a00h
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Diwan🇮🇶
-http://154.58.202.131:8000/play/a02j
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Fursan Aliraq TV🇮🇶
-http://154.58.202.131:8000/play/a07t
-#EXTINF:-1 tvg-name="Iraq Future Ⓢ" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-id="IraqFuture.iq" group-title="🇮🇶العراق IRAQ",Iraq Future Ⓢ🇮🇶
-http://154.58.202.131:8000/play/a01w
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Sport HD🇮🇶
-http://154.58.202.131:8000/play/a02z
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Iraqia Turkuman🇮🇶
-http://154.58.202.131:8000/play/a02x
+
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -3611,24 +3591,6 @@ http://teledunet.com:8080/live/tdn/tdn/9961439.ts
 http://teledunet.com:8080/live/tdn/tdn/322.ts
 #EXTINF:-1 group-title="🇪🇬المصرية Egypt", ON EGYPT
 http://teledunet.com:8080/live/tdn/tdn/320.ts
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALASKANDRIA
-http://154.58.202.131:8000/play/a02e
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALDELTA
-http://154.58.202.131:8000/play/a02f
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALKAHERA
-http://154.58.202.131:8000/play/a02c
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALKANAL
-http://154.58.202.131:8000/play/a02d
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ALSA3EED
-http://154.58.202.131:8000/play/a02g
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",EDUC 1
-http://154.58.202.131:8000/play/a097
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ELMEHWAR-HD
-http://154.58.202.131:8000/play/a04r
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Misr ElBald
-http://154.58.202.131:8000/play/a01o
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",TEBA
-http://154.58.202.131:8000/play/a02h
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E
 http://149.62.177.103:8000/play/a08f
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON Drama
@@ -3804,10 +3766,6 @@ http://149.62.177.98:8000/play/a01x/index.m3u8
 http://149.62.177.98:8000/play/a01y/index.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL DJAZAIR ELKHAIRIA TV 🇩🇿
-http://154.58.202.131:8000/play/a0ar
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama 🇩🇿
-http://154.58.202.131:8000/play/a03l
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -3824,8 +3782,7 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾ليبياLIBYA",Tanasuh TV 🇱🇾
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="" group-title="🇱🇾ليبياLIBYA",MBN Alhurra HD TV 🇱🇾
-http://154.58.202.131:8000/play/a04n
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -3841,8 +3798,7 @@ https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 http://82.212.74.98:8000/live/7815.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dabanga_sudan.png" group-title="🇸🇩السودانSUDAN",Dabanga TV 🇸🇩
 https://hls.dabangasudan.org/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Basic Edu 🇸🇩
-http://154.58.202.131:8000/play/a02k
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -4129,22 +4085,7 @@ https://starmenajo.com/hls/yemenshabab/index.m3u8
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1352627681255452679/yF9UYjEu_400x400.jpg" group-title="🇾🇪اليمن Yemen",ALHAWYAH TV
-http://154.58.202.131:8000/play/a01h
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Aden_tv.jpg" group-title="🇾🇪اليمن Yemen",Aden TV
-http://154.58.202.131:8000/play/a03x
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mn_rgpRlTIMPooZGts0lS157A3BG3E1RJ6xcVo23N2Afw=s900-c-k-c0x00ffffff-no-rj" group-title="🇾🇪اليمن Yemen",Al Sahat
-http://154.58.202.131:8000/play/a01f
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXGSJhWxv8XqLzP6dy25_Sru1ph0Nyql-8Q&s" group-title="🇾🇪اليمن Yemen",Sheba TV
-http://154.58.202.131:8000/play/a03w
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://cz.kingofsat.net/jpg/yemendocumentary.jpg" group-title="🇾🇪اليمن Yemen",Yemen Documentary
-http://154.58.202.131:8000/play/a03p
-#EXTINF:-1 tvg-id="AICTV.ye" tvg-logo="https://bit.ly/4d1LPUg" group-title="🇾🇪اليمن Yemen",Yemen Education TV
-http://154.58.202.131:8000/play/a03r
-#EXTINF:-1 tvg-id="AICTV.ye" tvg-logo="https://bit.ly/4d7MOSG" group-title="🇾🇪اليمن Yemen",Yemen TV
-http://154.58.202.131:8000/play/a03u
-#EXTINF:-1 tvg-id="AICTV.ye" tvg-logo="https://i.imgur.com/klCgyAL.png" group-title="🇾🇪اليمن Yemen",AIC TV 
-http://154.58.202.131:8000/play/a03x
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -4380,12 +4321,6 @@ https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Al Rahma TV
 https://rumble.com/live-hls-dvr/6u42de/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",Al-Ma'aly
-http://154.58.202.131:8000/play/a04w
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية",BIN OTHAIMEEN
-http://154.58.202.131:8000/play/a04o
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌Islami اسلامية", Daawah TV
-http://154.58.202.131:8000/play/a048
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌Islami اسلامية",🕌قــاف
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/41b8eZe" group-title="🕌Islami اسلامية",Al Iarth Al Nabawi🕌
