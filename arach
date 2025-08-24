@@ -43,11 +43,6 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24
-https://d17lsiabqrlwa2.cloudfront.net/pl_118/207480-6563650-1/chunklist.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24
-http://142.132.133.190:1935/live/BATIFA-TV/playlist.m3u8
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -000
 https://shawkat-zebari.short.gy/Gewher.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
@@ -2626,6 +2621,8 @@ http://154.58.202.131:8000/play/a02p
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD+
+http://213.57.91.138:8000/play/a05a
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="​🆁™ وثائقيDoc & History 🏛️",Oman 🏞️الوثائقية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 
