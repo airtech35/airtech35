@@ -1080,20 +1080,6 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SSC SPORT", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC News HD
-http://154.58.202.185:8000/play/a06l
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC1
-http://154.58.202.185:8000/play/a06h
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC5
-http://154.58.202.185:8000/play/a06i
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC 4 HD
-http://154.58.202.185:8000/play/a0ee
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC Extra 1
-http://154.58.202.185:8000/play/a06j
-#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.ytimg.com/vi/yTrM95IHG98/sddefault.jpg" group-title="SSC SPORT",SSC Extra 2
-http://154.58.202.185:8000/play/a06k
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSCz4wXP/ssc1.png" group-title="SSC SPORT",SSC 1
 https://sportlo.live/SSC-1/tracks-v1a1/mono.m3u8
