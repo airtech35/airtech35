@@ -2451,6 +2451,8 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",ALJazeera 🏞️الجزيرة الوثائقية
+http://213.57.91.138:8000/play/a06h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD+
@@ -2642,8 +2644,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🆁™ Wildlife الحياة البرية🐘" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png",🇺🇸 ➾ WildEarthᴴᴰ [Plex]
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -2923,6 +2923,10 @@ https://bit.ly/airmaxtvproooO
 https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC أم بي سي",MBC 1 USA (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC أم بي سي",MBC 2
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC أم بي سي",MBC 2 HD
+http://213.57.91.138:8000/play/a05k
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",MBC 3 USA (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC أم بي سي",MBC 4 (4K)
@@ -2945,6 +2949,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="MBC أم بي سي",MBC+ Drama (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC أم بي سي",MBC ACTION
+http://213.57.91.138:8000/play/a05l
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLXFwsgLUH8xbGK7kgael74oOUHBD__uXsg6XjbvYkF-U=s900-c-k-c0x00ffffff-no-rj" group-title="MBC أم بي سي",MBC-Persia (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="MBC أم بي سي",MY-MBC Wanasah  (4K)
@@ -2995,19 +3001,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_25.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/tsWQ5pz/panorama.jpg" group-title="MBC أم بي سي",|MBC| Panorama LOW
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index_6.m3u8
-
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="MBC VIP1 أم بي سي", airmax النسخة المدفوعة
-https://bit.ly/airmaxtvproooO
-
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC ACTION
-http://148.163.96.58/live/MBC_Action/index.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2
-https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC VIP1 أم بي سي",MBC 2 HD
-http://148.163.96.58/live/MBC_2/index.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
