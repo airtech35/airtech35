@@ -1548,6 +1548,8 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Shahid TV VIP", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Shahid TV VIP",SHAHID LIVE 1 HD
+https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Shahid TV VIP",Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Shahid TV VIP",Movies-Action
@@ -2878,6 +2880,8 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="🇵🇸فلسطينPALESTINE",Palestine Today 🇵🇸
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="http://alqudstoday.tv/assets/logo/logo.png" group-title="🇵🇸فلسطينPALESTINE", القدس اليوم
+https://streaming.alqudstoday.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV 🇵🇸
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="🇵🇸فلسطينPALESTINE",Al Aqsa Channel 🇵🇸
@@ -2948,6 +2952,9 @@ http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
 http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/chunks.m3u8
 #EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io_aoo11.png",وتر الرياضية 🇵🇸
 http://htvmada.mada.ps:8888/orient2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="", صوت فلسطين
+https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -3142,16 +3149,8 @@ https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
 https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/wTeOM2J.png" group-title="🇪🇬المصرية Egypt",Al Masriyah TV
 https://fl1002.bozztv.com/ga-almasriya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",TeN
-https://fl1002.bozztv.com/ga-tentv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat TV
-https://fl1002.bozztv.com/ga-alhayah/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas
-https://fl1002.bozztv.com/ga-alkahera/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar
-https://fl1002.bozztv.com/ga-alnahar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mpSdj2YblCM/hq720.jpg" group-title="🇪🇬المصرية Egypt",PRO MIX
-https://ffs3.gulfsat.com/hbc/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Drama+
 http://148.163.96.58/live/nile_drama/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Cinema+
@@ -3678,6 +3677,9 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="" group-title="🇾🇪اليمن Yemen", عــــدن
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
+
+#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" group-title="🇾🇪اليمن Yemen", اليمن
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
