@@ -1677,6 +1677,8 @@ https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/play
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP", أنا بحكيلك القصة
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/ana-bahkilak-elgessa/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP", Adel Imam-1
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP", الزعيم
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="Roya TV VIP", أيمن زيدان
@@ -2787,6 +2789,25 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
 
 
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema HD+
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanacinemanhd/playlist-orig.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA+
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/rotanacinema/playlist-orig.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic+
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanazaman/playlist-orig.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA روتانا" http-referrer="https://rotana.net/",Rotana Comedy+
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanacomedy/playlist-orig.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ROTANA روتانا" http-referrer="https://rotana.net/",Rotana Drama+
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanadrama/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Al-Hayat+
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Zekrayat Zaman Cinema+
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/zekrayatzamancinema/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Sada Albalad Drama+
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
