@@ -178,17 +178,10 @@ http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4
 http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 1 HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 2 HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 3 FHD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5082.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 4 HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5083.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 5 HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5084.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 6 HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5085.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 7 FHD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5086.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 8 FHD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORT بين سبور",AR | BEIN SPORTS 9 HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/O9lTxQA.png" group-title="BEIN SPORT بين سبور",bexstra 1 HD
-
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/abu-dhabi-sports.png" group-title="BEIN SPORT بين سبور",Abu Dhabi Sports 1 Premium
+https://world-proxifier.xyz/proxy/p/0002/fGEMBHphWRJhb29tUWFrEmF0BnF3CgQEAA8CDAZhWRJhBQIHBXoNCHcGUWNrEGEHBnQEcQpxdQhwD2FbEGFAAXYQQwsCAwoSFHFwcXV0EFIQEXMEDgp2DBBpaRJVb1hjaxBhdnVzBgAOAHZxDWFZEmEJdXdxdFlsbgVwDgxwUA0GeG0NBngMdnBtc3RuBXAODHBQbHFzBgwKdg5Xb1huDHAPcG8OUnZVYWsQYwkGAgcGc3RjWRB8YxZ0BnFsQAgED3VhWxBhTHJ7Cg0PAm5Ub28QZwgRCXANBloQQBEWEAgRCXANBhBOFhBQVgJWEA0IDAYQTgIEEEwUEBlqEEBxcw0GGAQDSgp3blVvVm1QbVJUEGdIRxVMSWsQDQgMBhBEBgQMcmgQFwRzdApyD25QVW1vEE5wAwoPBm5QVkRQU1UQFAIFAnMKbFVvU29QYWsSYU5zCAgKD2NZEGELdXVxdllubnMMcQIOCnENAHpteXh7YWsSYRMGBQZzBnFhWRBjCXV1c3RZbmxxDHEADApxDwJ6bXt6e25jfmsQY3APDXgAcXNyeXoADgZ6dGNZEHVxdgZrEmFxc3J5emFbEA92Dw1-/index.m3u8
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/abu-dhabi-sports.png" group-title="BEIN SPORT بين سبور",Abu Dhabi Sports 2 Premium
+https://world-proxifier.xyz/proxy/p/0002/fGEMBHphWRJhb29tUWFrEmF0BnF3CgQEAA8CDAZhWRJhBQIHBXoNCHcGUWNrEGEHBnQEcQpxdQhwD2FbEGFAAXYQQwsCAwoSFHFwcXV0EFMQEXMEDgp2DBBpaRJVUG9jaxBhdnVzBgAOAHZxDWFZEmEJdXdxdFlsbgVwDgxwUA0GeG0NBngMdnBtc3RuBXAODHBQbHFzBgwKdg5XUG9uDHAPcG8OUnZVYWsQYwkGAgcGc3RjWRB8YxZ0BnFsQAgED3VhWxBhTHJ7Cg0PAm5Ub28QZwgRCXANBloQQBEWEAgRCXANBhBOFhBQVgJWEA0IDAYQTgIEEEwUEBlqEEBxcw0GGAQDSgp3blVvVm1QbVJUEGdIRxVMSWsQDQgMBhBEBgQMcmgQFwRzdApyD25QVW1vEE5wAwoPBm5QVkRQU1UQFAIFAnMKbFVvU29QYWsSYU5zCAgKD2NZEGELdXVxdllubnMMcQIOCnENAHpteXh7YWsSYRMGBQZzBnFhWRBjCXV1c3RZbmxxDHEADApxDwJ6bXt6e25jfmsQY3APDXgAcXNyeXoADgZ6dGNZEHVxdgZrEmFxc3J5emFbEA92Dw1-/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
