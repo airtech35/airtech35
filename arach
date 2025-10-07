@@ -1736,6 +1736,13 @@ https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD بوليود" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",VOD CINEMA SD
 http://iptv.icsnleb.com:25461/ST/ST/59
 
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",Zee Aflam 
+http://213.57.91.138:8000/play/a05s
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",Zee Alwan
+http://213.57.91.138:8000/play/a05t
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",Zee Alwan Egypt (576p)
+http://213.57.91.138:8000/play/a05u
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Al Majd قنوات المجد",قنوات المجد
