@@ -2884,85 +2884,61 @@ https://bit.ly/3xYLaRh
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇵🇸فلسطينPALESTINE", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="🇵🇸فلسطينPALESTINE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher 🇵🇸
+#EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="🇵🇸فلسطينPALESTINE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="🇵🇸فلسطينPALESTINE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel 🇵🇸
+#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="🇵🇸فلسطينPALESTINE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="🇵🇸فلسطينPALESTINE",Palestine Today 🇵🇸
+#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="🇵🇸فلسطينPALESTINE",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="http://alqudstoday.tv/assets/logo/logo.png" group-title="🇵🇸فلسطينPALESTINE", القدس اليوم
+#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://yt3.googleusercontent.com/H8YNWEXS-OlIulHJ8RS_ohym4XIcxNXjX61Np753lmXue7iHYyQlNfoqsMPfAxrBRl2IcW6pnA=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇸فلسطينPALESTINE", القدس اليوم
 https://streaming.alqudstoday.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV 🇵🇸
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="🇵🇸فلسطينPALESTINE",Al Aqsa Channel 🇵🇸
+#EXTINF:-1 tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="🇵🇸فلسطينPALESTINE",Al Aqsa Channel
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 tvg-id="AlMadina.ps" tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="🇵🇸فلسطينPALESTINE",Al Madina 🇵🇸
+#EXTINF:-1 tvg-id="AlMadina.ps" tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="🇵🇸فلسطينPALESTINE",Al Madina
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
-#EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="🇵🇸فلسطينPALESTINE",Al Najah News 🇵🇸
+#EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="🇵🇸فلسطينPALESTINE",Al Najah News
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="🇵🇸فلسطينPALESTINE",Fajer TV 1 🇵🇸
-http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" group-title="🇵🇸فلسطينPALESTINE",Fajer TV 2 🇵🇸
-http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="🇵🇸فلسطينPALESTINE",Falastini TV 🇵🇸
+#EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="🇵🇸فلسطينPALESTINE",Falastini TV
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-id="HalaRamallah.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="🇵🇸فلسطينPALESTINE",Hala Ramallah 🇵🇸
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
-#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="🇵🇸فلسطينPALESTINE",Holy Quran Radio Nablus 🇵🇸
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="🇵🇸فلسطينPALESTINE",Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-logo="https://i.imgur.com/GB2Q9kl.png" group-title="🇵🇸فلسطينPALESTINE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MusawaChannel 🇵🇸
+#EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-logo="https://i.imgur.com/GB2Q9kl.png" group-title="🇵🇸فلسطينPALESTINE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MusawaChannel
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 tvg-id="NablusTV.ps" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="🇵🇸فلسطينPALESTINE",Nablus TV 🇵🇸
+#EXTINF:-1 tvg-id="NablusTV.ps" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="🇵🇸فلسطينPALESTINE",Nablus TV 
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="🇵🇸فلسطينPALESTINE",Palestine Edu 🇵🇸
+#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="🇵🇸فلسطينPALESTINE",Palestine Edu
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV 🇵🇸
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1 tvg-id="RajeenTV.ps" tvg-logo="https://i.imgur.com/6Cx22ya.png" group-title="🇵🇸فلسطينPALESTINE",Rajeen TV 🇵🇸
+#EXTINF:-1 tvg-id="RajeenTV.ps" tvg-logo="https://i.imgur.com/6Cx22ya.png" group-title="🇵🇸فلسطينPALESTINE",Rajeen TV
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="🇵🇸فلسطينPALESTINE",Raya 1 🇵🇸
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="🇵🇸فلسطينPALESTINE",Raya 1
 https://htvmada.mada.ps:4443/raya/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4bcKx7V" group-title="🇵🇸فلسطينPALESTINE",RayaTV1 🇵🇸
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4bcKx7V" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="ShababFM.ps" tvg-logo="https://i.imgur.com/4Cyz4Bn.png" group-title="🇵🇸فلسطينPALESTINE",Shabab FM 🇵🇸
+#EXTINF:-1 tvg-id="ShababFM.ps" tvg-logo="https://i.imgur.com/4Cyz4Bn.png" group-title="🇵🇸فلسطينPALESTINE",Shabab FM
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="🇵🇸فلسطينPALESTINE",Watar TV 🇵🇸
+#EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="🇵🇸فلسطينPALESTINE",Watar TV
 http://htvint.mada.ps:8889/orient/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Radio-Hayat 🇵🇸
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPnYfY63qmBSu4xrocr8CwxPLPmI_RUGnyJiZx3DsIXoM=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇸فلسطينPALESTINE",Radio-Hayat
 https://flu.systemnet.tv/Radio-Hayat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸فلسطينPALESTINE",معًا 🇵🇸
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸فلسطينPALESTINE",معًا
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa71.png" group-title="🇵🇸فلسطينPALESTINE",مكان 🇵🇸
+#EXTINF:-1 tvg-id="" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa71.png" group-title="🇵🇸فلسطينPALESTINE",مكان
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i.ibb.co/dLyP0JK/WWW.png", تلفزيون حكاية  🇵🇸
-http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kolalnastv.jpg" group-title="🇵🇸فلسطينPALESTINE", قناة كل الناس 🇵🇸
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kolalnastv.jpg" group-title="🇵🇸فلسطينPALESTINE", قناة كل الناس
 https://htvint.mada.ps/kolalnas/index.m3u8
-#EXTINF:-1 tvg-id="AwdahTV.ps" tvg-logo="https://i.imgur.com/N9lLP1J.png" group-title="🇵🇸فلسطينPALESTINE",Awdah TV  🇵🇸
-http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoac11.png", البلد 🇵🇸
+#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoac11.png", البلد
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa17.png", تلفزيون نابلس 🇵🇸
+#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa17.png", تلفزيون نابلس
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPqo3V" group-title="🇵🇸فلسطينPALESTINE",Nablus 2 live Z 🇵🇸
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPqo3V" group-title="🇵🇸فلسطينPALESTINE",Nablus 2 live Z
 http://streaming.zaytonatube.com:8080/nb/nb/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPqo3V" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV
 https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayoo18.png",الحرية 🇵🇸
-http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayoo18.png", الحرية الرياضية 🇵🇸
-http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="", Marah FM 🇵🇸
-http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="", Al Mahd 🇵🇸
-http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oya11.png",ريحان 🇵🇸
-http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io_aaa10.png",وتر التفاعلي 🇵🇸
-http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/chunks.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io_aoo11.png",وتر الرياضية 🇵🇸
-http://htvmada.mada.ps:8888/orient2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="", صوت فلسطين
+#EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://data.arab48.com/data/news/2023/03/20/640-376/20230320022552.jpg", صوت فلسطين
 https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
 
 
@@ -3020,7 +2996,8 @@ http://45.63.116.205/hls4/stream1.m3u8
 http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo" tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="🇯🇴الاردنJORDAN",Rotana Tarab Jordan City View 
 http://45.63.116.205/hls3/stream1.m3u8
-
+#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="🇯🇴الاردنJORDAN",Melody FM Jordan
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇮🇶العراق IRAQ",العراق IRAQ🇮🇶
