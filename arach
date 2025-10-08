@@ -3120,16 +3120,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="🇪🇬المصرية Egypt",PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
-#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="🇪🇬المصرية Egypt",Elsharq TV  
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="🇪🇬المصرية Egypt",Huda TV  
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="🇪🇬المصرية Egypt",El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="" group-title="🇪🇬المصرية Egypt",NILE TV
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" group-title="🇪🇬المصرية Egypt",NILE TV
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8
-#EXTINF:-1  tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Cinema
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NiIe_Cinema.png/250px-NiIe_Cinema.png" group-title="🇪🇬المصرية Egypt",Nile Cinema
 http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬المصرية Egypt",ON EGYPT
 http://185.9.2.18/chid_616/mono.m3u8
@@ -3147,6 +3144,8 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="🇪🇬المصرية Egypt",Watan TV
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="🇪🇬المصرية Egypt",Elsharq TV  
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="🇪🇬المصرية Egypt",El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlKaheraWalNas2.eg@SD" tvg-logo="https://i.postimg.cc/DZvJnvPv/alkaherawalnas2.png" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas 2
