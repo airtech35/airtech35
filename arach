@@ -3600,17 +3600,6 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
 
 
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-#EXTINF:-1 tvg-id="RTD.dj@SD" tvg-logo="https://www.rtd.dj/images/logo.png#joomlaImage://local-images/logo.png?width=110&height=110" group-title="🇩🇯 Djibouti",RTD
-https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8
-
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-
-#EXTINF:-1 tvg-id="ORTCTV.km@SD" tvg-logo="https://i.imgur.com/G93088y.png" group-title="🇰🇲 Comoros",ORTC TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/ortc/playlist.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -3634,7 +3623,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇲🇷موريتانياMauritania‎", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title=🇲🇷موريتانياMauritania‎",StoryChannel TV
+#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="🇲🇷موريتانياMauritania‎",StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
 
 
