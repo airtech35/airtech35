@@ -3018,13 +3018,13 @@ https://stream.shams.tv/hls/stream.m3u8
 https://live.alawla.tv/hls/2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alnahrain.com/templates/default/assets/images/black-logo.png"🇮🇶العراق IRAQ", النّهرين
 https://stream.alnahrain.tv/AlnahrainTV/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://almasra.iq/wp-content/uploads/2023/03/almasra-logo1.png" group-title="🇮🇶العراق IRAQ",Almasra TV 🇮🇶
+#EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://almasra.iq/wp-content/uploads/2023/03/almasra-logo1.png" group-title="🇮🇶العراق IRAQ",Almasra TV
 https://live.bradosti.net/live/Almasra/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",Samirra 🇮🇶
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",Samirra
 https://live.bradosti.net/live/AlSamara/index.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",Al-Sharqiya 🇮🇶
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya News 🇮🇶
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",Al Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8 
 #EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="🇮🇶العراق IRAQ",Al Rasheed TV
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
@@ -3052,7 +3052,7 @@ https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇶العراق IRAQ",Althaqalayn TV🇮🇶
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
-#EXTINF:-1 tvg-id="DuaChannel.iq" tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="🇮🇶العراق IRAQ",Dua Channel 🇮🇶
+#EXTINF:-1 tvg-id="DuaChannel.iq" tvg-logo="https://i.imgur.com/Tb1OJQa.png" group-title="🇮🇶العراق IRAQ",Dua Channel
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-id="EmanTv.iq" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="🇮🇶العراق IRAQ",EmanTv
 https://avr.host247.net/live/emantv/playlist.m3u8
@@ -3104,9 +3104,9 @@ https://live.imamhossaintv.com/live/ih4.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇪🇬المصرية Egypt",🇪🇬المصرية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇪🇬المصرية Egypt",المصرية
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇪🇬المصرية Egypt",🇪🇬كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇪🇬المصرية Egypt",كيف احصل على الكود
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇪🇬المصرية Egypt", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
