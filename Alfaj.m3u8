@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3404543,RESOLUTION=1920x1080,CODECS="avc1.42c01f,mp4a.40.2"
+http://platform.topuphost.com:8558/api/Stream/GetModifiedM3U8Url2?url=https://vstream2.hadara.ps:8443/AlfajertvHDFull_web/web/chunks.m3u8%3Fnimblesessionid%3D34878525%26wmsAuthSign%3Dc2VydmVyX3RpbWU9Mi8xMC8yMDI1IDE6NTA6MTIgQU0maGFzaF92YWx1ZT1FMUhVOWxCNW5KeG9jTXQyVFh4c25BPT0mdmFsaWRtaW51dGVzPTE4MCZpZD05ZTk3MjAzMmMyNjE1YTBmY2Q5Y2JjYjhiNzQxNzkxNw%3D%3D
