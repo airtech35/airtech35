@@ -30,6 +30,19 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT بين سبور", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO3.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO4.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO5.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO6.m3u8
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
