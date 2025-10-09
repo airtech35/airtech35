@@ -34,6 +34,8 @@ https://bit.ly/airmaxtvproooO
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2+
+http://1789-181.123091763.it.com/live/235756_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO3.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
@@ -42,6 +44,13 @@ https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO4.m3u8
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO5.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO6.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6+
+https://cdnfest.com/G6-720p/video.m3u8
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",canal + France
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ثمانية سبورتSD
+https://shoottvlivs.tt398805.workers.dev/?url=http%3A%2F%2F1789-181.123091763.it.com%2Flive%2F696998_.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
