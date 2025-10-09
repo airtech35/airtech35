@@ -948,8 +948,6 @@ https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr1 480p
 https://cdnfest.com/ftv1-720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 2 
-http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
-
 https://cdnfest.com/ftv2-720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 3
 https://cdnfest.com/ftv3-720p/tracks-v1a1/mono.m3u8
