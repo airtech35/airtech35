@@ -932,8 +932,8 @@ http://sportlo.live:8080/thmanyah-2/tracks-v1a1/mono.m3u8
 http://sportlo.live:8080/thmanyah-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jzu4.github.io/IMG_3500.png" group-title="SSC SPORT", ثمانية الاولى +
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thmanyahsports_1.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://jzu4.github.io/IMG_3500.png" group-title="SSC SPORT", ثمانية الاولى
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thman1SD.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Fajer TV",SPORT CHANNELS
