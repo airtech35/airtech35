@@ -807,36 +807,7 @@ https://stream1.cinerama.uz/1229/index.m3u8?token=test
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/ECJiorK.png",[$]5 Беларусь 
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w1490144266_b2660000_sleng.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/EFfQMgD.png",[$]ELEVEN SPORTS 1HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/37729/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/Xo4yU6s.png",[$]ELEVEN SPORTS 2HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/63872/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/di11stm.png",[$]ELEVEN SPORTS 3HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/37751/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/2mWZXVy.png",[$]ELEVEN SPORTS 4HD 
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/63260/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/j344uug.png",[$]CANAL+SPORT HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/33662/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/HuBz6fp.png",[$]CANAL+SPORT 2HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/55352/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/nbGQ4Xu.png",[$]CANAL+SPORT 3HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/63534/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/2NGP94Q.png",[$]CANAL+SPORT 4HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/47762/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/pVg4UBQ.png",[$]CANAL+SPORT 5HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/47723/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/oi7zHF2.png",[$]TVP SPORT HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/27360/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/18fYyYP.png",[$]TVN TURBO HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/47826/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/ilRFZ1G.png",[$]POLSAT SPORT 1HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/52243/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/VyVsPrL.png",[$]POLSAT SPORT 2HD
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/43228/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/39PKsDf.png",[$]BEST4SPORT TV
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/21537/hlsx/pl.m3u8
-#EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/KfPUVrp.png",[$]BEST4SPORT TV2
-http://rr3.vipshara-iptv.com/~1067a9a9fa9192e03fdba49d9db007f6cb6/25735/hlsx/pl.m3u8
+
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/3H4dxhi.png",[$]SPORT PLUS 1HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
 #EXTINF:0 group-title="[⚽]SPORTE VIP" tvg-logo="https://i.imgur.com/z1bifgC.png",[$]SPORT PLUS 2HD
