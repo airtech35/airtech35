@@ -46,10 +46,44 @@ https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO5.m3u8
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO6.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6+
 https://cdnfest.com/G6-720p/video.m3u8
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 3840x2160
+https://hz.achourtv.com/bn_meta_4k1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 1920x1080
+https://hz.achourtv.com/bn_meta_fhd1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 1280x720
+https://hz.achourtv.com/bn_meta_hd1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 854x480
+https://hz.achourtv.com/bn_meta_sd1.m3u8
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2 1280x720
+https://hz.dencreak.com/bn_4k2.m3u8?token=
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2 1920x1080
+https://hz.dencreak.com/bn_fhd2.m3u8?token=
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2 1280x720
+https://hz.dencreak.com/bn2.m3u8?token=
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2 854x480
+https://hz.dencreak.com/bn_u_576P_2.m3u8?token=
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3 1920x1080
+https://hz.dencreak.com/bn_4k3.m3u8?token=
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3 1920x1080
+https://hz.dencreak.com/bn_fhd3.m3u8?token=
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3 1280x720
+https://hz.dencreak.com/bn3.m3u8?token=
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3  854x480
+https://hz.dencreak.com/bn_u_576P_3.m3u8?token=
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4 1920x1080
+https://hz.dencreak.com/bn_4k4.m3u8?token=
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4 1920x1080
+https://hz.dencreak.com/bn_fhd4.m3u8?token=
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4 1280x720
 https://hz.dencreak.com/bn4.m3u8?token=
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4 854x480
 https://hz.dencreak.com/bn_u_576P_4.m3u8?token=
+
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 
