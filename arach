@@ -82,8 +82,8 @@ https://hz.dencreak.com/bn_fhd4.m3u8?token=
 https://hz.dencreak.com/bn4.m3u8?token=
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4 854x480
 https://hz.dencreak.com/bn_u_576P_4.m3u8?token=
-
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 
