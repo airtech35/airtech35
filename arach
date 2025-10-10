@@ -852,6 +852,8 @@ http://sportlo.live:8080/thmanyah-1/tracks-v1a1/mono.m3u8
 http://sportlo.live:8080/thmanyah-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah3.jpg" group-title="Thmanyah SPORT",Thmanyah 3
 http://sportlo.live:8080/thmanyah-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 1
+http://1789-181.123091763.it.com/live/560245_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 1+
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thmanyahsports_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 1++
@@ -898,8 +900,8 @@ https://bit.ly/airmaxtvproooO
 
 #EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://qna.org.qa/media/k5yfisa3/alkass_one-300x143.png" ,Alkass Three
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://qna.org.qa/media/1aaphrlf/al-kass-two-hd-light-300x186.png" ,Alkass Two
-https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
+https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 #EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
@@ -2116,6 +2118,8 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",ALJazeera 🏞️الجزيرة الوثائقية
 http://213.57.91.138:8000/play/a06h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
+https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD+
