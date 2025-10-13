@@ -2637,6 +2637,19 @@ https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="🇪🇬المصرية Egypt",El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="https://i.ibb.co/WN6bh6mq/alnahar.png" group-title="🇪🇬المصرية Egypt",Al-Nahar
+http://213.57.91.138:8000/play/a06m
+#EXTINF:-1 tvg-id="AlNaharDrama.eg@SD" tvg-logo="https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
+http://213.57.91.138:8000/play/a06n
+#EXTINF:-1 tvg-id="AlhayatDrama.eg@SD" tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="🇪🇬المصرية Egypt",Alhayat Drama
+http://213.57.91.138:8000/play/a06s
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="🇪🇬المصرية Egypt",CBC
+http://213.57.91.138:8000/play/a06o
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="🇪🇬المصرية Egypt",CBC Drama
+http://213.57.91.138:8000/play/a06q
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="🇪🇬المصرية Egypt",CBC Sofra
+http://213.57.91.138:8000/play/a06p
+
 #EXTINF:-1 tvg-id="AlKaheraWalNas2.eg@SD" tvg-logo="https://i.postimg.cc/DZvJnvPv/alkaherawalnas2.png" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas 2
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alkaherawalnas2/playlist.m3u8
 #EXTINF:-1 tvg-id="AlShamsTV.eg@SD" tvg-logo="https://i.postimg.cc/nr7C1XH1/alshamstv.png" group-title="🇪🇬المصرية Egypt",Al Shams TV
@@ -2644,7 +2657,7 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alshams/playlist.m3
 #EXTINF:-1 tvg-id="AlHadathAlyoum.eg@SD" tvg-logo="https://i.ibb.co/sd2k94pS/Final-Hadath.png" group-title="🇪🇬المصرية Egypt",AlHadath Alyoum
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="🇪🇬المصرية Egypt",Alhayat TV
-https://uvotv-aniview.glob
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cima.eg@SD" tvg-logo="https://i.ibb.co/p6SPr0Ym/Cima.png" group-title="🇪🇬المصرية Egypt",Cima
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8
 #EXTINF:-1 tvg-id="DMCDrama.eg@SD" tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="🇪🇬المصرية Egypt",DMC Drama
@@ -2714,21 +2727,28 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mixinarabic/playlis
 #EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", cbcsofra
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mixone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="https://i.ibb.co/WN6bh6mq/alnahar.png" group-title="🇪🇬المصرية Egypt",Al-Nahar
-http://213.57.91.138:8000/play/a06m
-#EXTINF:-1 tvg-id="AlNaharDrama.eg@SD" tvg-logo="https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
-http://213.57.91.138:8000/play/a06n
-#EXTINF:-1 tvg-id="AlhayatDrama.eg@SD" tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="🇪🇬المصرية Egypt",Alhayat Drama
-http://213.57.91.138:8000/play/a06s
-#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="🇪🇬المصرية Egypt",CBC
-http://213.57.91.138:8000/play/a06o
-#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="🇪🇬المصرية Egypt",CBC Drama
-http://213.57.91.138:8000/play/a06q
-#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="🇪🇬المصرية Egypt",CBC Sofra
-http://213.57.91.138:8000/play/a06p
-
-
-
+#EXTINF:-1 tvg-id="OnDrama.eg@SD" tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="🇪🇬المصرية Egypt",On Drama
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/ondrama/playlist.m3u8
+#EXTINF:-1 tvg-id="NileCulture.eg@SD" tvg-logo="https://i.imgur.com/fcIuSiX.png" group-title="🇪🇬المصرية Egypt",Nile Culture
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nileculture/playlist.m3u8
+#EXTINF:-1 tvg-id="MisrAlZeraya.eg@SD" tvg-logo="https://i.imgur.com/hudbg2E.png" group-title="🇪🇬المصرية Egypt",Misr Al Zeraya
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/misralzera3eya/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/cbc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC Drama
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/cbcdrama/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",On E
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/onehd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",On Drama
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/ondrama/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",NogoumFMTV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nogoumfmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",MESat
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/mesat2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alfath Sonnah TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathsonnahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alfath TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathal3amh/playlist.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
