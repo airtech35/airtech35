@@ -3223,7 +3223,7 @@ https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/jin_tv.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",jintv
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="KURDISH",Al Yaum TV
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/p7eAbYD.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
