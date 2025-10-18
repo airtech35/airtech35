@@ -29,8 +29,22 @@ https://bit.ly/3xYLaRh
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT بين سبور", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 0
-http://176.119.29.35:80/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8?md5=woFpvOLsmTsgGjP985tN8A&expires=1750309963
+https://github.com/najika147/xpola-player/raw/refs/heads/main/Alwan2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
+http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+http://176.119.29.7/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
+http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
+http://176.119.29.54/6f91c9ad-073b-486a-ab15-f537f6bea3e2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
+http://176.119.29.54/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
+http://176.119.29.54/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
