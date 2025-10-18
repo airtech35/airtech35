@@ -2274,16 +2274,7 @@ https://bit.ly/3xYLaRh
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="ROTANA روتانا", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema HD
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanacinemanhd/playlist-orig.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/rotanacinema/playlist-orig.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanazaman/playlist-orig.m3u8
-#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ROTANA روتانا" http-referrer="https://rotana.net/",Rotana Comedy
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanacomedy/playlist-orig.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ROTANA روتانا" http-referrer="https://rotana.net/",Rotana Drama
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanadrama/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaAflamPlusHD.sa" tvg-logo="https://i.imgur.com/DLDfFpu.png" group-title="ROTANA روتانا",Rotana Aflam plus HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 #EXTINF:-1 tvg-id="MPlus.sa@SD" tvg-logo="https://i.imgur.com/Ho8N310.png" group-title="ROTANA روتانا",M+
@@ -2675,105 +2666,8 @@ http://213.57.91.138:8000/play/a06q
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="🇪🇬المصرية Egypt",CBC Sofra
 http://213.57.91.138:8000/play/a06p
 
-#EXTINF:-1 tvg-id="AlKaheraWalNas2.eg@SD" tvg-logo="https://i.postimg.cc/DZvJnvPv/alkaherawalnas2.png" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas 2
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alkaherawalnas2/playlist.m3u8
-#EXTINF:-1 tvg-id="AlShamsTV.eg@SD" tvg-logo="https://i.postimg.cc/nr7C1XH1/alshamstv.png" group-title="🇪🇬المصرية Egypt",Al Shams TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alshams/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHadathAlyoum.eg@SD" tvg-logo="https://i.ibb.co/sd2k94pS/Final-Hadath.png" group-title="🇪🇬المصرية Egypt",AlHadath Alyoum
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8
-#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="🇪🇬المصرية Egypt",Alhayat TV
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
-#EXTINF:-1 tvg-id="Cima.eg@SD" tvg-logo="https://i.ibb.co/p6SPr0Ym/Cima.png" group-title="🇪🇬المصرية Egypt",Cima
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8
-#EXTINF:-1 tvg-id="DMCDrama.eg@SD" tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="🇪🇬المصرية Egypt",DMC Drama
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmcdrama/playlist.m3u8
-#EXTINF:-1 tvg-id="EgyptianTV.eg@SD" tvg-logo="https://i.imgur.com/rrizXzM.png" group-title="🇪🇬المصرية Egypt",Egyptian TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/egyptiantvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="ElMehwarChannel.eg@SD" tvg-logo="https://i.ibb.co/84t3yXTV/mehwar.png" group-title="🇪🇬المصرية Egypt",El Mehwar Channel
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/elmehwar/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTU1.eg@SD" tvg-logo="https://i.imgur.com/uuIqiAy.png" group-title="🇪🇬المصرية Egypt",ERTU 1
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/aloula/playlist.m3u8
-#EXTINF:-1 tvg-id="SadaElbalad.eg@SD" tvg-logo="https://i.imgur.com/vOKvPeK.png" group-title="🇪🇬المصرية Egypt",Sada Elbalad
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbalad/playlist.m3u8
-#EXTINF:-1 tvg-id="SadaElbaladDrama.eg@SD" tvg-logo="https://i.imgur.com/3VLjZKc.png" group-title="🇪🇬المصرية Egypt",Sada Elbalad Drama
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="🇪🇬المصرية Egypt",Zekrayat Zaman Cinema+
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/zekrayatzamancinema/playlist.m3u8
-#EXTINF:-1 tvg-id="TeN.eg@SD" tvg-logo="https://i.ibb.co/zWQjVq6s/ten-tv.png" group-title="🇪🇬المصرية Egypt",TeN
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8
-#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="🇪🇬المصرية Egypt",Alhayat TV (720p)
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
-#EXTINF:-1 tvg-id="AlWathaeqya.eg@SD" tvg-logo="https://i.imgur.com/CwC7fz6.png" group-title="🇪🇬المصرية Egypt",Al Wathaeqya
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.ibb.co/Kx7wmXCQ/almasriya.png" group-title="🇪🇬المصرية Egypt",Al Masriyah
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-
-
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", HD DRAMA 1
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/hddrama1/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", HD DRAMA 2
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/hddrama2/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", HD DRAMA 3
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/hddrama3/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", HD Drama Cinema
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/hddramacinema/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", HD Drama Turkish
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/hddramaturkish/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", zekrayatzaman
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/zekrayatzaman/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", zekrayatzamandrama
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/zekrayatzamandrama/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", zekrayatzamancinema
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/zekrayatzamancinema/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", zekrayatzamancomedy
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/zekrayatzamancomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", samacinema1premium
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/samacinema1premium/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", novacomedy
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/novacomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="AlShamsTV.eg@SD" tvg-logo="https://i.postimg.cc/nr7C1XH1/alshamstv.png" group-title="🇪🇬المصرية Egypt",Al Shams TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alshams/playlist.m3u8
-#EXTINF:-1 tvg-id="NileNews.eg@SD" tvg-logo="https://i.ibb.co/Kz0H3mLP/Nile-News.png" group-title="🇪🇬المصرية Egypt",Nile News
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/alnilenews/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", althanya
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/althanya/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtraNews.eg@SD" tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="🇪🇬المصرية Egypt",Extra News
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/cbcextranews/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", cbcsofra
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/novacomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", panoramadrama
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/novacomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", panoramafilm
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/novacomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="🇪🇬المصرية Egypt",Mix Hollywood
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mix/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", mixinarabic
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mixinarabic/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇪🇬المصرية Egypt", cbcsofra
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mixone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OnDrama.eg@SD" tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="🇪🇬المصرية Egypt",On Drama
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/ondrama/playlist.m3u8
-#EXTINF:-1 tvg-id="NileCulture.eg@SD" tvg-logo="https://i.imgur.com/fcIuSiX.png" group-title="🇪🇬المصرية Egypt",Nile Culture
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nileculture/playlist.m3u8
-#EXTINF:-1 tvg-id="MisrAlZeraya.eg@SD" tvg-logo="https://i.imgur.com/hudbg2E.png" group-title="🇪🇬المصرية Egypt",Misr Al Zeraya
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/misralzera3eya/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/cbc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",CBC Drama
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/cbcdrama/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",On E
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/onehd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",On Drama
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/ondrama/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",NogoumFMTV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nogoumfmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",MESat
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/mesat2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alfath Sonnah TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathsonnahtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇪🇬المصرية Egypt",Alfath TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathal3amh/playlist.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -2821,14 +2715,6 @@ https://bit.ly/3xYLaRh
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳تونسTUNISIE",El Watania 1
 https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
-#EXTINF:-1 tvg-id="AlInsenTV.tn@SD" tvg-logo="https://i.imgur.com/Hkdwoe8.png" group-title="🇹🇳تونسTUNISIE",Al Insen TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/alinsentv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJanoubiyaTV.tn@SD" tvg-logo="https://i.postimg.cc/y6f96ZGw/aljanoubiyatv.png" group-title="🇹🇳تونسTUNISIE",Al Janoubiya TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/aljanoubiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElhiwarEttounsiTV.tn@SD" tvg-logo="https://i.imgur.com/qYG1qLO.png" group-title="🇹🇳تونسTUNISIE",Elhiwar Ettounsi TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/elhiwarettounsi/playlist.m3u8
-#EXTINF:-1 tvg-id="HannibalTV.tn@SD" tvg-logo="https://i.postimg.cc/wTnCtHjg/hannibaltv.png" group-title="🇹🇳تونسTUNISIE",Hannibal TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/hannibaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="🇹🇳تونسTUNISIE",JAWHARA TV
 https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 tvg-id="JawharaTV.tn@SD" tvg-logo="https://i.imgur.com/mRSQ5bP.png" group-title="🇹🇳تونسTUNISIE",Jawhara TV 
@@ -2850,26 +2736,6 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 http://69.64.57.208/canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="🇩🇿الجزائرALGERIEN",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-id="BahiaTV.dz@SD" tvg-logo="https://i.postimg.cc/tTBLmkgq/bahiatv.png" group-title="🇩🇿الجزائرALGERIEN",Bahia TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/bahiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukNews.dz@SD" tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="🇩🇿الجزائرALGERIEN",Echorouk News
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/echorouknews/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz@SD" tvg-logo="https://i.imgur.com/33rf7KV.png" group-title="🇩🇿الجزائرALGERIEN",Echorouk TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/echorouktv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElDjazairN1.dz@SD" tvg-logo="https://i.imgur.com/jnuu5eN.png" group-title="🇩🇿الجزائرALGERIEN",El Djazair N1
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/eldjazairn1/playlist.m3u8
-#EXTINF:-1 tvg-id="ElHayatTV.dz@SD" tvg-logo="https://i.postimg.cc/yYZ5Cc6T/elhayattv.png" group-title="🇩🇿الجزائرALGERIEN",El Hayat TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elbiladtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElHeddafTV.dz@SD" tvg-logo="https://i.postimg.cc/K8hWGjRh/elheddaftv.png" group-title="🇩🇿الجزائرALGERIEN",El-Heddaf TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elheddaftv/playlist.m3u8
-#EXTINF:-1 tvg-id="EnnaharTV.dz@SD" tvg-logo="https://i.imgur.com/C0TCA1s.png" group-title="🇩🇿الجزائرALGERIEN",Ennahar TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/ennahartv/playlist.m3u8
-#EXTINF:-1 tvg-id="OneTV.dz@SD" tvg-logo="https://i.imgur.com/wluVKm3.png" group-title="🇩🇿الجزائرALGERIEN",One TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/onetv/playlist.m3u8
-#EXTINF:-1 tvg-id="SamiraTV.dz@SD" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="🇩🇿الجزائرALGERIEN",Samira TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/samiratv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZAHRATV.dz@SD" tvg-logo="https://i.postimg.cc/BnDZ3V76/zahratv.png" group-title="🇩🇿الجزائرALGERIEN",ZAHRA TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/zahratv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="🇩🇿الجزائرALGERIEN",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
@@ -2887,17 +2753,8 @@ https://starmenajo.com/hls/almasar/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾ليبياLIBYA",Tanasuh TV
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0a1UyA.png" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia Channel
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/libyaalrasmia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0a1UyA.png" group-title="🇱🇾ليبياLIBYA",libyaalmokhtar
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/libyaalmokhtar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0a1UyA.png" group-title="🇱🇾ليبياLIBYA",libyaiftatv
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/libyaiftatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0a1UyA.png" group-title="🇱🇾ليبياLIBYA",libyaalahrarhd
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/libyaalahrarhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0a1UyA.png" group-title="🇱🇾ليبياLIBYA",libyaalwataniya
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/libyaalwataniya/playlist.m3u8
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -2905,8 +2762,6 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/libyaalwataniya/pla
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇸🇩السودانSUDAN", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="SudanEduTV.sd@SD" tvg-logo="https://i.imgur.com/Zr3t7IX.png" group-title="🇸🇩السودانSUDAN",Sudan Edu TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/sudanbasicedu/playlist.m3u8
 #EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="🇸🇩السودانSUDAN",Sudan TV
 https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dabanga_sudan.png" group-title="🇸🇩السودانSUDAN",Dabanga TV
@@ -3203,15 +3058,6 @@ https://bit.ly/airmaxtvproooO
 http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="SNTV2.so" tvg-logo="https://i.imgur.com/2eKFSqO.png" group-title="🇸🇴الصومالSomalia‎",SNTV Daljir
 https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
-#EXTINF:-1 tvg-id="SomalilandNationalTV.so@SD" tvg-logo="https://i.imgur.com/FIuQNWN.png" group-title="🇸🇴الصومالSomalia‎",Somaliland National TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/slntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇸🇴الصومالSomalia‎", slntv
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/slntv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇸🇴الصومالSomalia‎", universaltv
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/universaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlNahar.eg@SD" tvg-logo="" group-title="🇸🇴الصومالSomalia‎", horncabletv
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/horncabletv/playlist.m3u8
 
 
 
@@ -3224,11 +3070,6 @@ https://bit.ly/airmaxtvproooO
 
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="🇲🇷موريتانياMauritania‎",StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="" group-title="🇲🇷موريتانياMauritania‎",elmouritania
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/elmouritania/playlist.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="" group-title="🇲🇷موريتانياMauritania‎",elwataniyatv
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elwataniyatv/playlist.m3u8
-
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
