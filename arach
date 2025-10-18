@@ -294,15 +294,14 @@ https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
 https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 #EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
-https://storage.googleapis.com/hls/live/2097037/alkass4/master.m3u8
+https://storage.googleapis.com/livealkass-eu/alkass4/main.m3u8
 #EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Alkass One
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1nutre/master.m3u8
 #EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORT رياضية",Alkass SHOOF
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+https://storage.googleapis.com/alkass6-bucket/livestream/shoof/main.m3u8
 #EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Alkass Three
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vau/master.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
@@ -2338,6 +2337,8 @@ http://185.9.2.18/chid_391/mono.m3u8
 http://185.9.2.18/chid_312/mono.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",LBC
 http://185.9.2.18/chid_327/mono.m3u8
+#EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_LBC_International_%28Lebanon%29.png" group-title="LEBANON لبنان",LBC INT
+http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="LEBANON لبنان",Al Ittihad
 https://live.alittihad.tv:444/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="LEBANON لبنان",Al Manar
@@ -2435,7 +2436,10 @@ https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
 #EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://data.arab48.com/data/news/2023/03/20/640-376/20230320022552.jpg", صوت فلسطين
 https://pbc.furrera.ps/PalLive/VOPTV/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",WATAR PS
+http://htvint.mada.ps:8889/orient/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",WATAR PS
+https://htvint.mada.ps/orient/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
