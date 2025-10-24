@@ -51,8 +51,6 @@ http://176.119.29.54/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2+
-http://1789-181.123091763.it.com/live/235756_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO3.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
@@ -61,17 +59,9 @@ https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO4.m3u8
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO5.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO6.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6+
-https://cdnfest.com/G6-720p/video.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 3840x2160
-https://hz.achourtv.com/bn_meta_4k1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 1920x1080
-https://hz.achourtv.com/bn_meta_fhd1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 1280x720
-https://hz.achourtv.com/bn_meta_hd1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1 854x480
-https://hz.achourtv.com/bn_meta_sd1.m3u8
+http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2 1280x720
 https://hz.dencreak.com/bn_4k2.m3u8?token=
