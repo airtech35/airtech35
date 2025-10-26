@@ -182,6 +182,27 @@ http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6128/index.m3u8
 
 
 
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",bein_sd_2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",bein_sd_3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein_sd_4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/2560px-Logo_BeinSports_5_MAX.svg.png",bein_sd_5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",bein_sd_6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png",bein_sd_7
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",bein_sd_8
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",bein_sd_9
+http://135.125.109.73:9000/beinsport9_.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagesf8505586997801f2.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Canal_Sport_2015.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport
