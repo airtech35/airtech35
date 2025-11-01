@@ -1324,8 +1324,7 @@ https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="🆁™ أخبارWorld News 🌍",AL JAZEERA HD 🇶🇦
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="🆁™ أخبارWorld News 🌍",AL JAZEERA SD 🇶🇦
-https://live-hls-web-aja-fa.thehlive.com/alternative/AJA/03.m3u8
-https://live-hls-apps-aja-fa.getaj.net/AJA/03.m3u8
+https://live-hls-web-aja-gcp.thehlive.com/AJA/03.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="🆁™ أخبارWorld News 🌍",Al Jazeera Mubasher 24 HD 🇶🇦
 https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj" group-title="🆁™ أخبارWorld News 🌍",Al Jazeera Mubasher 24 SD 🇶🇦
