@@ -110,16 +110,6 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -03
-http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -04
-http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -05
-http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -06
-http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -07
-http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
@@ -215,19 +205,6 @@ http://135.125.109.73:9000/beinsport9_.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagesf8505586997801f2.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Canal_Sport_2015.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport
-http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Canal_Sport_2015.png" group-title="BEIN SPORT بين سبور", AR: Canal+ Sport 2
-http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-
-#EXTINF:-1  tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE 24 -09
-http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1  tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE 24 -13
-http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-
-
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -239,56 +216,24 @@ https://bit.ly/airmaxtvproooO
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN SPORT SD |",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN SPORT SD |",⚽️كيف احصل على الكود
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT VIP بين سبور", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN SPORT SD |", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Thmanyah SPORT",SPORT CHANNELS
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | THMANYAH  الثمانية |",SPORT CHANNELS
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Thmanyah SPORT",كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | THMANYAH  الثمانية |",كيف احصل على الكود
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Thmanyah SPORT", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | THMANYAH  الثمانية |", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 1 240
-http://1789-181.123091763.it.com/live/469683_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 13 60
-http://1789-181.123091763.it.com/live/560245_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 14 80
-http://1789-181.123091763.it.com/live/696998_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 1 720
-http://1789-181.123091763.it.com/live/882115_.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah2.jpg" group-title="Thmanyah SPORT",Thmanyah 2 1080
-http://1789-181.123091763.it.com/live/976309_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah2.jpg" group-title="Thmanyah SPORT",Thmanyah 2 720
-http://1789-181.123091763.it.com/live/670314_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah2.jpg" group-title="Thmanyah SPORT",Thmanyah 2 480
-http://1789-181.123091763.it.com/live/310421_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah3.jpg" group-title="Thmanyah SPORT",Thmanyah 3 1080
-http://1789-181.123091763.it.com/live/248005_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah3.jpg" group-title="Thmanyah SPORT",Thmanyah 3 720
-http://1789-181.123091763.it.com/live/140439_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah3.jpg" group-title="Thmanyah SPORT",Thmanyah 3 480
-http://1789-181.123091763.it.com/live/982038_.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 1+
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thmanyahsports_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/ar_jpg/thmanyah1.jpg" group-title="Thmanyah SPORT",Thmanyah 1++
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/Thman1SD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://azrogo.com/iphone/images/fr_jpg/thmanyah3.jpg" group-title="Thmanyah SPORT",Thmanyah 3
-http://1789-181.123091763.it.com/live/595243_.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -1233,30 +1178,24 @@ https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="NETFLIX VIP", باقة NETFLIX 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | NETFLIX 24/7 نيتفليكس", باقة NETFLIX 
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="NETFLIX VIP", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | NETFLIX 24/7 نيتفليكس", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Bein MEDIA", Bein MEDIA 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN Entertainment ترفيهي", Bein MEDIA 
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Bein MEDIA", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN Entertainment ترفيهي", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="OSNاو اس ان", او اس انOSN 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | ONC", ONC
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="OSNاو اس ان",النسخة المدفوعة AirMax TV
-https://bit.ly/airmaxtvproooO
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Shahid Net VIP", باقة شاهد نت 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Shahid Net VIP", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | ONC", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -1286,25 +1225,49 @@ http://213.57.91.138:8000/play/a05t
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",ZEE ALWAN
 http://213.57.91.138:8000/play/a05u
 
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Al Majd قنوات المجد",قنوات المجد
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | FILMAX", FILMAX
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Al Majd قنوات المجد", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | FILMAX", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="ART VIP", باقة art 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | Yango Play", AR | Yango Play
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Al Majd قنوات المجد", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | Yango Play", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="MAJESTIC VIP", MAJESTIC LIVE 
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | Firemax", AR | Firemax
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="MAJESTIC VIP", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | Firemax", airmax النسخة المدفوعة
+https://bit.ly/airmaxtvproooO
+
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | ShowTime", AR | ShowTime
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | ShowTime", airmax النسخة المدفوعة
+https://bit.ly/airmaxtvproooO
+
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | MAGISTIC- ماجيستك", AR | MAGISTIC- ماجيستك
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | MAGISTIC- ماجيستك", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
 
