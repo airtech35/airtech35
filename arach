@@ -2343,7 +2343,7 @@ http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="LEBANON لبنان",Al Ittihad
 https://live.alittihad.tv:444/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="LEBANON لبنان",Al Manar
-https://edge.fastpublish.me/live/index.m3u8
+https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="LEBANON لبنان",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.lb" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="LEBANON لبنان",Aliman TV
@@ -2372,6 +2372,9 @@ https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
 https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="LEBANON لبنان",Ifilm Tv
 https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.redtvlebanon.com/assets/images/REDTV.svg" group-title="LEBANON لبنان",RED لبنان
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
@@ -2632,6 +2635,17 @@ http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬المصرية Egypt",ON EGYPT
 http://185.9.2.18/chid_616/mono.m3u8
 
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.ibb.co/Kx7wmXCQ/almasriya.png" group-title="🇪🇬المصرية Egypt",Al Masriyah
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="🇪🇬المصرية Egypt",الأولى
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ertu1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483644.jpg" group-title="🇪🇬المصرية Egypt",المصرية
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1193_1.png" group-title="🇪🇬المصرية Egypt",النهار الأولى
+https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch17.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://elbaladtv.net/images/Logo.png" group-title="🇪🇬المصرية Egypt",صدى البلد
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/elbaladtv.m3u8
+
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/6ZLkpgR/Masriyah1.jpg" group-title="🇪🇬المصرية Egypt", المصرية
 http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SOFRA EGYPT" live="1" tvg-logo="http://teledunet.com/logos/cbc_sofra.jpg" group-title="🇪🇬المصرية Egypt",CBC SOFRA EGYPT
@@ -2665,8 +2679,6 @@ http://213.57.91.138:8000/play/a06q
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="🇪🇬المصرية Egypt",CBC Sofra
 http://213.57.91.138:8000/play/a06p
 
-#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.ibb.co/Kx7wmXCQ/almasriya.png" group-title="🇪🇬المصرية Egypt",Al Masriyah
-https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
