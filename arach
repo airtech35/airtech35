@@ -8772,7 +8772,7 @@ https://vip.mustafatv.xyz:443/live/vip/vip/2.m3u8
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Digi Sport 1 🇷🇴
 http://91.201.172.14:35005/
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5 🇮🇱
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Setanta Georgia 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
