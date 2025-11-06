@@ -1924,6 +1924,8 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children أطفال",ROTANA_KIDS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" group-title="Children أطفال",DISNEY  
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJuu63l.png" group-title="Children أطفال",Nickelodeon HD
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKfH3KI.png" group-title="Children أطفال",NickToons
@@ -2198,6 +2200,10 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC أم بي سي",MBC ACTION
 http://213.57.91.138:8000/play/a05l
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC أم بي سي",MBC ACTION+
+http://185.9.2.18/chid_378/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" group-title="MBC أم بي سي",MBC Max
+http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLXFwsgLUH8xbGK7kgael74oOUHBD__uXsg6XjbvYkF-U=s900-c-k-c0x00ffffff-no-rj" group-title="MBC أم بي سي",MBC-Persia (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="MBC أم بي سي",MY-MBC Wanasah  (4K)
