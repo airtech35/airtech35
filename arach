@@ -3097,6 +3097,8 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mph0Uu"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ronahi TV
 https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
+#EXTINF:-1 tvg-name="Ronahi TV (1080p)"tvg-id="RonahiTV.sy"tvg-logo="https://i.imgur.com/JSvJpD8.png"group-title="KURDISH",Ronahi TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/jin_tv.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",jintv
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="KURDISH",Al Yaum TV
@@ -3211,6 +3213,19 @@ http://avrstream.com:1935/live/rasoulallahtv/playlist.m3u8
 http://avrstream.com:1935/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",ASHTI TV
 http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="MedyaHaber TV"tvg-id="MedyaHaber TV"tvg-logo="https://medyahabertv.com/wp-content/uploads/2023/05/MedyaHaberLogo.png"group-title="KURDISH",MedyaHaber TV
+https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
+#EXTINF:-1 tvg-name="Rojava TV (1080p)"tvg-id="RojavaTV.sy"tvg-logo="https://i.imgur.com/42noysO.png"group-title="KURDISH",Rojava TV 
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-name="Cira TV"tvg-id="CiraTV.de"tvg-logo="https://i.imgur.com/YFnmSLW.png"group-title="KURDISH",Cira TV
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr"tvg-logo="https://i.imgur.com/gtUFmCD.png"group-title="KURDISH",Med Muzik 
+https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
+#EXTINF:-1 tvg-name="WAR TV (1080p)"tvg-id="Wartv.ae"tvg-logo=""group-title="KURDISH",WAR TV
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
