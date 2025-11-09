@@ -261,34 +261,6 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 
 
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Fajer TV",SPORT CHANNELS
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Fajer TV",كيف احصل على الكود
-https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Fajer TV", airmax النسخة المدفوعة
-https://bit.ly/airmaxtvproooO
-
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr1 480p
-https://cdnfest.com/ftv1-720p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 2 
-https://cdnfest.com/ftv2-720p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 3
-https://cdnfest.com/ftv3-720p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 4
-https://cdnfest.com/ftv4-720p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 5
-https://cdnfest.com/ftv5-720p/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.raya.ps/assets/themes/default/assets/images/logo.png" group-title="Fajer TV",راية 1
-https://htvmada.mada.ps:4443/raya/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء
-http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Fajer TV",تلفزيون البهاء 2
-http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
-
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT رياضية",SPORT CHANNELS
@@ -1935,6 +1907,11 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children أطفال",ROTANA_KIDS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
+#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Children أطفال",تلفزيون البهاء
+http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Children أطفال",تلفزيون البهاء 2
+http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
+
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" group-title="Children أطفال",DISNEY  
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJuu63l.png" group-title="Children أطفال",Nickelodeon HD
