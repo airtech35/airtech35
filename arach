@@ -2362,9 +2362,10 @@ https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
 https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="LEBANON لبنان",Ifilm Tv
 https://live.presstv.ir/hls/ifilmar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.redtvlebanon.com/assets/images/REDTV.svg" group-title="LEBANON لبنان",RED لبنان
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/KolWUTEcPB5R3iKRWYSkfwPmNTjxHgRm39qyOAeLgwAk8YZW5DVXeY8LLhtuII8i5O4oiIE5=s900-c-k-c0x00ffffff-no-rj" group-title="LEBANON لبنان",RED لبنان
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Qn_da7QAlW8wiPygCo_FbyY4zss3gdWX3AKPVjr_0W3cUz-KJMdFk6bBSn0LQ5JxVQ" group-title="LEBANON لبنان",Senses TV
+http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
@@ -2700,11 +2701,11 @@ https://cdnet.alwaysdata.net/maro15/matamaz.php?m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="🇲🇦المغربMAROCCO",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/gHwCFb0.png" group-title="🇲🇦المغربMAROCCO",Medi 1 TV Afrique
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="🇲🇦المغربMAROCCO",Medi 1 TV Arabic
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="🇲🇦المغربMAROCCO",Medi 1 TV Maghreb
-https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="🇲🇦المغربMAROCCO",StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
 
