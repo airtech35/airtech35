@@ -2365,6 +2365,8 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Qn_da7QAlW8wiPygCo_FbyY4zss3gdWX3AKPVjr_0W3cUz-KJMdFk6bBSn0LQ5JxVQ" group-title="LEBANON لبنان",Senses TV
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="LEBANON لبنان",Al Jadeed+
+https://www.web24iptv.online/hls_lbn?url=https://samaflix.com:12103/channel7/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="LEBANON لبنان",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_LBC_International_%28Lebanon%29.png" group-title="LEBANON لبنان",LBC INT
