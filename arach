@@ -34,8 +34,6 @@ https://bit.ly/airmaxtvproooO
 http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:0 CUID="12" tvg-name=" SPORTS NEWS (Backup 1)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
-http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport 1 En
 http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="BEIN SPORT بين سبور",Bein Sport 2 En
