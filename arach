@@ -9253,17 +9253,17 @@ http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b0
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 6 🇨🇿
 http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 1 HD 🇨🇿
-https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+http://176.116.105.82/Nova_Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 2 SK HD 🇸🇰+++
 http://176.116.105.82/NovaSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 3 SK HD 🇸🇰
-https://176.116.105.82/NovaSport3_HD/index.m3u8
+http://176.116.105.82/NovaSport3_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 4 SK HD 🇸🇰
-https://176.116.105.82/NovaSport4_HD/index.m3u8
+http://176.116.105.82/NovaSport4_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 5 SK HD 🇸🇰
-https://176.116.105.82/NovaSport5_HD/index.m3u8
+http://176.116.105.82/NovaSport5_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 6 HD 🇨🇿
-https://176.116.105.82/NovaSport6_HD/index.m3u8
+http://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CANAL+ Sport 🇨🇿
 http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CANAL+ Sport 🇸🇰
@@ -9757,17 +9757,17 @@ http://38gb.pro/live/1100788991/14811/197904.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 1 HD cz
-https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+http://176.116.105.82/Nova_Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 2 SK HD+++
 http://176.116.105.82/NovaSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 3 SK HD
-https://176.116.105.82/NovaSport3_HD/index.m3u8
+http://176.116.105.82/NovaSport3_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 4 SK HD
-https://176.116.105.82/NovaSport4_HD/index.m3u8
+http://176.116.105.82/NovaSport4_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 5 SK HD
-https://176.116.105.82/NovaSport5_HD/index.m3u8
+http://176.116.105.82/NovaSport5_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 6 HD cz
-https://176.116.105.82/NovaSport6_HD/index.m3u8
+http://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:0 tvg-id="PremierSport2.cz" group-title="SPORT VIP1",Premier Sport 2
 http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
 #EXTINF:0 tvg-id="SportyTV.cz" group-title="SPORT VIP1",Sporty TV
@@ -10269,45 +10269,45 @@ https://78.108.251.7/Diema_Sport_2_HD/index.m3u8
 #EXTINF:0 tvg-id="NovaSport.sr" group-title="SPORT VIP1",Nova Sport HD
 https://78.108.251.7/NovaSport_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 1 HD cz
-https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+http://176.116.105.82/Nova_Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 2 SK HD
-https://176.116.105.82/NovaSport2_HD/index.m3u8
+http://176.116.105.82/NovaSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 3 SK HD
-https://176.116.105.82/NovaSport3_HD/index.m3u8
+http://176.116.105.82/NovaSport3_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 4 SK HD
-https://176.116.105.82/NovaSport4_HD/index.m3u8
+http://176.116.105.82/NovaSport4_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 5 SK HD
-https://176.116.105.82/NovaSport5_HD/index.m3u8
+http://176.116.105.82/NovaSport5_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 6 HD cz
-https://176.116.105.82/NovaSport6_HD/index.m3u8
+http://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:0 tvg-id="ArenaSport1.hr" group-title="SPORT VIP1",Arena Sport 1 HD
-https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+http://176.116.105.82/Arena_Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORT VIP1",Arena Sport 2 HD
-https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+http://176.116.105.82/Arena_Sport2_HD/index.m3u8
 #EXTINF:0 tvg-id="fight-box-hd" group-title="SPORT VIP1",FightBox HD
-https://176.116.105.82/FightBox_HD/index.m3u8
+http://176.116.105.82/FightBox_HD/index.m3u8
 #EXTINF:0 tvg-id="Sport1.cz" group-title="SPORT VIP1",Sport 1 HD cz
-https://176.116.105.82/Sport1_HD/index.m3u8
+http://176.116.105.82/Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Sport 2 HD cz
-https://176.116.105.82/Sport2_HD/index.m3u8
+http://176.116.105.82/Sport2_HD/index.m3u8
 #EXTINF:0 tvg-id="JOJSport.sk" group-title="SPORT VIP1",JOJ Sport HD
-https://176.116.105.82/JOJSport_HD/index.m3u8
+http://176.116.105.82/JOJSport_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",JOJ Sport 2 HD
-https://176.116.105.82/JOJSport2_HD/index.m3u8
+http://176.116.105.82/JOJSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Golf Channel HD cz
-https://176.116.105.82/GolfChannel_HD/index.m3u8
+http://176.116.105.82/GolfChannel_HD/index.m3u8
 #EXTINF:0 tvg-id="fight-box-hd" group-title="SPORT VIP1",FightBox HD
-https://176.116.105.82/FightBox_HD/index.m3u8
+http://176.116.105.82/FightBox_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",XSPORT_HD
-https://176.116.105.82/XSPORT_HD/index.m3u8
+http://176.116.105.82/XSPORT_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Eurosport HD cz
-https://176.116.105.82/Eurosport_HD/index.m3u8
+http://176.116.105.82/Eurosport_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Eurosport 2 HD cz
-https://176.116.105.82/Eurosport2_HD/index.m3u8
+http://176.116.105.82/Eurosport2_HD/index.m3u8
 #EXTINF:0 tvg-id="AutoMotorSport.cz" group-title="SPORT VIP1",AutoMotorSport HD
-https://176.116.105.82/AutoMotorSport_HD/index.m3u8
+http://176.116.105.82/AutoMotorSport_HD/index.m3u8
 #EXTINF:0 tvg-id="extreme-sports" group-title="SPORT VIP1",Extreme_Sports
-https://176.116.105.82/Extreme_Sports/index.m3u8
+http://176.116.105.82/Extreme_Sports/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",ctsport HD
 http://185.188.188.237:5000/live/ctsport/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",jojsport HD
@@ -10651,45 +10651,45 @@ https://78.108.251.7/Diema_Sport_2_HD/index.m3u8
 #EXTINF:0 tvg-id="NovaSport.sr" group-title="SPORT VIP1",Nova Sport HD
 https://78.108.251.7/NovaSport_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 1 HD cz
-https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+http://176.116.105.82/Nova_Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 2 SK HD
-https://176.116.105.82/NovaSport2_HD/index.m3u8
+http://176.116.105.82/NovaSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 3 SK HD
-https://176.116.105.82/NovaSport3_HD/index.m3u8
+http://176.116.105.82/NovaSport3_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 4 SK HD
-https://176.116.105.82/NovaSport4_HD/index.m3u8
+http://176.116.105.82/NovaSport4_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 5 SK HD
-https://176.116.105.82/NovaSport5_HD/index.m3u8
+http://176.116.105.82/NovaSport5_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 6 HD cz
-https://176.116.105.82/NovaSport6_HD/index.m3u8
+http://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:0 tvg-id="ArenaSport1.hr" group-title="SPORT VIP1",Arena Sport 1 HD
-https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+http://176.116.105.82/Arena_Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORT VIP1",Arena Sport 2 HD
-https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+http://176.116.105.82/Arena_Sport2_HD/index.m3u8
 #EXTINF:0 tvg-id="fight-box-hd" group-title="SPORT VIP1",FightBox HD
-https://176.116.105.82/FightBox_HD/index.m3u8
+http://176.116.105.82/FightBox_HD/index.m3u8
 #EXTINF:0 tvg-id="Sport1.cz" group-title="SPORT VIP1",Sport 1 HD cz
-https://176.116.105.82/Sport1_HD/index.m3u8
+http://176.116.105.82/Sport1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Sport 2 HD cz
-https://176.116.105.82/Sport2_HD/index.m3u8
+http://176.116.105.82/Sport2_HD/index.m3u8
 #EXTINF:0 tvg-id="JOJSport.sk" group-title="SPORT VIP1",JOJ Sport HD
-https://176.116.105.82/JOJSport_HD/index.m3u8
+http://176.116.105.82/JOJSport_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",JOJ Sport 2 HD
-https://176.116.105.82/JOJSport2_HD/index.m3u8
+http://176.116.105.82/JOJSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Golf Channel HD cz
-https://176.116.105.82/GolfChannel_HD/index.m3u8
+http://176.116.105.82/GolfChannel_HD/index.m3u8
 #EXTINF:0 tvg-id="fight-box-hd" group-title="SPORT VIP1",FightBox HD
-https://176.116.105.82/FightBox_HD/index.m3u8
+http://176.116.105.82/FightBox_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",XSPORT_HD
-https://176.116.105.82/XSPORT_HD/index.m3u8
+http://176.116.105.82/XSPORT_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Eurosport HD cz
-https://176.116.105.82/Eurosport_HD/index.m3u8
+http://176.116.105.82/Eurosport_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Eurosport 2 HD cz
-https://176.116.105.82/Eurosport2_HD/index.m3u8
+http://176.116.105.82/Eurosport2_HD/index.m3u8
 #EXTINF:0 tvg-id="AutoMotorSport.cz" group-title="SPORT VIP1",AutoMotorSport HD
-https://176.116.105.82/AutoMotorSport_HD/index.m3u8
+http://176.116.105.82/AutoMotorSport_HD/index.m3u8
 #EXTINF:0 tvg-id="extreme-sports" group-title="SPORT VIP1",Extreme_Sports
-https://176.116.105.82/Extreme_Sports/index.m3u8
+http://176.116.105.82/Extreme_Sports/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",M1 Sport
 http://dvr1.kablova.tv/M1/mpegts
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",M2 Sport
