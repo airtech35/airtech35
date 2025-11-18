@@ -9254,8 +9254,8 @@ http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b0
 http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 1 HD 🇨🇿
 https://176.116.105.82/Nova_Sport1_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 2 SK HD 🇸🇰
-https://176.116.105.82/NovaSport2_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 2 SK HD 🇸🇰+++
+http://176.116.105.82/NovaSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 3 SK HD 🇸🇰
 https://176.116.105.82/NovaSport3_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Nova Sport 4 SK HD 🇸🇰
@@ -9758,8 +9758,8 @@ http://38gb.pro/live/1100788991/14811/197904.m3u8
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 1 HD cz
 https://176.116.105.82/Nova_Sport1_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 2 SK HD
-https://176.116.105.82/NovaSport2_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 2 SK HD+++
+http://176.116.105.82/NovaSport2_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 3 SK HD
 https://176.116.105.82/NovaSport3_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Nova Sport 4 SK HD
