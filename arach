@@ -39,7 +39,32 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="BEIN SPORT بين سبور",Bein Sport 2 En
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
-
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport 
+https://ab.footballii.ir/hls2/bein1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 0
+http://87.229.95.134/TOD360/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 00
+https://st.remotv.xyz/tmh/1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
+http://87.229.95.134/TOD1/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+http://87.229.95.134/TOD2/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
+http://87.229.95.134/TOD3/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
+http://87.229.95.134/TOD4/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
+http://87.229.95.134/TOD5/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
+http://87.229.95.134/TOD6/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 7
+http://87.229.95.134/TOD7/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 8
+http://87.229.95.134/TOD8/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 9
+http://87.229.95.134/TOD9/video.m3u8?token=tv
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 10
+http://87.229.95.134/TOD17/video.m3u8?token=tv
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 4K
 https://py.dencreak.com/bn_meta_4k_hdr.m3u8
