@@ -66,14 +66,7 @@ https://baratrah.com/bein3/index.m3u8
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
 https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO3.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO4.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO5.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO6.m3u8
+
 
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
@@ -81,8 +74,6 @@ https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
@@ -95,35 +86,29 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 HD
+https://py.dencreak.com/bn_g_hd1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 SD
 https://py.dencreak.com/bn_g_sd1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 1280x720
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 854x480
-http://het119a.4rouwanda-shop.store/live/978480008877005/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 1280x720
-http://het119a.4rouwanda-shop.store/live/69854211/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 854x480
-http://het119a.4rouwanda-shop.store/live/10011244/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 426x240
-http://het119a.4rouwanda-shop.store/live/4798998070/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 1920x1080
-http://het119a.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 1280x720
-http://het119a.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 854x480
-http://het119a.4rouwanda-shop.store/live/161988840/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 426x240
-http://het119a.4rouwanda-shop.store/live/551818447/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 🇶🇦
-http://het119a.4rouwanda-shop.store/live/9787488847/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 🇶🇦
-http://het119a.4rouwanda-shop.store/live/610303030/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 🇶🇦
-http://het119a.4rouwanda-shop.store/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 7 🇶🇦
-http://het119a.4rouwanda-shop.store/live/33523510/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 8 🇶🇦
-http://het119a.4rouwanda-shop.store/live/996251000/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 HD
+https://py.dencreak.com/bn_g_hd2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 SD
+https://py.dencreak.com/bn_g_sd2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 HD
+https://py.dencreak.com/bn_g_hd3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 SD
+https://py.dencreak.com/bn_g_sd3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 🇶🇦 4 HD
+https://py.dencreak.com/bn_g_hd4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 🇶🇦 5 HD
+https://py.dencreak.com/bn_g_hd5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 🇶🇦 6 HD
+https://py.dencreak.com/bn_g_hd6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 7 HD
+https://py.dencreak.com/bn_g_hd7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 8 HD
+https://py.dencreak.com/bn_g_hd8.m3u8
+
 
 
 
@@ -141,23 +126,6 @@ http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
-
-
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1 HD 
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6123/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",Bein Sport 2 HD 
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6131/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",Bein Sports 3 HD 
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6124/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",Bein Sport 4 HD 
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6125/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/2560px-Logo_BeinSports_5_MAX.svg.png",Bein Sports 5 HD 
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6126/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",Bein Sports 6 HD 
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6127/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png",Bein Sports 7 HD 
-http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6128/index.m3u8
-
 
 
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
