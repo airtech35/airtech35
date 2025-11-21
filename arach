@@ -64,10 +64,7 @@ https://baratrah.com/bein2/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
 https://baratrah.com/bein3/index.m3u8
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
+
 
 
 
@@ -149,7 +146,18 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",bein_sd_9
 http://135.125.109.73:9000/beinsport9_.m3u8
 
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO3.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO4.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO5.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO6.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 0
 http://87.229.95.134/TOD360/video.m3u8?token=tv
