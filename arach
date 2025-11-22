@@ -54,19 +54,19 @@ https://stream.ayas.ir/hls2/bein1.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 mlaliga +
 http://172.93.102.112:8989/278844_.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 mlaliga +++
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets1.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
 http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
 http://176.119.29.7/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
+http://176.119.29.7/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
 https://baratrah.com/bein2/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
 https://baratrah.com/bein3/index.m3u8
-
-
-
-
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
 https://balance.footballii.ir/hls2/bein1.m3u8
@@ -143,7 +143,7 @@ http://135.125.109.73:9000/beinsport6_.m3u8
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",bein_sd_8
 http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",bein_sd_9
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_9
 http://135.125.109.73:9000/beinsport9_.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
@@ -288,8 +288,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT VIP 🏆", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-
-
 #EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORTS FOOTBALL
 http://178.33.239.54:8080/500a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORTS NEWS
