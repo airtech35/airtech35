@@ -55,12 +55,6 @@ https://stream.ayas.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 mlaliga +
 http://172.93.102.112:8989/278844_.m3u8
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
-http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
-http://176.119.29.7/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
-http://176.119.29.7/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
 https://baratrah.com/bein2/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
@@ -75,18 +69,10 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
-https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
-https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",canal + France
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 SD
-https://py.dencreak.com/bn_g_sd1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 SD
@@ -105,8 +91,6 @@ https://py.dencreak.com/bn_g_hd6.m3u8
 https://py.dencreak.com/bn_g_hd7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 8 HD
 https://py.dencreak.com/bn_g_hd8.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 HD 
@@ -169,43 +153,12 @@ https://mejarserver.site/G4-480p/video.m3u8
 https://mejarserver.site/G5-480p/video.m3u8
 
 
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO3.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO4.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO5.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
-https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO6.m3u8
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 0
-http://87.229.95.134/TOD360/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
-http://87.229.95.134/TOD1/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
-http://87.229.95.134/TOD2/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
-http://87.229.95.134/TOD3/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
-http://87.229.95.134/TOD4/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
-http://87.229.95.134/TOD5/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
-http://87.229.95.134/TOD6/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 7
-http://87.229.95.134/TOD7/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 8
-http://87.229.95.134/TOD8/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 9
-http://87.229.95.134/TOD9/video.m3u8?token=tv
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 10
-http://87.229.95.134/TOD17/video.m3u8?token=tv
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",canal + France
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
