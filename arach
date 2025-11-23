@@ -64,12 +64,8 @@ https://baratrah.com/bein3/index.m3u8
 https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd1.m3u8
@@ -92,7 +88,6 @@ https://py.dencreak.com/bn_g_hd7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 8 HD
 https://py.dencreak.com/bn_g_hd8.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 HD 
@@ -107,7 +102,6 @@ http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
-
 
 #EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
 http://135.125.109.73:9000/beinsport1_.m3u8
@@ -151,7 +145,6 @@ https://mejarserver.site/G3-480p/video.m3u8
 https://mejarserver.site/G4-480p/video.m3u8
 #EXTINF:-1 tvg-name="BeIN 5 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)05.jpg" group-title="BEIN SPORT بين سبور",BeIN 5 SD
 https://mejarserver.site/G5-480p/video.m3u8
-
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
