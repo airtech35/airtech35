@@ -10863,12 +10863,6 @@ http://gr.seetv.cc/play/1138/FB4F94DA00C3BE0/video.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
-#EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
-#EXTM3U M3U Short link: https://bit.ly/a1xstream - Recommend apps: TiviMate, iMPlayer, Televizio, UHF...
-#EXTM3U Join our discord server: https://a1xs.vip/discord
-#EXTM3U Disclaimer: Links were collected by the bot on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters.
-
-
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Sports English VIP",Live Event 1
 https://a1xs.vip/ppv1
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Sports English VIP",Live Event 2
