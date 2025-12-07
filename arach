@@ -281,13 +281,17 @@ https://storage.googleapis.com/alkass6-bucket/livestream/shoof2/20251116T090700Z
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 #EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
-https://storage.googleapis.com/livealkass-eu/alkass4/main.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Alkass One
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1nutre/master.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Alkass Three
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vau/master.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2heb/master.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="" group-title="SPORT رياضية",alkass six
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="" group-title="SPORT رياضية",alkass Eight
+https://liveeu-gcp.alkassdigital.net/alkass8-p/main.m3u8
 
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
@@ -2117,6 +2121,7 @@ http://213.57.91.138:8000/play/a05l
 http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" group-title="MBC أم بي سي",MBC Max
 http://185.9.2.18/chid_379/index.m3u8
+http:\\185.9.2.18\chid_379\index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLXFwsgLUH8xbGK7kgael74oOUHBD__uXsg6XjbvYkF-U=s900-c-k-c0x00ffffff-no-rj" group-title="MBC أم بي سي",MBC-Persia (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="MBC أم بي سي",MY-MBC Wanasah  (4K)
