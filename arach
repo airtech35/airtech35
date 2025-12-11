@@ -43,22 +43,8 @@ http://135.125.109.73:9000/beinsporten2_.m3u8
 https://ab.footballii.ir/hls2/bein1.m3u8
 
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 4K
-https://py.dencreak.com/bn_meta_4k_hdr.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 4K
-https://py.dencreak.com/bn_meta_4k_hdr.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 4K
-https://py.dencreak.com/bn_meta_4k_hdr.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 1
 https://stream.ayas.ir/hls2/bein1.m3u8 
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 mlaliga +
-http://172.93.102.112:8989/278844_.m3u8
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
-https://baratrah.com/bein2/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
-https://baratrah.com/bein3/index.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
 https://balance.footballii.ir/hls2/bein1.m3u8
@@ -121,30 +107,6 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_9
 http://135.125.109.73:9000/beinsport9_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BEIN SPORT بين سبور",BeIN 1 HEVC
-https://mejarserver.site/ftv1-720p-castx/video.m3u8
-
-#EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BEIN SPORT بين سبور",BeIN 1 HEVC
-https://mejarserver.site/Alwan-Sport-1-HD/video.m3u8
-#EXTINF:-1 tvg-name="BeIN 2 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)02.jpg" group-title="BEIN SPORT بين سبور",BeIN 2 HEVC
-https://mejarserver.site/Alwan-Sport-2-HD/video.m3u8
-
-#EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BEIN SPORT بين سبور",BeIN 1 HEVC
-https://mejarserver.site/cast-b1/video.m3u8
-#EXTINF:-1 tvg-name="BeIN 2 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)02.jpg" group-title="BEIN SPORT بين سبور",BeIN 2 HEVC
-https://mejarserver.site/cast-2/video.m3u8
-
-#EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BEIN SPORT بين سبور",BeIN 1 SD
-https://mejarserver.site/G1-480p/video.m3u8
-#EXTINF:-1 tvg-name="BeIN 2 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)02.jpg" group-title="BEIN SPORT بين سبور",BeIN 2 SD
-https://mejarserver.site/G2-480p/video.m3u8
-#EXTINF:-1 tvg-name="BeIN 3 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)03.jpg" group-title="BEIN SPORT بين سبور",BeIN 3 SD
-https://mejarserver.site/G3-480p/video.m3u8
-#EXTINF:-1 tvg-name="BeIN 4 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)04.jpg" group-title="BEIN SPORT بين سبور",BeIN 4 SD
-https://mejarserver.site/G4-480p/video.m3u8
-#EXTINF:-1 tvg-name="BeIN 5 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)05.jpg" group-title="BEIN SPORT بين سبور",BeIN 5 SD
-https://mejarserver.site/G5-480p/video.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
