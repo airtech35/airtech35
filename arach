@@ -1805,8 +1805,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://bit.ly/3PFq9Up" group-title="Children أطفال",Majid 
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 tvg-name="Majid " tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/Tom-and-jerry-1-.jpg" group-title="Children أطفال",tom_and_JERRY
-https://live.kwikmotion.com/smcottlive/ott1.smil/smcottpublish/ott1_source/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",Amou Yazid TV
@@ -1819,7 +1817,10 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Children أطفال",تلفزيون البهاء 2
 http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
-
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" group-title="Children أطفال",nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/mJXS80z/nickjr.jpg" group-title="Children أطفال",nick jr
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/BPY5XCN/Disney2.jpg" group-title="Children أطفال",DISNEY  
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJuu63l.png" group-title="Children أطفال",Nickelodeon HD
