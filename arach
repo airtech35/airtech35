@@ -21,6 +21,8 @@ https://bit.ly/3rYm5G5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="قسم الدعم الفني للتطبيق",❤️تحميل airmaxعلى الشاشات الاندرويد
 https://bit.ly/3OG5wq7
 
+
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT بين سبور",BEIN SPORT⚽️
@@ -32,6 +34,8 @@ https://bit.ly/airmaxtvproooO
 
 #EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
 http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
+https://ythls.armelin.one/channel/UCgi67KpEg7mJv62oZi_Y3mg.m3u8
 #EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
 http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport 1 En
@@ -2216,7 +2220,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="Syria سورية",Alaraby 2 TV 
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://yt3.googleusercontent.com/1XPmyKLFFYvDqgjhXXBmqg64K-NDK69CvwO87r699GO57F7hKvmv0PPZN6NTuOJRtJy9T8-1=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية", الإخبارية السورية
+https://ythls.armelin.one/channel/UClm30t2F4FHzzkN9Irtr-8A.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
