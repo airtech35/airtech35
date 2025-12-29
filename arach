@@ -56,6 +56,20 @@ https://stream.ayas.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 1+
 https://sdmmt162.provegooott.com/1_.m3u8
 
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 01
+https://pull-hls-f16-va01.tiktokcdn.com/game/stream-3000868856484593752/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 02
+https://dipezq1uqtq3p.cloudfront.net/kooora/0990bf258387aff10_sd?ts=1767023529&nonce=d4nxtqVe&token=1764797739
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 03
+https://d2f8niqinvm9u5.cloudfront.net/hls/1/stream.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 04
+https://bmax2.s3.us-east-1.amazonaws.com/hls/1/stream.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 05
+https://bmax2.s3.us-east-1.amazonaws.com/hls/1/stream.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 06
+https://cc.cdnfrontstage2.cfd/hls/1/stream.m3u8
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
 https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
