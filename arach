@@ -163,24 +163,26 @@ https://py.dencreak.com/bn_s_fhd8.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 fhd
 https://py.dencreak.com/bn_s_fhd9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 hd
+
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/118.png",BeIn 1 HD
 https://py.dencreak.com/bn_s_hd1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/510.png",BeIn 2 HD
 https://py.dencreak.com/bn_s_hd2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/511.png",BeIn 3 HD
 https://py.dencreak.com/bn_s_hd3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/111.png",BeIn 4 HD
 https://py.dencreak.com/bn_s_hd4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/112.png",BeIn 5 HD
 https://py.dencreak.com/bn_s_hd5.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/113.png",BeIn 6 HD
 https://py.dencreak.com/bn_s_hd6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/114.png",BeIn 7 HD
 https://py.dencreak.com/bn_s_hd7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/115.png",BeIn 8 HD
 https://py.dencreak.com/bn_s_hd8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 hd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/116.png",BeIn 9 HD
 https://py.dencreak.com/bn_s_hd9.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 576P
 https://py.dencreak.com/bn_u_576P_1.m3u8
@@ -202,24 +204,26 @@ https://py.dencreak.com/bn_u_576P_8.m3u8
 https://py.dencreak.com/bn_u_576P_9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8118.png",BeIn 1 SD
 https://py.dencreak.com/bn_s_sd1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8510.png",BeIn 2 SD
 https://py.dencreak.com/bn_s_sd2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8511.png",BeIn 3 SD
 https://py.dencreak.com/bn_s_sd3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8111.png",BeIn 4 SD
 https://py.dencreak.com/bn_s_sd4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8112.png",BeIn 5 SD
 https://py.dencreak.com/bn_s_sd5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8113.png",BeIn 6 SD
 https://py.dencreak.com/bn_s_sd6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8114.png",BeIn 7 sd
 https://py.dencreak.com/bn_s_sd7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8115.png",BeIn 8 SD
 https://py.dencreak.com/bn_s_sd8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 sd
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8116.png",BeIn 9 SD
 https://py.dencreak.com/bn_s_sd9.m3u8
+
+
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
@@ -233,41 +237,41 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 1
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="⚽ Alwan Sport ⚽", alwan_hd 1
 https://py.dencreak.com/alwan_hd1.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 1
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="⚽ Alwan Sport ⚽", alwan_4K 1
 https://py.dencreak.com/alwan_4k1.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 1
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640309104961.png" group-title="⚽ Alwan Sport ⚽", alwan_SD 1
 https://py.dencreak.com/alwan_sd1.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 2
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640311747621.png" group-title="⚽ Alwan Sport ⚽", alwan_hd 2
 https://py.dencreak.com/alwan_hd2.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 2
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640311747621.png" group-title="⚽ Alwan Sport ⚽", alwan_4K 2
 https://py.dencreak.com/alwan_4k2.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 2
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640311747621.png" group-title="⚽ Alwan Sport ⚽", alwan_SD 2
 https://py.dencreak.com/alwan_sd2.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 3
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640314461031.png" group-title="⚽ Alwan Sport ⚽", alwan_hd 3
 https://py.dencreak.com/alwan_hd3.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 3
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640314461031.png" group-title="⚽ Alwan Sport ⚽", alwan_4K 3
 https://py.dencreak.com/alwan_4k3.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 3
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640314461031.png" group-title="⚽ Alwan Sport ⚽", alwan_SD 3
 https://py.dencreak.com/alwan_sd3.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 4
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640316876931.png" group-title="⚽ Alwan Sport ⚽", alwan_hd 4
 https://py.dencreak.com/alwan_hd4.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 4
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640316876931.png" group-title="⚽ Alwan Sport ⚽", alwan_4K 4
 https://py.dencreak.com/alwan_4k4.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 4
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640316876931.png" group-title="⚽ Alwan Sport ⚽", alwan_SD 4
 https://py.dencreak.com/alwan_sd4.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 5
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640318756891.png" group-title="⚽ Alwan Sport ⚽", alwan_hd 5
 https://py.dencreak.com/alwan_hd5.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 5
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640318756891.png" group-title="⚽ Alwan Sport ⚽", alwan_4K 5
 https://py.dencreak.com/alwan_4k5.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 5
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640318756891.png" group-title="⚽ Alwan Sport ⚽", alwan_SD 5
 https://py.dencreak.com/alwan_sd5.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 6
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640320453981.png" group-title="⚽ Alwan Sport ⚽", alwan_hd 6
 https://py.dencreak.com/alwan_hd6.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 6 
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640320453981.png" group-title="⚽ Alwan Sport ⚽", alwan_4K 6 
 https://py.dencreak.com/alwan_4k6.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 6
+#EXTINF:-1 tvg-logo="https://up6.cc//2025//05//174640320453981.png" group-title="⚽ Alwan Sport ⚽", alwan_SD 6
 https://py.dencreak.com/alwan_sd6.m3u8
 #EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_sd 7
 https://py.dencreak.com/alwan_sd7.m3u8
