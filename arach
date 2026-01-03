@@ -125,19 +125,19 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 http://135.125.109.73:9000/beinsport9_.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/752923487.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/752923487.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 1 4K
 https://py.dencreak.com/bn_s_4k1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/886438986.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/886438986.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 2 4K
 https://py.dencreak.com/bn_s_4k2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/927254160.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/927254160.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 3 4K
 https://py.dencreak.com/bn_s_4k3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/309828085.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 4 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/309828085.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 4 4K
 https://py.dencreak.com/bn_s_4k4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/633113235.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 5 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/633113235.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 5 4K
 https://py.dencreak.com/bn_s_4k5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/781939349.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 6 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/781939349.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 6 4K
 https://py.dencreak.com/bn_s_4k6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/882342264.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 7 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/882342264.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 7 4K
 https://py.dencreak.com/bn_s_4k7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 4k
 https://py.dencreak.com/bn_s_4k8.m3u8
