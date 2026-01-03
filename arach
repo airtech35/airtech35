@@ -46,9 +46,9 @@ http://135.125.109.73:9000/beinsporten2_.m3u8
 #EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport 
 https://ab.footballii.ir/hls2/bein1.m3u8
 
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport MAX 1
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 1
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport MAX 2
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 2
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
@@ -56,20 +56,37 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 1
+https://py.dencreak.com/bn_max_g_sd1.m3u8
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 2
+https://py.dencreak.com/bn_max_g_sd2.m3u8
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://www.akher.news/wp-content/uploads/2024/01/value-1-800x500-1.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 3
+https://py.dencreak.com/bn_max_s_sd3.m3u8
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 4
+https://py.dencreak.com/bn_max_s_sd4.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 fr HD
+https://py.dencreak.com/bn_fr_hd1.m3u8
 #EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 1
 https://py.dencreak.com/alwan_hd1.m3u8
 #EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 2
- https://py.dencreak.com/alwan_hd2.m3u8
+https://py.dencreak.com/alwan_hd2.m3u8
 #EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 3
- https://py.dencreak.com/alwan_hd3.m3u8
+https://py.dencreak.com/alwan_hd3.m3u8
 #EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 4
- https://py.dencreak.com/alwan_hd4.m3u8
+https://py.dencreak.com/alwan_hd4.m3u8
 #EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 5
- https://py.dencreak.com/alwan_hd5.m3u8
+https://py.dencreak.com/alwan_hd5.m3u8
 #EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 6
- https://py.dencreak.com/alwan_hd6.m3u8
-
+https://py.dencreak.com/alwan_hd6.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_sd 7
+https://py.dencreak.com/alwan_sd7.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_sd 8
+https://py.dencreak.com/alwan_sd8.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_sd 9
+https://py.dencreak.com/alwan_sd9.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_sd 10
+https://py.dencreak.com/alwan_sd10.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd1.m3u8
