@@ -330,7 +330,10 @@ http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ON_Sport_Logo.svg/960px-ON_Sport_Logo.svg.png" group-title="SPORT رياضية", ON Sport 1
+http://apk.arabic-ch.space/live/006900/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ON_Sport_Logo.svg/960px-ON_Sport_Logo.svg.png" group-title="SPORT رياضية", ON Sport 2
+http://apk.arabic-ch.space/live/007000/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
