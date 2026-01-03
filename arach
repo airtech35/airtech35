@@ -90,20 +90,6 @@ https://py.dencreak.com/bn_g_hd7.m3u8
 https://py.dencreak.com/bn_g_hd8.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 HD 
-http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 HD 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 HD 
-http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6124/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 HD 
-http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 HD 
-http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 HD 
-http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 HD 
-http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
 
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
 http://135.125.109.73:9000/beinsport1_.m3u8
@@ -232,6 +218,20 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 HD 
 
 
 
