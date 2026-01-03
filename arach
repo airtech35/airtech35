@@ -25,253 +25,257 @@ https://bit.ly/3OG5wq7
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT بين سبور",BEIN SPORT⚽️
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",⚽️كيف احصل على الكود
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BEIN SPORT بين سبور", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
+#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS HD
 http://135.125.109.73:9000/beinsportglobal_.m3u8
-#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
+#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS HD
 https://ythls.armelin.one/channel/UCgi67KpEg7mJv62oZi_Y3mg.m3u8
-#EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
+#EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS NEWS
 http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport 1 En
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="⚽ BEIN SPORT ⚽",Bein Sport 1 En
 http://135.125.109.73:9000/beinsporten1_.m3u8
-#EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="BEIN SPORT بين سبور",Bein Sport 2 En
+#EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 2 En
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport 
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="⚽ BEIN SPORT ⚽",Bein Sport 
 https://ab.footballii.ir/hls2/bein1.m3u8
 
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 1
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 1
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 2
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 2
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 1
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 1
 https://py.dencreak.com/bn_max_g_sd1.m3u8
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 2
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 2
 https://py.dencreak.com/bn_max_g_sd2.m3u8
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://www.akher.news/wp-content/uploads/2024/01/value-1-800x500-1.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 3
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://www.akher.news/wp-content/uploads/2024/01/value-1-800x500-1.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 3
 https://py.dencreak.com/bn_max_s_sd3.m3u8
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png" group-title="BEIN SPORT بين سبور",Bein Sport MAX 4
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 4
 https://py.dencreak.com/bn_max_s_sd4.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 fr HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 1 fr HD
 https://py.dencreak.com/bn_fr_hd1.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 1 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 2 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 2 🇶🇦 SD
 https://py.dencreak.com/bn_g_sd2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="⚽ BEIN SPORT ⚽",Bien sport 3 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",Bien sport 3 🇶🇦 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="⚽ BEIN SPORT ⚽",Bien sport 3 🇶🇦 SD
 https://py.dencreak.com/bn_g_sd3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 🇶🇦 4 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 🇶🇦 4 HD
 https://py.dencreak.com/bn_g_hd4.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 🇶🇦 5 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 🇶🇦 5 HD
 https://py.dencreak.com/bn_g_hd5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 🇶🇦 6 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 🇶🇦 6 HD
 https://py.dencreak.com/bn_g_hd6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 🇶🇦 7 HD
 https://py.dencreak.com/bn_g_hd7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 🇶🇦 8 HD
 https://py.dencreak.com/bn_g_hd8.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 HD 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6124/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",bein_sd_2
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",bein_sd_2
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",bein_sd_3
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",bein_sd_3
 http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein_sd_4
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein_sd_4
 http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/2560px-Logo_BeinSports_5_MAX.svg.png",bein_sd_5
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/2560px-Logo_BeinSports_5_MAX.svg.png",bein_sd_5
 http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",bein_sd_6
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",bein_sd_6
 http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png",bein_sd_7
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png",bein_sd_7
 http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",bein_sd_8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="⚽ BEIN SPORT ⚽",bein_sd_8
 http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_9
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_9
 http://135.125.109.73:9000/beinsport9_.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 4k
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/752923487.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 1
 https://py.dencreak.com/bn_s_4k1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 4k
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/886438986.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 2 
 https://py.dencreak.com/bn_s_4k2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 4k
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/927254160.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 3 
 https://py.dencreak.com/bn_s_4k3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 4k
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/309828085.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 4 
 https://py.dencreak.com/bn_s_4k4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 4k
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/633113235.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 5 
 https://py.dencreak.com/bn_s_4k5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 4k
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/781939349.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 6 
 https://py.dencreak.com/bn_s_4k6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 4k
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="https://www4.0zz0.com/2021/07/08/08/882342264.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 7 
 https://py.dencreak.com/bn_s_4k7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 4k
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 4k
 https://py.dencreak.com/bn_s_4k8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 4k
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 4k
 https://py.dencreak.com/bn_s_4k9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 fhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 fhd
 https://py.dencreak.com/bn_s_fhd1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 fhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 fhd
 https://py.dencreak.com/bn_s_fhd2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 fhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 fhd
 https://py.dencreak.com/bn_s_fhd3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 fhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 fhd
 https://py.dencreak.com/bn_s_fhd4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 fhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 fhd
 https://py.dencreak.com/bn_s_fhd5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 fhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 fhd
 https://py.dencreak.com/bn_s_fhd6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 fhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 fhd
 https://py.dencreak.com/bn_s_fhd7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 fhd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 fhd
 https://py.dencreak.com/bn_s_fhd8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 fhd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 fhd
 https://py.dencreak.com/bn_s_fhd9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 hd
 https://py.dencreak.com/bn_s_hd1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 hd
 https://py.dencreak.com/bn_s_hd2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 hd
 https://py.dencreak.com/bn_s_hd3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 hd
 https://py.dencreak.com/bn_s_hd4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 hd
 https://py.dencreak.com/bn_s_hd5.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 hd
 https://py.dencreak.com/bn_s_hd6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 hd
 https://py.dencreak.com/bn_s_hd7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 hd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 hd
 https://py.dencreak.com/bn_s_hd8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 hd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 hd
 https://py.dencreak.com/bn_s_hd9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 576P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 576P
 https://py.dencreak.com/bn_u_576P_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 576P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 576P
 https://py.dencreak.com/bn_u_576P_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 576P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 576P
 https://py.dencreak.com/bn_u_576P_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 576P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 576P
 https://py.dencreak.com/bn_u_576P_4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 576P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 576P
 https://py.dencreak.com/bn_u_576P_5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 576P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 576P
 https://py.dencreak.com/bn_u_576P_6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 576P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 576P
 https://py.dencreak.com/bn_u_576P_7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 576P
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 576P
 https://py.dencreak.com/bn_u_576P_8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 576P
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 576P
 https://py.dencreak.com/bn_u_576P_9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 1 sd
 https://py.dencreak.com/bn_s_sd1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 2 sd
 https://py.dencreak.com/bn_s_sd2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 3 sd
 https://py.dencreak.com/bn_s_sd3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 4 sd
 https://py.dencreak.com/bn_s_sd4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 5 sd
 https://py.dencreak.com/bn_s_sd5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 6 sd
 https://py.dencreak.com/bn_s_sd6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="⚽ BEIN SPORT ⚽", Bein Sports 7 sd
 https://py.dencreak.com/bn_s_sd7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 sd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 8 sd
 https://py.dencreak.com/bn_s_sd8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 sd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="⚽ BEIN SPORT ⚽",Bien sport 9 sd
 https://py.dencreak.com/bn_s_sd9.m3u8
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+
+
+
 
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_hd 1
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 1
 https://py.dencreak.com/alwan_hd1.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_4K 1
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 1
 https://py.dencreak.com/alwan_4k1.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_SD 1
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 1
 https://py.dencreak.com/alwan_sd1.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_hd 2
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 2
 https://py.dencreak.com/alwan_hd2.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_4K 2
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 2
 https://py.dencreak.com/alwan_4k2.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_SD 2
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 2
 https://py.dencreak.com/alwan_sd2.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_hd 3
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 3
 https://py.dencreak.com/alwan_hd3.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_4K 3
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 3
 https://py.dencreak.com/alwan_4k3.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_SD 3
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 3
 https://py.dencreak.com/alwan_sd3.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_hd 4
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 4
 https://py.dencreak.com/alwan_hd4.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_4K 4
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 4
 https://py.dencreak.com/alwan_4k4.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_SD 4
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 4
 https://py.dencreak.com/alwan_sd4.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_hd 5
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 5
 https://py.dencreak.com/alwan_hd5.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_4K 5
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 5
 https://py.dencreak.com/alwan_4k5.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_SD 5
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 5
 https://py.dencreak.com/alwan_sd5.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_hd 6
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_hd 6
 https://py.dencreak.com/alwan_hd6.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_4K 6 
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_4K 6 
 https://py.dencreak.com/alwan_4k6.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_SD 6
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_SD 6
 https://py.dencreak.com/alwan_sd6.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_sd 7
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_sd 7
 https://py.dencreak.com/alwan_sd7.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_sd 8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_sd 8
 https://py.dencreak.com/alwan_sd8.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_sd 9
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_sd 9
 https://py.dencreak.com/alwan_sd9.m3u8
-#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="alwan sport", alwan_sd 10
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="⚽ Alwan Sport ⚽", alwan_sd 10
 https://py.dencreak.com/alwan_sd10.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
