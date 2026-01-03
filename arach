@@ -94,6 +94,28 @@ https://py.dencreak.com/bn_g_hd7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 8 HD
 https://py.dencreak.com/bn_g_hd8.m3u8
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 
+https://py.dencreak.com/bn_u_576P_1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 2
+https://py.dencreak.com/bn_u_576P_2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 3
+https://py.dencreak.com/bn_u_576P_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 4
+https://py.dencreak.com/bn_u_576P_4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 5
+https://py.dencreak.com/bn_u_576P_5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 6
+https://py.dencreak.com/bn_u_576P_6.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 7
+https://py.dencreak.com/bn_u_576P_7.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8
+https://py.dencreak.com/bn_u_576P_8.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9
+https://py.dencreak.com/bn_u_576P_9.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 HD 
 http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 HD 
@@ -252,25 +274,22 @@ https://bit.ly/airmaxtvproooO
 #EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://qna.org.qa/media/k5yfisa3/alkass_one-300x143.png" ,Alkass Three
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
-https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
+https://streamer8.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
-https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORT رياضية",Alkass SHOOF 1
-https://storage.googleapis.com/alkass6-bucket/livestream/shoof/20251116T090542Z/mux_video_720p_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="SPORT رياضية",Alkass SHOOF 2
-https://storage.googleapis.com/alkass6-bucket/livestream/shoof2/20251116T090700Z/mux_video_720p_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+https://Streamer8.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Alkass One
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Alkass Three
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Alkass Three
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Alkass Five
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://shoof.alkass.net/assets/images/six.png" group-title="SPORT رياضية",alkass six
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORT رياضية",Abu Dhabi Sports 2
