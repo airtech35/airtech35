@@ -56,6 +56,21 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 1
+https://py.dencreak.com/alwan_hd1.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 2
+ https://py.dencreak.com/alwan_hd2.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 3
+ https://py.dencreak.com/alwan_hd3.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 4
+ https://py.dencreak.com/alwan_hd4.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 5
+ https://py.dencreak.com/alwan_hd5.m3u8
+#EXTINF:-1 tvg-logo="https://newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="BEIN SPORT بين سبور", alwan_hd 6
+ https://py.dencreak.com/alwan_hd6.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 🇶🇦 HD
 https://py.dencreak.com/bn_g_hd1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 🇶🇦 HD
