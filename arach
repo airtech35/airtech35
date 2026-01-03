@@ -2320,6 +2320,13 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://yt3.googleusercontent.com/1XPmyKLFFYvDqgjhXXBmqg64K-NDK69CvwO87r699GO57F7hKvmv0PPZN6NTuOJRtJy9T8-1=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية", الإخبارية السورية
 https://ythls.armelin.one/channel/UClm30t2F4FHzzkN9Irtr-8A.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Syria سورية",Syria تلفزيون برايم
+https://ythls.armelin.one/channel/UCgi67KpEg7mJv62oZi_Y3mg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Syria سورية",Syria تلفزيون برايم
+https://ythls.armelin.one/channel/UCDKcuB5VBIVwx1RJfKkSjtg.m3u8
+
+
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria سورية",LTV 
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="BabAlHara.sa" tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Syria سورية",Bab Al Hara
