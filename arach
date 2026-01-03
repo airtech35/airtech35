@@ -95,19 +95,20 @@ https://py.dencreak.com/bn_g_hd7.m3u8
 https://py.dencreak.com/bn_g_hd8.m3u8
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 1 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1
 https://py.dencreak.com/bn_u_576P_1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2
 https://py.dencreak.com/bn_u_576P_2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3
 https://py.dencreak.com/bn_u_576P_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4
 https://py.dencreak.com/bn_u_576P_4.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5
 https://py.dencreak.com/bn_u_576P_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6
 https://py.dencreak.com/bn_u_576P_6.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7
 https://py.dencreak.com/bn_u_576P_7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8
 https://py.dencreak.com/bn_u_576P_8.m3u8
