@@ -51,23 +51,6 @@ http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e
 #EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="BEIN SPORT بين سبور",Bein Sport MAX 2
 http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 1
-https://stream.ayas.ir/hls2/bein1.m3u8 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 1+
-https://sdmmt162.provegooott.com/1_.m3u8
-
-
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 01
-https://pull-hls-f16-va01.tiktokcdn.com/game/stream-3000868856484593752/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 02
-https://d2f8niqinvm9u5.cloudfront.net/hls/1/stream.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 03
-https://bmax2.s3.us-east-1.amazonaws.com/hls/1/stream.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 04
-https://bmax2.s3.us-east-1.amazonaws.com/hls/1/stream.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 05
-https://cc.cdnfrontstage2.cfd/hls/1/stream.m3u8
-
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
@@ -93,28 +76,6 @@ https://py.dencreak.com/bn_g_hd6.m3u8
 https://py.dencreak.com/bn_g_hd7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="BEIN SPORT بين سبور",BEIN SPORTS 🇶🇦 8 HD
 https://py.dencreak.com/bn_g_hd8.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1
-https://py.dencreak.com/bn_u_576P_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2
-https://py.dencreak.com/bn_u_576P_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3
-https://py.dencreak.com/bn_u_576P_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4
-https://py.dencreak.com/bn_u_576P_4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5
-https://py.dencreak.com/bn_u_576P_5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6
-https://py.dencreak.com/bn_u_576P_6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7
-https://py.dencreak.com/bn_u_576P_7.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8
-https://py.dencreak.com/bn_u_576P_8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9
-https://py.dencreak.com/bn_u_576P_9.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 HD 
@@ -151,12 +112,108 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_9
 http://135.125.109.73:9000/beinsport9_.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 4k
+https://py.dencreak.com/bn_s_4k1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 4k
+https://py.dencreak.com/bn_s_4k2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 4k
+https://py.dencreak.com/bn_s_4k3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 4k
+https://py.dencreak.com/bn_s_4k4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 4k
+https://py.dencreak.com/bn_s_4k5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 4k
+https://py.dencreak.com/bn_s_4k6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 4k
+https://py.dencreak.com/bn_s_4k7.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 4k
+https://py.dencreak.com/bn_s_4k8.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 4k
+https://py.dencreak.com/bn_s_4k9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 fhd
+https://py.dencreak.com/bn_s_fhd1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 fhd
+https://py.dencreak.com/bn_s_fhd2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 fhd
+https://py.dencreak.com/bn_s_fhd3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 fhd
+https://py.dencreak.com/bn_s_fhd4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 fhd
+https://py.dencreak.com/bn_s_fhd5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 fhd
+https://py.dencreak.com/bn_s_fhd6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 fhd
+https://py.dencreak.com/bn_s_fhd7.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 fhd
+https://py.dencreak.com/bn_s_fhd8.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 fhd
+https://py.dencreak.com/bn_s_fhd9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 hd
+https://py.dencreak.com/bn_s_hd1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 hd
+https://py.dencreak.com/bn_s_hd2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 hd
+https://py.dencreak.com/bn_s_hd3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 hd
+https://py.dencreak.com/bn_s_hd4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 hd
+https://py.dencreak.com/bn_s_hd5.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 hd
+https://py.dencreak.com/bn_s_hd6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 hd
+https://py.dencreak.com/bn_s_hd7.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 hd
+https://py.dencreak.com/bn_s_hd8.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 hd
+https://py.dencreak.com/bn_s_hd9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 576P
+https://py.dencreak.com/bn_u_576P_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 576P
+https://py.dencreak.com/bn_u_576P_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 576P
+https://py.dencreak.com/bn_u_576P_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 576P
+https://py.dencreak.com/bn_u_576P_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 576P
+https://py.dencreak.com/bn_u_576P_5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 576P
+https://py.dencreak.com/bn_u_576P_6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 576P
+https://py.dencreak.com/bn_u_576P_7.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 576P
+https://py.dencreak.com/bn_u_576P_8.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 576P
+https://py.dencreak.com/bn_u_576P_9.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 1 sd
+https://py.dencreak.com/bn_s_sd1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 2 sd
+https://py.dencreak.com/bn_s_sd2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 3 sd
+https://py.dencreak.com/bn_s_sd3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 4 sd
+https://py.dencreak.com/bn_s_sd4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 5 sd
+https://py.dencreak.com/bn_s_sd5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 6 sd
+https://py.dencreak.com/bn_s_sd6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="BEIN SPORT بين سبور", Bein Sports 7 sd
+https://py.dencreak.com/bn_s_sd7.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 8 sd
+https://py.dencreak.com/bn_s_sd8.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",Bien sport 9 sd
+https://py.dencreak.com/bn_s_sd9.m3u8
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="",canal + France
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
