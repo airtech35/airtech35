@@ -53,15 +53,7 @@ http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
-https://d26mvp92wx50x6.cloudfront.net/kooora/6f86qbdsdeffsfgin666?ts=1767541313&nonce=tCcVvvl&token=1904511588&sid=534df21c9e16aedc320f8f0793dd90ed
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+
-https://d26mvp92wx50x6.cloudfront.net/kooora/0990bf25838s7sasff10_sd?ts=1767541414&nonce=D1BUd3oB&token=277444403
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0++
 https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+++
-https://d26mvp92wx50x6.cloudfront.net/kooora/0990bf25838s7sasff10_sd?ts=1767541414&nonce=Sxss9dU9&token=277444403
-
-
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
