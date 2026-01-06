@@ -2326,7 +2326,10 @@ https://live.syriaone.tv/live/syriaone.m3u8
 https://ythls.armelin.one/channel/UClm30t2F4FHzzkN9Irtr-8A.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/AicId1Ybv9mLp4DRvkbn9o16DrJ9gPnIGAS9W1R3aH13DwN5G2Lnhsp-j8jNnAJtB-cL4_sFCA=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",Syria تلفزيون برايم
 https://ythls.armelin.one/channel/UCDKcuB5VBIVwx1RJfKkSjtg.m3u8
-
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://yt3.googleusercontent.com/BjSQKvB8h-3s1XtGnu6s8n4RnWjmgjafm_OZ97jC0lUlZ3pyTdNHvIjiq7UaPhg_gPplGgHDZA=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",Halab Today TV
+https://ythls.armelin.one/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKfRvwYpAumYVCYhmNbzaXfmxPYbbZmFn1kD1N_Ny-zw=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",Radio Sham FM
+https://radioshamfm.grtvstream.com:8400/stream
 
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria سورية",LTV 
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
@@ -2354,8 +2357,6 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 http://185.9.2.18/chid_387/mono.m3u8
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="LEBANON لبنان",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="LEBANON لبنان",Al Jadeed
-https://samaflix.com:12103/channel7/index.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",LBC
 http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="LEBANON لبنان",Al Ittihad
@@ -2390,17 +2391,9 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Qn_da7QAlW8wiPygCo_FbyY4zss3gdWX3AKPVjr_0W3cUz-KJMdFk6bBSn0LQ5JxVQ" group-title="LEBANON لبنان",Senses TV
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
-
-#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="LEBANON لبنان",Al Jadeed+
-https://www.web24iptv.online/hls_lbn?url=https://samaflix.com:12103/channel7/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="LEBANON لبنان",Al Jadeed
-http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_LBC_International_%28Lebanon%29.png" group-title="LEBANON لبنان",LBC INT
-http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UNews.lb@SD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unews-lb.png" group-title="LEBANON لبنان",UNews
-https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
