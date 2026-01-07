@@ -1377,22 +1377,16 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="🆁™ أخبارWorld News 🌍",AL ARABIYA HD 🇸🇦
-https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="🆁™ أخبارWorld News 🌍",AL ARABIYA SD 🇸🇦
-https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_36.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/AlArabiya_English_2021_logo.jpg" group-title="🆁™ أخبارWorld News 🌍",AL-Arabiya-English 🇸🇦
-https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1791074043921149953/gEVaGkBY_400x400.jpg" group-title="🆁™ أخبارWorld News 🌍",AL arabiya HD 🇸🇦
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="🆁™ أخبارWorld News 🌍",AL HADATH HD 🇸🇦
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="🆁™ أخبارWorld News 🌍",AL HADATH SD 🇸🇦
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/manifest/video/576p1200kbps/video.m3u8
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="🆁™ أخبارWorld News 🌍",Al Arabiya Programs HD 🇸🇦
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vid.alarabiya.net/images/2023/10/27/62f548e2-46ca-470b-93a9-c9f80deefef9/62f548e2-46ca-470b-93a9-c9f80deefef9.jpg" group-title="🆁™ أخبارWorld News 🌍",Al Arabiya Business HD 🇸🇦
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://vid.alarabiya.net/images/2023/10/27/62f548e2-46ca-470b-93a9-c9f80deefef9/62f548e2-46ca-470b-93a9-c9f80deefef9.jpg" group-title="🆁™ أخبارWorld News 🌍",Al Arabiya Business SD 🇸🇦
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/manifest/video/576p1200kbps/video.m3u8
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/AlArabiya_English_2021_logo.jpg" group-title="🆁™ أخبارWorld News 🌍",AL-Arabiya-English 🇸🇦
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYleCsq.png" group-title="🆁™ أخبارWorld News 🌍",Asharq News Channel HD 🇸🇦
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRMk0b.png" group-title="🆁™ أخبارWorld News 🌍",Al Ekhbaria HD 🇸🇦
