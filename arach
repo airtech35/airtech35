@@ -3144,6 +3144,8 @@ https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah+
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_480p/chunks.m3u8?nimblesessionid=114606731
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="🇾🇪اليمن Yemen",almahriah
