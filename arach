@@ -2457,6 +2457,19 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1560952042331455489/dwfIfABS_400x400.jpg" group-title="LEBANON لبنان",Sadalarz-Leb
+http://iptv.icsnleb.com:25461/12/12/1034
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62c1d7ec8f221664c14493b5/53fb1d8e-df2c-40d3-97da-d0fc4e452b30/vod+logo.png" group-title="LEBANON لبنان",VOD-Music
+http://iptv.icsnleb.com:25461/12/12/36
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.mehrnews.com/d/2020/12/06/3/3621014.jpg" group-title="LEBANON لبنان",VOD-Movies
+http://iptv.icsnleb.com:25461/12/12/55
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-Leb
+http://iptv.icsnleb.com:25461/12/12/37
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-Cinema
+http://iptv.icsnleb.com:25461/12/12/59
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-Series
+http://iptv.icsnleb.com:25461/12/12/49
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -3318,7 +3331,7 @@ https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
-https://win.holol.com/live/saad/chunklist.m3u8
+https://ssadtv.ddns.net/live/saad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 1
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="🕌Islami اسلامية",IQRAA 2
