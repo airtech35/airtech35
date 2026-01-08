@@ -44,6 +44,10 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
 https://storage.googleapis.com/uniceterringert1/mux_video_ts1/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://storage.googleapis.com/uniceterringert1/mux_video_ts/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://d3mfwphlstdsy8.cloudfront.net/kooora/CJhbGciOiJIsdsdNi222_sd?ts=1767902746&nonce=TqLim1kq&token=1461252170
 
 #EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="⚽ BEIN SPORT ⚽",Bein Sport 
 https://ab.footballii.ir/hls2/bein1.m3u8
