@@ -1431,8 +1431,8 @@ https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://almasra.iq/wp-content/uploads/2023/03/almasra-logo1.png" group-title="🆁™ أخبارWorld News 🌍",Almasra TV 🇮🇶
 https://live.bradosti.net/live/Almasra/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="🆁™ أخبارWorld News 🌍",Nabaa TV 🇱🇾
-http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="🆁™ أخبارWorld News 🌍",Nabaa TV
+https://media2.streambrothers.com:1936/aggutshtkm/aggutshtkm/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="🆁™ أخبارWorld News 🌍",AL GHAD TV 🇪🇬
