@@ -409,32 +409,7 @@ https://cdn.live.servers8.com/ch03/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• 4
 https://cdn.live.servers8.com/ch04/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R1 full auto 25/26x
-https://v2.thmanyahcdn.com/v2/59255600809345024_auto.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R2 full auto 25/26x
-https://v2.thmanyahcdn.com/v2/59255581498638337_auto.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R3 full auto 25/26
-https://v2.thmanyahcdn.com/v2/59256323391422464_auto.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R4 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-601ed10a04a183fe9c055766299eeed4tt26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R5 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-b05ea07d862762541c9b8ba944cfe706tt26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R6 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-4a9c99e573068a0c19d1f343a966e64ctt26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R7 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-0f1aaa1925f73fa2b87f72e8940af023tt26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R8 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-affdb80dd68d784c6c7bc42accb2f69att26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R9 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-76a83a2001364f80743713141aa56788tt26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil R11 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-de5d184eb1a247f94950d8453469ce23tt26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil KingCup 32 full auto 25/26
-https://v2.thmanyahcdn.com/v2/59257347116072960_auto.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil KingCup 16 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-0b0977ce66dc15db4aaf36b8b718670ctt26_transcode_auto_1513595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="AR | THMANYAH  الثمانية |",Thmanyah• Hil KingCup 8 full auto 25/26
-https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-4ff91d5780d7d1d7bb9ab327a1862563tt26_transcode_auto_1513595.m3u8
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT رياضية",SPORT CHANNELS
