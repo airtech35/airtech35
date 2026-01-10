@@ -43,6 +43,8 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 2 En
 http://135.125.109.73:9000/beinsporten2_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://3.3lok3.site/hls/aloka1/stream.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
 https://storage.googleapis.com/uniceterringert1/mux_video_ts1/index-1.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
 https://storage.googleapis.com/uniceterringert1/mux_video_ts/index-1.m3u8
@@ -8875,8 +8877,15 @@ https://ia902606.us.archive.org/6/items/Ramadan_1431/Kan_Ya_Makan_Alhayat_26_352
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SUPERCOPA 🇦🇪
+https://bs22.cdnfrontstage2.cfd/hls/1/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SUPERCOPA 🇦🇪
+https://storage.googleapis.com/uniceterringert2/mux_video_ts1/index-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SUPERCOPA 🇦🇪
+https://storage.googleapis.com/uniceterringert2/mux_video_ts/index-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SUPERCOPA 🇦🇪
+https://3.3lok3.site/hls/aloka1/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ESPN DEPORTES 🇺🇸
