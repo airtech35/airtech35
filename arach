@@ -47,9 +47,9 @@ https://3.3lok3.site/hls/aloka1/stream.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0++
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/EO-X390-LyaHKU09u0f1OzvLIvrkWFwB23WYMae5USUpgg_gxt_qmHmm_5p0JogCAS2uVLIrWrHNsDfpgULsnQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 1
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/UvY6A6-rDI2EbVLNam0sETcUQ95ULKZC2Kb6JJOHVqs8KLVZObxXeEt9wP7UP04xCxKvcVqYFeDPFECTy6_yxQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+
+
 #EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 1
 https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
 
