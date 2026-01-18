@@ -42,13 +42,6 @@ http://135.125.109.73:9000/beinsportnew_.m3u8
 http://135.125.109.73:9000/beinsporten1_.m3u8
 #EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 2 En
 http://135.125.109.73:9000/beinsporten2_.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
-https://3.3lok3.site/hls/aloka1/stream.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0++
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/UvY6A6-rDI2EbVLNam0sETcUQ95ULKZC2Kb6JJOHVqs8KLVZObxXeEt9wP7UP04xCxKvcVqYFeDPFECTy6_yxQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-
 
 Morocco vs Sénégal
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
@@ -66,8 +59,6 @@ https://shoofkoora.sbs/hlsx/3q8xvxhisa_hi/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://33.syria-live.space/live/beinmax1
 
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport MAX 1
-https://f1.cdnfrontstage2.cfd/hls/1/stream.m3u8
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
