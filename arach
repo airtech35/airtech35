@@ -44,12 +44,9 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
 Morocco vs Sénégal
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://d2ch7tvc9eg67d.cloudfront.net/kooora/dadc8a3cc54a1e245a2?ts=1768759744&nonce=azx51a3k&token=87893524&sid=df22b7bd3c06be3a1b2e6e14cb25caa3
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://d2ch7tvc9eg67d.cloudfront.net/kooora/dadc8a3cc54a1e245a2_sd?ts=1768759746&nonce=FeB8iPAi&token=623664060 
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
-https://d34wo3u4r0heen.cloudfront.net/195.31/hls/1/stream.m3u8
+
+
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 https://shoofkoora.sbs/hlsx/x5uinoe8l0_hi/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
