@@ -2881,31 +2881,24 @@ https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇾🇪اليمن Yemen", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah+
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_480p/chunks.m3u8?nimblesessionid=114606731
+#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV
+https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="🇾🇪اليمن Yemen",almahriah
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="AlSahatTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="🇾🇪اليمن Yemen",Al-Sahat TV
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
-#EXTINF:-1 tvg-id="BelqeesTV.ye" tvg-logo="https://i.postimg.cc/c4tLwgDg/belqeestv.png" group-title="🇾🇪اليمن Yemen",Belqees TV
-http://213.57.91.138:8000/play/a068
 #EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="🇾🇪اليمن Yemen",Yemen Shabab Channel
 https://starmenajo.com/hls/yemenshabab/index.m3u8
-#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",Yemen Today TV
-https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://www.hadhramaut.tv/img/1605966334logo.png" group-title="🇾🇪اليمن Yemen", حضرموت
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="" group-title="🇾🇪اليمن Yemen", عــــدن
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" group-title="🇾🇪اليمن Yemen", اليمن
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
-
-
-
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",Al Masirah
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
