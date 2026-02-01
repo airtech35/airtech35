@@ -44,6 +44,22 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv", ftv1
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv", ftv2
+http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv", ftv3
+http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv", ftv4
+http://live.alfajertv.com:2052/hls5/ftv4/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv", ftv5
+http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv", ftv6
+http://live.alfajertv.com:2052/hls6/ftv6/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv", ftv7
+http://live.alfajertv.com:2052/hls6/ftv7/index.m3u8
+
+
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
 http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
@@ -80,26 +96,6 @@ https://sdmax111.provegooott.com/47_.m3u8
 https://sdmax111.provegooott.com/48_.m3u8
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 9
 https://sdmax111.provegooott.com/49_.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://sdmax111.provegooott.com/43_.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
