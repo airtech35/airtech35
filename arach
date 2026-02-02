@@ -117,6 +117,34 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv1
+https://mejarhosting.cfd/fjr_1_1080p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv2
+https://mejarhosting.cfd/fjr_2_1080p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv3
+https://mejarhosting.cfd/fjr_3_1080p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv4
+https://mejarhosting.cfd/fjr_4_1080p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv5
+https://mejarhosting.cfd/fjr_5_1080p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv6
+https://mejarhosting.cfd/fjr_6_1080p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv7
+https://mejarhosting.cfd/fjr_7_1080p/index.m3u8
+
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", post1
+https://mejarhosting.cfd/post/manifest.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", post2
+https://mejarhosting.cfd/post2/manifest.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", post3
+https://mejarhosting.cfd/post3/manifest.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", post4
+https://mejarhosting.cfd/post4/manifest.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", post5
+https://mejarhosting.cfd/post5/manifest.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", post6
+https://mejarhosting.cfd/post6/manifest.m3u8
+
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv1
 http://live.alfajertv.com:2052/hls/ftv1/index.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv2
 http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8
@@ -131,21 +159,6 @@ http://live.alfajertv.com:2052/hls6/ftv6/index.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv7
 http://live.alfajertv.com:2052/hls6/ftv7/index.m3u8
 
-
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv1
-https://mejarhosting.cfd/fjr_1_1080p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv2
-https://mejarhosting.cfd/fjr_2_1080p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv3
-https://mejarhosting.cfd/fjr_3_1080p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv4
-https://mejarhosting.cfd/fjr_4_1080p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv5
-https://mejarhosting.cfd/fjr_5_1080p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv6
-https://mejarhosting.cfd/fjr_6_1080p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://bit.ly/4193wOv", ftv7
-https://mejarhosting.cfd/fjr_7_1080p/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
