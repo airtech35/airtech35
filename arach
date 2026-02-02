@@ -273,6 +273,51 @@ https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
 https://raspy-forest-b1e4.aykara463.workers.dev/710.m3u8
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="bein4Khd.jsc" group-title="TR:beIN Sport",BeIN Sports 4K
+https://firinmakinesi.lol/static/bs11.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="TR:beIN Sport",BeIN Sports 1
+https://firinmakinesi.lol/static/bs1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",BeIN Sports UHD 2
+https://firinmakinesi.lol/static/bs2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",BeIN Sports UHD 3
+https://firinmakinesi.lol/static/bs3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",BeIN Sports UHD 4
+https://firinmakinesi.lol/static/bs4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",BeIN Sports UHD 5
+https://firinmakinesi.lol/static/bs5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT HD 1
+https://firinmakinesi.lol/static/ss11.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT HD 2
+https://firinmakinesi.lol/static/ss2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT+ PLUS HD
+https://firinmakinesi.lol/static/pl1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT+ PLUS HD 2
+https://firinmakinesi.lol/static/pl2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT+ PLUS HD 3
+https://firinmakinesi.lol/static/pl3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT+ PLUS HD 4
+https://firinmakinesi.lol/static/pl4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT+ PLUS HD 5
+https://firinmakinesi.lol/static/pl5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",S SPORT+ PLUS HD 6
+https://firinmakinesi.lol/static/pl6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",TABİİ SPOR HD
+https://firinmakinesi.lol/static/tabi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",TABİİ SPOR 1 HD
+https://firinmakinesi.lol/static/tabi1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",TABİİ SPOR HD 2
+https://firinmakinesi.lol/static/tabi2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",TABİİ SPOR HD 3
+https://firinmakinesi.lol/static/tabi3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",TABİİ SPOR HD 4
+https://firinmakinesi.lol/static/tabi4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",TABİİ SPOR HD 5
+https://firinmakinesi.lol/static/tabi5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",TABİİ SPOR HD 6
+https://firinmakinesi.lol/static/tabi6.m3u8
+
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 1
