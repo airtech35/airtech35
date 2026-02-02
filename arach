@@ -162,6 +162,35 @@ http://live.alfajertv.com:2052/hls6/ftv7/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Alwan Sport 1 FHD VIP Arb
+http://135.125.109.73:9000/Alwan%20Sport%201%20FHD%20VIP%20Arb_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Alwan Sport 2 FHD VIP Arb
+http://135.125.109.73:9000/Alwan%20Sport%202%20HD%20VIP%20Arb_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Alwan Sport 3 FHD VIP Arb
+http://135.125.109.73:9000/Alwan%20Sport%203%20HD%20VIP%20Arb_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Alwan Sport 4 FHD VIP Arb
+http://135.125.109.73:9000/Alwan%20Sport%204%20HD%20VIP%20Arb_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Alwan Sport 5 FHD VIP Arb
+http://135.125.109.73:9000/Alwan%20Sport%205%20FHD%20VIP%20Arb_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Alwan Sport 6 FHD VIP Arb
+http://135.125.109.73:9000/Alwan%20Sport%206%20FHD%20VIP%20Arb_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Bein Sports 1 4K QA
+http://135.125.109.73:9000/Bein%20Sports%201%204K%20QA_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Bein Sports 2 4K QA
+http://135.125.109.73:9000/Bein%20Sports%202%204K%20QA_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Bein Sports 3 4K QA
+http://135.125.109.73:9000/Bein%20Sports%203%204K%20QA_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Bein Sports 4 4K QA
+http://135.125.109.73:9000/Bein%20Sports%204%204K%20QA_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Bein Sports 5 4K QA
+http://135.125.109.73:9000/Bein%20Sports%205%204K%20QA_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Bein Sports 6 4K QA
+http://135.125.109.73:9000/Bein%20Sports%206%204K%20QA_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ Alwan Sport ⚽",Bein Sports 7 4K QA
+http://135.125.109.73:9000/Bein%20Sports%207%204K%20QA_.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Sports English VIP", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
@@ -209,37 +238,39 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 group-title="TR:beIN Sport" tvg-id="sport.tr" tvg-name="TR:Tabii HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="TR:beIN Sport",TR:Tabii HD
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetb.m3u8
 
-#EXTINF:-1 group-title="TR:beIN Sport" tvg-id="sport.tr" tvg-name="TR:Tabii 8 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="TR:beIN Sport",TR:Tabii 8 HD
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="bein1" tvg-name="BeIN Sports 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="TR:beIN Sport",BeIN Sports 1
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="bein2" tvg-name="BeIN Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="TR:beIN Sport",BeIN Sports 2
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="TR:beIN Sport",BeIN Sports 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="bein4" tvg-name="BeIN Sports 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="TR:beIN Sport",BeIN Sports 4
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="TR:beIN Sport",BeIN Sports 5
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsports5/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="beinmax1" tvg-name="BeIN Sports Max 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="TR:beIN Sport",BeIN Sports Max 1
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="beinmax2" tvg-name="BeIN Sports Max 2" tvg-logo="http://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo_v2.png?1734011568" group-title="TR:beIN Sport",BeIN Sports Max 2
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsportsmax2/playlist.m3u8
-
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="ssport1" tvg-name="S Sport 1" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="TR:beIN Sport",S Sport 1
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 group-title="Selçuk Yayınları" tvg-id="ssport2" tvg-name="S Sport 2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="TR:beIN Sport",S Sport 2
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukssport2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 1 HD
+https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 2 HD
+https://raspy-forest-b1e4.aykara463.workers.dev/702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 3 HD
+https://raspy-forest-b1e4.aykara463.workers.dev/703.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 4 HD
+https://raspy-forest-b1e4.aykara463.workers.dev/704.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 5 HD
+https://raspy-forest-b1e4.aykara463.workers.dev/705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport Max 1 HD
+https://raspy-forest-b1e4.aykara463.workers.dev/714.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport Max 2 HD
+https://raspy-forest-b1e4.aykara463.workers.dev/715.m3u8
+#EXTINF:0 tvg-id="SSport.tr" group-title="TR:beIN Sport",S Sport HD
+https://raspy-forest-b1e4.aykara463.workers.dev/705.m3u8
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="TR:beIN Sport",Tivibu Spor 1
+https://raspy-forest-b1e4.aykara463.workers.dev/706.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",SPOR Smart HD
+https://raspy-forest-b1e4.aykara463.workers.dev/707.m3u8
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="TR:beIN Sport",Tivibu Spor 1
+https://raspy-forest-b1e4.aykara463.workers.dev/708.m3u8
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="TR:beIN Sport",Tivibu Spor 2
+https://raspy-forest-b1e4.aykara463.workers.dev/711.m3u8
+#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="TR:beIN Sport",Tivibu Spor 3
+https://raspy-forest-b1e4.aykara463.workers.dev/712.m3u8
+#EXTINF:0 tvg-id="TivibuSpor4.tr" group-title="TR:beIN Sport",Tivibu Spor 4
+https://raspy-forest-b1e4.aykara463.workers.dev/713.m3u8
+#EXTINF:0 tvg-id="ASpor.tr" group-title="TR:beIN Sport",Aspor
+https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
+#EXTINF:0 tvg-id="esp" group-title="TR:beIN Sport",Eurosport 1
+https://raspy-forest-b1e4.aykara463.workers.dev/710.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
