@@ -647,6 +647,13 @@ http://apk.arabic-ch.space/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ON_Sport_Logo.svg/960px-ON_Sport_Logo.svg.png" group-title="SPORT رياضية", ON Sport 2
 http://apk.arabic-ch.space/live/007000/index.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORT1 HD
+http://176.65.146.100:8037/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORT2 HD
+http://176.65.146.100:8037/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3 HD
+http://176.65.146.100:8037/play/a04s/index.m3u8
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
@@ -11329,6 +11336,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",ATV
 http://65.108.239.207/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",ATV
+http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",atv eu
 http://185.234.111.229:8000/play/a018
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="🇹🇷 Turkey",A2 ᵁᴴᴰ⁺
