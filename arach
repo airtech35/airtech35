@@ -518,7 +518,7 @@ http://185.132.134.159:80/sport5/index.m3u8
 http://185.132.134.159:80/sport6/index.m3u8
 
 #EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT1
-http://79.127.207.193/Supersport1/playlist.m3u8
+https://79.127.207.193/Supersport1/playlist.m3u8
 #EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT2
 http://79.127.207.193/Supersport2/playlist.m3u8
 #EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT3
