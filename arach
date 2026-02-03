@@ -517,6 +517,19 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:0 tvg-id="TS6HD.al" group-title="SPORT VIP 🏆",Sport 6
 http://185.132.134.159:80/sport6/index.m3u8
 
+#EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT1
+http://79.127.207.193/Supersport1/playlist.m3u8
+#EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT2
+http://79.127.207.193/Supersport2/playlist.m3u8
+#EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT3
+http://79.127.207.193/Supersport3/playlist.m3u8
+#EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT4
+http://79.127.207.193/Supersport4/playlist.m3u8
+#EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT5
+http://79.127.207.193/Supersport5/playlist.m3u8
+#EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP 🏆",SSPORT6
+http://79.127.207.193/Supersport6/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", premier 1
 http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", premier2
