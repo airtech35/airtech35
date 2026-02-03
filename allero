@@ -5037,6 +5037,8 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 1 HD
 http://thksmom.shop/NL_NPO1/mpegts
+#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 1
+http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 2 HD
 http://thksmom.shop/NL_NPO2/mpegts
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="" group-title="🇳🇱Netherlands",NPO 3 HD
