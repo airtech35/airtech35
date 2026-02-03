@@ -498,6 +498,378 @@ http://apk.arabic-ch.space/live/007000/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="esp" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Eurosport
+http://gr.seetv.cc/play/15/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Eurosport HD
+http://gr.seetv.cc/play/145/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Eurosport 2
+http://gr.seetv.cc/play/43/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="esp2-hd" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Eurosport 2 HD
+http://gr.seetv.cc/play/361/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! ПРЕМЬЕР
+http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч Премьер HD
+http://gr.seetv.cc/play/250/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sport1_rus" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч Арена
+http://gr.seetv.cc/play/136/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sport1_hd" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Арена HD
+http://gr.seetv.cc/play/146/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-sport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Планета
+http://gr.seetv.cc/play/14/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="match" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч ТВ
+http://gr.seetv.cc/play/5/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="match" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! HD
+http://gr.seetv.cc/play/397/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="match" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! 50fps
+http://gr.seetv.cc/play/680/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="boec" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Боец HD
+http://gr.seetv.cc/play/30/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sport-plus" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",МАТЧ! Страна
+http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sport-plus" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Страна HD
+http://gr.seetv.cc/play/212/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sport2_rus" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Игра
+http://gr.seetv.cc/play/153/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="hd-sport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Игра HD
+http://gr.seetv.cc/play/268/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-football-1" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Футбол 1 HD
+http://gr.seetv.cc/play/260/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-football-1" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч Футбол 1
+http://gr.seetv.cc/play/54/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-football-2" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Футбол 2 HD
+http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Матч! Футбол 3 HD
+http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="megogo-sport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Megogo Спорт HD
+http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="megogo-football-5" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Megogo Футбол 5 HD
+http://gr.seetv.cc/play/10011/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Setanta Sports Premium HD
+http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="setanta-sport-ua" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Setanta Sports Ukraine
+http://gr.seetv.cc/play/1434/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Setanta Sports+ Ukraine
+http://gr.seetv.cc/play/9957/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="setanta-sport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Setanta Sports 1 HD
+http://gr.seetv.cc/play/942/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Setanta Sports 2 HD
+http://gr.seetv.cc/play/943/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="setanta-sport-kz" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Setanta Qazaqstan
+http://gr.seetv.cc/play/5094/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Setanta Sports HD MD
+http://gr.seetv.cc/play/11008/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Суспільне Спорт
+http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DiviSport
+http://gr.seetv.cc/play/315/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Dynamo Kyiv TV
+http://gr.seetv.cc/play/8797/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="futbol" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Футбол
+http://gr.seetv.cc/play/171/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ntv-football-1" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Футбол HD
+http://gr.seetv.cc/play/3920/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Viju+ Sport
+http://gr.seetv.cc/play/77/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Viju+ Sport HD
+http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="okko-sport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Окко Спорт HD
+http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="okko-football" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Окко Футбол HD
+http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="okko-sport-2" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Окко.Прайм Спорт
+http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="start-triumf" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Старт Триумф HD
+http://gr.seetv.cc/play/7375/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="start" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Старт HD
+http://gr.seetv.cc/play/9946/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="konnyj-mir" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Конный мир HD
+http://gr.seetv.cc/play/394/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="kxl" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",КХЛ
+http://gr.seetv.cc/play/149/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="kxl-hd" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",KHL Prime
+http://gr.seetv.cc/play/177/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="xokkejny" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Хоккейный
+http://gr.seetv.cc/play/6160/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="boxtv" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Бокс ТВ
+http://gr.seetv.cc/play/482/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sport1" group-title="⚽ SPORT VIP+1 ⚽",Sport 1 UA
+http://gr.seetv.cc/play/2638/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sport2" group-title="⚽ SPORT VIP+1 ⚽",Sport 2 UA
+http://gr.seetv.cc/play/2639/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Sport 3 UA HD
+http://gr.seetv.cc/play/2640/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Sport 4 UA
+http://gr.seetv.cc/play/2641/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",NBA TV
+http://gr.seetv.cc/play/9984/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="mir-basketbola" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Мир Баскетбола
+http://gr.seetv.cc/play/8831/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="footbolny" group-title="⚽ SPORT VIP+1 ⚽",Мяч
+http://gr.seetv.cc/play/1763/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="avto-plus" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Авто Плюс
+http://gr.seetv.cc/play/29/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="extreme-sports" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Extreme Sports
+http://gr.seetv.cc/play/53/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sportivny" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Спортивный
+http://gr.seetv.cc/play/6159/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",UDAR
+http://gr.seetv.cc/play/4111/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="zhivi-aktivno" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Живи активно HD
+http://gr.seetv.cc/play/1771/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ufc" group-title="⚽ SPORT VIP+1 ⚽",UFC ТВ HD
+http://gr.seetv.cc/play/1777/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="m1-global" group-title="⚽ SPORT VIP+1 ⚽",MMA-TV HD
+http://gr.seetv.cc/play/3795/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="xsport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Xsport HD
+http://gr.seetv.cc/play/480/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="xsport-plus-ua" group-title="⚽ SPORT VIP+1 ⚽",Xsport+ HD
+http://gr.seetv.cc/play/2635/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Equalympic HD
+http://gr.seetv.cc/play/8788/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="russkij-extreme" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Русский Экстрим
+http://gr.seetv.cc/play/345/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="tochka-otryva" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Точка отрыва
+http://gr.seetv.cc/play/601/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="avto24" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Авто 24
+http://gr.seetv.cc/play/256/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Cars & Stars TV HD
+http://gr.seetv.cc/play/9904/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="fight-box-hd" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",FightBox
+http://gr.seetv.cc/play/8790/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="TraceSport.uk" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",TRACE Sport Stars
+http://gr.seetv.cc/play/9907/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Fast&FunBox
+http://gr.seetv.cc/play/8792/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",MAINCAST SPORT
+http://gr.seetv.cc/play/1994/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Tennis+
+http://gr.seetv.cc/play/1889/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",UPL.TV HD
+http://gr.seetv.cc/play/523/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",УПЛ ТВ 1
+http://gr.seetv.cc/play/524/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",УПЛ ТВ 2
+http://gr.seetv.cc/play/525/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",УПЛ ТВ 3
+http://gr.seetv.cc/play/526/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="kazsport" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",QazSport
+http://gr.seetv.cc/play/1841/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Q Arena
+http://gr.seetv.cc/play/1842/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Q Sport League
+http://gr.seetv.cc/play/1843/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Sport+ Qazaqstan
+http://gr.seetv.cc/play/1844/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_1_HD
+http://gr.seetv.cc/play/51013/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_2_HD
+http://gr.seetv.cc/play/51014/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_3_HD
+http://gr.seetv.cc/play/51015/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_4_HD
+http://gr.seetv.cc/play/51016/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_5_HD
+http://gr.seetv.cc/play/51017/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_6_HD
+http://gr.seetv.cc/play/51018/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_7_HD
+http://gr.seetv.cc/play/51019/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_8_HD
+http://gr.seetv.cc/play/51020/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_9_HD
+http://gr.seetv.cc/play/51021/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BOX_SPORT_LIVE_4K
+http://gr.seetv.cc/play/51022/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="⚽ SPORT VIP+1 ⚽",BeIN Sport 1 HD
+http://gr.seetv.cc/play/1101/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ SPORT VIP+1 ⚽",BeIN Sport 2 HD
+http://gr.seetv.cc/play/1102/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="⚽ SPORT VIP+1 ⚽",BeIN Sport 3 HD
+http://gr.seetv.cc/play/1103/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="⚽ SPORT VIP+1 ⚽",BeIN Sport 4 HD
+http://gr.seetv.cc/play/1104/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BeIN EXTRAS
+http://gr.seetv.cc/play/1686/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",TNT Sport 1 HD
+http://gr.seetv.cc/play/922/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",TNT Sport 2 HD
+http://gr.seetv.cc/play/923/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",TNT Sport 3 HD
+http://gr.seetv.cc/play/934/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="⚽ SPORT VIP+1 ⚽",DAZN 1 DE
+http://gr.seetv.cc/play/803/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 2 DE
+http://gr.seetv.cc/play/809/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Movistar Formula 1
+http://gr.seetv.cc/play/1121/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Sky Sport Bundesliga HD
+http://gr.seetv.cc/play/836/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Live Sport 1
+http://gr.seetv.cc/play/1580/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Live Sport 2
+http://gr.seetv.cc/play/1581/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 1
+http://gr.seetv.cc/play/1704/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 2
+http://gr.seetv.cc/play/1705/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 3
+http://gr.seetv.cc/play/1706/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 4
+http://gr.seetv.cc/play/1707/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 5
+http://gr.seetv.cc/play/1708/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 6
+http://gr.seetv.cc/play/1709/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 7
+http://gr.seetv.cc/play/1710/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 8
+http://gr.seetv.cc/play/1711/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 9
+http://gr.seetv.cc/play/1712/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 10
+http://gr.seetv.cc/play/1713/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 11
+http://gr.seetv.cc/play/1714/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 12
+http://gr.seetv.cc/play/1715/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Football Live 13
+http://gr.seetv.cc/play/1716/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 1
+http://gr.seetv.cc/play/5009/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 2
+http://gr.seetv.cc/play/5010/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 3
+http://gr.seetv.cc/play/5011/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 4
+http://gr.seetv.cc/play/5012/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 5
+http://gr.seetv.cc/play/5013/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 7
+http://gr.seetv.cc/play/5014/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 6
+http://gr.seetv.cc/play/5015/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 8
+http://gr.seetv.cc/play/5016/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 9
+http://gr.seetv.cc/play/5017/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 10
+http://gr.seetv.cc/play/5018/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 11
+http://gr.seetv.cc/play/5019/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 12
+http://gr.seetv.cc/play/5020/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",VIP Sport 13
+http://gr.seetv.cc/play/5021/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",ViP Sport 14
+http://gr.seetv.cc/play/5022/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",ViP Sport 15
+http://gr.seetv.cc/play/5023/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",ViP Sport 16
+http://gr.seetv.cc/play/5024/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",ViP Sport 17
+http://gr.seetv.cc/play/5025/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",betking live 1
+http://gr.seetv.cc/play/5026/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",betking live 2
+http://gr.seetv.cc/play/5027/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",FintGa 1
+http://gr.seetv.cc/play/5028/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",FintGa 2
+http://gr.seetv.cc/play/5029/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",FintGa 3
+http://gr.seetv.cc/play/5030/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",FintGa 4
+http://gr.seetv.cc/play/5031/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Pimple 1
+http://gr.seetv.cc/play/5032/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Pimple 2
+http://gr.seetv.cc/play/5033/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Pimple 3
+http://gr.seetv.cc/play/5034/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Pimple 4
+http://gr.seetv.cc/play/5035/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Pimple 5
+http://gr.seetv.cc/play/5036/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Pimple 6
+http://gr.seetv.cc/play/5037/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-beonedge" group-title="⚽ SPORT VIP+1 ⚽",BOX Be ON Edge HD
+http://gr.seetv.cc/play/4215/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-beonedge1live" group-title="⚽ SPORT VIP+1 ⚽",BOX Be ON Edge 1 Live HD
+http://gr.seetv.cc/play/4213/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-beonedge2live" group-title="⚽ SPORT VIP+1 ⚽",BOX Be ON Edge 2 Live HD
+http://gr.seetv.cc/play/4214/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live1" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 1 HD
+http://gr.seetv.cc/play/4224/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live2" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 2 HD
+http://gr.seetv.cc/play/4225/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live3" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 3 HD
+http://gr.seetv.cc/play/4226/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live4" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 4 HD
+http://gr.seetv.cc/play/4227/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live5" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 5 HD
+http://gr.seetv.cc/play/4228/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live6" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 6 HD
+http://gr.seetv.cc/play/4232/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live7" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 7 HD
+http://gr.seetv.cc/play/4233/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live8" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 8 HD
+http://gr.seetv.cc/play/4234/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="box-sportcast-live9" group-title="⚽ SPORT VIP+1 ⚽",BOX SportCast Live 9 HD
+http://gr.seetv.cc/play/4235/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",MMA Junkie
+http://gr.seetv.cc/play/5718/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Dubai Sports 2
+http://gr.seetv.cc/play/5406/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Dubai Sports 3
+http://gr.seetv.cc/play/5407/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="⚽ SPORT VIP+1 ⚽",Diema Sport HD
+http://gr.seetv.cc/play/51002/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="⚽ SPORT VIP+1 ⚽",Diema Sport 2 HD
+http://gr.seetv.cc/play/51003/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Diema Sport 3 HD
+http://gr.seetv.cc/play/51004/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Diema Sport 2 4K
+http://gr.seetv.cc/play/51001/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",Diema Sport 3 4K
+http://gr.seetv.cc/play/51000/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="⚽ SPORT VIP+1 ⚽",SPORT TV + PT
+http://gr.seetv.cc/play/1967/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="⚽ SPORT VIP+1 ⚽",SPORT TV 1 PT
+http://gr.seetv.cc/play/1968/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="⚽ SPORT VIP+1 ⚽",SPORT TV 2 PT
+http://gr.seetv.cc/play/1969/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="⚽ SPORT VIP+1 ⚽",SPORT TV 3 PT
+http://gr.seetv.cc/play/1970/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="⚽ SPORT VIP+1 ⚽",SPORT TV 4 PT
+http://gr.seetv.cc/play/1971/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="⚽ SPORT VIP+1 ⚽",SPORT TV 5 PT
+http://gr.seetv.cc/play/1972/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",SPORT TV 6 PT
+http://gr.seetv.cc/play/1973/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="⚽ SPORT VIP+1 ⚽",M+ Deportes ES
+http://gr.seetv.cc/play/1974/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="⚽ SPORT VIP+1 ⚽",M+ Deportes 2 ES
+http://gr.seetv.cc/play/1975/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="M.Deportes3.es" group-title="⚽ SPORT VIP+1 ⚽",M+ Deportes 3 ES
+http://gr.seetv.cc/play/1976/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="M.Deportes4.es" group-title="⚽ SPORT VIP+1 ⚽",M+ Deportes 4 ES
+http://gr.seetv.cc/play/1977/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 1 PT
+http://gr.seetv.cc/play/1978/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 2 PT
+http://gr.seetv.cc/play/1979/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 1 ESPANA
+http://gr.seetv.cc/play/1980/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 2 ESPAÑA
+http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-id="clarity4k-edinoborstva" group-title="⚽ SPORT VIP+1 ⚽",Clarity4K Единоборства
+http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT VIP 🏆", airmax النسخة المدفوعة
