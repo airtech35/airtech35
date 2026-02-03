@@ -653,7 +653,8 @@ http://176.65.146.100:8037/play/a04q/index.m3u8
 http://176.65.146.100:8037/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",KSA SPORTS 3 HD
 http://176.65.146.100:8037/play/a04s/index.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",NileSport
+http://149.100.11.235:8080/NileSport/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
