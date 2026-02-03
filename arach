@@ -44,6 +44,21 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 1 HD
+http://de.1usd.tv/ch227/mono.m3u8?token=1usdtv_sergmih.v2_O4-TDmX_w72HEVXuaREEviroBTY5sxaiquPzE-kg3b2rBS6XRsmfYslpaVRRp7YBZXXfwnbwMhV87_pUNmEw
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 2 HD
+http://de.1usd.tv/ch228/mono.m3u8?token=1usdtv_sergmih.v2_AD3sHCtpdj4DuSgynca8sXTTfAKPnCmsoAmSzNv-oL6biOSWCNTr9weLkU2K5tvymOpU9AOU2uZy5SsUCqmX
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 3 HD
+http://de.1usd.tv/ch229/mono.m3u8?token=1usdtv_sergmih.v2_xV_EoyN0t-GoahF8zuGK8vGWwt9kHPDhrwMHFt9HYyK33C23LiR7OEyXS1Up6oIh8PGJKbOKJ8mgJCQtmm9n
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 4 HD
+http://de.1usd.tv/ch230/mono.m3u8?token=1usdtv_sergmih.v2_0EQLFbEjKrNNBHQknQNw6H2bpuBcHJlQm-q53OCzt68wmJiLUm5z6oLT_NvSfj0QOTSop3xyEQWWIOTdUAeA
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 5 HD
+http://de.1usd.tv/ch231/mono.m3u8?token=1usdtv_sergmih.v2_1iPu64amKyhIfl8HSs-NrZvd8Np8VxeWlYAYsCS6TMJ9DaHjEnkOfQaJT-5PTyM8eVeVX3etd0mR79sBeSQX
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 6 HD
+http://de.1usd.tv/ch232/mono.m3u8?token=1usdtv_sergmih.v2_mJLIdH8cpQOemeCSdmJpvVV_pONiLDj2dXLscvj8ulm5xusFsuot-q1dPW14FdUHTlc4dlMZvsnMxXrw8ROU
+
+
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
 http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
