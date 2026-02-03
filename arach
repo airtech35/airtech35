@@ -44,6 +44,20 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
 
+#EXTINF:0 CUID="15" tvg-name="" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Sport TV 1
+https://l.hilay.tv/sporttv1
+#EXTINF:0 CUID="15" tvg-name="" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Sport TV 2
+https://l.hilay.tv/sporttv2
+#EXTINF:0 CUID="15" tvg-name="" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Sport TV 3
+https://l.hilay.tv/sporttv3
+#EXTINF:0 CUID="15" tvg-name="" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Sport TV 4
+https://l.hilay.tv/sporttv4
+#EXTINF:0 CUID="15" tvg-name="" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Sport TV 5
+https://l.hilay.tv/sporttv5
+#EXTINF:0 CUID="15" tvg-name="" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Sport TV 6
+https://l.hilay.tv/sporttv6
+
+
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
 http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
