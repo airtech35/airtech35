@@ -659,6 +659,47 @@ https://ektzarevets.invivo.bg/DIEMA_SPORT_3_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ SPORT VIP+1 ⚽",NOVA Sport
 https://ektzarevets.invivo.bg/NOVA_SPORT_HD/tracks-v1a1/mono.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="Sportv.br" group-title="⚽ SPORT VIP+1 ⚽",SporTV HD
+https://02.arlivre.online/sportv/index.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="⚽ SPORT VIP+1 ⚽",SporTV 2 HD
+https://02.arlivre.online/sportv2/index.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="⚽ SPORT VIP+1 ⚽",SporTV 3 HD
+https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",BAND Sport HD
+https://02.arlivre.online/bandsport/index.m3u8
+#EXTINF:0 tvg-id="Combate.br" group-title="⚽ SPORT VIP+1 ⚽",Combate HD
+https://02.arlivre.online/combate/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",Espn HD
+https://02.arlivre.online/espn/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.us" group-title="⚽ SPORT VIP+1 ⚽",Espn 2 HD
+https://02.arlivre.online/espn2/index.m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="⚽ SPORT VIP+1 ⚽",Espn 3 HD
+https://02.arlivre.online/espn3/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="⚽ SPORT VIP+1 ⚽",Espn 4 HD
+https://02.arlivre.online/espn4/index.m3u8
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 1 HD
+https://02.arlivre.online/pre1/index.m3u8
+#EXTINF:0 tvg-id="Premiere2.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 2 HD
+https://02.arlivre.online/pre2/index.m3u8
+#EXTINF:0 tvg-id="Premiere3.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 3 HD
+https://02.arlivre.online/pre3/index.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 4 HD
+https://02.arlivre.online/pre4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 5 HD
+https://02.arlivre.online/pre5/index.m3u8
+#EXTINF:0 tvg-id="Globosp.br" group-title="⚽ SPORT VIP+1 ⚽",GLOBO SP HD
+https://02.arlivre.online/globosp/index.m3u8
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="⚽ SPORT VIP+1 ⚽",SPACE HD
+https://02.arlivre.online/space/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="⚽ SPORT VIP+1 ⚽",TNT HD
+https://02.arlivre.online/tnt/index.m3u8
+#EXTINF:0 tvg-id="history2-rus" group-title="⚽ SPORT VIP+1 ⚽",History 2 HD
+https://02.arlivre.online/history2/index.m3u8
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="⚽ SPORT VIP+1 ⚽",BAND HD
+https://02.arlivre.online/band/index.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="⚽ SPORT VIP+1 ⚽",SBT HD
+https://02.arlivre.online/sbt/index.m3u8
 #EXTINF:0 tvg-id="esp" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Eurosport
 http://gr.seetv.cc/play/15/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="⚽ SPORT VIP+1 ⚽" timeshift="5",Eurosport HD
