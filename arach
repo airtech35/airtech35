@@ -58,6 +58,9 @@ http://de.1usd.tv/ch231/mono.m3u8?token=1usdtv_sergmih.v2_1iPu64amKyhIfl8HSs-NrZ
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 6 HD
 http://de.1usd.tv/ch232/mono.m3u8?token=1usdtv_sergmih.v2_mJLIdH8cpQOemeCSdmJpvVV_pONiLDj2dXLscvj8ulm5xusFsuot-q1dPW14FdUHTlc4dlMZvsnMxXrw8ROU
 
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽",Ava Sport
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/AvaSport.m3u8
+
 
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
 http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
