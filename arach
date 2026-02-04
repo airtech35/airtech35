@@ -1223,7 +1223,31 @@ http://78.108.251.7/Arena_Sport_3/index.m3u8
 http://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport 5 HD
 http://78.108.251.7/Arena_Sport_5/index.m3u8
-
+#EXTM3U
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN
+http://190.29.110.237:4000/play/a01c/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.br" group-title="⚽ SPORT VIP+3 ⚽",ESPN 2 HD
+http://190.29.110.237:4000/play/a057/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN 2 Latin
+http://190.29.110.237:4000/play/a01b/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.br" group-title="⚽ SPORT VIP+3 ⚽",ESPN 3 HD
+http://190.29.110.237:4000/play/a063/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN 4HD
+http://190.29.110.237:4000/play/a062/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN 5HD
+http://190.29.110.237:4000/play/a07w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN 6HD
+http://190.29.110.237:4000/play/a064/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN 7
+http://190.29.110.237:4000/play/a01k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN 7HD
+http://190.29.110.237:4000/play/a0d9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN CO
+http://190.29.110.237:4000/play/a02i/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN HD
+http://190.29.110.237:4000/play/a05a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",ESPN Premium HD
+http://190.29.110.237:4000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
