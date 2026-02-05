@@ -135,19 +135,19 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
-https://mejarhosting.cfd/fjr_1_1080p/index.m3u8
+https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv2
-https://mejarhosting.cfd/fjr_2_1080p/index.m3u8
+https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv3
-https://mejarhosting.cfd/fjr_3_1080p/index.m3u8
+https://mejarhosting.cfd/alfajer1080p/ch03/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv4
-https://mejarhosting.cfd/fjr_4_1080p/index.m3u8
+https://mejarhosting.cfd/alfajer1080p/ch04/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv5
-https://mejarhosting.cfd/fjr_5_1080p/index.m3u8
+https://mejarhosting.cfd/alfajer1080p/ch05/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv6
-https://mejarhosting.cfd/fjr_6_1080p/index.m3u8
+https://mejarhosting.cfd/alfajer1080p/ch06/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
-https://mejarhosting.cfd/fjr_7_1080p/index.m3u8
+https://mejarhosting.cfd/alfajer1080p/ch07/master.m3u8
 
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post1
 https://mejarhosting.cfd/post/manifest.m3u8
