@@ -2224,8 +2224,24 @@ http://213.57.91.138:8000/play/a05t
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",ZEE ALWAN
 http://213.57.91.138:8000/play/a05u
 
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN Entertainment ترفيهي", BEIN Entertainment
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN Entertainment ترفيهي", airmax النسخة المدفوعة
+https://bit.ly/airmaxtvproooO
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", BEIN MOVIES 1 HD
+http://77.137.40.221:8000/play/a01l
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", BEIN MOVIES 2 HD
+http://77.137.40.221:8000/play/a01m
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", BEIN MOVIES 3 HD
+http://77.137.40.221:8000/play/a01p
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN Movies 1 HD
+http://77.137.40.221:8000/play/a01n
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN Movies 2 HD
+http://77.137.40.221:8000/play/a01o
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
@@ -3329,7 +3345,18 @@ http://iptv.icsnleb.com:25461/12/12/40
 http://iptv.icsnleb.com:25461/12/12/770
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",LBC International
+http://77.137.40.221:8000/play/a01w
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD
+http://77.137.40.221:8000/play/a01x
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",NBN
+http://77.137.40.221:8000/play/a01z
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",OTV
+http://77.137.40.221:8000/play/a01y
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",One
+http://77.137.40.221:8000/play/a01v
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",TV Lebanon HD
+http://77.137.40.221:8000/play/a01u
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
