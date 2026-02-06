@@ -2242,6 +2242,8 @@ http://77.137.40.221:8000/play/a01p
 http://77.137.40.221:8000/play/a01n
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN Movies 2 HD
 http://77.137.40.221:8000/play/a01o
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN WWE
+https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
