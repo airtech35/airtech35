@@ -64,6 +64,23 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/AvaSport.m3u8
 
 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8118.png",BeIn 1 SD
+https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8510.png",BeIn 2 SD
+https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8511.png",BeIn 3 SD
+https://tv.fan7live.workers.dev/live/beINAR3/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8111.png",BeIn 4 SD
+https://tv.fan7live.workers.dev/live/beINAR4/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8112.png",BeIn 5 SD
+https://tv.fan7live.workers.dev/live/beINAR5/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8113.png",BeIn 6 SD
+https://tv.fan7live.workers.dev/live/beINAR6/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8114.png",BeIn 7 sd
+https://tv.fan7live.workers.dev/live/beINAR7/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8115.png",BeIn 8 SD
+https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8
+
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
 http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
@@ -569,6 +586,26 @@ https://bbb.exoadash.com/TVD1451/index.mpd
 https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3
 https://bbb.exoadash.com/TVD6737/index.mpd
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 1
+https://pro.onsitv.site/Thmanya-1-4K/video.m3u8?token=onsitv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 2
+https://pro.onsitv.site/Thmanya-2-4K/video.m3u8?token=onsitv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3
+https://pro.onsitv.site/Thmanya-3-4K/video.m3u8?token=onsitv
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 1
+https://stream.decentdoubts.net/sau1/mpegts?token=krikar
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 2
+https://stream.decentdoubts.net/sau2/mpegts?token=krikar
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3
+https://stream.decentdoubts.net/sau3/mpegts?token=krikar
+
+
+
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT رياضية",SPORT CHANNELS
