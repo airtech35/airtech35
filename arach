@@ -126,6 +126,22 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://d236onj0zb95xv.cloudfront.net/status/1/fronts.woff2?e0c91c
 
 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/118.png",BeIn 1 HD
+http://s.only4.tv/5588/index.m3u8?token=jZqqvnnqCs
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/510.png",BeIn 2 HD
+http://s.only4.tv/5589/index.m3u8?token=jZqqvnnqCs
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/511.png",BeIn 3 HD
+http://s.only4.tv/5590/index.m3u8?token=jZqqvnnqCs
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/111.png",BeIn 4 HD
+http://s.only4.tv/5591/index.m3u8?token=jZqqvnnqCs
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/112.png",BeIn 5 HD
+http://s.only4.tv/5592/index.m3u8?token=jZqqvnnqCs
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/113.png",BeIn 6 HD
+http://s.only4.tv/5593/index.m3u8?token=jZqqvnnqCs
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/114.png",BeIn 7 HD
+http://s.only4.tv/9015/index.m3u8?token=jZqqvnnqCs
+
+
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",bein_sd_2
@@ -3109,6 +3125,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC أم بي سي",MBC 2 HD
 http://185.9.2.18/chid_375/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC أم بي سي",MBC 2 HD
+http://102.177.177.232/MBC2/index.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",MBC 3 USA (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC أم بي سي",MBC 4 (4K)
@@ -3131,8 +3149,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="MBC أم بي سي",MBC+ Drama (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC أم بي سي",MBC ACTION
-http://102.177.177.232/MBCACTION/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC أم بي سي",MBC ACTION+
 http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" group-title="MBC أم بي سي",MBC Max
