@@ -1222,6 +1222,20 @@ http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",Tring Sport 4 HD
 http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN HD
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN 2 HD
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN 3 HD
+http://179.60.51.134:8888/ESPN3/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN 4 HD
+http://179.60.51.134:8888/ESPN4/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN 7 HD
+http://179.60.51.134:8888/FOXSPORTS2/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",ESPN 6 HD
+http://179.60.51.134:8888/FOXSPORTS3/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT VIP 🏆", airmax النسخة المدفوعة
