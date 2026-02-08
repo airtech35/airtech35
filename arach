@@ -64,23 +64,6 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/AvaSport.m3u8
 
 
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8118.png",BeIn 1 SD
-https://tv.fan7live.workers.dev/live/beINAR/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8510.png",BeIn 2 SD
-https://tv.fan7live.workers.dev/live/beINAR2/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8511.png",BeIn 3 SD
-https://tv.fan7live.workers.dev/live/beINAR3/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8111.png",BeIn 4 SD
-https://tv.fan7live.workers.dev/live/beINAR4/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8112.png",BeIn 5 SD
-https://tv.fan7live.workers.dev/live/beINAR5/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8113.png",BeIn 6 SD
-https://tv.fan7live.workers.dev/live/beINAR6/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8114.png",BeIn 7 sd
-https://tv.fan7live.workers.dev/live/beINAR7/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/8115.png",BeIn 8 SD
-https://tv.fan7live.workers.dev/live/beINAR8/index.m3u8
-
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
 http://xcarscharge.pro:8080/bn1hevc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
@@ -125,21 +108,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://d236onj0zb95xv.cloudfront.net/status/1/fronts.woff2?e0c91c
 
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/118.png",BeIn 1 HD
-http://s.only4.tv/5588/index.m3u8?token=jZqqvnnqCs
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/510.png",BeIn 2 HD
-http://s.only4.tv/5589/index.m3u8?token=jZqqvnnqCs
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/511.png",BeIn 3 HD
-http://s.only4.tv/5590/index.m3u8?token=jZqqvnnqCs
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/111.png",BeIn 4 HD
-http://s.only4.tv/5591/index.m3u8?token=jZqqvnnqCs
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/112.png",BeIn 5 HD
-http://s.only4.tv/5592/index.m3u8?token=jZqqvnnqCs
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/113.png",BeIn 6 HD
-http://s.only4.tv/5593/index.m3u8?token=jZqqvnnqCs
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽"tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/114.png",BeIn 7 HD
-http://s.only4.tv/9015/index.m3u8?token=jZqqvnnqCs
 
 
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
