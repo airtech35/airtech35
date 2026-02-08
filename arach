@@ -1149,6 +1149,25 @@ http://178.33.239.54:8080/507a/index.m3u8
 #EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Sky SPORTS F1
 http://178.33.239.54:8080/508a/index.m3u8
 
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 1 HD
+http://shift03.isp.bg/Arena_Sport_1/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 2 HD
+http://shift03.isp.bg/Arena_Sport_2/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 3 HD
+http://shift03.isp.bg/Arena_Sport_3/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 4 HD
+http://shift03.isp.bg/Arena_Sport_4/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 5 HD
+http://shift03.isp.bg/Arena_Sport_5/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Diema Sport HD
+http://shift03.isp.bg/Diema_Sport_HD/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Diema Sport 2 HD
+http://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",Nova Sport HD
+http://shift03.isp.bg/NovaSport_HD/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
 http://178.23.88.55/Sport1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Nova Sport
