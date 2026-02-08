@@ -2017,28 +2017,25 @@ https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
 
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="🇫🇷France" tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png",TF1ᴴᴰ 🇫🇷
-http://212.102.60.80/TF1/index.m3u8
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="🇫🇷France",France 2 
-http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1 tvg-id="France2.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="🇫🇷France",France 2 HD 
-https://cachehsi1a.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-#EXTINF:-1 tvg-id="France3.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="🇫🇷France",France 3 HD 
-https://cachehsi1a.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+http://151.80.18.177:86/France_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="🇫🇷France",France 4 HD 
-https://cachehsi1a.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+http://151.80.18.177:86/France_4_HD/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="🇫🇷France",France 5 
-http://69.64.57.208/france5/mono.m3u8
-#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="🇫🇷France",France 5 HD 
-https://cachehsi1a.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+http://151.80.18.177:86/France_5_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="🇫🇷France",FRANCE 2
 http://41.205.93.154/FRANCE2/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="🇫🇷France",FRANCE 3
 http://41.205.93.154/FRANCE3/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="🇫🇷France",FRANCE 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+http://41.205.93.154/FRANCE4/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="🇫🇷France",FRANCE 5
 http://41.205.93.154/FRANCE5/mpegts
+
 #EXTINF:-1 tvg-logo="" group-title="🇫🇷France",RTL9
 http://41.205.93.154/RTL9/mpegts
 #EXTINF:-1 tvg-logo="" group-title="🇫🇷France",LA-UNE
@@ -2082,38 +2079,60 @@ http://41.205.93.154/MSNBC/mpegts
 #EXTINF:-1 tvg-logo="" group-title="🇫🇷France",ZDF
 http://41.205.93.154/ZDF/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="🇫🇷France",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="🇫🇷France",FRANCE 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="🇫🇷France",FRANCE 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="🇫🇷France",FRANCE 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="🇫🇷France",FRANCE 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="🇫🇷France",FRANCE TV SÉRIES
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="🇫🇷France",FRANCE TV DOCUMENTAIRES
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="C+.carab" group-title="🇫🇷France",Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:0 tvg-id="C+Cinema.carab" group-title="🇫🇷France",Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:0 tvg-id="ComediePlusHD.ge" group-title="🇫🇷France",Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:0 tvg-id="ARTE.fr" group-title="🇫🇷France",ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="🇫🇷France",Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:0 tvg-id="AB1.fr" group-title="🇫🇷France",AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:0 tvg-id="RTL9.fr" group-title="🇫🇷France",RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:0 tvg-id="Teva.fr" group-title="🇫🇷France",Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="🇫🇷France",National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:0 tvg-id="Histoire.fr" group-title="🇫🇷France",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="🇫🇷France",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇫🇷France",0.RMC DECOUVERDE
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:0 tvg-id="M6HD.carab" group-title="🇫🇷France",M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:0 tvg-id="W9.fr" group-title="🇫🇷France",W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇫🇷France",NRJ_12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="🇫🇷France",TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇫🇷France",D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:0 tvg-id="CanalPlusSport.fr" group-title="🇫🇷France",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="🇫🇷France",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="🇫🇷France",Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇫🇷France",Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.it" group-title="🇫🇷France",Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:0 tvg-id="Tiji.fr" group-title="🇫🇷France",Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:0 tvg-id="LCI.fr" group-title="🇫🇷France",LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="🇫🇷France",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="🇫🇷France",ARTE -0,5H
-https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="🇫🇷France",M6
-https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="🇫🇷France",M6
-https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="🇫🇷France",CHÉRIE 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png" group-title="🇫🇷France",T18
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png" group-title="🇫🇷France",T18
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/t18/t18.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="🇫🇷France",RMC STORY
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="🇫🇷France",RMC DÉCOUVERTE
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="🇫🇷France",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="🇫🇷France",TMC
