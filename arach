@@ -619,10 +619,6 @@ http://149.100.11.235:8080/NileSport/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 1
-http://95.174.71.210:80/k3/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 2
-http://95.174.71.210:80/k4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",DAZN 2
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
