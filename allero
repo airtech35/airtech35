@@ -541,6 +541,100 @@ http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+#EXTM3U
+#EXTINF:0 tvg-id="ATV.am" group-title="🇹🇷 Turkey VIP",atv
+http://65.108.239.207/atv/index.m3u8
+#EXTINF:0 tvg-id="tv8-lt" group-title="🇹🇷 Turkey VIP",tv8
+http://65.108.239.207/tv8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tv85
+http://65.108.239.207/tv85/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",ssport
+http://65.108.239.207/ss1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",ssport2
+http://65.108.239.207/ss2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",smart1
+http://65.108.239.207/smart1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",smart2
+http://65.108.239.207/smart2/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="🇹🇷 Turkey VIP",eurosport 1
+http://65.108.239.207/euro1/index.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="🇹🇷 Turkey VIP",eurosport 2
+http://65.108.239.207/euro2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",fbtv
+http://65.108.239.207/fbtv/index.m3u8
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="🇹🇷 Turkey VIP",Tivibu Spor 1
+http://65.108.239.207/t1/index.m3u8
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="🇹🇷 Turkey VIP",Tivibu Spor 2
+http://65.108.239.207/t2/index.m3u8
+#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="🇹🇷 Turkey VIP",Tivibu Spor 3
+http://65.108.239.207/t3/index.m3u8
+#EXTINF:0 tvg-id="TivibuSpor4.tr" group-title="🇹🇷 Turkey VIP",Tivibu Spor 4
+http://65.108.239.207/t4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tabii sport 1
+http://65.108.239.207/tabi1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tabii sport 2
+http://65.108.239.207/tabi2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tabii sport 3
+http://65.108.239.207/tabi3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tabii sport 4
+http://65.108.239.207/tabi4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tabii sport 5
+http://65.108.239.207/tabi5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tabii sport 6
+http://65.108.239.207/tabi6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",tarih tv
+http://65.108.239.207/tarihtv/index.m3u8
+#EXTINF:0 tvg-id="bbc" group-title="🇹🇷 Turkey VIP",bbc
+http://65.108.239.207/bbc/index.m3u8
+#EXTINF:0 tvg-id="history" group-title="🇹🇷 Turkey VIP",viasathistory
+http://65.108.239.207/viasathistory/index.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="🇹🇷 Turkey VIP",history
+http://65.108.239.207/history/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",lovenature
+http://65.108.239.207/lovenature/index.m3u8
+#EXTINF:0 tvg-id="docubox-hd" group-title="🇹🇷 Turkey VIP",docubox
+http://65.108.239.207/docubox/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",bsaction1
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",bspremier1
+http://65.108.239.207/bspremier1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",beinofice 3
+http://65.108.239.207/bsfamily/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",bsstars
+http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",benseri 1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",benseri 2
+http://65.108.239.207/box2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",box3
+http://65.108.239.207/box3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinema
+http://65.108.239.207/sinema/index.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="🇹🇷 Turkey VIP",sinema2
+http://65.108.239.207/sinema2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemaaksiyon
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemaaksiyon2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemaa 1001
+http://65.108.239.207/sinema1001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemaa 1002
+http://65.108.239.207/sinema1002/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemakomedi
+http://65.108.239.207/sinemakomedi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemaaile
+http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemayerli
+http://65.108.239.207/sinemayerli/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",sinemayerli2
+http://65.108.239.207/sinemayerli2/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="🇹🇷 Turkey VIP",cartoonnetwork
+http://65.108.239.207/cartoonnetwork/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷 Turkey VIP",ahaber
+http://65.108.239.207/ahaber/index.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="1600" tvg-logo="https://picserve.netplus.ch/channels/3sathd.png" tvg-country="DE" group-title="🇩🇪 Germany",1600. 3SAT HD [DE]
@@ -2859,22 +2953,22 @@ https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-chno="1623" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" tvg-country="DE" group-title="🇨🇭 Switzerland",1623. SRF INFO [DE]
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SRF_1HD.svg/1200px-SRF_1HD.svg.png" group-title="🇨🇭 Switzerland",SRF 1 HD
-https://s6.hopslan.com/orfx12/tracks-v1a1/mono.m3u8
+http://213.3.8.156:4022/udp/224.100.5.1:1234
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqd6TWAgH65I4JDF8d6Et1D2PqQbOksKTsg&s" group-title="🇨🇭 Switzerland",SRF info HD
 http://176.10.117.3:5000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/SRF_zwei_HD.svg/1280px-SRF_zwei_HD.svg.png" group-title="🇨🇭 Switzerland",SRF zwei HD
-http://176.10.117.3:5000/play/a012/index.m3u8
+http://213.3.8.156:4022/udp/224.100.5.2:1234
 
 -----
 
 #EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="🇨🇭 Switzerland",RSI La 1 
-https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+http://213.3.8.156:4022/udp/224.100.6.1:1234
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="🇨🇭 Switzerland",RSI La 2 
-https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+http://213.3.8.156:4022/udp/224.100.6.2:1234
 #EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="🇨🇭 Switzerland",RTS 1 
-https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+http://213.3.8.156:4022/udp/224.100.4.1:1234
 #EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="🇨🇭 Switzerland",RTS 2 
-https://cachehsi1a.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+http://213.3.8.156:4022/udp/224.100.4.2:1234
 #EXTINF:-1 tvg-id="Tele1.ch" tvg-logo="https://i.imgur.com/WIfBbLj.png" group-title="🇨🇭 Switzerland",Tele 1 
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-logo="https://i.imgur.com/oFiixzK.png" group-title="🇨🇭 Switzerland",Tele M1  
