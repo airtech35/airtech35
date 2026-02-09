@@ -57,8 +57,8 @@ http://de.1usd.tv/ch230/mono.m3u8?token=1usdtv_sergmih.v2_0EQLFbEjKrNNBHQknQNw6H
 http://de.1usd.tv/ch231/mono.m3u8?token=1usdtv_sergmih.v2_1iPu64amKyhIfl8HSs-NrZvd8Np8VxeWlYAYsCS6TMJ9DaHjEnkOfQaJT-5PTyM8eVeVX3etd0mR79sBeSQX
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 6 HD
 http://de.1usd.tv/ch232/mono.m3u8?token=1usdtv_sergmih.v2_mJLIdH8cpQOemeCSdmJpvVV_pONiLDj2dXLscvj8ulm5xusFsuot-q1dPW14FdUHTlc4dlMZvsnMxXrw8ROU
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽", Sport
-https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽", Sport+
+https://tvpass.org/live/tsn1/sd
 
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽",Ava Sport
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/AvaSport.m3u8
