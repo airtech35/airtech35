@@ -1350,6 +1350,66 @@ http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="ArenaSport1.rs" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 1
+http://51.15.10.229:8080/arena1/index.m3u8
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 2
+http://51.15.10.229:8080/arena2/index.m3u8
+#EXTINF:0 tvg-id="ArenaSport3.ba" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 3
+http://51.15.10.229:8080/arena3/index.m3u8
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 4
+http://51.15.10.229:8080/arena4/index.m3u8
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 5
+http://51.15.10.229:8080/arena5/index.m3u8
+#EXTINF:0 tvg-id="ArenaSport6.hr" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 6
+http://51.15.10.229:8080/Arena6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",Arena Sport 7
+http://51.15.10.229:8080/arena7/index.m3u8
+#EXTINF:0 tvg-id="MaxSport1.bg" group-title="⚽ SPORT VIP+3 ⚽",Max Sport 1
+http://51.15.10.229:8080/MaxSport1/index.m3u8
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="⚽ SPORT VIP+3 ⚽",Super Sport 1
+http://51.15.10.229:8080/ss1hd/index.m3u8
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="⚽ SPORT VIP+3 ⚽",Super Sport 2
+http://51.15.10.229:8080/ss2hd/index.m3u8
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="⚽ SPORT VIP+3 ⚽",Super Sport 3
+http://51.15.10.229:8080/ss3hd/index.m3u8
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="⚽ SPORT VIP+3 ⚽",Super Sport 4
+http://51.15.10.229:8080/ss4hd/index.m3u8
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="⚽ SPORT VIP+3 ⚽",Super Sport 5
+http://51.15.10.229:8080/ss5hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",Super Sport 6 HD
+http://51.15.10.229:8080/ss6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",Super Sport 7 HD
+http://51.15.10.229:8080/ss7/index.m3u8
+#EXTINF:0 tvg-id="TS1HD.al" group-title="⚽ SPORT VIP+3 ⚽",Tring Sport 1
+http://51.15.10.229:8080/tringsport1/index.m3u8
+#EXTINF:0 tvg-id="TS2HD.al" group-title="⚽ SPORT VIP+3 ⚽",Tring Sport 2
+http://51.15.10.229:8080/tringsport2/index.m3u8
+#EXTINF:0 tvg-id="TS3HD.al" group-title="⚽ SPORT VIP+3 ⚽",Tring Sport 3
+http://51.15.10.229:8080/tringsport3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",K Sport 1
+http://51.15.10.229:8080/ksport1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",K Sport 2
+http://51.15.10.229:8080/ksport2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",K Sport 3
+http://51.15.10.229:8080/ksport3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",K Sport 4
+http://51.15.10.229:8080/ksport4/index.m3u8
+#EXTINF:0 tvg-id="sport1_hd" group-title="⚽ SPORT VIP+3 ⚽",Sport 1 HD
+http://51.15.10.229:8080/Sport1/index.m3u8
+#EXTINF:0 tvg-id="SkySportArena.it" group-title="⚽ SPORT VIP+3 ⚽",Sport 2 HD
+http://51.15.10.229:8080/Sport2/index.m3u8
+#EXTINF:0 tvg-id="SkySportFootball.it" group-title="⚽ SPORT VIP+3 ⚽",Sport 3 HD
+http://51.15.10.229:8080/Sport3/index.m3u8
+#EXTINF:0 tvg-id="Sport4HD.il" group-title="⚽ SPORT VIP+3 ⚽",Sport 4 HD
+http://51.15.10.229:8080/Sport4/index.m3u8
+#EXTINF:0 tvg-id="Sport5.il" group-title="⚽ SPORT VIP+3 ⚽",Sport 5 HD
+http://51.15.10.229:8080/Sport5/index.m3u8
+#EXTINF:0 tvg-id="SkySport6.de" group-title="⚽ SPORT VIP+3 ⚽",Sport 6 HD
+http://51.15.10.229:8080/Sport6/index.m3u8
+#EXTINF:0 tvg-id="euro" group-title="⚽ SPORT VIP+3 ⚽",Euro Sport1
+http://51.15.10.229:8080/eurosport1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT VIP 🏆", airmax النسخة المدفوعة
