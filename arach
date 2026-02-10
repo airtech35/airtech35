@@ -1342,6 +1342,29 @@ http://89.187.191.99:8080/eurosport1/index.m3u8
 http://89.187.191.99:8080/eurosport2/index.m3u8
 
 
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: EUROSPORT11
+http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: EUROSPORT2
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: Eurosports 1
+http://185.112.249.46:9981/stream/channelid/1169588813?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: FI V Sport 1 Suomi
+http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: NO V Sport Vinter
+http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: Nova Sport 6 FHD
+http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: ONEPLAY1 T3
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: ONEPLAY2 T2
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: ONEPLAY3 T3
+http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: PREMIER SPORT1 T3
+http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",CZ: PREMIER SPORT2 T2
+http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆", SPORT VIP
 https://bit.ly/3xYLaRh
