@@ -513,6 +513,11 @@ https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3
 https://bbb.exoadash.com/TVD6737/index.mpd
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | THMANYAH  الثمانية |",starzplay sports 1
+http://koraaa.store/AD-1/video.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | THMANYAH  الثمانية |",starzplay sports 2
+http://koraaa.store/AD-2/video.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 1
 https://pro.onsitv.site/Thmanya-1-4K/video.m3u8?token=onsitv
@@ -532,6 +537,7 @@ https://stream.decentdoubts.net/sau3/mpegts?token=krikar
 
 
 
+https://stream.decentdoubts.net/sau1/tracks-v1a1/mono.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT رياضية",SPORT CHANNELS
