@@ -2329,18 +2329,16 @@ http://213.57.91.138:8000/play/a05u
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN Entertainment ترفيهي", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", BEIN MOVIES 1 HD
-http://77.137.40.221:8000/play/a01l
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", BEIN MOVIES 2 HD
-http://77.137.40.221:8000/play/a01m
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", BEIN MOVIES 3 HD
-http://77.137.40.221:8000/play/a01p
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN Movies 1 HD
-http://77.137.40.221:8000/play/a01n
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN Movies 2 HD
-http://77.137.40.221:8000/play/a01o
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinMoviesPremiere
+http://apk.arabic-ch.space/live/076/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinMoviesAction
+http://apk.arabic-ch.space/live/077/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinMoviesFamily
+http://apk.arabic-ch.space/live/079/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinSeries1
+http://apk.arabic-ch.space/live/080/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinSeries2
+http://apk.arabic-ch.space/live/081/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN WWE
 https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
