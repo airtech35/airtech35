@@ -2333,12 +2333,30 @@ https://bit.ly/airmaxtvproooO
 http://apk.arabic-ch.space/live/076/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinMoviesAction
 http://apk.arabic-ch.space/live/077/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinMoviesDrama
+http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinMoviesFamily
 http://apk.arabic-ch.space/live/079/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinSeries1
 http://apk.arabic-ch.space/live/080/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinSeries2
 http://apk.arabic-ch.space/live/081/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinDrama
+http://apk.arabic-ch.space/live/072/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", beinGourmet
+http://apk.arabic-ch.space/live/070/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", BeJunior
+http://apk.arabic-ch.space/live/082/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", jeem
+http://apk.arabic-ch.space/live/075/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", Fatafeat
+http://apk.arabic-ch.space/live/073/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", ONSport1
+http://apk.arabic-ch.space/live/006900/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", ONSport2
+http://apk.arabic-ch.space/live/007000/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", baraem
+http://apk.arabic-ch.space/live/070/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي", OSN WWE
 https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
