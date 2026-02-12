@@ -3469,6 +3469,10 @@ http://77.137.40.221:8000/play/a01y
 http://77.137.40.221:8000/play/a01v
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",TV Lebanon HD
 http://77.137.40.221:8000/play/a01u
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",TV chid_391
+http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",TV chid_3911
+https://samaflix.com:12103/channel7/tracks-v2a1/mono.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
