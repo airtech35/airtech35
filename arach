@@ -3323,8 +3323,10 @@ https://bit.ly/3xYLaRh
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="ROTANA روتانا", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-
-
+#EXTINF:-1 tvg-id="RotanaFMKSA.sa" tvg-logo="https://i.imgur.com/Ho8N310.png" group-title="ROTANA روتانا",MPlus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=6otIjpqWKPe
+#EXTINF:-1 tvg-id="RotanaFMKSA.sa" tvg-logo="https://www.unlimited-streaming-om.com/images/galaxy/content/2988166/2988166_cover_landscape-16-9.jpg" group-title="ROTANA روتانا",Rotana Aflam+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="ROTANA روتانا" http-referrer="https://rotana.net/", روتانا سينما 
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا" http-referrer="https://rotana.net/", روتانا كلاسك
@@ -3437,7 +3439,8 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="" group-title="LEBANON لبنان",otv
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1560952042331455489/dwfIfABS_400x400.jpg" group-title="LEBANON لبنان",Sadalarz-Leb
 http://iptv.icsnleb.com:25461/12/12/1034
