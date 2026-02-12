@@ -3865,8 +3865,8 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="🇱🇾ليبياLIBYA",Tanasuh TV
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
 
-
-
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/f9pL2NE.png" group-title="🇱🇾ليبياLIBYA",Wasat TV
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇸🇩السودانSUDAN",السودانSUDAN
