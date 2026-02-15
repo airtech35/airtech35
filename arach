@@ -151,26 +151,29 @@ https://is.gd/T7WPHx.m3u8
 https://is.gd/QoMT2J.m3u8
 
 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein1 Low
-https://is.gd/M3vmxv.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein2 Low
-https://is.gd/BTaj1s.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein3 Low
-https://is.gd/LigFus.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein4 Low
-https://is.gd/DmLJds.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein5 Low
-https://is.gd/fBTSSc.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein1 FHD
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 FHD
 https://is.gd/rET9Mr.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein2 FHD
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2 FHD
 https://is.gd/vmTEI8.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein3 FHD
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3 FHD
 https://is.gd/4I2E4g.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein4 FHD
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4 FHD
 https://is.gd/e5ysin.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",Bein5 FHD
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5 FHD
 https://is.gd/NFmgG8.m3u8
+
+
+#EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 1 
+https://is.gd/M3vmxv.m3u8
+#EXTINF:-1 tvg-id="Bein2" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 2 
+https://is.gd/BTaj1s.m3u8
+#EXTINF:-1 tvg-id="Bein3" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 3 
+https://is.gd/LigFus.m3u8
+#EXTINF:-1 tvg-id="Bein4" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 4 
+https://is.gd/DmLJds.m3u8
+#EXTINF:-1 tvg-id="Bein5" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 5 
+https://is.gd/fBTSSc.m3u8
+
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
