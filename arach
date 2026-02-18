@@ -153,7 +153,6 @@ https://xvg1xtr.m-2026-mobile.xyz/30_.m3u8
 https://xvg1xtr.m-2026-mobile.xyz/31_.m3u8
 
 
-
 #EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 1 🇶🇦
 http://77.137.40.221:8000/play/a01e
 #EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 2 🇶🇦
@@ -166,6 +165,31 @@ http://77.137.40.221:8000/play/a01i
 http://77.137.40.221:8000/play/a01j
 #EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 6 🇶🇦
 http://77.137.40.221:8000/play/a01k
+
+
+#EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 1+
+https://flu.systemnet.tv/BeinHD1/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 2" tvg-logo="http://tv.asc.vg/bein2.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 2+
+https://flu.systemnet.tv/BeinHD2/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 3" tvg-logo="http://tv.asc.vg/bein3.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 3+
+https://flu.systemnet.tv/BeinHD3/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 4" tvg-logo="http://tv.asc.vg/bein4.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 4+
+https://flu.systemnet.tv/BeinHD4/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 5" tvg-logo="http://tv.asc.vg/bein5.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 5+
+https://flu.systemnet.tv/BeinHD5/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 6" tvg-logo="http://tv.asc.vg/bein6.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 6+
+https://flu.systemnet.tv/BeinHD6/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 7" tvg-logo="http://tv.asc.vg/bein7.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 7+
+https://flu.systemnet.tv/BeinHD7/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein8.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 8+
+https://flu.systemnet.tv/BeinHD8/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein9.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 9+
+https://flu.systemnet.tv/BeinHD9/index.m3u8
+
+
+
+
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -3785,6 +3809,14 @@ http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON EGYPT" live="1" tvg-logo="http://teledunet.com/logos/ON_logo.png" group-title="🇪🇬المصرية Egypt",ON EGYPT
 http://185.9.2.18/chid_616/mono.m3u8
 
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="🇪🇬المصرية Egypt",CBC
+https://flu.systemnet.tv/CBC/index.m3u8
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="🇪🇬المصرية Egypt",CBC Sofra
+https://flu.systemnet.tv/CBCSofra/index.m3u8
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="🇪🇬المصرية Egypt",CBC Drama
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+
+
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.ibb.co/Kx7wmXCQ/almasriya.png" group-title="🇪🇬المصرية Egypt",Al Masriyah
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="🇪🇬المصرية Egypt",الأولى
@@ -3822,12 +3854,7 @@ http://213.57.91.138:8000/play/a06m
 http://213.57.91.138:8000/play/a06n
 #EXTINF:-1 tvg-id="AlhayatDrama.eg@SD" tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="🇪🇬المصرية Egypt",Alhayat Drama
 http://213.57.91.138:8000/play/a06s
-#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="🇪🇬المصرية Egypt",CBC
-http://213.57.91.138:8000/play/a06o
-#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="🇪🇬المصرية Egypt",CBC Drama
-http://213.57.91.138:8000/play/a06q
-#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="🇪🇬المصرية Egypt",CBC Sofra
-http://213.57.91.138:8000/play/a06p
+
 
 
 
