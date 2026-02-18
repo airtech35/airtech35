@@ -179,6 +179,21 @@ https://is.gd/fBTSSc.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
+https://flu.systemnet.tv/Al.Fajer.1.720p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv2
+https://flu.systemnet.tv/Al.Fajer.2.720p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv3
+https://flu.systemnet.tv/Al.Fajer.3.720p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv4
+https://flu.systemnet.tv/Al.Fajer.4.720p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv5
+https://flu.systemnet.tv/Al.Fajer.5.720p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv6
+https://flu.systemnet.tv/Al.Fajer.6.720p/index.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
+https://flu.systemnet.tv/Al.Fajer.7.720p/index.m3u8
+
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
 https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv2
 https://mejarhosting.cfd/alfajer1080p/ch02/master.m3u8
@@ -222,20 +237,7 @@ http://live.alfajertv.com:2052/hls6/ftv6/index.m3u8
 http://live.alfajertv.com:2052/hls6/ftv7/index.m3u8
 
 
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
-https://flu.systemnet.tv/Al.Fajer.1.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv2
-https://flu.systemnet.tv/Al.Fajer.2.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv3
-https://flu.systemnet.tv/Al.Fajer.3.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv4
-https://flu.systemnet.tv/Al.Fajer.4.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv5
-https://flu.systemnet.tv/Al.Fajer.5.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv6
-https://flu.systemnet.tv/Al.Fajer.6.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
-https://flu.systemnet.tv/Al.Fajer.7.720p/index.m3u8
+
 
 
 
