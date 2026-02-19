@@ -1552,22 +1552,6 @@ http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", premier5
 http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORTS FOOTBALL
-http://178.33.239.54:8080/500a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORTS NEWS
-http://178.33.239.54:8080/501a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORT MAIN EVENT
-http://178.33.239.54:8080/502a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORT CRICKET
-http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORT ACTION
-http://178.33.239.54:8080/504a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORT PREMIER LEAGUE
-http://178.33.239.54:8080/506a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", SKY SPORTS MIX HD
-http://178.33.239.54:8080/507a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", Sky SPORTS F1
-http://178.33.239.54:8080/508a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT VIP 🏆", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png" group-title="SPORT VIP 🏆", Trace Sports
@@ -9487,8 +9471,7 @@ http://145.239.5.177:80/565/index.m3u8
 http://145.239.5.177:80/564/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",+SPORT360
 http://145.239.5.177:80/561/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",+SPORT360
-http://178.33.239.54:8080/700/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",SUPER SPORTS PSL
 http://145.239.5.177:80/562/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",BENSPORTS 3
@@ -9499,48 +9482,18 @@ http://145.239.5.177:80/558/index.m3u8
 http://145.239.5.177:80/557/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",+FOOT
 http://145.239.5.177:80/556/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",SUPER SPORT PREMIER LEAGUE
-http://178.33.239.54:8080/563/index.m3u8
 #EXTINF:0 tvg-id="RMCSport3.fr" group-title="SPORT VIP1",RMC SPORT 3
 http://145.239.5.177:80/526/index.m3u8
 #EXTINF:0 tvg-id="RMCSport2.fr" group-title="SPORT VIP1",RMC SPORT 2
 http://145.239.5.177:80/525/index.m3u8
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="SPORT VIP1",RMC SPORT 1
-http://178.33.239.54:8080/524/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",AMAZON PRIME 3
 http://145.239.5.177:80/518/index.m3u8
 #EXTINF:0 tvg-id="LIGTV3.tr" group-title="SPORT VIP1",beIN SPORT 3
 http://145.239.5.177:80/514/index.m3u8
 #EXTINF:0 tvg-id="LIGTV3.tr" group-title="SPORT VIP1",beIN SPORT 3
 http://145.239.5.177:80/514/index.m3u8
-#EXTINF:0 tvg-id="beinSports2.fr" group-title="SPORT VIP1",beIN SPORT 2
-http://178.33.239.54:8080/513/index.m3u8
-#EXTINF:0 tvg-id="LIGTV.tr" group-title="SPORT VIP1",beIN SPORT 1
-http://178.33.239.54:8080/512/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",TNT SPORTS 3
-http://178.33.239.54:8080/511/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",TNT SPORTS 2
-http://178.33.239.54:8080/510/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",TNT SPORTS 1
-http://178.33.239.54:8080/509/index.m3u8
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="SPORT VIP1",Sky Sport F1
-http://178.33.239.54:8080/508/index.m3u8
-#EXTINF:0 tvg-id="SkySportMix.it" group-title="SPORT VIP1",Sky Sport Mix
-http://178.33.239.54:8080/507/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Premier lige
-http://178.33.239.54:8080/506/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Sky Sports MainEvent
-http://178.33.239.54:8080/502/index.m3u8
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPORT VIP1",Sky Sports Cricket
-http://178.33.239.54:8080/503/index.m3u8
-#EXTINF:0 tvg-id="SkySportAction.it" group-title="SPORT VIP1",Sky Sport Action
-http://178.33.239.54:8080/504/index.m3u8
-#EXTINF:0 tvg-id="SkySpNews.uk" group-title="SPORT VIP1",Sky Sports News
-http://178.33.239.54:8080/501/index.m3u8
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SPORT VIP1",Sky Sports Football
-http://178.33.239.54:8080/500/index.m3u8
-#EXTINF:0 tvg-id="13EMERUE.carab" group-title="SPORT VIP1",13eme Rue
-http://178.33.239.54:8080/316/index.m3u8
+
 #EXTINF:0 tvg-id="TFX.carab" group-title="SPORT VIP1",TFX
 http://145.239.5.177:80/315/index.m3u8
 #EXTINF:0 tvg-id="6ter.fr" group-title="SPORT VIP1",6 TER HD
@@ -9549,16 +9502,6 @@ http://145.239.5.177:80/314/index.m3u8
 http://37.187.138.41:80/TF-un-serie/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",PARIS PREMIER
 http://145.239.5.177:80/312/index.m3u8
-#EXTINF:0 tvg-id="CinePolar.fr" group-title="SPORT VIP1",CINE POLAR
-http://178.33.239.54:8080/317/index.m3u8
-#EXTINF:0 tvg-id="BFMTV.fr" group-title="SPORT VIP1",BFMTV
-http://178.33.239.54:8080/311/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",AFRICA 24
-http://178.33.239.54:8080/310/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",FRANCE
-http://178.33.239.54:8080/303/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",FRANCE
-http://178.33.239.54:8080/302/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP1",Arena Sport HD
 http://178.23.88.55/Arena_sport/index.m3u8
 #EXTINF:0 tvg-id="sport1_rus" group-title="SPORT VIP1",Sport1
@@ -10897,8 +10840,6 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 http://145.239.5.177:80/559/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Canal+ Sport 360 🇫🇷
-http://178.33.239.54:8080/700/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Setenta Sport 1 🇷🇺
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Setenta Sport 2 🇷🇺
