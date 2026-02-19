@@ -464,66 +464,23 @@ https://yastikkavgasi.lol/static/trt1.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",500. SKY SPORTS FOOTBALL
-http://178.33.239.54:8080/500a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",501. SKY SPORTS NEWS
-http://178.33.239.54:8080/501a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",502. SKY SPORT MAIN EVENT
-http://178.33.239.54:8080/502b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",503. SKY SPORT CRICKET
-http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",504. SKY SPORT ACTION
-http://178.33.239.54:8080/504/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",506. SKY SPORT PREMIER LEAGUE
-http://178.33.239.54:8080/506b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",507. SKY SPORTS MIX HD
-http://178.33.239.54:8080/507a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",508. Sky SPORTS F1
-http://178.33.239.54:8080/508a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",509. BT SPORTS 1
-http://178.33.239.54:8080/509b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",510. BT SPORTS 2
-http://178.33.239.54:8080/510a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",511. BT SPORTS 3
-http://178.33.239.54:8080/511a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",512. beIN SPORT 1
-http://178.33.239.54:8080/512a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",513. beIN SPORT 2
-http://178.33.239.54:8080/513a/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",514. beIN SPORT 3
 http://145.239.5.177:80/514a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",518. AMAZON PRIME 3
 http://145.239.5.177:80/518/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",524. RMC SPORT 1
-http://178.33.239.54:8080/524a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",525. RMC SPORT 2
 http://145.239.5.177:80/525/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",526. RMC SPORT 3
 http://145.239.5.177:80/526a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",527. RMC SPORT 4
-http://178.33.239.54:8080/527/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",529. EURO SPORT
 http://145.239.5.177:80/529/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",530. EURO SPORT 2
 http://145.239.5.177:80/530/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",531. PREMIER SPORTS
-http://178.33.239.54:8080/531a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",539. ESPN
 http://149.202.74.136:8080/539/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",540. ESPN 2
 http://149.202.74.136:8080/540/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",541. CANAL+ SPORT
-http://178.33.239.54:8080/541a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",542. CANAL+PREMIER LEAGUE
-http://178.33.239.54:8080/542/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",544. CANAL+SPORT2
-http://178.33.239.54:8080/544a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",545. CANAL+ SPORT3
-http://178.33.239.54:8080/545b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",546. CANAL+SPORT4
-http://178.33.239.54:8080/546a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",547. Canal+ MotoGP
-http://178.33.239.54:8080/547a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",549. L'EQUIPE
 http://145.239.5.177:80/549/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",556. Canal+ FOOT
@@ -538,16 +495,13 @@ http://145.239.5.177/559a/index.m3u8
 http://145.239.5.177/561a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",562. SUPER SPORTS PSL
 http://145.239.5.177/562a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",563. SUPER SPORT PREMIER LEAGUE
-http://178.33.239.54:8080/563/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",564. SUPER SPORTS FOOTBALL
 http://145.239.5.177/564a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",565. SUPER SPORTS LA LIGA
 http://145.239.5.177:80/565a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",566. Supersports Premier League
 http://145.239.5.177/566a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",571. L SPORT
-http://178.33.239.54:8080/571/index.m3u8
+
 
 
 
