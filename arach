@@ -2195,7 +2195,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",SHAHID LIVE 1 HD
 https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Shahid TV VIP",Aflam
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx001/720p-d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Shahid TV VIP",Movies-Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Shahid TV VIP",Movies-Thriller
@@ -2221,11 +2221,11 @@ https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Naser_Al_Qassaby
 https://shls-live-enc.edgenextcdn.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Al_Asouf
-https://shls-live-enc.edgenextcdn.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx003/720p-d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Shahid TV VIP",Bab_Al_Hara
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png" group-title="Shahid TV VIP", رابح-صقر
-https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx004/720p-d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="Shahid TV VIP", عبدالمجيد-عبدالله
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-abdulmajeed-abdullah/def450c25e1f2dd4379ca782e07c96a8/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="Shahid TV VIP", راشد-الماجد
