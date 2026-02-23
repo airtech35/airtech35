@@ -2371,6 +2371,47 @@ https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 01
+http://176.65.146.147:9981/stream/channelid/2096576635?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 01 SD
+http://176.65.146.147:9981/stream/channelid/224119087?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 02
+http://176.65.146.147:9981/stream/channelid/1770760232?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 03
+http://176.65.146.147:9981/stream/channelid/1267461264?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 04
+http://176.65.146.147:9981/stream/channelid/231139780?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 05
+http://176.65.146.147:9981/stream/channelid/489312769?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 06
+http://176.65.146.147:9981/stream/channelid/1121946473?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 07
+http://176.65.146.147:9981/stream/channelid/209869362?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 08
+http://176.65.146.147:9981/stream/channelid/837855103?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 09
+http://176.65.146.147:9981/stream/channelid/720272231?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 09 SD
+http://176.65.146.147:9981/stream/channelid/1573382926?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 10
+http://176.65.146.147:9981/stream/channelid/900950269?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 10 SD
+http://176.65.146.147:9981/stream/channelid/391603337?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 11
+http://176.65.146.147:9981/stream/channelid/1924962653?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 11 SD
+http://176.65.146.147:9981/stream/channelid/2067721881?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 12
+http://176.65.146.147:9981/stream/channelid/469095880?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 12 SD
+http://176.65.146.147:9981/stream/channelid/1095996280?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 13
+http://176.65.146.147:9981/stream/channelid/1011580292?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Almajd VIP",Almajd 13 SD
+http://176.65.146.147:9981/stream/channelid/515895441?profile=pass
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🆁™ أخبارWorld News 🌍",الاخبارNEWS📰
 https://bit.ly/3xYLaRh
@@ -3388,8 +3429,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="Syria سورية",Alaraby 2 TV
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="Syria سورية",ALIKHBARIYA.SY
+http://176.65.146.147:9981/stream/channelid/1873239213?profile=pass
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://pbs.twimg.com/profile_images/1944770069201842176/7jghETLR_400x400.jpg" group-title="Syria سورية",Ana Syria
 https://www.go-web.space/hls/strr_anas/stream.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/071/radio-damascus-rdyw-dmshq.1bc8e9dc.png" group-title="Syria سورية",Damascus Radio
