@@ -10745,32 +10745,6 @@ https://a1xs.vip/8000012
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Setanta Sport 2 🇬🇪
-http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",5 SPORT 🇮🇱
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Premium 1 HD 🇷🇸
-http://169.150.223.25/ArenaPremium1HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein 1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Tabi 🇹🇷
-https://paco@spring-block-9b5e.baybayesraerol.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ZIGGO SPORT 🇳🇱
-https://paco@fes.feswalki.site/simpch7/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcxMzU5MDkyLCJyYW5kIjoiNGJkZjFkOGJjZjQ2NDQ2YyJ9.8525ce4ed424041605c6c5efc317a5e7c323d5defc064c528279870277edd323
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",LIVE5 🇨🇳
-https://Tdo@live5.msrktz.app/live/97312754.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CBC Sport 🇺🇸
-https://paco@d37wczqm9lv2qo.cloudfront.net/svg/n2/javascript.json
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CBC Sport 🇺🇸
-https://paco@storage.googleapis.com/buuncaamw/mux_video_ts/index-1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CBC Sport 🇺🇸
-https://storage.googleapis.com/unicovertungdf2/mux_video_ts/index-1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",101TV 🇶🇦
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/sfWPJYzYW9s87waCoBPT5x7weu3HmCzVELm63N_fW9H_AjvsbnFMRzlYeBtEAalZ5NChafocxFNquiVv89nVdw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",MAX SPORT 3 🇧🇬
-http://77.46.130.252:99/maxsport3
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",МАТЧ! ФУТБOЛ 2HD 🇷🇺
@@ -10817,6 +10791,8 @@ http://181.78.109.48:9998/play/a06r/index.m3u8
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_2 🇶🇦
 http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_2 🇶🇦
+https://balance.footballii.ir/hls2/bein2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_3 🇶🇦
 http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_4 🇶🇦
@@ -10967,6 +10943,12 @@ http://169.150.223.25/ArenaPremium1HD/index.m3u8
 http://169.150.223.25/ArenaPremium2HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Premium 3 HD 🇷🇸
 http://169.150.223.25/ArenaPremium3HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Premium 1 HD 🇷🇸
+http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Premium 2 HD 🇷🇸
+http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Premium 3 HD 🇷🇸
+http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Sport 1 HD 🇷🇸
 http://169.150.223.25/ArenaSport1HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Sport 1 HD 🇷🇸
@@ -11026,6 +11008,20 @@ http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",RTSH Sport 🇦🇱
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 1 🇦🇱
+http://79.127.207.193:80/Supersport1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 2 🇦🇱
+http://79.127.207.193:80/Supersport2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 3 🇦🇱
+http://79.127.207.193:80/Supersport3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 4 🇦🇱
+http://79.127.207.193:80/Supersport4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 5 🇦🇱
+http://79.127.207.193:80/Supersport5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 6 🇦🇱
+http://79.127.207.193:80/Supersport6/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 7 🇦🇱
+http://79.127.207.193:80/Supersport7/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 1 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Super Sport 1 🇦🇱
 http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
@@ -11073,6 +11069,14 @@ http://79.127.207.193:80/TringSport2HD/playlist.m3u8
 http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Tring Sport 4 🇦🇱
 http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",KSport 1 HD 🇦🇱
+http://79.127.207.193:80/KSport1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",KSport 2 HD 🇦🇱
+http://79.127.207.193:80/KSport2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",KSport 3 HD 🇦🇱
+http://79.127.207.193:80/KSport3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",KSport 4 HD 🇦🇱
+http://79.127.207.193:80/KSport4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",RTSH Sport 🇦🇱
 http://217.73.139.200:5443/play/a01d
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 1 HD 🇽🇰
@@ -11087,6 +11091,18 @@ http://169.150.223.25/ArtSport4/index.m3u8
 http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 6 HD 🇽🇰
 http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 1 HD 🇽🇰
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 2 HD 🇽🇰
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 3 HD 🇽🇰
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 4 HD 🇽🇰
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 5 HD 🇽🇰
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Art Sport 6 HD 🇽🇰
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",NOVA SPORT 1 HD 🇨🇿
 http://178.23.88.55/Nova_Sport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",NOVA SPORT 1 HD 🇨🇿
@@ -11375,6 +11391,18 @@ http://154.197.91.169:8000/play/a0ie/index.m3u8
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Setanta Sport 2 🇬🇪
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",5 SPORT 🇮🇱
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Arena Premium 1 HD 🇷🇸
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Sport5 🇮🇱
