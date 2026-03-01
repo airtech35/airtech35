@@ -44,7 +44,13 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
 
-#EXTM3U
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://d1pds5gq7p4s0a.cloudfront.net/status/3/fronts.woff2?7df61e
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+
+https://storage.googleapis.com/unicterungitjds1/mux_video_ts/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0++
+https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 1 HD
 http://de.1usd.tv/ch227/mono.m3u8?token=1usdtv_sergmih.v2_O4-TDmX_w72HEVXuaREEviroBTY5sxaiquPzE-kg3b2rBS6XRsmfYslpaVRRp7YBZXXfwnbwMhV87_pUNmEw
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 2 HD
@@ -116,40 +122,6 @@ https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4f
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 1
-https://xvg1xtr.m-2026-mobile.xyz/23_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 2" tvg-logo="http://tv.asc.vg/bein2.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 2
-https://xvg1xtr.m-2026-mobile.xyz/24_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 3" tvg-logo="http://tv.asc.vg/bein3.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 3
-https://xvg1xtr.m-2026-mobile.xyz/25_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 4" tvg-logo="http://tv.asc.vg/bein4.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 4
-https://xvg1xtr.m-2026-mobile.xyz/26_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 5" tvg-logo="http://tv.asc.vg/bein5.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 5
-https://xvg1xtr.m-2026-mobile.xyz/27_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 6" tvg-logo="http://tv.asc.vg/bein6.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 6
-https://xvg1xtr.m-2026-mobile.xyz/28_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 7" tvg-logo="http://tv.asc.vg/bein7.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 7
-https://xvg1xtr.m-2026-mobile.xyz/29_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein8.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 8
-https://xvg1xtr.m-2026-mobile.xyz/30_.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein9.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 9
-https://xvg1xtr.m-2026-mobile.xyz/31_.m3u8
-
-
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 1 🇶🇦
-http://77.137.40.221:8000/play/a01e
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 2 🇶🇦
-http://77.137.40.221:8000/play/a01g
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 3 🇶🇦
-http://77.137.40.221:8000/play/a01h
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 4 🇶🇦
-http://77.137.40.221:8000/play/a01i
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 5 🇶🇦
-http://77.137.40.221:8000/play/a01j
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 6 🇶🇦
-http://77.137.40.221:8000/play/a01k
-
-
 #EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 1+
 https://flu.systemnet.tv/BeinHD1/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sport HD 2" tvg-logo="http://tv.asc.vg/bein2.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 2+
@@ -168,10 +140,6 @@ https://flu.systemnet.tv/BeinHD7/index.m3u8
 https://flu.systemnet.tv/BeinHD8/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein9.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 9+
 https://flu.systemnet.tv/BeinHD9/index.m3u8
-
-
-
-
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
