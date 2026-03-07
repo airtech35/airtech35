@@ -109,6 +109,8 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_9
 http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_10
+http://135.125.109.73:9000/beinsport10_.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
