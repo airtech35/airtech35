@@ -44,12 +44,6 @@ http://135.125.109.73:9000/beinsporten1_.m3u8
 http://135.125.109.73:9000/beinsporten2_.m3u8
 
 
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
-https://d1pds5gq7p4s0a.cloudfront.net/status/3/fronts.woff2?7df61e
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+
-https://storage.googleapis.com/unicterungitjds1/mux_video_ts/index-1.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0++
-https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 1 HD
 http://de.1usd.tv/ch227/mono.m3u8?token=1usdtv_sergmih.v2_O4-TDmX_w72HEVXuaREEviroBTY5sxaiquPzE-kg3b2rBS6XRsmfYslpaVRRp7YBZXXfwnbwMhV87_pUNmEw
