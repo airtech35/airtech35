@@ -171,8 +171,8 @@ https://flu.systemnet.tv/Al.Fajer.6.720p/index.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
 https://flu.systemnet.tv/Al.Fajer.7.720p/index.m3u8
 
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post1
-https://cdn3-mejarhosting.cfd/2025-posttv1080p-ch01/master.m3u8
+#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post1+
+https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post2
 https://cdn3-mejarhosting.cfd/2025-posttv1080p-ch02/master.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post3
