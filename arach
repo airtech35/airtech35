@@ -53,7 +53,7 @@ https://stb.blc2cdn.fyi/live/60045_.m3u8
 https://stb.blc2cdn.fyi/live/60046_.m3u8
 
 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 1 HD+🇸🇾
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 1 HD+
 http://de.1usd.tv/ch227/mono.m3u8?token=1usdtv_sergmih.v2_O4-TDmX_w72HEVXuaREEviroBTY5sxaiquPzE-kg3b2rBS6XRsmfYslpaVRRp7YBZXXfwnbwMhV87_pUNmEw
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ BEIN SPORT ⚽",AR: Bein Sports 2 HD+
 http://de.1usd.tv/ch228/mono.m3u8?token=1usdtv_sergmih.v2_AD3sHCtpdj4DuSgynca8sXTTfAKPnCmsoAmSzNv-oL6biOSWCNTr9weLkU2K5tvymOpU9AOU2uZy5SsUCqmX
@@ -3447,86 +3447,86 @@ https://radioshamfm.grtvstream.com:8400/stream
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="LEBANON لبنان",لبنانLEBANON 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇱🇧LEBANON لبنان",لبنانLEBANON 
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="LEBANON لبنان",كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇱🇧LEBANON لبنان",كيف احصل على الكود
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="LEBANON لبنان", airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇱🇧LEBANON لبنان", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="LEBANON لبنان",MTV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="🇱🇧LEBANON لبنان",MTV
 https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="LEBANON لبنان",MTV+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="🇱🇧LEBANON لبنان",MTV+
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="LEBANON لبنان",MTV++
+#EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="🇱🇧LEBANON لبنان",MTV++
 http://185.9.2.18/chid_387/mono.m3u8
-#EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="LEBANON لبنان",OTV
+#EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="🇱🇧LEBANON لبنان",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="LEBANON لبنان",LBC
+#EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="🇱🇧LEBANON لبنان",LBC
 http://185.9.2.18/chid_327/mono.m3u8
-#EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="LEBANON لبنان",Al Ittihad
+#EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="🇱🇧LEBANON لبنان",Al Ittihad
 https://live.alittihad.tv:444/ittihad/index.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="LEBANON لبنان",Al Manar
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="🇱🇧LEBANON لبنان",Al Manar
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="LEBANON لبنان",Al Mayadeen
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="🇱🇧LEBANON لبنان",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlImanTV.lb" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="LEBANON لبنان",Aliman TV
+#EXTINF:-1 tvg-id="AlImanTV.lb" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="🇱🇧LEBANON لبنان",Aliman TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ALWifakNewsTV.lb" tvg-logo="https://i.imgur.com/1vqhmNz.png" group-title="LEBANON لبنان",ALWifak News TV
+#EXTINF:-1 tvg-id="ALWifakNewsTV.lb" tvg-logo="https://i.imgur.com/1vqhmNz.png" group-title="🇱🇧LEBANON لبنان",ALWifak News TV
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="OneTV.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="LEBANON لبنان",One TV
+#EXTINF:-1 tvg-id="OneTV.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="🇱🇧LEBANON لبنان",One TV
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="OneFM.lb" tvg-logo="https://static-media.streema.com/media/cache/08/00/0800fa4956f34950da272ce971523d2c.png" group-title="LEBANON لبنان",OneFM
+#EXTINF:-1 tvg-id="OneFM.lb" tvg-logo="https://static-media.streema.com/media/cache/08/00/0800fa4956f34950da272ce971523d2c.png" group-title="🇱🇧LEBANON لبنان",OneFM
 https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
-#EXTINF:-1 tvg-id="VoiceofLebanon.lb" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="LEBANON لبنان",Voice of Lebanon
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="🇱🇧LEBANON لبنان",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.lb.png?raw=true" group-title="LEBANON لبنان",Hala London
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.lb.png?raw=true" group-title="🇱🇧LEBANON لبنان",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
-#EXTINF:-1 tvg-id="AghaniAghaniTV.lb" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="LEBANON لبنان",Aghani Aghani TV
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="🇱🇧LEBANON لبنان",Aghani Aghani TV
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/Bt40hdlBMC_lDQ31xt87AWwwfye573q-ZjyAiinA8qUGc0KXcQuV1eGNLQ4EP-CpH8dMPX3vNUk=s900-c-k-c0x00ffffff-no-rj" group-title="LEBANON لبنان",Hala_London
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/Bt40hdlBMC_lDQ31xt87AWwwfye573q-ZjyAiinA8qUGc0KXcQuV1eGNLQ4EP-CpH8dMPX3vNUk=s900-c-k-c0x00ffffff-no-rj" group-title="🇱🇧LEBANON لبنان",Hala_London
 https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.postimg.cc/4xnhPmjk/tahatv.png" group-title="LEBANON لبنان",Taha TV
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.postimg.cc/4xnhPmjk/tahatv.png" group-title="🇱🇧LEBANON لبنان",Taha TV
 https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="LEBANON لبنان",Ifilm Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="🇱🇧LEBANON لبنان",Ifilm Tv
 https://live.presstv.ir/hls/ifilmar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/KolWUTEcPB5R3iKRWYSkfwPmNTjxHgRm39qyOAeLgwAk8YZW5DVXeY8LLhtuII8i5O4oiIE5=s900-c-k-c0x00ffffff-no-rj" group-title="LEBANON لبنان",RED لبنان
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/KolWUTEcPB5R3iKRWYSkfwPmNTjxHgRm39qyOAeLgwAk8YZW5DVXeY8LLhtuII8i5O4oiIE5=s900-c-k-c0x00ffffff-no-rj" group-title="🇱🇧LEBANON لبنان",RED لبنان
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Qn_da7QAlW8wiPygCo_FbyY4zss3gdWX3AKPVjr_0W3cUz-KJMdFk6bBSn0LQ5JxVQ" group-title="LEBANON لبنان",Senses TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Qn_da7QAlW8wiPygCo_FbyY4zss3gdWX3AKPVjr_0W3cUz-KJMdFk6bBSn0LQ5JxVQ" group-title="🇱🇧LEBANON لبنان",Senses TV
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
-#EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="LEBANON لبنان",Future TV
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="🇱🇧LEBANON لبنان",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="" group-title="LEBANON لبنان",otv
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="" group-title="🇱🇧LEBANON لبنان",otv
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1560952042331455489/dwfIfABS_400x400.jpg" group-title="LEBANON لبنان",Sadalarz-Leb
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1560952042331455489/dwfIfABS_400x400.jpg" group-title="🇱🇧LEBANON لبنان",Sadalarz-Leb
 http://iptv.icsnleb.com:25461/12/12/1034
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62c1d7ec8f221664c14493b5/53fb1d8e-df2c-40d3-97da-d0fc4e452b30/vod+logo.png" group-title="LEBANON لبنان",VOD-Music
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62c1d7ec8f221664c14493b5/53fb1d8e-df2c-40d3-97da-d0fc4e452b30/vod+logo.png" group-title="🇱🇧LEBANON لبنان",VOD-Music
 http://iptv.icsnleb.com:25461/12/12/36
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.mehrnews.com/d/2020/12/06/3/3621014.jpg" group-title="LEBANON لبنان",VOD-Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.mehrnews.com/d/2020/12/06/3/3621014.jpg" group-title="🇱🇧LEBANON لبنان",VOD-Movies
 http://iptv.icsnleb.com:25461/12/12/55
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-Leb
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",VOD-Leb
 http://iptv.icsnleb.com:25461/12/12/37
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",VOD-Cinema
 http://iptv.icsnleb.com:25461/12/12/59
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-Series
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",VOD-Series
 http://iptv.icsnleb.com:25461/12/12/49
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-Documentary
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",VOD-Documentary
 http://iptv.icsnleb.com:25461/12/12/40
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",VOD-PROMO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",VOD-PROMO
 http://iptv.icsnleb.com:25461/12/12/770
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",ALJADEED TV HD
 http://102.177.177.232/ALJADEED/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",ALJADEED TV HD
 http://77.137.40.221:8000/play/a01x
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",LBC International
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",LBC International
 http://77.137.40.221:8000/play/a01w
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",NBN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",NBN
 http://77.137.40.221:8000/play/a01z
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",OTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",OTV
 http://77.137.40.221:8000/play/a01y
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",One
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",One
 http://77.137.40.221:8000/play/a01v
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LEBANON لبنان",TV Lebanon HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",TV Lebanon HD
 http://77.137.40.221:8000/play/a01u
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
