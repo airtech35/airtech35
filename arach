@@ -3457,7 +3457,7 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/hala.lb.png?raw=true" group-title="🇱🇧LEBANON لبنان",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1 tvg-id="AghaniAghaniTV.lb" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="🇱🇧LEBANON لبنان",Aghani Aghani TV
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/Bt40hdlBMC_lDQ31xt87AWwwfye573q-ZjyAiinA8qUGc0KXcQuV1eGNLQ4EP-CpH8dMPX3vNUk=s900-c-k-c0x00ffffff-no-rj" group-title="🇱🇧LEBANON لبنان",Hala_London
 https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.postimg.cc/4xnhPmjk/tahatv.png" group-title="🇱🇧LEBANON لبنان",Taha TV
