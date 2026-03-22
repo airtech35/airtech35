@@ -2814,7 +2814,7 @@ https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",ALJazeera 🏞️الجزيرة الوثائقية
 http://213.57.91.138:8000/play/a06h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
-https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
+http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",National Geographic Abu Dhabi HD
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="​🆁™ وثائقيDoc & History 🏛️",Oman 🏞️الوثائقية
