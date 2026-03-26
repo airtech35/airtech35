@@ -32,18 +32,6 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS HD
-http://135.125.109.73:9000/beinsportglobal_.m3u8
-#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS HD
-https://ythls.armelin.one/channel/UCgi67KpEg7mJv62oZi_Y3mg.m3u8
-#EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS NEWS
-http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="⚽ BEIN SPORT ⚽",Bein Sport 1 En
-http://135.125.109.73:9000/beinsporten1_.m3u8
-#EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 2 En
-http://135.125.109.73:9000/beinsporten2_.m3u8
-
-
 
 #EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
 http://xmrcars.org:8080/bn1hevc/tracks-v1a1/mono.m3u8
@@ -71,54 +59,13 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
 https://d236onj0zb95xv.cloudfront.net/status/1/fronts.woff2?e0c91c
-
-
-
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",bein_sd_2
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",bein_sd_3
-http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein_sd_4
-http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/2560px-Logo_BeinSports_5_MAX.svg.png",bein_sd_5
-http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",bein_sd_6
-http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png",bein_sd_7
-http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="⚽ BEIN SPORT ⚽",bein_sd_8
-http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_9
-http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg",bein_sd_10
-http://135.125.109.73:9000/beinsport10_.m3u8
-
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 1+
-https://flu.systemnet.tv/BeinHD1/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 2" tvg-logo="http://tv.asc.vg/bein2.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 2+
-https://flu.systemnet.tv/BeinHD2/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 3" tvg-logo="http://tv.asc.vg/bein3.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 3+
-https://flu.systemnet.tv/BeinHD3/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 4" tvg-logo="http://tv.asc.vg/bein4.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 4+
-https://flu.systemnet.tv/BeinHD4/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 5" tvg-logo="http://tv.asc.vg/bein5.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 5+
-https://flu.systemnet.tv/BeinHD5/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 6" tvg-logo="http://tv.asc.vg/bein6.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 6+
-https://flu.systemnet.tv/BeinHD6/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 7" tvg-logo="http://tv.asc.vg/bein7.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 7+
-https://flu.systemnet.tv/BeinHD7/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein8.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 8+
-https://flu.systemnet.tv/BeinHD8/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein9.bein.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport HD 9+
-https://flu.systemnet.tv/BeinHD9/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 K
@@ -139,91 +86,6 @@ http://h42.reelpush.online/live/33523510/index.m3u8
 http://h42.reelpush.online/live/996251000/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 854x480 
-https://stb.blc2cdn.fyi/live/60030_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 1024x576
-https://stb.blc2cdn.fyi/live/60040_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 1280x720 
-https://stb.blc2cdn.fyi/live/60050_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 1920x1080 
-https://stb.blc2cdn.fyi/live/60090_.m3u8 
-
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 854x480 
-https://stb.blc2cdn.fyi/live/60031_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 1024x576
-https://stb.blc2cdn.fyi/live/60041_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 1280x720 
-https://stb.blc2cdn.fyi/live/60051_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 1920x1080 
-https://stb.blc2cdn.fyi/live/60091_.m3u8 
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 854x480 
-https://stb.blc2cdn.fyi/live/60032_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 1024x576
-https://stb.blc2cdn.fyi/live/60042_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 1280x720 
-https://stb.blc2cdn.fyi/live/60052_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 1920x1080 
-https://stb.blc2cdn.fyi/live/60092_.m3u8 
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 854x480 
-https://stb.blc2cdn.fyi/live/60033_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 1024x576
-https://stb.blc2cdn.fyi/live/60043_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 1280x720 
-https://stb.blc2cdn.fyi/live/60053_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 1920x1080 
-https://stb.blc2cdn.fyi/live/60093_.m3u8 
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5  854x480 
-https://stb.blc2cdn.fyi/live/60034_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 1024x576
-https://stb.blc2cdn.fyi/live/60044_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 1280x720 
-https://stb.blc2cdn.fyi/live/60054_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 1920x1080 
-https://stb.blc2cdn.fyi/live/60094_.m3u8 
-
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 854x480 
-https://stb.blc2cdn.fyi/live/60035_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 1024x576
-https://stb.blc2cdn.fyi/live/60045_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 1280x720 
-https://stb.blc2cdn.fyi/live/60055_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 1920x1080 
-https://stb.blc2cdn.fyi/live/60095_.m3u8 
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 854x480 
-https://stb.blc2cdn.fyi/live/60036_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 1024x576
-https://stb.blc2cdn.fyi/live/60046_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 1280x720 
-https://stb.blc2cdn.fyi/live/60056_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 1920x1080 
-https://stb.blc2cdn.fyi/live/60096_.m3u8 
-
-
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 854x480 
-https://stb.blc2cdn.fyi/live/60037_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 1024x576
-https://stb.blc2cdn.fyi/live/60047_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 1280x720 
-https://stb.blc2cdn.fyi/live/60057_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 1920x1080 
-https://stb.blc2cdn.fyi/live/60097_.m3u8 
-
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 854x480 
-https://stb.blc2cdn.fyi/live/60038_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 1024x576
-https://stb.blc2cdn.fyi/live/60048_.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 1280x720 
-https://stb.blc2cdn.fyi/live/60058_.m3u8 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 1920x1080 
-https://stb.blc2cdn.fyi/live/60098_.m3u8 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
@@ -286,6 +148,43 @@ http://live.alfajertv.com:2052/hls6/ftv6/index.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
 http://live.alfajertv.com:2052/hls6/ftv7/index.m3u8
 
+
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 1 HD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 1 SD
+https://arx-fin-live.vercel.app/api/proxy?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 1 4K
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 2 HD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan2hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 2 SD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan2hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 2 4K
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 3 HD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan3hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 3 SD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 3 4K
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 4 HD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan4hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 4 SD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 4 4K
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan4hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 5 HD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan5hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 5 SD
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 5 4K
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan1hd.gotvmax0.workers.dev/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 6 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 6 4K
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan6hd.gotvmax0.workers.dev/.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
