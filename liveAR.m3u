@@ -40,8 +40,6 @@ https://stm.linkip.org/live/1953_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA
 https://raw.githubusercontent.com/shoottvlivef/xpola-player/refs/heads/main/TOD.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 4K
 http://xmrcars.org:8080/bn14k/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2 4K
@@ -77,27 +75,41 @@ http://sportook.online/BEIN-S3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4  
 http://sportook.online/BEIN-S4/video.m3u8
 
-
-
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 1
 http://xmrcars.org:8080/bn1hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 1
 http://xmrcars.org:8080/bn14k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 1
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 1
 http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 2
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 2
 http://xmrcars.org:8080/bn2hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 2
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 2
 http://xmrcars.org:8080/bn24k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 2
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 2
 http://xmrcars.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 3
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 3
 http://xmrcars.org:8080/bn3hevc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 3
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 3
 http://xmrcars.org:8080/bn34k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AR:beIN Sport" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="AR:beIN Sport",AR:beIN Sport 3
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 3
 http://xmrcars.org:8080/bn3hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 K
+http://h42.reelpush.online/live/918454578001/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2 K
+http://h42.reelpush.online/live/69854211/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3 K
+http://h42.reelpush.online/live/645587700/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4 K
+http://h42.reelpush.online/live/9787488847/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5 K
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6 K
+http://h42.reelpush.online/live/1515000000/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 7 K
+http://h42.reelpush.online/live/33523510/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 8 K
+http://h42.reelpush.online/live/996251000/index.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
@@ -109,26 +121,6 @@ https://d236onj0zb95xv.cloudfront.net/status/1/fronts.woff2?e0c91c
 https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 K
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 K
-http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 K
-http://h42.reelpush.online/live/645587700/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 K
-http://h42.reelpush.online/live/9787488847/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 K
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 K
-http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 K
-http://h42.reelpush.online/live/33523510/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 K
-http://h42.reelpush.online/live/996251000/index.m3u8
-
-
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
