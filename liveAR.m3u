@@ -111,6 +111,25 @@ http://h42.reelpush.online/live/33523510/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 8 K
 http://h42.reelpush.online/live/996251000/index.m3u8
 
+
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
+https://is.gd/TFawTz.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
+https://is.gd/6BsR4Q.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
+https://is.gd/uNAG0w.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
+https://is.gd/MAVDku.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
+https://is.gd/zPUHto.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
+https://is.gd/OkoaYD.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-rec="0",beIN Sports 8 HD QA
+https://is.gd/lmff4Z.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
+https://is.gd/RFaNt7.m3u8
+
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
