@@ -130,6 +130,27 @@ https://is.gd/lmff4Z.m3u8
 https://is.gd/RFaNt7.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 1
+https://sport.alamna.live/alammna/live/2e92140d/BeIN_SPORTS_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 2
+https://sport.alamna.live/alammna/live/30e908fc/BeIN_SPORTS_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 3
+https://sport.alamna.live/alammna/live/5506db83/BeIN_SPORTS_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 4
+https://sport.alamna.live/alammna/live/f232c42b/BeIN_SPORTS_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 5
+https://sport.alamna.live/alammna/live/1ef34955/BeIN_SPORTS_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 6
+https://sport.alamna.live/alammna/live/68793d4f/BeIN_SPORTS_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 7
+https://sport.alamna.live/alammna/live/4a515232/BeIN_SPORTS_7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 8
+https://sport.alamna.live/alammna/live/101ac041/BeIN_SPORTS_8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 9
+https://sport.alamna.live/alammna/live/66b29143/BeIN_SPORTS_9.m3u8
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
@@ -156,51 +177,6 @@ https://flu.systemnet.tv/Al.Fajer.5.720p/index.m3u8
 https://flu.systemnet.tv/Al.Fajer.6.720p/index.m3u8
 #EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
 https://flu.systemnet.tv/Al.Fajer.7.720p/index.m3u8
-
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post1+
-https://cdn3-mejarhosting.cfd/post1-1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post2
-https://cdn3-mejarhosting.cfd/post2-1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post3
-https://cdn3-mejarhosting.cfd/post3-1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post4
-https://cdn3-mejarhosting.cfd/post4-1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post5
-https://cdn3-mejarhosting.cfd/post5-1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB6vCWdeZ-cQ-dUdEdiic5rB7YeZx67I5Tw&s", post6
-https://cdn3-mejarhosting.cfd/post6-1080p/index.mpd
-
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
-https://cdn3-mejarhosting.cfd/ftv1_1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv2
-https://cdn3-mejarhosting.cfd/ftv2_1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv3
-https://cdn3-mejarhosting.cfd/ftv3_1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv4
-https://cdn3-mejarhosting.cfd/ftv4_1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv5
-https://cdn3-mejarhosting.cfd/ftv5_1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv6
-https://cdn3-mejarhosting.cfd/ftv6_1080p/index.mpd
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
-https://cdn3-mejarhosting.cfd/ftv7_1080p/index.mpd
-
-
-
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv1
-http://live.alfajertv.com:2052/hls/ftv1/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv2
-http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv3
-http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv4
-http://live.alfajertv.com:2052/hls5/ftv4/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv5
-http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv6
-http://live.alfajertv.com:2052/hls6/ftv6/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg", ftv7
-http://live.alfajertv.com:2052/hls6/ftv7/index.m3u8
 
 
 
@@ -468,6 +444,11 @@ http://sportfet.shop/THMANYH--2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3
 http://sportfet.shop/THMANYH--3/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://gamecardi.com/wp-content/uploads/2024/12/Shahid-Vip-sports.png" group-title="AR | THMANYAH  الثمانية |", Shahid Sports 1
+http://sportkn.store/SHAHID-EVENT-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://gamecardi.com/wp-content/uploads/2024/12/Shahid-Vip-sports.png" group-title="AR | THMANYAH  الثمانية |", Shahid Sports 2
+http://sportkn.store/SHAHID-EVENT-2/tracks-v1a1/mono.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
