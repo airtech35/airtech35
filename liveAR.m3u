@@ -48,23 +48,23 @@ http://xmrcars.org:8080/bn24k/mono.m3u8
 http://xmrcars.org:8080/bn34k/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1  
-http://sportfet.shop/BEIN-S1/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-S1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2  
-http://sportfet.shop/BEIN-S2/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-S2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3  
-http://sportfet.shop/BEIN-S3/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-S3/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4  
-http://sportfet.shop/BEIN-S4/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-S4/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5  
-http://sportfet.shop/BEIN-55/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-55/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6  
-http://sportfet.shop/BEIN-S6/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-S6/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 7  
-http://sportfet.shop/BEIN-S7/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-S7/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 8  
-http://sportfet.shop/BEIN-11/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-11/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 9  
-http://sportfet.shop/BEIN-11/tracks-v1a1/mono.m3u8
+http://sportfet.shop/BEIN-11/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1  
 http://sportook.online/BEIN-S1/video.m3u8
@@ -76,23 +76,17 @@ http://sportook.online/BEIN-S3/video.m3u8
 http://sportook.online/BEIN-S4/video.m3u8
 
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 1
-http://xmrcars.org:8080/bn1hevc/tracks-v1a1/mono.m3u8
+http://xmrcars.org:8080/bn1hevc/mono.m3u8
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 1
-http://xmrcars.org:8080/bn14k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 1 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 1
-http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+http://xmrcars.org:8080/bn1hd/mono.m3u8
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 2
-http://xmrcars.org:8080/bn2hevc/tracks-v1a1/mono.m3u8
+http://xmrcars.org:8080/bn2hevc/mono.m3u8
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 2
-http://xmrcars.org:8080/bn24k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 2 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 2
-http://xmrcars.org:8080/bn2hd/tracks-v1a1/mono.m3u8
+http://xmrcars.org:8080/bn2hd/mono.m3u8
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 3
-http://xmrcars.org:8080/bn3hevc/tracks-v1a1/mono.m3u8
+http://xmrcars.org:8080/bn3hevc/mono.m3u8
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 3
-http://xmrcars.org:8080/bn34k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽" tvg-id="sport.tr" tvg-name="AR:beIN Sport 3 HD" tvg-logo="https://up6.cc/2025/10/176143037249161.jpeg" group-title="⚽ BEIN SPORT ⚽",AR:beIN Sport 3
-http://xmrcars.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+http://xmrcars.org:8080/bn3hd/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 K
 http://h42.reelpush.online/live/918454578001/index.m3u8
@@ -150,6 +144,8 @@ https://sport.alamna.live/alammna/live/4a515232/BeIN_SPORTS_7.m3u8
 https://sport.alamna.live/alammna/live/101ac041/BeIN_SPORTS_8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 9
 https://sport.alamna.live/alammna/live/66b29143/BeIN_SPORTS_9.m3u8
+
+
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
