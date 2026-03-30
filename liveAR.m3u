@@ -44,7 +44,8 @@ http://het112a.ycn-redirect.com/live/978480008877005/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA++
 https://is.gd/75Bggk.m3u8
 
-
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA++
+https://bbb.exoadash.com/TVD1346/index.mpd
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 1 HD FHD
 https://pro.onsitv.site/beIN-SPORTS-1-FHD/video.m3u8?token=onsitvab
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 2 HD FHD
@@ -546,11 +547,12 @@ https://bbb.exoadash.com/TVD1451/index.mpd
 https://pro.onsitv.site/Thmanya-1-FHD/video.m3u8?token=onsitvab
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 2+
-https://bbb.exoadash.com/TVD6737/index.mpdd
+https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 2++
 https://pro.onsitv.site/Thmanya-2-FHD/video.m3u8?token=onsitvab
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3+
+https://bbb.exoadash.com/TVD6737/index.mpd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3++
 https://pro.onsitv.site/Thmanya-3-FHD/video.m3u8?token=onsitvab
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://gamecardi.com/wp-content/uploads/2024/12/Shahid-Vip-sports.png" group-title="AR | THMANYAH  الثمانية |", Shahid Sports 1
@@ -2398,6 +2400,44 @@ http://apk.arabic-ch.space/live/070/index.m3u8
 https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 
 
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Yahala
+https://bbb.exoadash.com/TVD1355/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Yahala Aflam
+https://bbb.exoadash.com/TVD1343/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Yahala Bil Arabi
+https://bbb.exoadash.com/TVD1346/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Comedy
+https://bbb.exoadash.com/TVD1354/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Movies Hollywood
+https://bbb.exoadash.com/TVD1350/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="253" group-title="OSN VIP",OSN TV Movie Premiere Channel
+https://bbb.exoadash.com/TVD1338/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="252" group-title="OSN VIP",OSN TV Movie Action Channel
+https://bbb.exoadash.com/TVD1339/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Showcase
+https://bbb.exoadash.com/TVD1341/index.mpd 
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV One
+https://bbb.exoadash.com/TVD1342/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Crime
+https://bbb.exoadash.com/TVD1344/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Mezze
+https://bbb.exoadash.com/TVD1348/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Now
+https://bbb.exoadash.com/TVD1349/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Disney Channel HD
+https://bbb.exoadash.com/TVD1353/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",TLC HD
+https://bbb.exoadash.com/TVD1345/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Kids
+https://bbb.exoadash.com/TVD1352/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Moonbug Kids
+https://bbb.exoadash.com/TVD1347/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Animal Planet HD
+https://bbb.exoadash.com/TVD1359/index.mpd
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
