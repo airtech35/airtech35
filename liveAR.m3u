@@ -540,6 +540,18 @@ http://sportfet.shop/THMANYH--2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3
 http://sportfet.shop/THMANYH--3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 1+
+https://bbb.exoadash.com/TVD1451/index.mpd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 1++
+https://pro.onsitv.site/Thmanya-1-FHD/video.m3u8?token=onsitvab
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 2+
+https://bbb.exoadash.com/TVD6737/index.mpdd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 2++
+https://pro.onsitv.site/Thmanya-2-FHD/video.m3u8?token=onsitvab
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |", THMANYAH 3+
+https://pro.onsitv.site/Thmanya-3-FHD/video.m3u8?token=onsitvab
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://gamecardi.com/wp-content/uploads/2024/12/Shahid-Vip-sports.png" group-title="AR | THMANYAH  الثمانية |", Shahid Sports 1
 http://sportkn.store/SHAHID-EVENT-1/tracks-v1a1/mono.m3u8
