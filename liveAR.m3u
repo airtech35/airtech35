@@ -567,12 +567,6 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT رياضية", airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-#EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://qna.org.qa/media/k5yfisa3/alkass_one-300x143.png" ,Alkass Three
-https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
-https://streamer8.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Alkass Four
-https://Streamer8.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Alkass One
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Alkass Two
