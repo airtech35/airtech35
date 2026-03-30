@@ -39,6 +39,29 @@ https://stm.linkip.org/live/1953_.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA
 https://raw.githubusercontent.com/shoottvlivef/xpola-player/refs/heads/main/TOD.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA+
+http://het112a.ycn-redirect.com/live/978480008877005/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA++
+http://het112a.ycn-redirect.com/live/978480008877006/index.m3u8
+
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 1 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-1-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 2 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-2-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 3 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-3-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 4 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-4-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 5 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-5-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 6 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-6-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 7 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-7-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 8 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-8-FHD/video.m3u8?token=onsitvab
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" tvg-rec="3",beIN Sports 9 HD FHD
+https://pro.onsitv.site/beIN-SPORTS-9-FHD/video.m3u8?token=onsitvab
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 4K
 http://xmrcars.org:8080/bn14k/mono.m3u8
