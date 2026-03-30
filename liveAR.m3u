@@ -2400,6 +2400,13 @@ http://apk.arabic-ch.space/live/070/index.m3u8
 https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="258" group-title="AR | BEIN Entertainment ترفيهي",BeIN Movies 1 (Premiere)
+https://bbb.exoadash.com/TVD4017/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="259" group-title="AR | BEIN Entertainment ترفيهي",BeIN Movies 2 (Action)
+https://bbb.exoadash.com/TVD4018/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="260" group-title="AR | BEIN Entertainment ترفيهي",BeIN Movies 4 (Family)
+https://bbb.exoadash.com/TVD4030/index.mpd
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -2438,7 +2445,14 @@ https://bbb.exoadash.com/TVD1352/index.mpd
 https://bbb.exoadash.com/TVD1347/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Animal Planet HD
 https://bbb.exoadash.com/TVD1359/index.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Star Action
+https://bbb.exoadash.com/TVD2836/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Fatafeat HD
+https://bbb.exoadash.com/TVD1426/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",JEEM
+https://bbb.exoadash.com/TVD1424/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Baraem
+https://bbb.exoadash.com/TVD1425/index.mpd
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-logo="https://img.otf-tv.com/img/balance_288691.jpg" group-title="Cinema VIP",Home Premium 1
