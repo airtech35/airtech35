@@ -3625,6 +3625,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/in
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="🇱🇧LEBANON لبنان",MTV++
 http://185.9.2.18/chid_387/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",ALJADEED TV HD
+http://102.177.177.232/ALJADEED/index.m3u8
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="🇱🇧LEBANON لبنان",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="🇱🇧LEBANON لبنان",LBC
@@ -3680,8 +3682,6 @@ http://iptv.icsnleb.com:25461/12/12/49
 http://iptv.icsnleb.com:25461/12/12/40
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",VOD-PROMO
 http://iptv.icsnleb.com:25461/12/12/770
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",ALJADEED TV HD
-http://102.177.177.232/ALJADEED/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",ALJADEED TV HD
 http://77.137.40.221:8000/play/a01x
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",LBC International
