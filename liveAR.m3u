@@ -254,22 +254,6 @@ https://flu.systemnet.tv/Al.Fajer.7.720p/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 1 HD
-https://alwan1hd.gotvmax0.workers.dev/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 2 HD
-https://alwan2hd.gotvmax0.workers.dev/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 3 HD
-https://alwan3hd.gotvmax0.workers.dev/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 3 HD
-https://alwan3hd.gotvmax0.workers.dev/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 4 HD
-https://alwan4hd.gotvmax0.workers.dev/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 5 HD
-https://alwan5hd.gotvmax0.workers.dev/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 6 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 6 HD
-https://alwan6hd.gotvmax0.workers.dev/.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 1 HD+
 https://stream.camcloud.stream/stream/39faa78a1e9a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png" group-title="AR| AlWAN SPORTS ",AR| ALWAN SPORT 2 HD+
@@ -2370,59 +2354,6 @@ http://apk.arabic-ch.space/live/070/index.m3u8
 https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="258" group-title="AR | BEIN Entertainment ترفيهي",BeIN Movies 1 (Premiere)
-https://bbb.exoadash.com/TVD4017/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="259" group-title="AR | BEIN Entertainment ترفيهي",BeIN Movies 2 (Action)
-https://bbb.exoadash.com/TVD4018/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="260" group-title="AR | BEIN Entertainment ترفيهي",BeIN Movies 4 (Family)
-https://bbb.exoadash.com/TVD4030/index.mpd
-
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Yahala
-https://bbb.exoadash.com/TVD1355/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Yahala Aflam
-https://bbb.exoadash.com/TVD1343/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Yahala Bil Arabi
-https://bbb.exoadash.com/TVD1346/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Comedy
-https://bbb.exoadash.com/TVD1354/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Movies Hollywood
-https://bbb.exoadash.com/TVD1350/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="253" group-title="OSN VIP",OSN TV Movie Premiere Channel
-https://bbb.exoadash.com/TVD1338/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="252" group-title="OSN VIP",OSN TV Movie Action Channel
-https://bbb.exoadash.com/TVD1339/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Showcase
-https://bbb.exoadash.com/TVD1341/index.mpd 
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV One
-https://bbb.exoadash.com/TVD1342/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Crime
-https://bbb.exoadash.com/TVD1344/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Mezze
-https://bbb.exoadash.com/TVD1348/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Now
-https://bbb.exoadash.com/TVD1349/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Disney Channel HD
-https://bbb.exoadash.com/TVD1353/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",TLC HD
-https://bbb.exoadash.com/TVD1345/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",OSN TV Kids
-https://bbb.exoadash.com/TVD1352/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Moonbug Kids
-https://bbb.exoadash.com/TVD1347/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Animal Planet HD
-https://bbb.exoadash.com/TVD1359/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Star Action
-https://bbb.exoadash.com/TVD2836/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Fatafeat HD
-https://bbb.exoadash.com/TVD1426/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",JEEM
-https://bbb.exoadash.com/TVD1424/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="OSN VIP",Baraem
-https://bbb.exoadash.com/TVD1425/index.mpd
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-logo="https://img.otf-tv.com/img/balance_288691.jpg" group-title="Cinema VIP",Home Premium 1
