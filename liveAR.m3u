@@ -73,6 +73,64 @@ https://polished-snow-3145.meryemmh24.workers.dev/live/60087_.m3u8
 https://polished-snow-3145.meryemmh24.workers.dev/live/60088_.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein premium-1SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60020_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein premium-2SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60011_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="⚽ BEIN SPORT ⚽",Bein premium-3SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60012_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png"group-title="⚽ BEIN SPORT ⚽",Bein Xtra 1SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60459_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png"group-title="⚽ BEIN SPORT ⚽",Bein Xtra 2SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60460_.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png"group-title="⚽ BEIN SPORT ⚽",BeinSport 1SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60013_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 2SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60014_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 3SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60015_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 4SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60016_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 5SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60017_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 6SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60018_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 7SD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60019_.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="⚽ BEIN SPORT ⚽",Bein Premium-1HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60040_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="⚽ BEIN SPORT ⚽",Bein Premium-2HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60031_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="⚽ BEIN SPORT ⚽",Bein Premium-3HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60032_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png"group-title="⚽ BEIN SPORT ⚽",Bein Xtra 1HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/9962564400/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png"group-title="⚽ BEIN SPORT ⚽",Bein Xtra 2HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/880025552/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 1HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60033_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 2HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60034_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 3HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60035_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 4HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60036_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 5HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60037_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 6HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60038_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png" group-title="⚽ BEIN SPORT ⚽",BeinSport 7HD
+https://polished-snow-3145.meryemmh24.workers.dev/live/60039_.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1  
 http://sportfet.shop/BEIN-S1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2  
