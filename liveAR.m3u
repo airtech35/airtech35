@@ -40,8 +40,6 @@ https://stm.linkip.org/live/1953_.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA+
 http://het112a.ycn-redirect.com/live/978480008877005/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA++
-https://is.gd/75Bggk.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 4K
@@ -362,6 +360,8 @@ https://hls.iill.top/api/Eurosport-1/index.m3u8
 https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="⚽ SPORT VIP+ ⚽" tvg-id="" tvg-name="", Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="⚽ SPORT VIP+ ⚽" tvg-id="" tvg-name="", Hub Premier 1
+https://is.gd/Uu137z.m3u8
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="⚽ SPORT VIP+ ⚽" tvg-id="" tvg-name="", Hub Premier 2
 https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="⚽ SPORT VIP+ ⚽" tvg-id="" tvg-name="", Hub Premier 3
