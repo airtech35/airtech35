@@ -339,11 +339,11 @@ https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
 
 
 #EXTINF:0 group-title="⚽ SPORT VIP+ ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD QA
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+https://is.gd/tsm6HN
 #EXTINF:0 group-title="⚽ SPORT VIP+ ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 2 HD QA
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+https://is.gd/1UUCRv
 #EXTINF:0 group-title="⚽ SPORT VIP+ ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 2 HD QA
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+https://is.gd/rEyRCv
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="⚽ SPORT VIP+ ⚽" tvg-id="beIN Sports HD" tvg-name="beIN Sports HD", beIN Sports 1
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="⚽ SPORT VIP+ ⚽" tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD", beIN Sports 2
