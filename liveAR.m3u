@@ -62,6 +62,23 @@ http://afcocafot.com:8080/bn2hevc/index.m3u8
 http://afcocafot.com:8080/bn2hd/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 K
+http://h42.reelpush.online/live/918454578001/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2 K
+http://h42.reelpush.online/live/69854211/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3 K
+http://h42.reelpush.online/live/645587700/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4 K
+http://h42.reelpush.online/live/9787488847/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5 K
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6 K
+http://h42.reelpush.online/live/1515000000/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 7 K
+http://h42.reelpush.online/live/33523510/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 8 K
+http://h42.reelpush.online/live/996251000/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1  
 http://sportfet.shop/BEIN-S1/mono.m3u8
@@ -92,22 +109,6 @@ http://sportook.online/BEIN-S3/video.m3u8
 http://sportook.online/BEIN-S4/video.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1 K
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2 K
-http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3 K
-http://h42.reelpush.online/live/645587700/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4 K
-http://h42.reelpush.online/live/9787488847/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5 K
-
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6 K
-http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 7 K
-http://h42.reelpush.online/live/33523510/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 8 K
-http://h42.reelpush.online/live/996251000/index.m3u8
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
