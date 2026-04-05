@@ -385,43 +385,6 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees2.m3u8
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetb.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 1 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 2 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/702.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 3 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/703.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 4 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/704.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport 5 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/705.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport Max 1 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/714.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",Bein-Sport Max 2 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/715.m3u8
-#EXTINF:0 tvg-id="SSport.tr" group-title="TR:beIN Sport",S Sport HD
-https://raspy-forest-b1e4.aykara463.workers.dev/705.m3u8
-#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="TR:beIN Sport",Tivibu Spor 1
-https://raspy-forest-b1e4.aykara463.workers.dev/706.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",SPOR Smart HD
-https://raspy-forest-b1e4.aykara463.workers.dev/707.m3u8
-#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="TR:beIN Sport",Tivibu Spor 1
-https://raspy-forest-b1e4.aykara463.workers.dev/708.m3u8
-#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="TR:beIN Sport",Tivibu Spor 2
-https://raspy-forest-b1e4.aykara463.workers.dev/711.m3u8
-#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="TR:beIN Sport",Tivibu Spor 3
-https://raspy-forest-b1e4.aykara463.workers.dev/712.m3u8
-#EXTINF:0 tvg-id="TivibuSpor4.tr" group-title="TR:beIN Sport",Tivibu Spor 4
-https://raspy-forest-b1e4.aykara463.workers.dev/713.m3u8
-#EXTINF:0 tvg-id="ASpor.tr" group-title="TR:beIN Sport",Aspor
-https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
-#EXTINF:0 tvg-id="esp" group-title="TR:beIN Sport",Eurosport 1
-https://raspy-forest-b1e4.aykara463.workers.dev/710.m3u8
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="bein4Khd.jsc" group-title="TR:beIN Sport",BeIN Sports 4K
-https://firinmakinesi.lol/static/bs11.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="TR:beIN Sport",BeIN Sports 1
 https://firinmakinesi.lol/static/bs1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport",BeIN Sports UHD 2
@@ -525,8 +488,6 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 http://145.239.5.177:80/559/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Canal+ Sport 360 🇫🇷
-http://178.33.239.54:8080/700/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",514. beIN SPORT 3
