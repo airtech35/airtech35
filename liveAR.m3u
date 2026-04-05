@@ -79,6 +79,20 @@ http://h42.reelpush.online/live/996251000/index.m3u8
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 1 🇶🇦
+http://77.137.40.221:8000/play/a01e
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 2 🇶🇦
+http://77.137.40.221:8000/play/a01g
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 3 🇶🇦
+http://77.137.40.221:8000/play/a01h
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 4 🇶🇦
+http://77.137.40.221:8000/play/a01i
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 5 🇶🇦
+http://77.137.40.221:8000/play/a01j
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BEIN SPORT 6 🇶🇦
+http://77.137.40.221:8000/play/a01k
+
+
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BeiN 1 HD A
 http://h42.reelpush.online/live/69854211/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",BeiN 2 HD A
@@ -500,6 +514,19 @@ https://yastikkavgasi.lol/static/trt1.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",BEIN 3 🇫🇷
+http://145.239.5.177/559/mpegts
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Canal+ Sport 360 🇫🇷
+http://178.33.239.54:8080/700/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",514. beIN SPORT 3
