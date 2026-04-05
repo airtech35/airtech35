@@ -46,6 +46,11 @@ http://het114c.ycn-redirect.com/live/918454578001/index.m3u8
 http://bnxc.logicyel.com:8001/live/60064_1.m3u8
 
 
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",beIN Sports 1 A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://inattv1265.xyz/
+https://9vy.d72577a9dd0ec19.sbs/zirve/mono.m3u8
+
 #EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="⚽ BEIN SPORT ⚽",BEIN Sports 1 4K
 http://afcocafot.com:8080/bn14k/index.m3u8
 #EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="⚽ BEIN SPORT ⚽",BEIN Sports 1 hevc
@@ -532,22 +537,6 @@ https://is.gd/PWGrkZ.m3u8
 https://is.gd/tXo4uy.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 8 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Tabii 8 HD
 https://is.gd/w1mpA8.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen HD
-https://is.gd/pQvfUD.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen 1 HD
-https://is.gd/77jhjX.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen 2 HD
-https://is.gd/E9PoV5.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 3 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen 3 HD
-https://is.gd/v01IrG.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 4 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen 4 HD
-https://is.gd/iVYVwj.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 5 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen 5 HD
-https://is.gd/l5KuEF.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 6 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen 6 HD
-https://is.gd/4Cus9g.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 7 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="TR:beIN Sport",TR:Exxen 7 HD
-https://is.gd/u3yQs1.m3u8
 
 
 
