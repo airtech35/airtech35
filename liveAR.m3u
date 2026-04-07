@@ -45,7 +45,14 @@ http://bnxc.logicyel.com:8001/live/60064_1.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA-
 https://is.gd/0q0WmH.m3u8
 
-
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA--
+https://d3h8gvxs6hajby.cloudfront.net/status/1/fronts.woff2?0885ce
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA---
+https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA----
+https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts1/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA-----
+https://storage.googleapis.com/qwertynguhoerobrix2/mux_video_ts/index-1.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA
 https://is.gd/mLf5mH.m3u8
