@@ -38,10 +38,7 @@ https://stm.linkip.org/live/1952_.m3u8
 https://stm.linkip.org/live/1953_.m3u8
 
 
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv2/ch2/ch2_1080.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA+
-https://is.gd/8W4dG6.m3u8
+
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA++
 http://bnxc.logicyel.com:8001/live/60064_1.m3u8
@@ -51,12 +48,7 @@ https://is.gd/0q0WmH.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA--
 https://is.gd/EfQI5z.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA---
-https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts/index-1.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA----
-https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts1/index-1.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA-----
-https://storage.googleapis.com/qwertynguhoerobrix2/mux_video_ts/index-1.m3u8
+
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA
 https://is.gd/mLf5mH.m3u8
