@@ -124,6 +124,7 @@ http://77.137.40.221:8000/play/a01j
 http://77.137.40.221:8000/play/a01k
 
 
+
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 1 HD A
 http://h42.reelpush.online/live/69854211/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 2 HD A
@@ -220,6 +221,15 @@ https://is.gd/T0FJ03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 9 720P
 https://is.gd/T0FJ03.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3  
+https://man1ted.com/be3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4  
+https://man1ted.com/be4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5  
+https://man1ted.com/be5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6  
+https://man1ted.com/be6/index.m3u8
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -00
