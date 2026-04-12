@@ -225,6 +225,16 @@ https://is.gd/T0FJ03.m3u8
 https://is.gd/T0FJ03.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1+
+http://sportook.online/BEIN-S1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2+
+http://sportook.online/BEIN-S2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3+
+http://sportook.online/BEIN-S3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4+
+http://sportook.online/BEIN-S4/video.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3  
 https://man1ted.com/be3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4  
