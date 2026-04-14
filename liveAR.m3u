@@ -37,20 +37,13 @@ https://stm.linkip.org/live/1952_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 
 https://stm.linkip.org/live/1953_.m3u8
 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA++
+http://sportook.online/BEIN-S1/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA--
-https://is.gd/38KFo4.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA
 https://man1ted.com/be6/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA++
 http://bnxc.logicyel.com:8001/live/60064_1.m3u8
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA-
-https://is.gd/0q0WmH.m3u8
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA--
-https://is.gd/EfQI5z.m3u8
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA
@@ -95,7 +88,7 @@ https://is.gd/wGjk4T.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 K
-http://h42.reelpush.online/live/918454578001/index.m3u8
+http:///live/918454578001/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 2 K
 http://h42.reelpush.online/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 3 K
@@ -127,45 +120,45 @@ http://77.137.40.221:8000/play/a01j
 http://77.137.40.221:8000/play/a01k
 
 
-
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 1 HD A
-http://h42.reelpush.online/live/69854211/index.m3u8
+http:///live/918454578001/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 2 HD A
-http://h42.reelpush.online/live/645587700/index.m3u8
+http:///live/69854211/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 3 HD A
-http://h42.reelpush.online/live/918454578001/index.m3u8
+http:///live/645587700/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 4 HD A
-http://h42.reelpush.online/live/9787488847/index.m3u8
+http:///live/9787488847/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 5 HD A
-http://h42.reelpush.online/live/610303030/index.m3u8
+http:///live/610303030/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 6 HD A
-http://h42.reelpush.online/live/610303030/index.m3u8
+http:///live/610303030/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 6 HD C
-http://h42.reelpush.online/live/1515000000/index.m3u8
+http:///live/1515000000/index.m3u8
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 7 HD
-http://h42.reelpush.online/live/33523510/index.m3u8
+http:///live/33523510/index.m3u8
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 8 HD
-http://h42.reelpush.online/live/996251000/index.m3u8
+http:///live/996251000/index.m3u8
 #EXTINF:0 tvg-id="bein9hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 9 HD
-http://h42.reelpush.online/live/918454578001/index.m3u8
+http:///live/918454578001/index.m3u8
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 2 SD
-http://h42.reelpush.online/live/10011244/index.m3u8
+http:///live/10011244/index.m3u8
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 3 SD
-http://h42.reelpush.online/live/0103088447/index.m3u8
+http:///live/0103088447/index.m3u8
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 4 SD
-http://h42.reelpush.online/live/0103088447/index.m3u8
+http:///live/0103088447/index.m3u8
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 5 SD
-http://h42.reelpush.online/live/115451004/index.m3u8
+http:///live/115451004/index.m3u8
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 6 SD
-http://h42.reelpush.online/live/788550011/index.m3u8
+http:///live/788550011/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 7 SD
-http://h42.reelpush.online/live/14066007/index.m3u8
+http:///live/14066007/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 8 SD
-http://h42.reelpush.online/live/500021000/index.m3u8
+http:///live/500021000/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BeiN 9 SD
-http://h42.reelpush.online/live/10011244/index.m3u8
+http:///live/10011244/index.m3u8
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ BEIN SPORT ⚽",📡BeiN 2 SD
-http://h42.reelpush.online/live/10011244/index.m3u8
+http:///live/10011244/index.m3u8
 
 
 
