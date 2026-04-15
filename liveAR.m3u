@@ -38,22 +38,6 @@ https://stm.linkip.org/live/1952_.m3u8
 https://stm.linkip.org/live/1953_.m3u8
 
 
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 1
-https://is.gd/yeCKun.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 2
-https://is.gd/zf7xjm.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 3
-https://is.gd/1pw1Ha.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 5
-https://is.gd/sgCiIK.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 6
-https://is.gd/4OgwVC.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 7
-https://is.gd/GxlUws.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 8
-https://is.gd/FaObH5.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 9
-https://is.gd/ZKSW4l.m3u8
 
 #EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="⚽ BEIN SPORT ⚽",📡BEIN Sports 1 4K
 http://afcocafot.com:8080/bn14k/index.m3u8
@@ -180,6 +164,23 @@ https://man1ted.com/be4/index.m3u8
 https://man1ted.com/be5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6  
 https://man1ted.com/be6/index.m3u8
+
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 1
+https://is.gd/yeCKun.m3u8
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 2
+https://is.gd/zf7xjm.m3u8
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 3
+https://is.gd/1pw1Ha.m3u8
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 5
+https://is.gd/sgCiIK.m3u8
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 6
+https://is.gd/4OgwVC.m3u8
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 7
+https://is.gd/GxlUws.m3u8
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 8
+https://is.gd/FaObH5.m3u8
+#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 9
+https://is.gd/ZKSW4l.m3u8
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -00
