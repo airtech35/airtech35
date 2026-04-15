@@ -38,12 +38,6 @@ https://stm.linkip.org/live/1952_.m3u8
 https://stm.linkip.org/live/1953_.m3u8
 
 
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA
-https://man1ted.com/be6/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA++
-http://bnxc.logicyel.com:8001/live/60064_1.m3u8
-
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 1
 https://is.gd/yeCKun.m3u8
 #EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 2
