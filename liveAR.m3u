@@ -70,7 +70,10 @@ http://afcocafot.com:8080/bn24k/index.m3u8
 http://afcocafot.com:8080/bn2hevc/index.m3u8
 #EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="⚽ BEIN SPORT ⚽",📡BEIN Sports 2 HD
 http://afcocafot.com:8080/bn2hd/index.m3u8
-
+#EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="⚽ BEIN SPORT ⚽",📡BEIN Sports 3 4K
+http://afcocafot.com:8080/bn34k/index.m3u8
+#EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="⚽ BEIN SPORT ⚽",📡BEIN Sports 3 hevc
+http://afcocafot.com:8080/bn3hevc/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="⚽ BEIN SPORT ⚽",📡🇶🇦 BEIN SPORTS 360 1
 https://is.gd/mFM8CF.m3u8
