@@ -147,14 +147,6 @@ https://is.gd/T0FJ03.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1+
-http://sportook.online/BEIN-S1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2+
-http://sportook.online/BEIN-S2/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3+
-http://sportook.online/BEIN-S3/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4+
-http://sportook.online/BEIN-S4/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3  
 https://man1ted.com/be3/index.m3u8
@@ -164,23 +156,6 @@ https://man1ted.com/be4/index.m3u8
 https://man1ted.com/be5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6  
 https://man1ted.com/be6/index.m3u8
-
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 1++
-https://pro.onsitv.site/beIN-SPORTS-1-FHD/video.m3u8?token=onsitvca
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 2++
-https://pro.onsitv.site/beIN-SPORTS-2-FHD/video.m3u8?token=onsitvca
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 3++
-https://pro.onsitv.site/beIN-SPORTS-3-FHD/video.m3u8?token=onsitvca
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 4++
-https://pro.onsitv.site/beIN-SPORTS-4-FHD/video.m3u8?token=onsitvca
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 5++
-https://pro.onsitv.site/beIN-SPORTS-5-FHD/video.m3u8?token=onsitvca
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 6++
-https://pro.onsitv.site/beIN-SPORTS-6-FHD/video.m3u8?token=onsitvca
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 7++
-https://pro.onsitv.site/beIN-SPORTS-7-FHD/video.m3u8?token=onsitvca
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 8++
-https://pro.onsitv.site/beIN-SPORTS-8-FHD/video.m3u8?token=onsitvca
 
 
 
