@@ -38,6 +38,10 @@ https://stm.linkip.org/live/1952_.m3u8
 https://stm.linkip.org/live/1953_.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://super-livetv.hima-sabry2015.workers.dev?url=https%3A%2F%2Fwww.manar1.bond%2Fx1%2F1_0.json%3Ftoken%3D9a1cf0c731766682a22286078e9470c0e803b844133c9852453b068cfb4af751%26expires%3D1778478240
+
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 K
 http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 2 K
@@ -54,21 +58,6 @@ http://h42.reelpush.online/live/1515000000/index.m3u8
 http://h42.reelpush.online/live/33523510/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 8 K
 http://h42.reelpush.online/live/996251000/index.m3u8
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT 1 🇶🇦
-http://77.137.40.221:8000/play/a01e
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT 2 🇶🇦
-http://77.137.40.221:8000/play/a01g
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT 3 🇶🇦
-http://77.137.40.221:8000/play/a01h
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT 4 🇶🇦
-http://77.137.40.221:8000/play/a01i
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT 5 🇶🇦
-http://77.137.40.221:8000/play/a01j
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT 6 🇶🇦
-http://77.137.40.221:8000/play/a01k
 
 
 
