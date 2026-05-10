@@ -37,6 +37,31 @@ https://stm.linkip.org/live/1952_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 
 https://stm.linkip.org/live/1953_.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/91m39C6MdWsWBM5JNzXUWhFjqLLAenwjo9NKLvsdi1ksy-v0272dG9G3etn_rerMoipiz0k5e1dWrB4kJa4nYA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VIvuyoMzQpz-z1sYzkeGpQn2BmTO1hguyp8hpJUmlzXlNQuu1Fo-fSI_5EtrHnaWNyNtV9svr-TArkimk7FM5g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts1/index-1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://gol.vexar.online/news1/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://new.brsytoe.xyz/neew1/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://cc.vexar.online/mome1/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://gol.vexar.online/mome1/index.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/91m39C6MdWsWBM5JNzXUWhFjqLLAenwjo9NKLvsdi1ksy-v0272dG9G3etn_rerMoipiz0k5e1dWrB4kJa4nYA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VIvuyoMzQpz-z1sYzkeGpQn2BmTO1hguyp8hpJUmlzXlNQuu1Fo-fSI_5EtrHnaWNyNtV9svr-TArkimk7FM5g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/91m39C6MdWsWBM5JNzXUWhFjqLLAenwjo9NKLvsdi1ksy-v0272dG9G3etn_rerMoipiz0k5e1dWrB4kJa4nYA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 ++
