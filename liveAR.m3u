@@ -10472,6 +10472,8 @@ http://gr.seetv.cc/play/1138/FB4F94DA00C3BE0/video.m3u8
 http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",5 SPORT 🇮🇱
 http://77.137.40.221:8000/play/a01c
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORT 1 🇶🇦
+http://77.137.40.221:8000/play/a01e
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",МАТЧ! ФУТБOЛ 2HD 🇷🇺
@@ -10518,26 +10520,6 @@ http://190.14.10.19:16000/play/a09u/index.m3u8
 http://181.78.109.48:9998/play/a06r/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",OTT CLUB 🇷🇺
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_2 🇶🇦
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_2 🇶🇦
-https://balance.footballii.ir/hls2/bein2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_3 🇶🇦
-http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_4 🇶🇦
-http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_5 🇶🇦
-http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_6 🇶🇦
-http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_7 🇶🇦
-http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_8 🇶🇦
-http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",bein_sd_9 🇶🇦
-http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORT 1 🇶🇦
 http://77.137.40.221:8000/play/a01e
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORT 2 🇶🇦
