@@ -38,8 +38,7 @@ https://stm.linkip.org/live/1952_.m3u8
 https://stm.linkip.org/live/1953_.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 (2)
-https://sr1.oz-tv.xyz/s1/b_1_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 K
 http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 2 K
@@ -58,16 +57,6 @@ http://h42.reelpush.online/live/33523510/index.m3u8
 http://h42.reelpush.online/live/996251000/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 (0)
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 2 (0)
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 3 (0)
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 4 (0)
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 5 (0)
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1  A
 http://213.199.33.203:8081/live/ch1.m3u8
@@ -84,8 +73,6 @@ http://213.199.33.203:8081/live/ch4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 1 1080P A
 https://is.gd/xO6kFP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 1 1080P A++
-https://is.gd/OQASBR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 2 1080P A
 https://is.gd/8W4dG6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 3 1080P A
@@ -129,55 +116,6 @@ https://is.gd/T0FJ03.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3  
-https://man1ted.com/be3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4  
-https://man1ted.com/be4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5  
-https://man1ted.com/be5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6  
-https://man1ted.com/be6/index.m3u8
-
-
-
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 1
-https://is.gd/yeCKun.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 2
-https://is.gd/zf7xjm.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 3
-https://is.gd/1pw1Ha.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 5
-https://is.gd/sgCiIK.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 6
-https://is.gd/4OgwVC.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 7
-https://is.gd/GxlUws.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 8
-https://is.gd/FaObH5.m3u8
-#EXTINF:-1 group-title="⚽ BEIN SPORT ⚽",🇶🇦 beIN 9
-https://is.gd/ZKSW4l.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 1
-http://bnxc.logicyel.com:8001/live/60064_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 2
-http://bnxc.logicyel.com:8001/live/60065_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 3
-http://bnxc.logicyel.com:8001/live/60066_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 4
-http://bnxc.logicyel.com:8001/live/60067_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 5
-http://bnxc.logicyel.com:8001/live/60068_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 6
-http://bnxc.logicyel.com:8001/live/60069_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 7
-http://bnxc.logicyel.com:8001/live/60070_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 8
-http://bnxc.logicyel.com:8001/live/60071_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_9105362.png?v=5" group-title="⚽ BEIN SPORT ⚽",be'IN 9
-http://bnxc.logicyel.com:8001/live/60072_0.m3u8
-
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -01
@@ -193,26 +131,6 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 http://het112a.ycn-redirect.com/live/978480008877005/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA+
 http://het114c.ycn-redirect.com/live/918454578001/index.m3u8
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-
-
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",📡 ftv1
-https://flu.systemnet.tv/Al.Fajer.1.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",📡 ftv2
-https://flu.systemnet.tv/Al.Fajer.2.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",📡 ftv3
-https://flu.systemnet.tv/Al.Fajer.3.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",📡 ftv4
-https://flu.systemnet.tv/Al.Fajer.4.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",📡 ftv5
-https://flu.systemnet.tv/Al.Fajer.5.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",📡 ftv6
-https://flu.systemnet.tv/Al.Fajer.6.720p/index.m3u8
-#EXTINF:0 group-title="⚽ Alfajertv ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",📡 ftv7
-https://flu.systemnet.tv/Al.Fajer.7.720p/index.m3u8
-
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -621,11 +539,11 @@ https://bit.ly/airmaxtvproooO
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 1
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 2
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 3
-https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
+
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
