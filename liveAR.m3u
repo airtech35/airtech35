@@ -38,7 +38,8 @@ https://stm.linkip.org/live/1952_.m3u8
 https://stm.linkip.org/live/1953_.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 K++
+https://github.com/ALMehdaly/AHMED/raw/refs/heads/TV/801FHD.m3u
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 K
 http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 2 K
