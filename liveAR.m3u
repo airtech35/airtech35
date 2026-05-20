@@ -605,28 +605,8 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="SPORT رياضية",📡shoof 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://yt3.googleusercontent.com/AfG7c2r2RnlGjHqNWRF1PZnXgr6owjUkMIXSS1pUGKXE8mnuTtwX1nj_cgIXj8rrKd35uttEZg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT رياضية",📡Yas TV
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/CSHQhP4.png" group-title="SPORT رياضية",📡Yas TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",📡Abu Dhabi Sports 1
-http://77.137.40.221:8000/play/a03f
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORT رياضية",📡Abu Dhabi Sports 2
-http://77.137.40.221:8000/play/a03g
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="SPORT رياضية",📡Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="SPORT رياضية",📡Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="SPORT رياضية",📡Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="SPORT رياضية",📡Dubai Racing
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORT رياضية",📡Dubai Racing 2
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="SPORT رياضية",📡Dubai Racing 3
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="YasTV.ae@SD" tvg-logo="https://i.imgur.com/B7OiXCB.png" group-title="SPORT رياضية",📡Yas TV
-http://213.57.91.138:8000/play/a059
-#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/owSN4dC.png" group-title="SPORT رياضية",📡Sharjah Sports TV
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png" group-title="SPORT رياضية",📡Oman TV Sport HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT رياضية",📡Kuwait Sports HD
@@ -3559,14 +3539,10 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="🇱🇧LEBANON لبنان",📡MTV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="🇱🇧LEBANON لبنان",📡MTV+
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="🇱🇧LEBANON لبنان",📡MTV++
+#EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="🇱🇧LEBANON لبنان",📡MTV (backup)
 http://185.9.2.18/chid_387/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡ALJADEED TV HD
 http://102.177.177.232/ALJADEED/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡ALJADEED TV HD+
-https://is.gd/Wb816Z
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="🇱🇧LEBANON لبنان",📡OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="🇱🇧LEBANON لبنان",📡LBC
@@ -3594,7 +3570,7 @@ https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/Bt40hdlBMC_lDQ31xt87AWwwfye573q-ZjyAiinA8qUGc0KXcQuV1eGNLQ4EP-CpH8dMPX3vNUk=s900-c-k-c0x00ffffff-no-rj" group-title="🇱🇧LEBANON لبنان",📡Hala_London
 https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.postimg.cc/4xnhPmjk/tahatv.png" group-title="🇱🇧LEBANON لبنان",📡Taha TV
-https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="🇱🇧LEBANON لبنان",📡Ifilm Tv
 https://live.presstv.ir/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/KolWUTEcPB5R3iKRWYSkfwPmNTjxHgRm39qyOAeLgwAk8YZW5DVXeY8LLhtuII8i5O4oiIE5=s900-c-k-c0x00ffffff-no-rj" group-title="🇱🇧LEBANON لبنان",📡RED لبنان
