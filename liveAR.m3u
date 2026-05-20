@@ -3525,7 +3525,7 @@ https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://shahid.mbc.net/mediaObject/00ec1622-d0ff-4611-9660-c57de33ecaff?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="Syria سورية",📡AL Souriya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="BabAlHara.sa" tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Syria سورية",📡Bab Al Hara
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="Syria سورية",📡Alaraby TV 
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="Syria سورية",📡Alaraby 2 TV
