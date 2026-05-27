@@ -3589,7 +3589,8 @@ http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡otv
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡mfm
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1560952042331455489/dwfIfABS_400x400.jpg" group-title="🇱🇧LEBANON لبنان",📡Sadalarz-Leb
 http://iptv.icsnleb.com:25461/12/12/1034
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/62c1d7ec8f221664c14493b5/53fb1d8e-df2c-40d3-97da-d0fc4e452b30/vod+logo.png" group-title="🇱🇧LEBANON لبنان",📡VOD-Music
