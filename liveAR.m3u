@@ -39,8 +39,7 @@ https://stm.linkip.org/live/1953_.m3u8
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 SD QA
-http://het108b.ycn-redirect.com/live/79247621/index.m3u8
-
+https://a1.apk-api.com/api/channel/49
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 LOW QA
 http://het112a.ycn-redirect.com/live/978480008877005/index.m3u8
