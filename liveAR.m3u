@@ -36,6 +36,12 @@ https://bit.ly/airmaxtvproooO
 https://stm.linkip.org/live/1952_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 
 https://stm.linkip.org/live/1953_.m3u8
+
+
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 000
+http://het139a.ycn-redirect.com/live/918454578001/index.m3u8
+
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA
 http://het112a.ycn-redirect.com/live/978480008877005/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 HD QA+
@@ -46,8 +52,7 @@ http://het101c.ycn-redirect.com/live/4798998070/index.m3u8
 http://flu.systemnet.tv/BeinHD3/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 4 HD QA
 http://het127b.ycn-redirect.com/live/131326625/index.m3u8
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 S+
-https://match-now.site/hls/b1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1 K
 http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 2 K
