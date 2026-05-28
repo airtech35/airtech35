@@ -4357,18 +4357,6 @@ https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",📡Al Masirah
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇸🇴الصومالSomalia‎",📡الصومالSomalia
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇸🇴الصومالSomalia‎",📡 airmax النسخة المدفوعة
-https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="HirshabelleTV.so" tvg-logo="https://i.imgur.com/Kk0A2o7.png" group-title="🇸🇴الصومالSomalia‎",📡Hirshabelle TV
-http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="SNTV2.so" tvg-logo="https://i.imgur.com/2eKFSqO.png" group-title="🇸🇴الصومالSomalia‎",📡SNTV Daljir
-https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
-
-
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
@@ -4392,8 +4380,6 @@ https://bit.ly/airmaxtvproooO
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/GLfhYSH.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",📡Kurdistan TV
 http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mph0Uu"tvg-country="IQ"tvg-url="" group-title="KURDISH",📡Ronahi TV
-https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
 #EXTINF:-1 tvg-name="Ronahi TV (1080p)"tvg-id="RonahiTV.sy"tvg-logo="https://i.imgur.com/JSvJpD8.png"group-title="KURDISH",📡Ronahi TV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/jin_tv.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",📡jintv
@@ -4405,13 +4391,13 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/p7eAbYD.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",📡Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-id="Kurdsat News" tvg-name="Kurdsat News" tvg-logo="https://bit.ly/3mlWAvB" group-title="KURDISH",📡Kurdsat News
-https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Au0ZzV"tvg-country="IQ"tvg-url="" group-title="KURDISH",📡4 kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png group-title="KURDISH",📡KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png group-title="KURDISH",📡KURDSAT
-https://kurdsat.akamaized.net/hls/stream_0.m3u8
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="KURDISH",📡Channel 8 Kurdish
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.postimg.cc/mZNchF5b/avafamily.png" group-title="KURDISH",📡AVA Family
@@ -4426,10 +4412,6 @@ https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mixkurdy.iq" tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="KURDISH",📡Mixkurdy
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 tvg-id="NRTTV.iq" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="KURDISH",📡NRT TV
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="NUBARPlusPlus.iq" tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" group-title="KURDISH",📡NUBAR Plus TV
-http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 #EXTINF:-1 tvg-id="PayamTV.iq" tvg-logo="https://i.postimg.cc/DZLrc9VV/payamtv.png" group-title="KURDISH",📡Payam TV
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KUk7o2T.png" group-title="KURDISH",📡Payam TV
@@ -4438,12 +4420,6 @@ https://media2.streambrothers.com:1936/8218/8218/chunklist.m3u8
 http://uk3.internet-radio.com:8011/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9WnbsJY.png" group-title="KURDISH",📡Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 Mihrab
-http://baskhd.ddns.net:40/live/MihrabTV/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 Derin
-http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsY6fKX.png" group-title="KURDISH",📡Duhok TV
-http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 MMN action ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 MMN documentary ᴴᴰ
@@ -4466,34 +4442,20 @@ http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-logo="https://afarin.tv/images/baxcha.png" group-title="KURDISH",📡Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="KURDISH",📡Afarin TV
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 NUBAR HD
-http://stream.nubar.tv:1935/private/NUBARtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 NUBAR PLUS HD
-http://stream.nubar.tv:1935/private/NUBARPlus/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 BANGXWAZEN BADINAN
-http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 Bask TV
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://bit.ly/419HTup" group-title="KURDISH",📡TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://bit.ly/4d3aSpY" group-title="KURDISH",📡AshurSat
 https://5afd52b55ff79.streamlock.net/AshurSat/myStream2023-05/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 Eurokurd
-http://baskhd.ddns.net:40/live/Eurokurd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 NRT 2
-http://198.100.158.231:1935/live/nrt2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 halabjatv
 http://halabjatv.ddns.net:40/live/halabjatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 LIVE 24 SPORT GLOBAL HD
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 Channel 8 kurdish
 https://live.channel8.com/Channel8-Kurdish/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡 ALA HD
-http://avrstream.com:1935/live/ala-hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡AVAR TV
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡KIDCO HD
@@ -4510,9 +4472,6 @@ http://avrstream.com:1935/live/rasoulallahtv/playlist.m3u8
 http://avrstream.com:1935/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3Lvf8T3" group-title="KURDISH",📡ASHTI TV
 http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-name="MedyaHaber TV"tvg-id="MedyaHaber TV"tvg-logo="https://medyahabertv.com/wp-content/uploads/2023/05/MedyaHaberLogo.png"group-title="KURDISH",📡MedyaHaber TV
 https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 #EXTINF:-1 tvg-name="Rojava TV (1080p)"tvg-id="RojavaTV.sy"tvg-logo="https://i.imgur.com/42noysO.png"group-title="KURDISH",📡Rojava TV 
