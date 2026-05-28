@@ -4219,9 +4219,31 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇦🇪الامارات EMIRATES",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🇦🇪الامارات EMIRATES",📡Dubai TV
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🇦🇪الامارات EMIRATES",📡Dubai TV
 http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/tq5Aj9i.png" group-title="🇦🇪الامارات EMIRATES",📡Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="🇦🇪الامارات EMIRATES",📡Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-logo="https://i.imgur.com/otAHLRo.png" group-title="🇦🇪الامارات EMIRATES",📡Al Shallal TV
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="🇦🇪الامارات EMIRATES",📡Al Sharqiya Min Kabla
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="🇦🇪الامارات EMIRATES",📡Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="🇦🇪الامارات EMIRATES",📡Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NourTV.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="🇦🇪الامارات EMIRATES",📡Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="🇦🇪الامارات EMIRATES",📡Peace TV Chinese
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/Wd3Xvd1.png" group-title="🇦🇪الامارات EMIRATES",📡Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="🇦🇪الامارات EMIRATES",📡Wanasah
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🇦🇪الامارات EMIRATES",📡Dubai TV
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="🇦🇪الامارات EMIRATES",📡Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="🇦🇪الامارات EMIRATES",📡Dubai One
@@ -4236,54 +4258,10 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abud
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="🇦🇪الامارات EMIRATES",📡National Geographic Abu Dhabi
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="🇦🇪الامارات EMIRATES",📡Ajman TV
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-logo="https://i.imgur.com/sOMOe9t.png" group-title="🇦🇪الامارات EMIRATES",📡Al Dafrah TV
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/source/index.m3u8
-#EXTINF:-1 tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="🇦🇪الامارات EMIRATES",📡Al Mashhad
-https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-logo="https://i.imgur.com/otAHLRo.png" group-title="🇦🇪الامارات EMIRATES",📡Al Shallal TV
-https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/WGX5SCx.png" group-title="🇦🇪الامارات EMIRATES",📡Al Sharqiya Min Kabla
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="🇦🇪الامارات EMIRATES",📡Al Wousta TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BaynounahTV.ae" tvg-logo="https://i.imgur.com/n2nczHO.png" group-title="🇦🇪الامارات EMIRATES",📡Baynounah TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="🇦🇪الامارات EMIRATES",📡Fujairah TV
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NourTV.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="🇦🇪الامارات EMIRATES",📡Nour TV
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="🇦🇪الامارات EMIRATES",📡Peace TV Chinese
-https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/Wd3Xvd1.png" group-title="🇦🇪الامارات EMIRATES",📡Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/tq5Aj9i.png" group-title="🇦🇪الامارات EMIRATES",📡Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ChinaArabTV.ae" tvg-logo="https://i.postimg.cc/DfxSq4qn/chinaarabtv.png" group-title="🇦🇪الامارات EMIRATES",📡China Arab TV
-http://213.57.91.138:8000/play/a061
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="🇦🇪الامارات EMIRATES",📡Wanasah
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi FM.png" tvg-id="AbuDhabiFM.ae" tvg-name="Abu Dhabi FM",📡Abu Dhabi FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emarat FM.png" tvg-id="EmaratFM.ae" tvg-name="Emarat FM",📡Emarat FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/emarat_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quraan Kareem FM.png" tvg-id="QuranKareemFM.ae" tvg-name="Quraan Kareem FM",📡Quraan Kareem FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/quran_kareem/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Star FM.png" tvg-id="StarFM.ae" tvg-name="Star FM",📡Star FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/star_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 1 FM.png" tvg-id="Radio1FM.ae" tvg-name="Radio 1 FM",📡Radio 1 FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Radio1/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 2 FM.png" tvg-id="Radio2FM.ae" tvg-name="Radio 2 FM",📡Radio 2 FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/radio_2/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kadak FM.png" tvg-id="KadakFM.ae" tvg-name="Kadak FM",📡Kadak FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/kadak_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classic FM.png" tvg-id="ClassicFM.ae" tvg-name="Classic FM",📡Classic FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Radio.png" ,Dubai Radio 93
-https://dmithrvllta.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
-#EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.png" ,Noor Dubai
-https://dmithrvllta.cdn.mgmlcdn.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 #EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Oula.png" ,Al Oula 107.4
 https://uk6.internet-radio.com/proxy/aloula?mp=/stream;
 #EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khaleejiya.png" ,ARN: Al Khaleejiya 100.9
@@ -4359,6 +4337,7 @@ https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇾🇪اليمن Yemen",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪اليمن Yemen",📡Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",📡Al Masirah Mubacher
@@ -4368,13 +4347,13 @@ https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="AlSahatTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="🇾🇪اليمن Yemen",📡Al-Sahat TV
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 #EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="🇾🇪اليمن Yemen",📡Yemen Shabab Channel
-https://starmenajo.com/hls/yemenshabab/index.m3u8
+https://yemenshabab.site:13334/app/live/ts:master.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://www.hadhramaut.tv/img/1605966334logo.png" group-title="🇾🇪اليمن Yemen",📡 حضرموت
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="" group-title="🇾🇪اليمن Yemen",📡 عــــدن
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" group-title="🇾🇪اليمن Yemen",📡 اليمن
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪اليمن Yemen",📡Al Masirah
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 
