@@ -1143,69 +1143,7 @@ http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
 
 
-#EXTM3U
-#EXTINF:0 tvg-id="ArenaSport1.rs" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 1 HD
-http://169.150.223.25/ArenaSport1HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport2.ba" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 2 HD
-http://169.150.223.25/ArenaSport2HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 3 HD
-http://169.150.223.25/ArenaSport3HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport4.ba" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 4 HD
-http://169.150.223.25/ArenaSport4HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport5.ba" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 5 HD
-http://169.150.223.25/ArenaSport5HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport6.ba" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 6 HD
-http://169.150.223.25/ArenaSport6HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport7.hr" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 7 HD
-http://169.150.223.25/ArenaSport7HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport9.hr" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 9 HD
-http://169.150.223.25/ArenaSport9HD/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport10.hr" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Sport 10 HD
-http://169.150.223.25/ArenaSport10HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Premium 1 HD
-http://169.150.223.25/ArenaPremium1HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Premium 2 HD
-http://169.150.223.25/ArenaPremium2HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Arena Premium 3 HD
-http://169.150.223.25/ArenaPremium3HD/index.m3u8
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="⚽ SPORT VIP+2 ⚽",📡Super Sport 1 HD
-http://169.150.223.25/Supersport1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Super Sport 2 HD
-http://169.150.223.25/Supersport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Super Sport 3 HD
-http://169.150.223.25/Supersport3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Super Sport 4 HD
-http://169.150.223.25/Supersport4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Super Sport 5 HD
-http://169.150.223.25/Supersport5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Super Sport 6 HD
-http://169.150.223.25/Supersport6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Super Sport 7 HD
-http://169.150.223.25/Supersport7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Art Sport 1 HD
-http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Art Sport 2 HD
-http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Art Sport 3 HD
-http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Art Sport 4 HD
-http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Art Sport 5 HD
-http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Art Sport 6 HD
-http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:0 tvg-id="TS1HD.al" group-title="⚽ SPORT VIP+2 ⚽",📡Tring Sport 1 HD
-http://169.150.223.25/TringSport1HD/index.m3u8
-#EXTINF:0 tvg-id="TS2HD.al" group-title="⚽ SPORT VIP+2 ⚽",📡Tring Sport 2 HD
-http://169.150.223.25/TringSport2HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡KSport 1 HD
-http://169.150.223.25/KSport1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡KSport 2 HD
-http://169.150.223.25/KSport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡KSport 3 HD
-http://169.150.223.25/KSport3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡KSport 4 HD
-http://169.150.223.25/KSport4/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Euro Sport 1 HD
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+2 ⚽",📡Euro Sport 2 HD
