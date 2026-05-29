@@ -722,289 +722,80 @@ http://169.150.223.25/Eurosport1HD/index.m3u8
 http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:0 tvg-id="FightNetworkHD.ca" group-title="⚽ SPORT VIP+1 ⚽",📡Fight Network HD
 http://169.150.223.25/FightNetwork/index.m3u8
-
-
-
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena_Sport_1 HD
-http://78.108.251.7/Arena_Sport_1/mono.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena_Sport_2 HD
-http://78.108.251.7/Arena_Sport_2/mono.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena_Sport_3 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡Arena_Sport_3 HD
 http://78.108.251.7/Arena_Sport_3/mono.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena_Sport_4 HD
-http://78.108.251.7/Arena_Sport_4/mono.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena_Sport_5 HD
-http://78.108.251.7/Arena_Sport_5/mono.m3u8
-
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 1 HD
-http://shift03.isp.bg/Arena_Sport_1/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 2 HD
-http://shift03.isp.bg/Arena_Sport_2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 3 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡Arena Sport 3 HD
 http://shift03.isp.bg/Arena_Sport_3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 4 HD
-http://shift03.isp.bg/Arena_Sport_4/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 5 HD
-http://shift03.isp.bg/Arena_Sport_5/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Diema Sport HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡Diema Sport HD
 http://shift03.isp.bg/Diema_Sport_HD/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Diema Sport 2 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡Diema Sport 2 HD
 http://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Nova Sport HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡Nova Sport HD
 http://shift03.isp.bg/NovaSport_HD/index.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Sport 1 HD
-http://178.23.88.55/Sport1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Nova Sport
-http://178.23.88.55/Nova_Sport/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Eurosport 2
-http://178.23.88.55/Eurosport_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Eurosport 1
-http://178.23.88.55/Eurosport_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡ESPN 2
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡ESPN 2
 http://79.127.243.211:14506/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡ESPN 3
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡ESPN 3
 http://79.127.243.211:14510/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡ESPN 4
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡ESPN 4
 http://79.127.243.211:14514/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Brand spo
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Brand spo
 http://79.127.243.211:14445/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡E1
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡E1
 http://79.127.243.211:14500/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡SporTV 3
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡SporTV 3
 http://79.127.243.211:14473/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡SporTV 2
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡SporTV 2
 http://79.127.243.211:14469/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡  SBT
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡  SBT
 http://79.127.243.211:14095/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Premiere 6
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Premiere 6
 http://79.127.243.211:14497/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 5
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 5
 http://79.127.243.211:14493/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 4
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 4
 http://79.127.243.211:14489/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 3
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 3
 http://79.127.243.211:14481/
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 2
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡 Premiere 2
 http://79.127.243.211:14485/
-
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Arena Sport
-http://178.23.88.55/Arena_sport/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Arena Sport 1 HD
-http://78.108.251.7/Arena_Sport_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Arena Sport 2 HD
-http://78.108.251.7/Arena_Sport_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Arena Sport 3 HD
-http://78.108.251.7/Arena_Sport_3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Arena Sport 4 HD
-http://78.108.251.7/Arena_Sport_4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",📡Arena Sport 5 HD
-http://78.108.251.7/Arena_Sport_5/index.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN
 http://190.29.110.237:4000/play/a01c/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.br" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 2 HD
+#EXTINF:0 tvg-id="ESPN2.br" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 2 HD
 http://190.29.110.237:4000/play/a057/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 2 Latin
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 2 Latin
 http://190.29.110.237:4000/play/a01b/index.m3u8
-#EXTINF:0 tvg-id="ESPN3.br" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 3 HD
+#EXTINF:0 tvg-id="ESPN3.br" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 3 HD
 http://190.29.110.237:4000/play/a063/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 4HD
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 4HD
 http://190.29.110.237:4000/play/a062/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 5HD
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 5HD
 http://190.29.110.237:4000/play/a07w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 6HD
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 6HD
 http://190.29.110.237:4000/play/a064/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 7
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 7
 http://190.29.110.237:4000/play/a01k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 7HD
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 7HD
 http://190.29.110.237:4000/play/a0d9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN CO
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN CO
 http://190.29.110.237:4000/play/a02i/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN HD
 http://190.29.110.237:4000/play/a05a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN Premium HD
+#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN Premium HD
 http://190.29.110.237:4000/play/a07u/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 1 HD
-http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 2 HD
-http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 3 HD
-http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 4 HD
-http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 1 HD
-http://195.181.169.152:8080/Tring_Sport_1_HD_AL/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 2 HD
-http://195.181.169.152:8080/Tring_Sport_2_HD_AL/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 3 HD
-http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 4 HD
-http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
-
-
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN HD
 http://179.60.51.134:8888/ESPN/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 2 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 2 HD
 http://179.60.51.134:8888/ESPN2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 3 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 3 HD
 http://179.60.51.134:8888/ESPN3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 4 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 4 HD
 http://179.60.51.134:8888/ESPN4/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 7 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 7 HD
 http://179.60.51.134:8888/FOXSPORTS2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡ESPN 6 HD
+#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+1 ⚽",📡ESPN 6 HD
 http://179.60.51.134:8888/FOXSPORTS3/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡J Sports 1
-https://nl.utako.moe/js1/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡J SportsJ Sports 2
-https://nl.utako.moe/js2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡J SportsJ Sports 3
-https://nl.utako.moe/js3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡J SportsJ Sports 4
-https://nl.utako.moe/js4/index.m3u8
-
-
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 1
-http://89.187.191.99:8080/arena1/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 2
-http://89.187.191.99:8080/arena2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 3
-http://89.187.191.99:8080/arena3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 4
-http://89.187.191.99:8080/arena4/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 5
-http://89.187.191.99:8080/arena5/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 7 sr
-http://89.187.191.99:8080/arena7/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Sport Klub 1
-http://89.187.191.99:8080/sk1/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Sport Klub 2
-http://89.187.191.99:8080/sk2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Sport Klub 3
-http://89.187.191.99:8080/sk3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Sport Klub 4
-http://89.187.191.99:8080/sk4/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Sport Klub 5
-http://89.187.191.99:8080/sk5/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Sport Klub 6
-http://89.187.191.99:8080/sk6/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡K Sport 1
-http://89.187.191.99:8080/ksport1/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡K Sport 2
-http://89.187.191.99:8080/ksport2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡K Sport 3
-http://89.187.191.99:8080/ksport3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 1
-http://89.187.191.99:8080/tringsport1/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 2
-http://89.187.191.99:8080/tringsport2/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 3
-http://89.187.191.99:8080/tringsport3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Supersport 1
-http://89.187.191.99:8080/ss1hd/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Supersport 2
-http://89.187.191.99:8080/ss2hd/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Supersport 3
-http://89.187.191.99:8080/ss3hd/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Supersport 4
-http://89.187.191.99:8080/ss4hd/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Supersport 5
-http://89.187.191.99:8080/ss5hd/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Supersport 6
-http://89.187.191.99:8080/ss6hd/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Eurosport1
-http://89.187.191.99:8080/eurosport1/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡Eurosport2
-http://89.187.191.99:8080/eurosport2/index.m3u8
-
-
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: EUROSPORT11
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: EUROSPORT2
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: Eurosports 1
-http://185.112.249.46:9981/stream/channelid/1169588813?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: FI V Sport 1 Suomi
-http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: NO V Sport Vinter
-http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: Nova Sport 6 FHD
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: ONEPLAY1 T3
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: ONEPLAY2 T2
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: ONEPLAY3 T3
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: PREMIER SPORT1 T3
-http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:0 tvg-id="ESPN.uk" group-title="⚽ SPORT VIP+3 ⚽",📡CZ: PREMIER SPORT2 T2
-http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ArenaSport1.rs" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 1
-http://51.15.10.229:8080/arena1/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 2
-http://51.15.10.229:8080/arena2/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport3.ba" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 3
-http://51.15.10.229:8080/arena3/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 4
-http://51.15.10.229:8080/arena4/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 5
-http://51.15.10.229:8080/arena5/index.m3u8
-#EXTINF:0 tvg-id="ArenaSport6.hr" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 6
-http://51.15.10.229:8080/Arena6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Arena Sport 7
-http://51.15.10.229:8080/arena7/index.m3u8
-#EXTINF:0 tvg-id="MaxSport1.bg" group-title="⚽ SPORT VIP+3 ⚽",📡Max Sport 1
-http://51.15.10.229:8080/MaxSport1/index.m3u8
-#EXTINF:0 tvg-id="SuperSport1.al" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 1
-http://51.15.10.229:8080/ss1hd/index.m3u8
-#EXTINF:0 tvg-id="SuperSport2.al" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 2
-http://51.15.10.229:8080/ss2hd/index.m3u8
-#EXTINF:0 tvg-id="SuperSport3.al" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 3
-http://51.15.10.229:8080/ss3hd/index.m3u8
-#EXTINF:0 tvg-id="SuperSport4.al" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 4
-http://51.15.10.229:8080/ss4hd/index.m3u8
-#EXTINF:0 tvg-id="SuperSport5.al" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 5
-http://51.15.10.229:8080/ss5hd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 6 HD
-http://51.15.10.229:8080/ss6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡Super Sport 7 HD
-http://51.15.10.229:8080/ss7/index.m3u8
-#EXTINF:0 tvg-id="TS1HD.al" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 1
-http://51.15.10.229:8080/tringsport1/index.m3u8
-#EXTINF:0 tvg-id="TS2HD.al" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 2
-http://51.15.10.229:8080/tringsport2/index.m3u8
-#EXTINF:0 tvg-id="TS3HD.al" group-title="⚽ SPORT VIP+3 ⚽",📡Tring Sport 3
-http://51.15.10.229:8080/tringsport3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡K Sport 1
-http://51.15.10.229:8080/ksport1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡K Sport 2
-http://51.15.10.229:8080/ksport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡K Sport 3
-http://51.15.10.229:8080/ksport3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+3 ⚽",📡K Sport 4
-http://51.15.10.229:8080/ksport4/index.m3u8
-#EXTINF:0 tvg-id="sport1_hd" group-title="⚽ SPORT VIP+3 ⚽",📡Sport 1 HD
-http://51.15.10.229:8080/Sport1/index.m3u8
-#EXTINF:0 tvg-id="SkySportArena.it" group-title="⚽ SPORT VIP+3 ⚽",📡Sport 2 HD
-http://51.15.10.229:8080/Sport2/index.m3u8
-#EXTINF:0 tvg-id="SkySportFootball.it" group-title="⚽ SPORT VIP+3 ⚽",📡Sport 3 HD
-http://51.15.10.229:8080/Sport3/index.m3u8
-#EXTINF:0 tvg-id="Sport4HD.il" group-title="⚽ SPORT VIP+3 ⚽",📡Sport 4 HD
-http://51.15.10.229:8080/Sport4/index.m3u8
-#EXTINF:0 tvg-id="Sport5.il" group-title="⚽ SPORT VIP+3 ⚽",📡Sport 5 HD
-http://51.15.10.229:8080/Sport5/index.m3u8
-#EXTINF:0 tvg-id="SkySport6.de" group-title="⚽ SPORT VIP+3 ⚽",📡Sport 6 HD
-http://51.15.10.229:8080/Sport6/index.m3u8
-#EXTINF:0 tvg-id="euro" group-title="⚽ SPORT VIP+3 ⚽",📡Euro Sport1
-http://51.15.10.229:8080/eurosport1/index.m3u8
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT VIP 🏆",📡 SPORT VIP
 https://bit.ly/3xYLaRh
