@@ -23,6 +23,9 @@ https://bit.ly/3OG5wq7
 
 
 
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8
+
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT⚽️
@@ -595,13 +598,16 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 
 
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 1
-https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
+http://94.249.71.206:8000/play/a0ua/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 2
-
+http://94.249.71.206:8000/play/a0ub/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 3
-
-
+http://94.249.71.206:8000/play/a0uc/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xhj0ALd6xDbUI56nJmXHWKIKW5aXDglX1w&s" group-title="AR | THMANYAH  الثمانية |",📡 shahid sports
+https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT رياضية",📡SPORT CHANNELS
@@ -654,6 +660,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://apk.arabic-ch.space/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ON_Sport_Logo.svg/960px-ON_Sport_Logo.svg.png" group-title="SPORT رياضية",📡 ON Sport 2
 http://apk.arabic-ch.space/live/007000/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",📡ON SPORT HD
+http://94.249.71.206:8000/play/a0sj/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",📡ON SPORT MAX HD
+http://94.249.71.206:8000/play/a0sk/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",📡ON SPORT PLUS HD
+http://94.249.71.206:8000/play/a0sl/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",📡AD Sport 1 HD
+http://94.249.71.206:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",📡AD Sport 2 HD
+http://94.249.71.206:8000/play/a0t2/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",📡KSA SPORT1 HD
 http://176.65.146.100:8037/play/a04q/index.m3u8
@@ -2997,7 +3013,7 @@ https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",📡National Geographic Abu Dhabi HD
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",📡National Geographic Abu Dhabi HD
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+http://94.249.71.206:8000/play/a0t4/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="​🆁™ وثائقيDoc & History 🏛️",📡Oman 🏞️الوثائقية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 
@@ -3187,7 +3203,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="Children أطفال",📡Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://bit.ly/3PFq9Up" group-title="Children أطفال",📡Majid 
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
+http://94.249.71.206:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",📡Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",📡Amou Yazid TV
@@ -3732,6 +3748,8 @@ https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4bcKx7V" group-title="🇵🇸فلسطينPALESTINE",📡RayaTV1
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTmd7AKUIHB8JI4gpcxU2hYGRz3Jl_Qb2sA&s" group-title="🇵🇸فلسطينPALESTINE",📡Nawras Radio
+http://tv.jawa.ps:1935/jawa/nawrastv/playlist.m3u8
 #EXTINF:-1 tvg-id="ShababFM.ps" tvg-logo="https://i.imgur.com/4Cyz4Bn.png" group-title="🇵🇸فلسطينPALESTINE",📡Shabab FM
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="🇵🇸فلسطينPALESTINE",📡Watar TV
@@ -4273,6 +4291,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/source/index.m3u8
 #EXTINF:-1 tvg-id="BaynounahTV.ae" tvg-logo="https://i.imgur.com/n2nczHO.png" group-title="🇦🇪الامارات EMIRATES",📡Baynounah TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="BaynounahTV.ae" tvg-logo="https://i.imgur.com/n2nczHO.png" group-title="🇦🇪الامارات EMIRATES",📡Baynounah TV+
+http://94.249.71.206:8000/play/a0t5/index.m3u8
 #EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Oula.png" ,Al Oula 107.4
 https://uk6.internet-radio.com/proxy/aloula?mp=/stream;
 #EXTINF:-1 group-title="🇦🇪الامارات EMIRATES" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khaleejiya.png" ,ARN: Al Khaleejiya 100.9
