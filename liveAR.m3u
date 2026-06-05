@@ -2750,7 +2750,7 @@ https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="🇮🇶العراق IRAQ",📡Alawla TV
 https://live.alawla.tv/hls/2/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.alnahrain.com/templates/default/assets/images/black-logo.png"🇮🇶العراق IRAQ",📡 النّهرين
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alnahrain.com/templates/default/assets/images/black-logo.png" group-title="🇮🇶العراق IRAQ",📡النّهرين
 https://stream.alnahrain.tv/AlnahrainTV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://almasra.iq/wp-content/uploads/2023/03/almasra-logo1.png" group-title="🇮🇶العراق IRAQ",📡Almasra TV
 https://live.bradosti.net/live/Almasra/index.m3u8
@@ -3323,7 +3323,7 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png group-title="KURDISH",📡KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png group-title="KURDISH",📡KURDSAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="KURDISH",📡KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="KURDISH",📡Channel 8 Kurdish
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
@@ -8898,8 +8898,6 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Qazaqstan Sport SD 🇰🇿
