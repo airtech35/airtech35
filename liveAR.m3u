@@ -71,24 +71,7 @@ http://h42.reelpush.online/live/33523510/index.m3u8
 http://h42.reelpush.online/live/996251000/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vKt8dPl.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 1 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tu3IIaY.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 2 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eb51unM.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 3 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hLzHKxF.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 4 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0epFlAF.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 5 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cNVF4nY.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 6 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCkagQK.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 7 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4MvZML8.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 8 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ttnrmkk.png" group-title="⚽ BEIN SPORT ⚽",beIN Sports 9 HD
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1  A
 http://213.199.33.203:8081/live/ch1.m3u8
@@ -98,29 +81,6 @@ http://213.199.33.203:8081/live/ch2.m3u8
 http://213.199.33.203:8081/live/ch3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 4  A
 http://213.199.33.203:8081/live/ch4.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 1 
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 2
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 3
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 4
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 5
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 6
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 7
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 8
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 🟪 9
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 1 1080P A
