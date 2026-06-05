@@ -181,7 +181,7 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title=beIN SPORTS MAX 🟪,📡 airmax النسخة المدفوعة
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/jpgairmaxtv" group-title="beIN SPORTS MAX 🟪",📡airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  MULTI
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/NjdvR1ntLaHjEd_-EIFiuy9gYGkj57n_RAiJifNjQktADVhOBfyx2xSoUvTiFUbZZKiVGrgA9fLdTLZpNB8DMA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
@@ -2489,6 +2489,9 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Syria سورية",📡سوريةSyria
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext" tvg-name="📡سوريةSyria" tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Syria سورية",📡سوريةSyria
+https://bit.ly/3xYLaRh
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Syria سورية",📡كيف احصل على الكود
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="Syria سورية",📡 airmax النسخة المدفوعة
@@ -3321,7 +3324,7 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Au0ZzV"tvg-country="IQ"tvg-url="" group-title="KURDISH",📡4 kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png group-title="KURDISH",📡KURD CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="KURDISH",📡KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="KURDISH",📡KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
