@@ -35,6 +35,11 @@ https://bit.ly/airmaxtvproooO
 https://stm.linkip.org/live/1952_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 
 https://stm.linkip.org/live/1953_.m3u8
+
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 1 
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/puKBBtYm1DV0YjUSkweNQs7M-DtnfRr6oGlqKhuiDJbeOO4YWELWAYCqnSPsTBFTCP5I1yRu9-Q_5Pcr54IpwQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 2
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoTNV9P_0FrTqrIkgZZ6aPQlJ8jzfhahwudRXkMIi-3-cXU4LNhY4FWV_-W9u53fPFEqlWfw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XsdXknyZ4vtjI-NDy8YIzuHaFAQO9sqTpO7MM8bFU1H-akuu9-R0jXQzGvj9S_ofHetLBds_zszyOl4atGtjZQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN
