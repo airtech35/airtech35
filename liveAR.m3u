@@ -2769,6 +2769,8 @@ https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
 https://ALAHADLIVE.COM:5443/alahadLive/streams/alahadLiveStream.m3u8
 #EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="🇮🇶العراق IRAQ",📡BeitolAbbas TV Channel
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:-1 tvg-id="🇮🇶العراق IRAQ",Al-Aimma TV
+https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="🇮🇶العراق IRAQ",📡Imam Hussein TV 1
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="🇮🇶العراق IRAQ",📡Imam Hussein TV 2
