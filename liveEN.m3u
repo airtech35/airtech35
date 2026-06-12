@@ -639,14 +639,6 @@ http://65.108.239.207/ahaber/index.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",MDR
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Pro7
-http://5.180.164.5:9981/stream/channelid/828295634?profile=Customer
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Sat.1
-http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Pro7maxx
-http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Sat.1 Gold
-http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="🇩🇪 Germany",Arte
