@@ -1001,22 +1001,6 @@ https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Channel7.bz" tvg-logo="https://i.imgur.com/bazepkM.png" group-title=🇧🇿 Belize,Channel 7 Belize
-https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=🇧🇿 Belize,FX
-http://170.254.18.106/FX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=🇧🇿 Belize,History
-http://170.254.18.106/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="KremTV.bz" tvg-logo="https://i.imgur.com/NrYX2Zd.png" group-title=🇧🇿 Belize,Krem TV
-https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=🇧🇿 Belize,Lifetime
-http://170.254.18.106/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="LoveFMTV.bz" tvg-logo="https://i.imgur.com/nT3Wxr6.png" group-title=🇧🇿 Belize,Love Television 
-https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="🇧🇯 Benin",ADO TV 
 https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
 #EXTINF:-1 tvg-id="BB24.bj" tvg-logo="https://i.imgur.com/dNQHhAr.png" group-title="🇧🇯 Benin",BB 24  
