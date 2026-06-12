@@ -42,8 +42,12 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/puKBBtYm1DV0YjUSk
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoTNV9P_0FrTqrIkgZZ6aPQlJ8jzfhahwudRXkMIi-3-cXU4LNhY4FWV_-W9u53fPFEqlWfw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
 https://bluesport.fun/live/blue_sport_1/index.m3u8
-
-
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://storage.googleapis.com/hynvessrworov1/mux_video_ts/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://sportsonline.ppvtv.top/stream/cc7301952df7b7924de24485a37e5e15
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
 https://lcdn-2.kumo.social/media/pass/fox/f35fed21fa194426.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
