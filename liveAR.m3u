@@ -145,12 +145,26 @@ https://bit.ly/airmaxtvproooO
 https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BMax1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  HD
 http://h42.reelpush.online/live/610303030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  SD
+http://h42.reelpush.online/live/115451004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  LOW
+http://h42.reelpush.online/live/181818444/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 MULTI
 https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BMax2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 FHD
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/CyROtpxMi4Yql9acu9CpQT73E5dwjmC_8xjxThLH85JQnHehH8CAE8X7BpziHPUBnJC2UCLPC4sWSUdyovlAnw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 FHD
 http://h42.reelpush.online/live/1515000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 HD
+http://h42.reelpush.online/live/788550011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 LOW
+http://h42.reelpush.online/live/9883322/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 3 FHD
+http://h42.reelpush.online/live/9883322/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 3 HD
+http://h42.reelpush.online/live/14066007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 3 LOW
+http://h42.reelpush.online/live/79247621/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
