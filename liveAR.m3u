@@ -45,31 +45,8 @@ https://bluesport.fun/live/blue_sport_2/index.m3u8
 https://bluesport.fun/live/blue_sport_3/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 4
 https://bluesport.fun/live/blue_sport_4/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
-https://s3.us-east-1.amazonaws.com/yalapro1/hls/0/stream.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
-https://kick-hls-79150553-de-1780582789.s3.eu-central-1.amazonaws.com/index
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
-https://live.shoranz.cfd/shossss3/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
-https://live.tuoranz.cfd/goodo1/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
-https://di5v91i87riar.cloudfront.net/slot/1/fronts.woff2?560161
 
 
-
-
-
-
-
-
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN
-https://lbgo.bozztv.com/ssh101/ssh101/test1001/chunks.m3u8
-
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡ON SPORT
-https://fastly.live.brightcove.com/6386028928112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjg5MjgxMTIifQ.7pBZHXb93BJ47HBrEiPQvSquoHi92NStYSX3JKYcznQ/playlist-hls.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 SD QA
 http://het112a.ycn-redirect.com/live/33523510/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 6 SD QA
@@ -103,17 +80,6 @@ http://h42.reelpush.online/live/33523510/index.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 8 K
 http://h42.reelpush.online/live/996251000/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 1  A
-http://213.199.33.203:8081/live/ch1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 2  A
-http://213.199.33.203:8081/live/ch2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 3  A
-http://213.199.33.203:8081/live/ch3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",📡beIN SPORTS 4  A
-http://213.199.33.203:8081/live/ch4.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="⚽ BEIN SPORT ⚽",Bein Sport 1 1080P A
@@ -160,7 +126,6 @@ https://is.gd/T0FJ03.m3u8
 
 
 
-
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -01
@@ -181,29 +146,6 @@ https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BMax1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 MULTI
 https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BMax2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 FHD
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR| AlWAN SPORTS ",AR BEIN SPORTS 1 HD
-https://stream2.oz-tv.store:443/proxy/alwan_sport_1/4K.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR| AlWAN SPORTS ",AR BEIN SPORTS 2 HD
-https://stream2.oz-tv.store:443/proxy/alwan_sport_2/4K.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR| AlWAN SPORTS ",AR BEIN SPORTS 3 HD
-https://stream2.oz-tv.store:443/proxy/alwan_sport_3/4K.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR| AlWAN SPORTS ",AR BEIN SPORTS 4 HD
-https://stream2.oz-tv.store:443/proxy/alwan_sport_4/4K.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR| AlWAN SPORTS ",AR BEIN SPORTS 5 HD
-https://stream2.oz-tv.store:443/proxy/alwan_sport_5/4K.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR| AlWAN SPORTS ",AR BEIN SPORTS 6 HD
-https://stream2.oz-tv.store:443/proxy/alwan_sport_6/4K.m3u8
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 7 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR| AlWAN SPORTS ",AR - ALWAN SPORT 7 4K
-https://stream2.oz-tv.store:443/proxy/alwan_sport_7/4K.m3u8
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 8 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR| AlWAN SPORTS ",AR - ALWAN SPORT 8 4K
-https://stream2.oz-tv.store:443/proxy/alwan_sport_8/4K.m3u8
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 9 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR| AlWAN SPORTS ",AR - ALWAN SPORT 9 4K
-https://stream2.oz-tv.store:443/proxy/alwan_sport_9/4K.m3u8
-#EXTINF:-1 tvg-name="AR - ALWAN SPORT 10 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR| AlWAN SPORTS ",AR - ALWAN SPORT 10 4K
-https://stream2.oz-tv.store:443/proxy/alwan_sport_10/4K.m3u8
-
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
