@@ -45,6 +45,25 @@ https://bluesport.fun/live/blue_sport_2/index.m3u8
 https://bluesport.fun/live/blue_sport_3/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 4
 https://bluesport.fun/live/blue_sport_4/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://s3.us-east-1.amazonaws.com/yalapro1/hls/0/stream.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://kick-hls-79150553-de-1780582789.s3.eu-central-1.amazonaws.com/index
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://live.shoranz.cfd/shossss3/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://live.tuoranz.cfd/goodo1/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX
+https://di5v91i87riar.cloudfront.net/slot/1/fronts.woff2?560161
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN
 https://lbgo.bozztv.com/ssh101/ssh101/test1001/chunks.m3u8
 
