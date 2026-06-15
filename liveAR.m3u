@@ -38,22 +38,27 @@ https://stm.linkip.org/live/1953_.m3u8
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
-https://live.kooran16.cfd/tist3/index.m3u8
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2hqZ4gfBHiGyHG1b6MBMc35_7j0KbKcSV5A2NBYpT-lluou3b8oRBIBlh1Z7DCQ824XZV6UggY4rBdgrNv_ikw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
-https://12cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/3fmESGtBePTeogbMI1uIOIOsqK_lewku1Zo8dvRMU-wbqDbnMe9CfFtLnSDxtFFqa55sNRM1vqRSL_zeNArXrw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDYwXzEwIiwiSGVpZ2h0IjoxMDgwLCJIaWdoRnJhbWVSYXRlIjp0cnVlLCJLYnBzIjo4MDAwLCJXaWR0aCI6MTkyMH0.OBq8EsoF4c8ydlmfZFxJzACPHYFjmjUaSER2wvsfHso/dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
-https://live.kooran19.cfd/tist2/index.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/llZ8nh_XnykpK68grpXC76zjhf81hA_2Reb93ObszvPJo8q_0kwD4gUW3ZWAz2OOO3rWnpRTOGsYtlfpmPm0KA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
-https://live.kooran18.cfd/tist1/index.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6O0B3iyoy-cVzGuZQgQ_MF1XS5Y4dBrkqPewzMVzZQfCNKgZlOriGxh18LAqfbazSKD4UHP2av-opIP9zut3Tw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://live.kooran23.cfd/tist1/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://live.kooran22.cfd/tist2/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://s3.us-east-2.amazonaws.com/cdnh112/hls/0/stream.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://15cup-live.s3.eu-north-1.amazonaws.com/max3/master.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://d1kji91sh94cnz.cloudfront.net/newi/1/fronts.woff2
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
 https://soccerball.st/s1.php
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
-https://d1kji91sh94cnz.cloudfront.net/newi/1/fronts.woff2?2d4710
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
-https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/c1464dd58d504cd2a3095a1e13adc28c/d97743de3620a865848fff7a9de14dda1bf2409d/session/941f05a3-bc54-4d90-9532-9ab160f2331f/manifest.mpd?player=698d025b1e7558eea117b4dd&access_token=MOK8loEbdKy085zyZKXIYAr2zDQhah9CSX9HANaLVjHJGICnTKfpErYgZ6Ul025FR3dRs40s7Xx&uid=8sd3WIQO8unRQwNa1Y1kA72UuPHcAlui&sid=QvundnY4fcIp37ABZUDO9f7omeMimo1N&pid=GrTyoaChQH26EsX8QfF7PSskk2qmbfYU&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
-https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
-
+https://d1ztmjdgnwy7j6.cloudfront.net/text/post1/application.xml
 
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 SD QA
