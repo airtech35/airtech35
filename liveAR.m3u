@@ -35,6 +35,22 @@ https://bit.ly/airmaxtvproooO
 https://stm.linkip.org/live/1952_.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 
 https://stm.linkip.org/live/1953_.m3u8
+
+
+. 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VFj0YRcRrwWR0kVFhyYJx24fwSDiQHpmybIgS_4is-EOeBNvlF7PGV29K5RZjhjZkx1zXQhBcMTy9eqraC6CYw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/NwhlonvK2Z5geeyfmo6FaUhJu2aQobwruLtRhqpfLrOM1JUB_eCvrijQ-GVfA7SC_b_01QwMrRjTkrksJLScJA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://live.kooran21.cfd/yooee1/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://s3.us-east-2.amazonaws.com/cdnh112/hls/0/stream.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://storage.googleapis.com/puiotyrejnvad1/mux_video_ts/index-1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
+https://storage.googleapis.com/puiotyrejnvad1/mux_video_ts1/index-1.m3u8
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
 https://s3.us-east-2.amazonaws.com/cdnh112/hls/0/stream.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 
