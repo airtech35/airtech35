@@ -1225,10 +1225,15 @@ https://bit.ly/3xYLaRh
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/651101198607646720/EowizFHQ_400x400.jpg" group-title="BOLLYWOOD بوليود",📡ZEE AFLAM
 http://93.184.10.248/ZeeAflam/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/651101198607646720/EowizFHQ_400x400.jpg" group-title="BOLLYWOOD بوليود",📡ZEE AFLAM +
+http://41.223.30.230/ZEEAFLAM/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",📡ZEE ALWAN
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",📡ZEE ALWAN +
 http://185.9.2.18/chid_455/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",📡ZEE ALWAN ++
+http://41.223.30.230/ZEEALWAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1373_1.png" group-title="BOLLYWOOD بوليود",📡MixONE
 https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1371_1.png" group-title="BOLLYWOOD بوليود",📡MixBelAraby
