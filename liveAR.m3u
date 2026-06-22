@@ -50,15 +50,31 @@ https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +6
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +7
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/EOqxDrmFwQ64w1yBb_7Dr7crvINp8oonUML-roVGRQz2m_iXCTxiXLFzG688BWOiv_Vpax4FAgPScaVeTDZp_w/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDYwXzEwIiwiSGVpZ2h0IjoxMDgwLCJIaWdoRnJhbWVSYXRlIjp0cnVlLCJLYnBzIjo4MDAwLCJXaWR0aCI6MTkyMH0.OBq8EsoF4c8ydlmfZFxJzACPHYFjmjUaSER2wvsfHso/dynamic_delta.m3u8?type=live
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/AOxzEgfaQA5StISBvyZSjCTi4xP-6Z0SA5PWERa40C1TZZq1oXB5nSJc-nWI_Qq9dmbb5i-5ix9JLuVrwf_58A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +8
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/8HAsdO989Ko04CtBzcJ0GzhH0zxBU7zHND4IIcnfhzMnZHlY3eOdTxUqsPUe9eVXuS5gDo9lwuB7Ouq4A7jXVQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_720p/chunklist_DVR.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +9
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3xPCOGPxoFnsIOqj1Z-LnlsM1JkjdVb44RxrzHJ-vX1svBBsfRsbh0XGjX76tlEHoJpW2mMn8JMLPsixebBUMg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +10
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_720p/chunklist_DVR.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +11
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +12
+https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-7/g93j-5a9v_1080p/chunklist_DVR.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +13
+https://34cup.s3.us-east-2.amazonaws.com/max1/max1_480p/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +14
+https://an.mancher.xyz/moodes1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +15
+https://35cup.s3.us-east-2.amazonaws.com/max1/master.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +16
+https://ex.kooran99.cfd/uoorz2.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +17
+https://35cup.s3.us-east-2.amazonaws.com/max1/max1_720p/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +18
+https://ex.kooran99.cfd/uoorz2_720/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX +19
+https://s1.yalla5live.com/live/s1.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN Sports 1 SD QA
 http://het112a.ycn-redirect.com/live/33523510/index.m3u8
