@@ -147,31 +147,6 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/jpgairmaxtv" group-title="beIN SPORTS MAX 🟪",📡airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsport4khdr.png" group-title="beIN SPORTS MAX 🟪",beIN sports 4k hdr
-https://inproviszon.st/bein4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax2.png" group-title="beIN SPORTS MAX 🟪",beIN SPORTS MAX 1
-https://inproviszon.st/beinmax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax1.png" group-title="beIN SPORTS MAX 🟪",beIN SPORTS MAX 2
-https://inproviszon.st/beinmax-2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="beIN SPORTS MAX 🟪",FOX Sports 1
-https://inproviszon.st/fs1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbcone.png" group-title="beIN SPORTS MAX 🟪",BBC one
-https://inproviszon.st/bbcone.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="beIN SPORTS MAX 🟪",fusballtv 1 uhd
-https://inproviszon.st/fusball4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="beIN SPORTS MAX 🟪",fusballtv 1 uhd 
-https://inproviszon.st/fusball4k-2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tsn.png" group-title="beIN SPORTS MAX 🟪",TSN 4k
-https://inproviszon.st/tsn4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="beIN SPORTS MAX 🟪",FOX 4k
-https://inproviszon.st/fox4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="beIN SPORTS MAX 🟪",FOX Sports 1 4k
-https://inproviszon.st/fs14k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc.png" group-title="beIN SPORTS MAX 🟪",BBC UHD
-https://inproviszon.st/bbc4k.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  HD
 http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  SD
@@ -269,6 +244,31 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 group-title="كأس العالم 2026" tvg-logo="https://i.postimg.cc/BQBstfcP/FIFA-World-Cup-2026-Replay.webp",FOX
 https://inproviszon.st/fox.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsport4khdr.png" group-title="كأس العالم 2026",beIN sports 4k hdr
+https://inproviszon.st/bein4k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax2.png" group-title="كأس العالم 2026",beIN SPORTS MAX 1
+https://inproviszon.st/beinmax.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax1.png" group-title="كأس العالم 2026",beIN SPORTS MAX 2
+https://inproviszon.st/beinmax-2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="كأس العالم 2026",FOX Sports 1
+https://inproviszon.st/fs1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbcone.png" group-title="كأس العالم 2026",BBC one
+https://inproviszon.st/bbcone.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="كأس العالم 2026",fusballtv 1 uhd
+https://inproviszon.st/fusball4k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="كأس العالم 2026",fusballtv 1 uhd 
+https://inproviszon.st/fusball4k-2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tsn.png" group-title="كأس العالم 2026",TSN 4k
+https://inproviszon.st/tsn4k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="كأس العالم 2026",FOX 4k
+https://inproviszon.st/fox4k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="كأس العالم 2026",FOX Sports 1 4k
+https://inproviszon.st/fs14k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc.png" group-title="كأس العالم 2026",BBC UHD
+https://inproviszon.st/bbc4k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/irib4k.png" group-title="كأس العالم 2026",irib 4k
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
