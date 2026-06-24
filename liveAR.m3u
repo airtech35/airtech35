@@ -185,6 +185,10 @@ http://h42.reelpush.online/live/79247621/index.m3u8
 https://tmaxapp.site/beinmax1.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 2
 https://tmaxapp.site/beinmax2.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 3
+https://tmaxapp.site/beinmax3.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 4
+https://tmaxapp.site/beinmax4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png?_=20170126041215" group-title="كأس العالم 2026",BeIN Arabic
 https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="كأس العالم 2026",NHK BSP4K
