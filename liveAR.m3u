@@ -189,6 +189,16 @@ https://tmaxapp.site/beinmax2.m3u8
 https://tmaxapp.site/beinmax3.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 4
 https://tmaxapp.site/beinmax4.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 2
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",ZDF
+http://193.239.186.231/ZDF/index.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",NPO1
+http://193.239.186.231/NPO1/index.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",NPO3
+http://193.239.186.231/NPO3/index.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",beIN Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png?_=20170126041215" group-title="كأس العالم 2026",BeIN Arabic
 https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="كأس العالم 2026",NHK BSP4K
