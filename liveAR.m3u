@@ -197,6 +197,8 @@ http://193.239.186.231/ZDF/index.m3u8
 http://193.239.186.231/NPO1/index.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",NPO3
 http://193.239.186.231/NPO3/index.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",M6_HD
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",beIN Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png?_=20170126041215" group-title="كأس العالم 2026",BeIN Arabic
