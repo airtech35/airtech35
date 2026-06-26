@@ -48,6 +48,15 @@ https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax4-1/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 05
 http://84.17.50.102/fox/index.m3u8
 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
+https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
+https://stream.camcloud.stream/stream/e2c950491585/playlist.m3u8
+
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
+https://stream.camcloud.stream/stream/5f2ff374bad1/playlist.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
+https://stream.camcloud.stream/stream/a8bcbb987552/playlist.m3u8
 
 
 
