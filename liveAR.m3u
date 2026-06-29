@@ -49,15 +49,15 @@ https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax4-1/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 06
 http://217.76.62.187/hls/stvsport.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
-https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01+
-https://stream.camcloud.stream/stream/e2c950491585/playlist.m3u8
 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
+http://palestine.vibertv.cyou/post1/tracks-v1a1/mono.m3u8?token=Dev_Khal
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
-https://stream.camcloud.stream/stream/5f2ff374bad1/playlist.m3u8
+http://palestine.vibertv.cyou/post2/tracks-v1a1/mono.m3u8?token=Dev_Khal
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
-https://stream.camcloud.stream/stream/a8bcbb987552/playlist.m3u8
+http://palestine.vibertv.cyou/post3/tracks-v1a1/mono.m3u8?token=Dev_Khal
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
+http://palestine.vibertv.cyou/post4/tracks-v1a1/mono.m3u8?token=Dev_Khal
 
 
 
