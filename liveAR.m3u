@@ -37,6 +37,8 @@ https://stm.linkip.org/live/1952_.m3u8
 https://stm.linkip.org/live/1953_.m3u8
 
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
+https://goal-livetv.pages.dev/GUBA_STREAM_SS1.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
 https://live3.wegoal5.win/BMax1-4/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
 https://live3.wegoal5.win/BMax2-4/index.m3u8
