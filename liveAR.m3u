@@ -48,8 +48,8 @@ http://185.170.142.19:8080/GrandSport/1_1001_Video.m3u8
 http://185.170.142.19:8080/GEMMIFA%2BHD/1_1001_Video.m3u8
 
 
-
-Egypte VS Australie 
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+0
+https://test.antmedia.io/live/streams/fajer.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+1
 https://mev.futeure.space/egcity1.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+2
