@@ -46,6 +46,22 @@ https://3.simoplay.com/my-hls/h9asfma10d5.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
 http://141.147.77.69:8080/mo3ad1/mo3ad1.m3u8
 
+
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/IXToVgNvvnAAXKvSncJ1ROlV9UhheR94pmcCvBufmimjDAHAyDmL6ZNF_v4wO6etwhbyjUe5D8dOAP2gQj-kUw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
+https://do.nuvolda.store/guian3_720/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
+http://217.76.62.187/hls/stvspor.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B6:28:FE&stream=1747312&extension=m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMMNMXMBCGWMZQ/20104/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MMMNMXMBCGWMZQ/20104/index.m3u8
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
 https://goal-livetv.pages.dev/GUBA_STREAM_SS1.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
