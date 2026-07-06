@@ -2618,6 +2618,8 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://yt3.googleusercontent.com/BjSQKvB8h-3s1XtGnu6s8n4RnWjmgjafm_OZ97jC0lUlZ3pyTdNHvIjiq7UaPhg_gPplGgHDZA=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",📡Halab Today TV
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://yt3.googleusercontent.com/BjSQKvB8h-3s1XtGnu6s8n4RnWjmgjafm_OZ97jC0lUlZ3pyTdNHvIjiq7UaPhg_gPplGgHDZA=s900-c-k-c0x00ffffff-no-rj" group-title="Syria سورية",📡Halab Today TV+
+https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria سورية",📡LTV 
 https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="" group-title="Syria سورية",📡Syria Satellite
