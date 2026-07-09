@@ -33,10 +33,6 @@ https://bit.ly/airmaxtvproooO
 
 
 
-
-سويسرا vs كولومبيا
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0001
-http://h29.videxia.online/live/1515000000/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0002
 https://buzcdn.com/live/master.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0004
@@ -51,25 +47,14 @@ https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/Port2/index.m3u8
 https://pub-8ba6f19db3a34142a6fbcb4b57fb3e2e.r2.dev/Port2/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0009
 https://pub-5c9539c5c63c44f4b1f8a9027e6d6618.r2.dev/Port2/index.m3u8
-
-
-
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 002
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 003
 http://103.155.18.186:8000/play/a126/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 004
 http://103.155.18.186:8000/play/a125/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 005
-https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 006
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 007
-https://ez.zyntrio.website/donts2.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 008
-https://ez.zyntrio.website/donts2_720/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 010
-https://96cup.s3.eu-north-1.amazonaws.com/max3/master.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 012
 https://cp11.adabmedia.com/hls2/sport.m3u8
 
