@@ -193,14 +193,6 @@ http://h42.reelpush.online/live/14066007/index.m3u8
 http://h42.reelpush.online/live/79247621/index.m3u8
 
 
-#EXTINF:-1 tvg-name="BeIN MAX 1" group-title="كأس العالم 2026",BeIN MAX 1
-https://tmaxapp.site/beinmax1.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 2
-https://tmaxapp.site/beinmax2.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 3
-https://tmaxapp.site/beinmax3.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 4
-https://tmaxapp.site/beinmax4.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 2
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",ZDF
