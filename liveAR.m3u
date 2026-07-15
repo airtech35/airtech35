@@ -190,37 +190,9 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/jpgairmaxtv" group-title="beIN SPORTS MAX 🟪",📡airmax النسخة المدفوعة
-https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  HD
-http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  SD
-http://h42.reelpush.online/live/115451004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 1  LOW
-http://h42.reelpush.online/live/181818444/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 FHD
-http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 HD
-http://h42.reelpush.online/live/788550011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 2 LOW
-http://h42.reelpush.online/live/9883322/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 3 FHD
-http://h42.reelpush.online/live/9883322/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 3 HD
-http://h42.reelpush.online/live/14066007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="beIN SPORTS MAX 🟪",📡beIN SPORTS MAX 🟪 3 LOW
-http://h42.reelpush.online/live/79247621/index.m3u8
-
 
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 2
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",ZDF
-http://193.239.186.231/ZDF/index.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",NPO1
-http://193.239.186.231/NPO1/index.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",NPO3
-http://193.239.186.231/NPO3/index.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",M6_HD
 http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",beIN Sports 1
@@ -245,14 +217,6 @@ http://107.150.60.122/live/cctv5p.m3u8
 http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="كأس العالم 2026",FR | BEIN SPORTS 1 HD
 http://185.160.192.64:80/mangin15/85784/14170
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",DAZN 1
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",ESPN
-https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="كأس العالم 2026",TSN1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-#EXTINF:-1 tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",WIN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="كأس العالم 2026",BeIN Sports 1
@@ -265,61 +229,12 @@ http://41.205.70.146/BEINSPORT3/index.m3u8
 http://41.205.70.146/BEINSPORT4/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 5" group-title="كأس العالم 2026",BeIN Sports 5
 http://41.205.70.146/BEINSPORT5/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 1" group-title="كأس العالم 2026",Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-name="D Sports HLS" group-title="كأس العالم 2026",D Sports HLS
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", iTV1
 https://xemzi.short.gy/1000011
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", CAZE TV1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", CAZE TV2
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", CAZE TV3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="كأس العالم 2026",BeIN Sports 1
-http://41.205.70.146/BEINSPORT1/index.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="كأس العالم 2026",BeIN Sports 2
-http://41.205.70.146/BEINSPORT2/index.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="كأس العالم 2026",BeIN Sports 5
-http://41.205.70.146/BEINSPORT5/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 1" group-title="كأس العالم 2026",Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-name="ARABIC LIVE" group-title="كأس العالم 2026",ARABIC LIVE
-https://live-aburayhan1111.telewebion.ir/ek/sport1/live/720p/index.m3u8
 #EXTINF:-1 tvg-name="CAZE TV" group-title="كأس العالم 2026",CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-name="CTV" group-title="كأس العالم 2026",CTV
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
-#EXTINF:-1 tvg-name="DAZN FIFA" group-title="كأس العالم 2026",DAZN FIFA
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-name="Win Sports [No VPN]" group-title="كأس العالم 2026",Win Sports [No VPN]
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 group-title="كأس العالم 2026" tvg-logo="https://i.postimg.cc/BQBstfcP/FIFA-World-Cup-2026-Replay.webp",FOX
-https://inproviszon.st/fox.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsport4khdr.png" group-title="كأس العالم 2026",beIN sports 4k hdr
-https://inproviszon.st/bein4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax2.png" group-title="كأس العالم 2026",beIN SPORTS MAX 1
-https://inproviszon.st/beinmax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/beinsportsmax1.png" group-title="كأس العالم 2026",beIN SPORTS MAX 2
-https://inproviszon.st/beinmax-2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="كأس العالم 2026",FOX Sports 1
-https://inproviszon.st/fs1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbcone.png" group-title="كأس العالم 2026",BBC one
-https://inproviszon.st/bbcone.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="كأس العالم 2026",fusballtv 1 uhd
-https://inproviszon.st/fusball4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/defussballtv1uhd.png" group-title="كأس العالم 2026",fusballtv 1 uhd 
-https://inproviszon.st/fusball4k-2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tsn.png" group-title="كأس العالم 2026",TSN 4k
-https://inproviszon.st/tsn4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="كأس العالم 2026",FOX 4k
-https://inproviszon.st/fox4k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="كأس العالم 2026",FOX Sports 1 4k
-https://inproviszon.st/fs14k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc.png" group-title="كأس العالم 2026",BBC UHD
-https://inproviszon.st/bbc4k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/irib4k.png" group-title="كأس العالم 2026",irib 4k
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
