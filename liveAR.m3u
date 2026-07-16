@@ -191,6 +191,39 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Sportv +
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="كأس العالم 2026",Sport TV 1
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="كأس العالم 2026",Sport TV 2
+http://znty.dyndns.org:5010/hls/stv2.m3u8
+#EXTINF:0 tvg-id="Sportv3.br" group-title="كأس العالم 2026",SPORT TV3
+http://znty.dyndns.org:5010/hls/stv3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",SPORT TV4
+http://znty.dyndns.org:5010/hls/stv4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",SPORT TV5
+http://znty.dyndns.org:5010/hls/stv5.m3u8
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="كأس العالم 2026",Sporting TV
+http://znty.dyndns.org:5010/hls/sporting.m3u8
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="كأس العالم 2026",Benfica TV
+http://znty.dyndns.org:5010/hls/btv.m3u8
+#EXTINF:0 tvg-id="DAZN1.uk" group-title="كأس العالم 2026",DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:0 tvg-id="DAZN2.es" group-title="كأس العالم 2026",DAZN 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:0 tvg-id="DAZN3.es" group-title="كأس العالم 2026",DAZN 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:0 tvg-id="DAZN4.es" group-title="كأس العالم 2026",DAZN 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:0 tvg-id="esp" group-title="كأس العالم 2026",Eurosport 1
+http://znty.dyndns.org:5010/hls/eurosport.m3u8
+
+
 #EXTINF:-1 tvg-name="TYC ARGENTINA" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",TYC ARGENTINA
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="كأس العالم 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026 01
@@ -228,13 +261,16 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="كأس العالم 2026",BeIN Sports 1
 http://41.205.70.146/BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="كأس العالم 2026",BeIN Sports 2
-http://41.205.70.146/BEINSPORT2/index.m3u8
+http://41.205.70.146/BEINSPORT2/index.m3u8https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3" group-title="كأس العالم 2026",BeIN Sports 3
-http://41.205.70.146/BEINSPORT3/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 4" group-title="كأس العالم 2026",BeIN Sports 4
 http://41.205.70.146/BEINSPORT4/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 5" group-title="كأس العالم 2026",BeIN Sports 5
 http://41.205.70.146/BEINSPORT5/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="كأس العالم 2026",WIN
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", iTV1
 https://xemzi.short.gy/1000011
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", CAZE TV1
@@ -331,6 +367,70 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
 #EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TV
 https://futbol9865.ultratv13.workers.dev/deportivo111/108.m3u8
 
+
+
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TSN Sport 1
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TSN Sport 2
+http://40.160.24.55/TSN_2/index.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TSN Sport 3
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TSN Sport 4
+http://40.160.24.55/TSN_4/index.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TSN Sport 5
+http://40.160.24.55/TSN_5/index.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",WWE
+http://40.160.24.55/WWE/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Sport Klub PL
+http://pl.online24.pm/play/1925/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="كأس العالم 2026",TVP Sport HD
+http://pl.online24.pm/play/1910/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ElevenSports1_4K.pl" group-title="كأس العالم 2026",Eleven Sports 1 4K
+http://pl.online24.pm/play/5613/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="كأس العالم 2026",Eleven Sports 1 HD
+http://pl.online24.pm/play/1904/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="كأس العالم 2026",Eleven Sports 2 HD
+http://pl.online24.pm/play/1903/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="كأس العالم 2026",Eleven Sports 3 HD
+http://pl.online24.pm/play/5445/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="كأس العالم 2026",Eleven Sports 4 HD
+http://pl.online24.pm/play/5446/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Eurosport1.pl" group-title="كأس العالم 2026",Eurosport 1 HD PL
+http://pl.online24.pm/play/5453/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="كأس العالم 2026",Eurosport 2 HD PL
+http://pl.online24.pm/play/5454/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="كأس العالم 2026",Golf Channel
+http://pl.online24.pm/play/5614/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="fight-box-hd" group-title="كأس العالم 2026",FightBox HD
+http://pl.online24.pm/play/5467/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Motowizija
+http://pl.online24.pm/play/5468/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ExtremeSports.uk" group-title="كأس العالم 2026",Extreme Sport
+http://pl.online24.pm/play/5469/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="كأس العالم 2026",Polsat Sport
+http://pl.online24.pm/play/5456/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="كأس العالم 2026",Polsat Sport 2
+http://pl.online24.pm/play/5452/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="كأس العالم 2026",Polsat Sport 3
+http://pl.online24.pm/play/5457/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="كأس العالم 2026",Polsat Sport Premium 1 HD
+http://pl.online24.pm/play/5447/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="كأس العالم 2026",Polsat Sport Premium 2 HD
+http://pl.online24.pm/play/5448/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Polsat Sport Premium 3 HD
+http://pl.online24.pm/play/5449/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Polsat Sport Premium 4 HD
+http://pl.online24.pm/play/5450/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Polsat Sport Premium 5 HD
+http://pl.online24.pm/play/5451/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="PolsatGames.pl" group-title="كأس العالم 2026",Polsat Games HD
+http://pl.online24.pm/play/5607/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="كأس العالم 2026",Polsat Sport Fight
+http://pl.online24.pm/play/5458/623939143BE8A4B/video.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TNT Sports ARG
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
@@ -891,6 +991,27 @@ https://andro.evrenosoglu53.lat/checklist/androstreamliveexn8.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",NEW WORDL Sport 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:0 tvg-id="InfoSportPlus.fr" group-title="⚽ RMC SPORT FR ⚽",Infosport+
+http://151.80.18.177:86/Infosport+_HD/index.m3u8
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="⚽ RMC SPORT FR ⚽",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="⚽ RMC SPORT FR ⚽",Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="⚽ RMC SPORT FR ⚽",Bein Sport HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ RMC SPORT FR ⚽",Bein Sport 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="⚽ RMC SPORT FR ⚽",Bein Sport 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Euro Sport 1 HD
+http://99.27.51.147:8080/EuroSport/index.m3u8
 
 
 #EXTINF:-1 tvg-name="FR : beIN SPOR 1 HD" tvg-logo="http://tayaara.store/live/france/max1.jpg" group-title="⚽ RMC SPORT FR ⚽",📡FR : beIN SPOR 1 FHD
