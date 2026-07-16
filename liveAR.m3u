@@ -244,6 +244,94 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/irib4k.png" group-title="كأس العالم 2026",irib 4k
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 1 FRANCE
+https://futbol9865.ultratv13.workers.dev/deportivo111/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 2 FRANCE
+https://futbol9865.ultratv13.workers.dev/deportivo111/2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 3 FRANCE
+https://futbol9865.ultratv13.workers.dev/deportivo111/3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 4 MAX
+https://futbol9865.ultratv13.workers.dev/deportivo111/4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",FRANCE J
+https://futbol9865.ultratv13.workers.dev/deportivo111/11.m3u8
+#EXTINF:0 tvg-id="Foot24.fr" group-title="كأس العالم 2026",FOOT PLUS
+https://futbol9865.ultratv13.workers.dev/deportivo111/12.m3u8
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="كأس العالم 2026",CANAL PLUS
+https://futbol9865.ultratv13.workers.dev/deportivo111/13.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",PLUS SPORT 360
+https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
+#EXTINF:0 tvg-id="esp" group-title="كأس العالم 2026",EUROSPORT 1
+https://futbol9865.ultratv13.workers.dev/deportivo111/15.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="كأس العالم 2026",EUROSPORT 2
+https://futbol9865.ultratv13.workers.dev/deportivo111/16.m3u8
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="كأس العالم 2026",RMC SPORT 1
+https://futbol9865.ultratv13.workers.dev/deportivo111/17.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="كأس العالم 2026",EUROSPORT 2
+https://futbol9865.ultratv13.workers.dev/deportivo111/18.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",LE CHAINE L EQUIPE
+https://futbol9865.ultratv13.workers.dev/deportivo111/19.m3u8
+#EXTINF:0 tvg-id="AUTOMOTO.carab" group-title="كأس العالم 2026",AUTOMOTO
+https://futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TF 1
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="كأس العالم 2026",TMC
+https://futbol9865.ultratv13.workers.dev/deportivo111/25.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",M 6
+https://futbol9865.ultratv13.workers.dev/deportivo111/26.m3u8
+#EXTINF:0 tvg-id="W9.carab" group-title="كأس العالم 2026",W9
+https://futbol9865.ultratv13.workers.dev/deportivo111/27.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",FRANCE TV 2
+https://futbol9865.ultratv13.workers.dev/deportivo111/28.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",OK oo
+https://futbol9865.ultratv13.workers.dev/deportivo111/29.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",OK oo
+https://futbol9865.ultratv13.workers.dev/deportivo111/30.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN PT 1
+https://futbol9865.ultratv13.workers.dev/deportivo111/56.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN F 1
+https://futbol9865.ultratv13.workers.dev/deportivo111/60.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN MGP
+https://futbol9865.ultratv13.workers.dev/deportivo111/67.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TUDN
+https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="كأس العالم 2026",BEIN SPORTS LATINO
+https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="كأس العالم 2026",FOX DEPORTES
+https://futbol9865.ultratv13.workers.dev/deportivo111/70.m3u8
+#EXTINF:0 tvg-id="NBCUniverso.us" group-title="كأس العالم 2026",NBC UNIVERSO
+https://futbol9865.ultratv13.workers.dev/deportivo111/72.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="كأس العالم 2026",AYM SPORTS
+https://futbol9865.ultratv13.workers.dev/deportivo111/74.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TNT SPORTS PREMIUM
+https://futbol9865.ultratv13.workers.dev/deportivo111/75.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN PREMIUM
+https://futbol9865.ultratv13.workers.dev/deportivo111/76.m3u8
+#EXTINF:0 tvg-id="TYCSports.pe" group-title="كأس العالم 2026",TYC SPORTS
+https://futbol9865.ultratv13.workers.dev/deportivo111/77.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="كأس العالم 2026",FOX SPORTS
+https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",RCN NOVELS
+https://futbol9865.ultratv13.workers.dev/deportivo111/79.m3u8
+#EXTINF:0 tvg-id="ESPN3.nl" group-title="كأس العالم 2026",FOX SPORTS 3
+https://futbol9865.ultratv13.workers.dev/deportivo111/80.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",WIN FUTBOL
+https://futbol9865.ultratv13.workers.dev/deportivo111/81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",WIN SPORTS
+https://futbol9865.ultratv13.workers.dev/deportivo111/82.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",NUESTRA MUNDIAL AL DIA
+https://futbol9865.ultratv13.workers.dev/deportivo111/85.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ZAPPING SPORTS PLUS
+https://futbol9865.ultratv13.workers.dev/deportivo111/86.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="كأس العالم 2026",ESPN
+https://futbol9865.ultratv13.workers.dev/deportivo111/87.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TV
+https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="كأس العالم 2026",TV
+https://futbol9865.ultratv13.workers.dev/deportivo111/108.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TNT Sports ARG
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",win
