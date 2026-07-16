@@ -191,7 +191,53 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTM3U
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 2
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",M6_HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",beIN Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png?_=20170126041215" group-title="كأس العالم 2026",BeIN Arabic
+https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="كأس العالم 2026",NHK BSP4K
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="كأس العالم 2026",BBC One
+http://193.239.186.231/BBC1/index.m3u8
+#EXTINF:-1 group-title="كأس العالم 2026" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="كأس العالم 2026" tvg-logo="https://imgs.search.brave.com/VeRBENb5ZGZDXtUrbvsWsd7VIBaLV2A8J5z0BYi1p-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTIy/NjY2OTUyL3ZlY3Rv/ci9pcmFuLWJ1dHRv/bi13aXRoLWlyYW5p/YW4tZmxhZy1pc29s/YXRlZC1vbi13aGl0/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9emlSRE9QaGx2/S2ZNX0d5azk4UDU5/RTFFakRFaTlDeGtP/WEp2NGE0SE1DMD0",9 sport Iran
+https://live-aburayhan1101.telewebion.ir/ek/varzesh/live/108050p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="كأس العالم 2026",CCTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="كأس العالم 2026",CCTV 5+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="كأس العالم 2026" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="كأس العالم 2026",FR | BEIN SPORTS 1 HD
+http://185.160.192.64:80/mangin15/85784/14170
+#EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",Caze TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="كأس العالم 2026",BeIN Sports 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="كأس العالم 2026",BeIN Sports 2
+http://41.205.70.146/BEINSPORT2/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="كأس العالم 2026",BeIN Sports 3
+http://41.205.70.146/BEINSPORT3/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="كأس العالم 2026",BeIN Sports 4
+http://41.205.70.146/BEINSPORT4/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="كأس العالم 2026",BeIN Sports 5
+http://41.205.70.146/BEINSPORT5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", iTV1
+https://xemzi.short.gy/1000011
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", CAZE TV1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="CAZE TV" group-title="كأس العالم 2026",CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/irib4k.png" group-title="كأس العالم 2026",irib 4k
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TNT Sports ARG
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",win
@@ -210,19 +256,12 @@ http://205.235.6.29:8000/play/a0xa/index.m3u8
 http://205.235.6.29:8000/play/a104/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",espn 7
 http://205.235.6.29:8000/play/a0zv/index.m3u8
-
-
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="كأس العالم 2026",CLARO SPORTS
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TNT SPORTS CHILE
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.m3u8
 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="كأس العالم 2026",BEIN SPORTS Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-
-
-
 #EXTINF:0 tvg-id="DAZN_F1.es" group-title="كأس العالم 2026",DAZN F1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TUDN 1
@@ -235,13 +274,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN PREMIUM CHI
 http://186.33.40.97:8789/play/22
-
-
-
 #EXTINF:0 tvg-id="ESPN.uk" group-title="كأس العالم 2026",ESPN
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN CO
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10685.m3u8
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="كأس العالم 2026",ESPN 2
@@ -254,8 +288,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",WIN SPORTS
 http://190.60.39.195:8000/play/a0ug/index.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN PREMIUN 1
 http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:0 tvg-id="ESPN5.nl" group-title="كأس العالم 2026",ESPN 5
@@ -264,9 +296,6 @@ http://181.118.158.103:8000/play/a03c/index.m3u8
 http://45.170.130.224:8000/play/a04l/index.m3u8
 #EXTINF:0 tvg-id="TyCSports.ar" group-title="كأس العالم 2026",TYC SPORTS
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.m3u8
-
-
-
 #EXTINF:0 tvg-id="DAZN1.uk" group-title="كأس العالم 2026",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:0 tvg-id="DAZN2.es" group-title="كأس العالم 2026",DAZN 2
@@ -343,32 +372,14 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TR Sport (480p) 🇮🇹
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",INFOSPORT 🇫🇷
 http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ON Sports+ 🇭🇰
 https://freem3u.xyz/api/live/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",MMN Sport 🇸🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TUDN 🇲🇽
-http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN 🇦🇷
-http://181.118.156.46:8000/play/a04g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN 2 🇨🇴
-http://200.10.30.241:8000/play/a01r/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Claro Sports 2
 http://45.5.118.152:8000/play/a0ah/index.m3u8
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="كأس العالم 2026",Movistar Deportes
-http://38.226.210.46:8000/play/a06d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Tigo Sports
-http://181.78.17.52:8000/play/a0rq/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Via X Sport
 http://38.226.49.253:8000/play/a042/index.m3u8
 #EXTINF:0 tvg-id="GolfChannel.pl" group-title="كأس العالم 2026",Golf Channel
@@ -383,10 +394,6 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 5 Turkey
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS France (alt)
-http://99.27.51.147:8080/BeinSport/mpegts
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 3 France (Alt)
-http://99.27.51.147:8080/BeinSport3/mpegts
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",NBC Team USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="AyMSports.mx" group-title="كأس العالم 2026",AYM Sports
@@ -423,18 +430,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/121.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Latino | Win Sports HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",espn4
-http://45.5.119.43:4000/play/a028/index.m3u8
-#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="كأس العالم 2026",la liga
-http://45.5.119.43:4000/play/a05r/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="كأس العالم 2026",espn2
-http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",SKY SPORTS GT
 http://45.171.64.30:2000/play/a08m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TIGO SPORT
-http://45.171.64.30:2000/play/a08e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Winsport
-http://181.78.85.59:2500/play/a030/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN CO
 http://181.205.130.194:4000/play/a08n
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN 6 HD
@@ -455,26 +452,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/449.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3414.m3u8
 #EXTINF:0 tvg-id="FoxSports3.mx" group-title="كأس العالم 2026",Fox SPORTS 3
 http://45.5.119.43:4000/play/a024/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",5
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Win2
-http://190.60.37.118:4000/play/a0bw
-#EXTINF:0 tvg-id="GolTV.pe" group-title="كأس العالم 2026",Gol TV
-http://38.44.109.41:8003/play/a02h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN Premium
-http://217.26.190.76:8888/play/a0es/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN IXP
-http://200.229.147.142:8000/play/a013/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",TUDN IXP
-http://200.229.147.142:8000/play/a096/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.br" group-title="كأس العالم 2026",ESPN 4 HD
-http://181.78.49.113:9999/play/a07e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",ESPN 5 HD
-http://181.78.49.113:9999/play/a07f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",win4
-http://181.205.130.194:4000/play/a0fu
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Mundial NBC Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Mundial Azteca UNO
 http://38.44.109.41:8003/play/a033/index.m3u8
 #EXTINF:0 tvg-id="Azteca7.mx" group-title="كأس العالم 2026",Azteca 7
@@ -483,14 +460,6 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BeiN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 1 AU
-https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",BEIN SPORTS 1 AU
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",RTI 1 (1080p)
-http://69.64.57.208:8080/rti1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",RTI 2 (1080p)
-http://69.64.57.208:8080/rti2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",✔️ Bein Sports Xtra ñ *2
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",✔️ Garage TV
@@ -504,57 +473,6 @@ https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",Tango Sports 4
 http://190.7.19.197:232/play/a037/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",BeIN MAX 2
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",M6_HD
-http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="كأس العالم 2026",beIN Sports 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png?_=20170126041215" group-title="كأس العالم 2026",BeIN Arabic
-https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="كأس العالم 2026",NHK BSP4K
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="كأس العالم 2026",BBC One
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1 group-title="كأس العالم 2026" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="كأس العالم 2026" tvg-logo="https://imgs.search.brave.com/VeRBENb5ZGZDXtUrbvsWsd7VIBaLV2A8J5z0BYi1p-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTIy/NjY2OTUyL3ZlY3Rv/ci9pcmFuLWJ1dHRv/bi13aXRoLWlyYW5p/YW4tZmxhZy1pc29s/YXRlZC1vbi13aGl0/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9emlSRE9QaGx2/S2ZNX0d5azk4UDU5/RTFFakRFaTlDeGtP/WEp2NGE0SE1DMD0",9 sport Iran
-https://live-aburayhan1101.telewebion.ir/ek/varzesh/live/108050p/index.m3u8
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="كأس العالم 2026",CCTV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="كأس العالم 2026",CCTV 5+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 group-title="كأس العالم 2026" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="كأس العالم 2026",FR | BEIN SPORTS 1 HD
-http://185.160.192.64:80/mangin15/85784/14170
-#EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",Caze TV BR
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="كأس العالم 2026",BeIN Sports 1
-http://41.205.70.146/BEINSPORT1/index.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="كأس العالم 2026",BeIN Sports 2
-http://41.205.70.146/BEINSPORT2/index.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="كأس العالم 2026",BeIN Sports 3
-http://41.205.70.146/BEINSPORT3/index.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="كأس العالم 2026",BeIN Sports 4
-http://41.205.70.146/BEINSPORT4/index.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="كأس العالم 2026",BeIN Sports 5
-http://41.205.70.146/BEINSPORT5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", iTV1
-https://xemzi.short.gy/1000011
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="كأس العالم 2026", CAZE TV1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="CAZE TV" group-title="كأس العالم 2026",CAZE TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/irib4k.png" group-title="كأس العالم 2026",irib 4k
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
