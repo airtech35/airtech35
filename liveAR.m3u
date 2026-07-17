@@ -250,6 +250,31 @@ http://94.130.32.19:8080/dazn4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",dazn eleven 5
 http://94.130.32.19:8080/dazn5/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",USA_BEIN
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",USA_GOLF
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",USA_TENNIS
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",USA_NFL_NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",USA_NBA
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",USA_ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN_2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN_3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN_4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN_5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",DAZN_6
+http://23.237.104.106:8080/DAZN_6/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="TYC ARGENTINA" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",TYC ARGENTINA
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
