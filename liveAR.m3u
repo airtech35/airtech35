@@ -224,6 +224,33 @@ http://znty.dyndns.org:5010/hls/eleven5.m3u8
 http://znty.dyndns.org:5010/hls/eurosport.m3u8
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="كأس العالم 2026",sporttv1
+http://94.130.32.19:8080/sporttv1/index.m3u8
+#EXTINF:0 tvg-id="Sportv2.br" group-title="كأس العالم 2026",sporttv2
+http://94.130.32.19:8080/sporttv2/index.m3u8
+#EXTINF:0 tvg-id="Sportv3.br" group-title="كأس العالم 2026",sporttv3
+http://94.130.32.19:8080/sporttv3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",sporttv4
+http://94.130.32.19:8080/sporttv4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",sporttv5
+http://94.130.32.19:8080/sporttv5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",sporttv6
+http://94.130.32.19:8080/sporttv6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",sporttv7
+http://94.130.32.19:8080/sporttv7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",dazn eleven 1
+http://94.130.32.19:8080/dazn1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",dazn eleven 2
+http://94.130.32.19:8080/dazn2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",dazn eleven 3
+http://94.130.32.19:8080/dazn3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",dazn eleven 4
+http://94.130.32.19:8080/dazn4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كأس العالم 2026",dazn eleven 5
+http://94.130.32.19:8080/dazn5/index.m3u8
+
+
 #EXTINF:-1 tvg-name="TYC ARGENTINA" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="كأس العالم 2026",TYC ARGENTINA
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="كأس العالم 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026 01
