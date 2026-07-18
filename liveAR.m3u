@@ -33,24 +33,25 @@ https://bit.ly/airmaxtvproooO
 
 
 
-
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 05
-http://46.151.196.223:14286/.ts
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 06
-https://stream.cdncloud.stream/stream/9598ba7d5e2f/playlist.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 00
-https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 00+
-https://sptvspk.st-plasma.workers.dev/max2_8k/index.m3u8
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 0
-https://table.houseinventer.com/pdf/AzMjD2IyADQPb2dLfQ/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 01
-https://sptvspk.st-plasma.workers.dev/max3_8k/index.m3u8
+http://206.212.244.63/63/index.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 02
-https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8
+http://46.151.196.223:14286/.ts
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 03
-https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8
+https://stream.cdncloud.stream/stream/9598ba7d5e2f/playlist.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 04
+https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 05
+https://sptvspk.st-plasma.workers.dev/max2_8k/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 06
+https://table.houseinventer.com/pdf/AzMjD2IyADQPb2dLfQ/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 07
+https://sptvspk.st-plasma.workers.dev/max3_8k/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 08
+https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 09
+https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8
+#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",📡beIN MAX 10
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/31942/index.m3u8
 
 
