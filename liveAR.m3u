@@ -38,8 +38,6 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -01
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",Arena Sport 1 HR 🇭🇷
-http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=yXmgc3r
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
@@ -454,15 +452,12 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | THMANYAH  الثمانية |",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 1
-http://94.249.71.206:8000/play/a0ua/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 2
-http://94.249.71.206:8000/play/a0ub/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 3
-http://94.249.71.206:8000/play/a0uc/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xhj0ALd6xDbUI56nJmXHWKIKW5aXDglX1w&s" group-title="AR | THMANYAH  الثمانية |",📡 shahid sports
 https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -543,6 +538,265 @@ http://176.65.146.100:8037/play/a04s/index.m3u8
 http://149.100.11.235:8080/NileSport/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 1 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 2 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport2_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 3 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 4 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 5 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 6 HD 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport6_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 1 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport1_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 2 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 3 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 4 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 5 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 6 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena 1 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena 2 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_2/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena 3 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Sport 1 HD
+http://lb.wisp.cat/lb0/PL_POLSAT_SPORT_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Canal 3 Sport HD
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT3HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Canal 4 Sport HD
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT4HDPL/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="CanalPlusSport5.pl" group-title="SPORT PREMIUM",CANAL+ Sport 5 HD
+http://lb.wisp.cat/lb0/PL_nSportPlusPL/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="SK4.hr" group-title="SPORT PREMIUM",Sportklub HD
+http://lb.wisp.cat/lb0/PL_Sport_Klub_HD_Polska/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="SPORT PREMIUM",Polsat Sport Premium 1
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_1/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="SPORT PREMIUM",Polsat Sport Premium 2
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_2/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="PolsatSportPremium3.pl" group-title="SPORT PREMIUM",Polsat Sport Premium 3
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Sport Premium PPV 3
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Sport Premium PPV 5
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV5/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Sport Premium PPV 4
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV4/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Sport Premium PPV 6
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Sport Fight_HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Fight_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Polsat Sport News_HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_News_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="SPORT PREMIUM",Eleven Sports 1 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="SPORT PREMIUM",Eleven Sports 2 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="SPORT PREMIUM",Eleven Sports 3 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_3_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="SPORT PREMIUM",Eleven Sports 4 HD
+http://lb.wisp.cat/lb0/PL_ELEVEN_SPORTS_4_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",JOJ Sport HD CZ
+http://lb.wisp.cat/lb0/CZ_JOJ_SPORT_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Canal+ Sport 2 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_CZ/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Canal+ Sport 2 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_2_HD_CZ/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Canal+ Sport 3 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_3_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Canal+ Sport 4 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_4_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Canal+ Sport 5 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_5_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Premier Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Premier Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Premier Sport 3 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Nova Sport HD BG
+http://lb.wisp.cat/lb0/BG_Nova_Sport/index.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Nova Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Nova Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="NovaSport4.cz" group-title="SPORT PREMIUM",Nova Sport 4 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT4_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Nova Sport 5 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT5_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Nova Sport 6 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT6_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="Sport1.cz" group-title="SPORT PREMIUM",Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ArenaSport1.cz" group-title="SPORT PREMIUM",Arena Sport 1 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ArenaSport2.ba" group-title="SPORT PREMIUM",Arena Sport 2 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",M4 Sport HD Hu
+http://lb.wisp.cat/lb0/M4_Sport_HD_HU/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",RTSV Sport HD CZ
+http://lb.wisp.cat/lb0/CZ_RTSV_Sport_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Oneplay Sport 1 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Oneplay Sport 2 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Oneplay Sport 3 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Oneplay Sport 4 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_4_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Eurosport 1 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_1_HD_CEE/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="esp2" group-title="SPORT PREMIUM",Eurosport 2 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_2_HD_CEE/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",PRIME FIGHT HD
+http://lb.wisp.cat/lb0/PRIME_FIGHT_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORT PREMIUM",NBA TV HD
+http://lb.wisp.cat/lb0/NBATV_US/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",SPORT DIGI SPORT 1 HD
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/mpegts?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",SPORT DIGI SPORT 2 HD
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/mpegts?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",SPORT DIGI SPORT 3 HD
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/mpegts?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",SPORT DIGI SPORT 4 HD
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=yXmgc3r
+#EXTINF:0 tvg-id="DiemaSport.bg" group-title="SPORT PREMIUM",Diema Sport HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="SPORT PREMIUM",Diema Sport 2 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Diema Sport 3 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_3_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Diema Sport 3 UHD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_3_UHD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="MaxSport1.bg" group-title="SPORT PREMIUM",MAX SPORT 1 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="MaxSport2.bg" group-title="SPORT PREMIUM",MAX SPORT 2 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",MAX SPORT 3 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_3_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",MAX SPORT 4 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_4_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="RINGBG.bg" group-title="SPORT PREMIUM",RING HD
+http://lb.wisp.cat/lb0/RING_TV_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="esp" group-title="SPORT PREMIUM",EUROSPORT 1
+http://lb.wisp.cat/lb0/Eurosport_1_HD/mpegts?token=yXmgc3r
+#EXTINF:0 tvg-id="esp2" group-title="SPORT PREMIUM",EUROSPORT 2
+http://lb.wisp.cat/lb0/CH_EUROSPORT2/mpegts?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Fight Club HD
+http://lb.wisp.cat/lb0/Fight_Club_HD_SM/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Prima Sport 1 HD
+http://lb.wisp.cat/lb0/TelekomSport1HDRO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Prima Sport 2 HD
+http://lb.wisp.cat/lb0/TelekomSport2HDRO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Prima Sport 3 HD
+http://lb.wisp.cat/lb0/TelekomSport3HDRO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Prima Sport 4 HD
+http://lb.wisp.cat/lb0/TelekomSport4HDRO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="DigiSport.cz" group-title="SPORT PREMIUM",Digi Sport 1 HD
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="DigiSport2.cz" group-title="SPORT PREMIUM",Digi Sport 2 HD
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="DigiSport3.hu" group-title="SPORT PREMIUM",Digi Sport 3 HD
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Digi Sport 4 HD
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Sport+ Qazaqstan
+http://lb.wisp.cat/lb0/84416/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",V Sport Golf HD
+http://lb.wisp.cat/lb0/Viasat_Sport_Premium/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ntv-football-1" group-title="SPORT PREMIUM",Матч! Футбол 1 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_1_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ntv-football-2" group-title="SPORT PREMIUM",Матч! Футбол 2 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ntv-football-3" group-title="SPORT PREMIUM",Матч! Футбол 3 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_3_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="SPORT PREMIUM",Матч! Премьер HD
+http://lb.wisp.cat/lb0/MATCH_PREMIER_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Окко Футбол
+http://lb.wisp.cat/lb0/Okko_futbol/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="Canal+Extra1.pl" group-title="SPORT PREMIUM",Canal+ Extra 1
+http://lb.wisp.cat/lb0/Canal_plua_Extra_1/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",RAI Sport+ HD
+http://lb.wisp.cat/lb0/RAI_SPORTplus_HD_IT/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Ziggo Sport 2
+http://lb.wisp.cat/lb0/Ziggo_sport_2/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="SportdigitalFussball.de" group-title="SPORT PREMIUM",Sportdigital Fussball HD
+http://lb.wisp.cat/lb0/DE_SPORTDIGITAL_HD/index.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",S Sport 1 HD
+http://lb.wisp.cat/lb0/TR_S_Sport_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",S Sport 2 HD
+http://lb.wisp.cat/lb0/TR_S_Sport_2_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",SPORSMART 1 HD
+http://lb.wisp.cat/lb0/TR_SPORSMART/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",SPORSMART 2 HD
+http://lb.wisp.cat/lb0/TR_SPORSMART2/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="esp" group-title="SPORT PREMIUM",EUROSPORT 1
+http://lb.wisp.cat/lb0/TR_EUROSPORT1/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="esp2" group-title="SPORT PREMIUM",EUROSPORT 2
+http://lb.wisp.cat/lb0/TR_EUROSPORT2/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Cosmosport HD
+http://lb.wisp.cat/lb0/Cosmosport_HD_TR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Tivibu Spor 1 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor1HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Tivibu Spor 2 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor2HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ASpor.tr" group-title="SPORT PREMIUM",A Spor HD
+http://lb.wisp.cat/lb0/TR_ASPOR/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPORT PREMIUM",Sky Sport Premier League HD
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Premier_League/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Sky Sport Top Event DE
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Top_Event/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="SkySportUHD.de" group-title="SPORT PREMIUM",Sky Sport UHD DE
+http://lb.wisp.cat/lb0/SKY_Sport_UHD_DE/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="SkySportTennis.it" group-title="SPORT PREMIUM",Sky Sport Tennis HD
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="SPORT PREMIUM",Sky Sport F1
+http://lb.wisp.cat/lb0/DE_Sky_Sport_F1/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Sky Sports 1 UHD
+http://lb.wisp.cat/lb0/Sky_Sport_1_UHD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Sky Sports 2 UHD
+http://lb.wisp.cat/lb0/Sky_Sport_2_UHD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="SPORT PREMIUM",Sky Sports F1 HD UK
+http://lb.wisp.cat/lb0/Sky_Sport_F1_HD_UK/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Sport1 UA 1 HD
+http://lb.wisp.cat/lb0/Sport1_UA_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="DAZN1.es" group-title="SPORT PREMIUM",DAZN 1 HD
+http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="DAZN2.de" group-title="SPORT PREMIUM",DAZN 2 HD
+http://lb.wisp.cat/lb0/DAZN_2_ES/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",TNT Sport 1 UK TEST
+http://lb.wisp.cat/lb0/BT_sport1/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",TNT Sport 2 UK TEST
+http://lb.wisp.cat/lb0/BT_sport2/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",TNT Sport 3 UK TEST
+http://lb.wisp.cat/lb0/BT_sport3/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",TNT Sport 4 UK TEST
+http://lb.wisp.cat/lb0/BT_sport4/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Suspilne Sport HD
+http://lb.wisp.cat/lb0/Suspilne_Sport_HD/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Sportivny HD
+http://lb.wisp.cat/lb0/eurosportgoldhd/video.m3u8?token=yXmgc3r
+#EXTINF:0 tvg-id="extreme-sports" group-title="SPORT PREMIUM",Extreme Sports
+http://lb.wisp.cat/lb0/Extreme_Sports/video.m3u8?token=yXmgc3r
+
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
 #EXTINF:0 tvg-id="ext" group-title="⚽ SPORT VIP+1 ⚽",📡DAZN 1
