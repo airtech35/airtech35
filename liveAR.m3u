@@ -31,6 +31,9 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="⚽ BEIN SPORT ⚽",CAZE TV 1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -00
@@ -795,6 +798,60 @@ http://lb.wisp.cat/lb0/eurosportgoldhd/video.m3u8?token=yXmgc3r
 #EXTINF:0 tvg-id="extreme-sports" group-title="SPORT PREMIUM",Extreme Sports
 http://lb.wisp.cat/lb0/Extreme_Sports/video.m3u8?token=yXmgc3r
 
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ArenaSport1.rs" group-title="SPORT PREMIUM",Arena Sport 1 HD
+http://178.253.194.79:10006
+#EXTINF:0 tvg-id="ArenaSport2.ba" group-title="SPORT PREMIUM",Arena Sport 2 HD
+http://178.253.194.79:10007
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="SPORT PREMIUM",Arena Sport 3 HD
+http://178.253.194.79:10008
+#EXTINF:0 tvg-id="ArenaSport4.ba" group-title="SPORT PREMIUM",Arena Sport 4 HD
+http://178.253.194.79:10009
+#EXTINF:0 tvg-id="ArenaSport5.ba" group-title="SPORT PREMIUM",Arena Sport 5 HD
+http://178.253.194.79:10010
+#EXTINF:0 tvg-id="ArenaSport6.ba" group-title="SPORT PREMIUM",Arena Sport 6 HD
+http://178.253.194.79:10011
+#EXTINF:0 tvg-id="ArenaSport7.hr" group-title="SPORT PREMIUM",Arena Sport 7 HD
+http://178.253.194.79:10012
+#EXTINF:0 tvg-id="ArenaSport8.hr" group-title="SPORT PREMIUM",Arena Sport 8 HD
+http://178.253.194.79:10013
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 1 Premium HD
+http://178.253.194.79:10001
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 2 Premium HD
+http://178.253.194.79:10004
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 3 Premium HD
+http://178.253.194.79:10005
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 4 Premium HD
+http://178.253.194.79:10016
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 5 Premium HD
+http://178.253.194.79:10017
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Tennis HD
+http://178.253.194.79:10019
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Adrenalin HD
+http://178.253.194.79:10018
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ArenaSport3.rs" group-title="SPORT PREMIUM",Arena Sport 3 HD
+http://143.244.63.87/as3hr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 3 Premium
+http://143.244.63.87/as3premium/playlist.m3u8
+#EXTINF:0 tvg-id="ArenaSport2.rs" group-title="SPORT PREMIUM",Arena Sport 2 HD
+http://143.244.63.87/as2/playlist.m3u8
+#EXTINF:0 tvg-id="ArenaSport7.hr" group-title="SPORT PREMIUM",Arena Sport 7 HD
+http://143.244.63.87/as7/playlist.m3u8
+#EXTINF:0 tvg-id="ArenaSport9.hr" group-title="SPORT PREMIUM",Arena Sport 9 HD
+http://143.244.63.87/as9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 1 Premium
+http://143.244.63.87/as1premiumbh/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT PREMIUM",Arena Sport 2 Premium
+http://143.244.63.87/as2premiumbh/playlist.m3u8
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORT PREMIUM",Arena Sport 2
+http://143.244.63.87/as2bh/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
