@@ -3198,6 +3198,8 @@ http://iptv.icsnleb.com:25461/12/12/40
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡VOD-PROMO
 http://iptv.icsnleb.com:25461/12/12/770
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡LBC International
+http://185.9.2.18/chid_521/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇵🇸فلسطينPALESTINE",📡PALESTINE 🇵🇸فلسيطين
@@ -3243,7 +3245,7 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPnYfY63qmBSu4xrocr8CwxPLPmI_RUGnyJiZx3DsIXoM=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇸فلسطينPALESTINE",📡Radio-Hayat
 https://flu.systemnet.tv/Radio-Hayat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸فلسطينPALESTINE",📡معًا
-http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa71.png" group-title="🇵🇸فلسطينPALESTINE",📡مكان
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoac11.png",📡 البلد
@@ -3322,7 +3324,6 @@ https://utviraqi-live.lg.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="🇮🇶العراق IRAQ",📡Alawla TV
 https://live.alawla.tv/hls/2/stream.m3u8
-
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",📡Samirra
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",📡Al-Sharqiya 🇮🇶
@@ -3415,6 +3416,8 @@ http://185.9.2.18/chid_659/index.m3u8
 http://185.9.2.18/chid_706/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" live="1" tvg-logo="" group-title="🇪🇬المصرية Egypt",📡Panorama Food
 http://185.9.2.18/chid_367/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Mazzika_Logo.png" group-title="🇪🇬المصرية Egypt",📡Mazzika
+http://149.100.11.235:8080/Mazzika/index.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="🇪🇬المصرية Egypt",📡Mekameleen TV 
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="🇪🇬المصرية Egypt",📡Watan TV
@@ -3605,6 +3608,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="🇸🇦السعودية Saudi-Arabia",📡Al Sunnah Al Nabawiyah TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="🇸🇦السعودية Saudi-Arabia",📡Alwesam TV
+https://stream.addresses-sat.com/Alwesam/index.m3u8
 #EXTINF:-1 tvg-id="AlRiyadhRadio.sa" tvg-logo="https://i.imgur.com/8PH1Lak.png" group-title="🇸🇦السعودية Saudi-Arabia",📡Al Riyadh Radio
 https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
 #EXTINF:-1 tvg-id="JeddahRadio.sa" tvg-logo="https://i.imgur.com/Q3d7G04.png" group-title="🇸🇦السعودية Saudi-Arabia",📡Jeddah Radio
