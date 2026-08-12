@@ -1899,67 +1899,24 @@ https://fast.kwikmotion.com/roya/mojtama3y/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="BOLLYWOOD بوليود",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/651101198607646720/EowizFHQ_400x400.jpg" group-title="BOLLYWOOD بوليود",📡ZEE AFLAM
-http://93.184.10.248/ZeeAflam/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/651101198607646720/EowizFHQ_400x400.jpg" group-title="BOLLYWOOD بوليود",📡ZEE AFLAM +
-http://41.223.30.230/ZEEAFLAM/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",📡MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",📡ZEE ALWAN
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",📡ZEE ALWAN +
 http://185.9.2.18/chid_455/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Zee_Alwan_logo.png/250px-Zee_Alwan_logo.png" group-title="BOLLYWOOD بوليود",📡ZEE ALWAN ++
-http://41.223.30.230/ZEEALWAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1373_1.png" group-title="BOLLYWOOD بوليود",📡MixONE
 https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1371_1.png" group-title="BOLLYWOOD بوليود",📡MixBelAraby
 https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1371_1.png" group-title="BOLLYWOOD بوليود",📡MixTV
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",📡MBC Bollywood
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
 #EXTINF:-1 tvg-id="HalaLondonTVSeries.uk" tvg-logo="http://halalondon.com/images/Production2.png" group-title="BOLLYWOOD بوليود",📡Hala London TV Production
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD بوليود" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",📡VOD CINEMA SD
 http://iptv.icsnleb.com:25461/ST/ST/59
-
-
-➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN Entertainment ترفيهي",📡 BEIN Entertainment
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | BEIN Entertainment ترفيهي",📡 airmax النسخة المدفوعة
-https://bit.ly/airmaxtvproooO
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinMoviesPremiere
-http://apk.arabic-ch.space/live/076/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinMoviesAction
-http://apk.arabic-ch.space/live/077/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinMoviesDrama
-http://apk.arabic-ch.space/live/078/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinMoviesFamily
-http://apk.arabic-ch.space/live/079/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinSeries1
-http://apk.arabic-ch.space/live/080/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinSeries2
-http://apk.arabic-ch.space/live/081/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinDrama
-http://apk.arabic-ch.space/live/072/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 beinGourmet
-http://apk.arabic-ch.space/live/070/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 BeJunior
-http://apk.arabic-ch.space/live/082/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 jeem
-http://apk.arabic-ch.space/live/075/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 Fatafeat
-http://apk.arabic-ch.space/live/073/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 ONSport1
-http://apk.arabic-ch.space/live/006900/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 ONSport2
-http://apk.arabic-ch.space/live/007000/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 baraem
-http://apk.arabic-ch.space/live/070/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="AR | BEIN Entertainment ترفيهي",📡 OSN WWE
-https://tigerhub-bd.vercel.app/Sports-zone/WWE-Netflix/tracks-v1a1/mono.ts.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -2755,8 +2712,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="Children أطفال",📡Spacetoon+
 http://149.100.11.235:8080/SPACETOONARABIC/index.m3u8
-#EXTINF:-1 tvg-name="Majid " tvg-logo="https://bit.ly/3PFq9Up" group-title="Children أطفال",📡Majid 
-http://94.249.71.206:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Children أطفال",VOD-Series
+https://fast.spacetoongo.com/channels/32f56574-6af3-4fc9-a59d-7dfec23eca0a/master1000.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",📡Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",📡Amou Yazid TV
@@ -3169,6 +3126,8 @@ https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://shahid.mbc.net/mediaObject/00ec1622-d0ff-4611-9660-c57de33ecaff?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="Syria سورية",📡AL Souriya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+#EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="Syria سورية",📡prime1tv
+https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1 tvg-id="BabAlHara.sa" tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Syria سورية",📡Bab Al Hara
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="Syria سورية",📡Alaraby TV 
@@ -3677,6 +3636,8 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/Wd3Xvd1.png" group-title="🇦🇪الامارات EMIRATES",📡Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/e1/ef/small_53b7c7a2b69889bee24a1a80f5c036878ce1d5ad.jpg" group-title="🇦🇪الامارات EMIRATES", الشارقة القرآن الكريم
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="🇦🇪الامارات EMIRATES",📡Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-logo="https://i.imgur.com/otAHLRo.png" group-title="🇦🇪الامارات EMIRATES",📡Al Shallal TV
