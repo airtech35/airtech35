@@ -2714,16 +2714,12 @@ https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 http://149.100.11.235:8080/SPACETOONARABIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Children أطفال",VOD-Series
 https://fast.spacetoongo.com/channels/32f56574-6af3-4fc9-a59d-7dfec23eca0a/master1000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Children أطفال",📡ROYA KIDS
+https://fast.kwikmotion.com/roya/kids/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",📡Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",📡Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children أطفال",📡ROTANA_KIDS
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children أطفال",📡ROTANA_KIDS
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-#EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Children أطفال",📡تلفزيون البهاء
-http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Children أطفال",📡تلفزيون البهاء 2
 http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" group-title="Children أطفال",📡nickelodeon
