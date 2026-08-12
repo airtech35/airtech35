@@ -31,6 +31,15 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bM6nWumwgu5L5J_TnGPhYZgCzPftZyp1QOWo3LBkU9UgQyqaA8GQ2udmbhGIkf9ivZ1WgeCaArB-_-Wtx4rsuw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 2
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nih6ejfrzBMZJIbcOKR54rNsVF_y3IB1lkyZx6AOUlVyfosSbtQLM9v2x5hBHPbEuq5HSupHidE8xb2zGaSFVw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 3
+http://176.119.29.35/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
