@@ -27,11 +27,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="" group-title="🇹🇷 Turkey",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",ATV
-http://116.202.238.88/ATV_TR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",ATV
-http://65.108.239.207/atv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",ATV
-http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷 Turkey",atv eu
 http://185.234.111.229:8000/play/a018
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="🇹🇷 Turkey",A2 ᵁᴴᴰ⁺
