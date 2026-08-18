@@ -35,6 +35,8 @@ https://bit.ly/airmaxtvproooO
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
 http://cp11.adabmedia.com/hls2/persiana.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",alwan1
+https://redperch.space/dramacardinal.php?id=alwan1&.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 1
 https://ea-pl4k-b1a2.b-cdn.net/hls/bn1_fhdnm_stream.m3u8
@@ -265,14 +267,11 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="SPORT رياضية",📡shoof 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/CSHQhP4.png" group-title="SPORT رياضية",📡Yas TV
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="SPORT رياضية",📡KSA Sports 1 (1080p)
-https://aloula-redirect.vercel.app/9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="SPORT رياضية",📡KSA Sports 2 (1080p)
-https://aloula-redirect.vercel.app/10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="SPORT رياضية",📡KSA Sports 3 (1080p)
-https://aloula-redirect.vercel.app/16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT رياضية",📡ON Sport
+http://ar.ycncdn.online/live/006900/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT رياضية",📡ON Sport max
+http://ar.ycncdn.online/live/007000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png" group-title="SPORT رياضية",📡Oman TV Sport HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
