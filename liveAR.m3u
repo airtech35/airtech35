@@ -41,7 +41,23 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nih6ejfrzBMZJIbcO
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 4
 http://176.119.29.35/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 1
+https://oscartv.gharibzq.workers.dev?id=63&go=171&file=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 1+
+https://oscartv.gharibzq.workers.dev?id=63&go=169&file=.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 2
+https://oscartv.gharibzq.workers.dev?id=65&go=160&file=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 2+
+https://oscartv.gharibzq.workers.dev?id=65&go=159&file=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 3
+https://ea-pl4k-b1a2.b-cdn.net/hls/bn3_fhdnm_stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 3+
+https://oscartv.gharibzq.workers.dev?id=66&go=252&file=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 4
+https://ea-pl4k-b1a2.b-cdn.net/hls/bn4_fhdnm_stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 4+
+https://oscartv.gharibzq.workers.dev?id=67&go=85&file=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
