@@ -31,6 +31,12 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
+http://ar.ycncdn.online/live/006900/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
+http://ar.ycncdn.online/live/007000/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
 https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/chunklist_hls360p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
@@ -39,8 +45,6 @@ https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGc
 https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
 http://cp11.adabmedia.com/hls2/persiana.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",alwan1
-https://redperch.space/dramacardinal.php?id=alwan1
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports 1
 https://ea-pl4k-b1a2.b-cdn.net/hls/bn1_fhdnm_stream.m3u8
@@ -271,12 +275,6 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="SPORT رياضية",📡shoof 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT رياضية",📡ON Sport
-http://ar.ycncdn.online/live/006900/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT رياضية",📡ON Sport max
-http://ar.ycncdn.online/live/007000/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png" group-title="SPORT رياضية",📡Oman TV Sport HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT رياضية",📡Kuwait Sports HD
