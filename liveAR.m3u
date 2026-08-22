@@ -1540,6 +1540,8 @@ https://shd-amg-fast.edgenextcdn.net/tx001/720p-d/index.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Shahid TV VIP",📡Movies-Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Shahid TV VIP",📡 قناة-بقعة-ضوء
+https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 ناصر-القصبي
 https://shd-amg-fast.edgenextcdn.net/tx017/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 قناة-العاصوف
