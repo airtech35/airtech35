@@ -46,6 +46,18 @@ https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGc
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
 http://cp11.adabmedia.com/hls2/persiana.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/8VZdj5-si5HmSjDfzALXCWFT1GaV451SATeqFOfGTlJNnK6puF18_IFMkRv3yNT0SvGzM3e7jk5Aq_WYhKzE6w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bfwwbffi1IKYveMdGJ7S2WPAFeHT0dHmhdGIlcFVpk8iegzWj2JvPDRi2iJv_rqTzV1amew71kJQ2ClC6B2R3w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+https://hrthrtjhrtijkhiurt.chkgjkg.online/live/x2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+https://ecf38996d918.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.098767424220.channel.qsb45IQUhhqf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+http://50.7.120.34:8080/DAZN1/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
