@@ -8588,8 +8588,15 @@ https://v.tom-dzherri.net/video/s/163.mp4
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",PERSIANA SPORTS 🇮🇷
+https://live12.ir/sp/hls.html?link=http://cp11.adabmedia.com/hls2/persiana.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",PERSIANA SPORTS 🇮🇷
+http://cp11.adabmedia.com/hls2/persiana.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bein Sports 1 🇫🇷
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",CBS SPORTS 🇺🇸
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN MAX 1 🇶🇦
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/puKBBtYm1DV0YjUSkweNQs7M-DtnfRr6oGlqKhuiDJbeOO4YWELWAYCqnSPsTBFTCP5I1yRu9-Q_5Pcr54IpwQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN MAX 2 🇶🇦
@@ -8722,6 +8729,8 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN 3 🇫🇷
 http://145.239.5.177/559/mpegts
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bein Sport 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Bein Sport 3 🇫🇷
@@ -9078,6 +9087,8 @@ http://77.137.40.221:8000/play/a01f
 http://77.137.40.221:8000/play/a00i
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SPORT5PLUSHD 🇮🇱
 http://77.137.40.221:8000/play/a001
+#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Azteca Deportes 🇲🇽
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Teleamazonas 🇻🇪
 http://190.242.59.52:8000/play/a05p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TELEFE 🇦🇷
