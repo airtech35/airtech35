@@ -142,133 +142,151 @@ https://andro.evrenesoglu57.click/checklist/androstreamliveexn7.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
 
 
-
-
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="TR:beIN Sport",beIN Sports 1
+https://corestream.siteyaptim.live//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="TR:beIN Sport",beIN Sports 2
+https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3" group-title="TR:beIN Sport",beIN Sports 3
+https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4" group-title="TR:beIN Sport",beIN Sports 4
+https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 5" group-title="TR:beIN Sport",beIN Sports 5
+https://corestream.siteyaptim.live//bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 1" group-title="TR:beIN Sport",beIN Sports Max 1
+https://corestream.siteyaptim.live//beinmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 2" group-title="TR:beIN Sport",beIN Sports Max 2
+https://corestream.siteyaptim.live//trt-spor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="S Sport" group-title="TR:beIN Sport",S Sport
+https://corestream.siteyaptim.live//s-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="S Sport 2" group-title="TR:beIN Sport",S Sport 2
+https://corestream.siteyaptim.live//s-sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="TR:beIN Sport",A Spor
+https://corestream.siteyaptim.live//aspor/tracks-v1a1/mono.m3u8
 
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 .c
-https://kinowatch.com/demo/stream/1e6fe3f546610214b664f4.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 (720P) .b
-https://kinowatch.com/demo/stream/46be05ac0ad824fa329446.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 (720PFEED) .b
-https://kinowatch.com/demo/stream/45dccd575bd8f4be4f7ecc.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 + .b
-https://kinowatch.com/demo/stream/0c445baf33d631313a2630.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 50 FPS .b
-https://kinowatch.com/demo/stream/130ee1df12efaa869d7859.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 FEED .c
-https://kinowatch.com/demo/stream/a196c38d8445865e1e5a98.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 H265 .b
-https://kinowatch.com/demo/stream/e87a46293f2ac9eab3c57a.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 HD .b
-https://kinowatch.com/demo/stream/1d484c85201a1e1865cc2e.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 1 HD (TURKEY) .b
-https://kinowatch.com/demo/stream/53fc96624cecef0fb816da.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 2 .c
-https://kinowatch.com/demo/stream/0dea27a021e34e37bf1187.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 2 HD .b
-https://kinowatch.com/demo/stream/ec8861c206e5270a5c861a.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 2 SD .b
-https://kinowatch.com/demo/stream/42c83129b04d85d1338c97.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 2 UHD .b
-https://kinowatch.com/demo/stream/811b8589bf2ed0bb7b0186.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 3 .c
-https://kinowatch.com/demo/stream/06d2927ee5a589334536f1.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 3 .s
-https://kinowatch.com/demo/stream/9cc50c2e015d161f53037c.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 3 HD .b
-https://kinowatch.com/demo/stream/c00f2e24d4210ac5c4ff32.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 3 SD .b
-https://kinowatch.com/demo/stream/a0b0433b9b4b74c8960f16.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 3 UHD .b
-https://kinowatch.com/demo/stream/c200d14de8441c5dc0c2a5.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 4 .c
-https://kinowatch.com/demo/stream/920f0dd437996d3cd1c94d.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 4 .s
-https://kinowatch.com/demo/stream/0ae4c441b02dbf6c2a1cbe.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 4 HD .b
-https://kinowatch.com/demo/stream/c6cddfcfd200609c07c2e2.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 4 SD .b
-https://kinowatch.com/demo/stream/11eaa2207b46c4801a0824.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 4 UHD .b
-https://kinowatch.com/demo/stream/04d4edda9809b177013fa0.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 4K FEED(KUTU) .b
-https://kinowatch.com/demo/stream/e533401bff8adfd5b8c577.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 4K FEED(UYDU) .b
-https://kinowatch.com/demo/stream/98d53ffc141f9555b7ae69.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 5 .c
-https://kinowatch.com/demo/stream/d94e520508c8dff4c20e02.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 5 (MATCH TIME) .s
-https://kinowatch.com/demo/stream/6cbcfa92566f571cad9a95.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 5 SD .b
-https://kinowatch.com/demo/stream/d81295ef5c2cb7f26f885a.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 720P FEED .b
-https://kinowatch.com/demo/stream/c66df6d2f3f40bffcd3697.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS 8K FEED .b
-https://kinowatch.com/demo/stream/4d2dcf9fd7d8e0c7fea74c.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS FEED (OZEL FEED YAYIN) .b
-https://kinowatch.com/demo/stream/d175aa87f98c809a10800b.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS HABER .c
-https://kinowatch.com/demo/stream/e37452caa0fa902934d0dc.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS HABER HD .b
-https://kinowatch.com/demo/stream/f57015d5901f9315efd42b.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS HABER RAW .b
-https://kinowatch.com/demo/stream/ecf4be602a0eba7b012a53.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS MAX 1 .c
-https://kinowatch.com/demo/stream/6b4968b94a6460a115739f.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS MAX 1 FHD .b
-https://kinowatch.com/demo/stream/87d56d947ce13302df777e.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS MAX 1 HD .b
-https://kinowatch.com/demo/stream/8b5a0cedb61aef2dd05c08.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPORTS MAX 2 .c
-https://kinowatch.com/demo/stream/0eb3304be0784f7a04c62f.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",BEIN SPOTS1 SD .b
-https://kinowatch.com/demo/stream/37655f3d09b949ce14d25e.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: S SPORT .b
-https://kinowatch.com/demo/stream/4dd6e147e33c0b040e798d.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: S SPORT 2 .b
-https://kinowatch.com/demo/stream/45df4e326e7cc05abc8245.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: A SPOR HD .b
-https://kinowatch.com/demo/stream/952c1ac1b0262c355803eb.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: EUROSPORT 1 HD .b
-https://kinowatch.com/demo/stream/50c657724623f27d602feb.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: EUROSPORT 2 HD .b
-https://kinowatch.com/demo/stream/737adf09fed36d7dbd01ed.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: FB TV .b
-https://kinowatch.com/demo/stream/c37603e2ce9aacabaa08f6.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: NBA TV HD .b
-https://kinowatch.com/demo/stream/082ccbf812b8d8638c652e.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: S SPORT .b
-https://kinowatch.com/demo/stream/4dd6e147e33c0b040e798d.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: S SPORT 2 .b
-https://kinowatch.com/demo/stream/45df4e326e7cc05abc8245.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: SPOR SMART .b
-https://kinowatch.com/demo/stream/d3905db8f9cef9ed9175d0.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: SPORTS TV HD .b
-https://kinowatch.com/demo/stream/d6793ecfb0a3951e427a81.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: TJK TV .b
-https://kinowatch.com/demo/stream/c23f3bdaff8c01c09e2e2a.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: TRT SPOR HD .b
-https://kinowatch.com/demo/stream/5e009ab657ed84b0e2ee21.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",4K TR: TRT SPOR YILDIZ .b
-https://kinowatch.com/demo/stream/1b9f6a434532c61ea093af.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",A SPOR .c
-https://kinowatch.com/demo/stream/3fbb594b968d89a992fbdd.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",A SPOR .s
-https://kinowatch.com/demo/stream/b3dbfba33a0aba2f28c4ad.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",A SPOR FHD .b
-https://kinowatch.com/demo/stream/76b89761296a2d9e401ce5.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",A SPOR HD .b
-https://kinowatch.com/demo/stream/e978fa4fd5bf7cf2ff22d3.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",A SPOR HEVC .b
-https://kinowatch.com/demo/stream/8d2e84fdbae402bdbd6a75.m3u8|User-agent=VAVOO/2.6
-#EXTINF:0 tvg-id="ext" group-title="Turkey" user-agent="VAVOO/2.6",A SPOR RAW .b
-https://kinowatch.com/demo/stream/6b801b6ef2f44b5cb074cb.m3u8|User-agent=VAVOO/2.6
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 .c
+https://kinowatch.com/demo/stream/1e6fe3f546610214b664f4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 (720P) .b
+https://kinowatch.com/demo/stream/46be05ac0ad824fa329446.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 (720PFEED) .b
+https://kinowatch.com/demo/stream/45dccd575bd8f4be4f7ecc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 + .b
+https://kinowatch.com/demo/stream/0c445baf33d631313a2630.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 50 FPS .b
+https://kinowatch.com/demo/stream/130ee1df12efaa869d7859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 FEED .c
+https://kinowatch.com/demo/stream/a196c38d8445865e1e5a98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 H265 .b
+https://kinowatch.com/demo/stream/e87a46293f2ac9eab3c57a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 HD .b
+https://kinowatch.com/demo/stream/1d484c85201a1e1865cc2e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 1 HD (TURKEY) .b
+https://kinowatch.com/demo/stream/53fc96624cecef0fb816da.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 2 .c
+https://kinowatch.com/demo/stream/0dea27a021e34e37bf1187.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 2 HD .b
+https://kinowatch.com/demo/stream/ec8861c206e5270a5c861a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 2 SD .b
+https://kinowatch.com/demo/stream/42c83129b04d85d1338c97.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 2 UHD .b
+https://kinowatch.com/demo/stream/811b8589bf2ed0bb7b0186.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 3 .c
+https://kinowatch.com/demo/stream/06d2927ee5a589334536f1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 3 .s
+https://kinowatch.com/demo/stream/9cc50c2e015d161f53037c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 3 HD .b
+https://kinowatch.com/demo/stream/c00f2e24d4210ac5c4ff32.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 3 SD .b
+https://kinowatch.com/demo/stream/a0b0433b9b4b74c8960f16.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 3 UHD .b
+https://kinowatch.com/demo/stream/c200d14de8441c5dc0c2a5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 4 .c
+https://kinowatch.com/demo/stream/920f0dd437996d3cd1c94d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 4 .s
+https://kinowatch.com/demo/stream/0ae4c441b02dbf6c2a1cbe.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 4 HD .b
+https://kinowatch.com/demo/stream/c6cddfcfd200609c07c2e2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 4 SD .b
+https://kinowatch.com/demo/stream/11eaa2207b46c4801a0824.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 4 UHD .b
+https://kinowatch.com/demo/stream/04d4edda9809b177013fa0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 4K FEED(KUTU) .b
+https://kinowatch.com/demo/stream/e533401bff8adfd5b8c577.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 4K FEED(UYDU) .b
+https://kinowatch.com/demo/stream/98d53ffc141f9555b7ae69.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 5 .c
+https://kinowatch.com/demo/stream/d94e520508c8dff4c20e02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 5 (MATCH TIME) .s
+https://kinowatch.com/demo/stream/6cbcfa92566f571cad9a95.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 5 SD .b
+https://kinowatch.com/demo/stream/d81295ef5c2cb7f26f885a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 720P FEED .b
+https://kinowatch.com/demo/stream/c66df6d2f3f40bffcd3697.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS 8K FEED .b
+https://kinowatch.com/demo/stream/4d2dcf9fd7d8e0c7fea74c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS FEED (OZEL FEED YAYIN) .b
+https://kinowatch.com/demo/stream/d175aa87f98c809a10800b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS HABER .c
+https://kinowatch.com/demo/stream/e37452caa0fa902934d0dc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS HABER HD .b
+https://kinowatch.com/demo/stream/f57015d5901f9315efd42b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS HABER RAW .b
+https://kinowatch.com/demo/stream/ecf4be602a0eba7b012a53.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS MAX 1 .c
+https://kinowatch.com/demo/stream/6b4968b94a6460a115739f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS MAX 1 FHD .b
+https://kinowatch.com/demo/stream/87d56d947ce13302df777e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS MAX 1 HD .b
+https://kinowatch.com/demo/stream/8b5a0cedb61aef2dd05c08.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPORTS MAX 2 .c
+https://kinowatch.com/demo/stream/0eb3304be0784f7a04c62f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",BEIN SPOTS1 SD .b
+https://kinowatch.com/demo/stream/37655f3d09b949ce14d25e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: S SPORT .b
+https://kinowatch.com/demo/stream/4dd6e147e33c0b040e798d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: S SPORT 2 .b
+https://kinowatch.com/demo/stream/45df4e326e7cc05abc8245.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: A SPOR HD .b
+https://kinowatch.com/demo/stream/952c1ac1b0262c355803eb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: EUROSPORT 1 HD .b
+https://kinowatch.com/demo/stream/50c657724623f27d602feb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: EUROSPORT 2 HD .b
+https://kinowatch.com/demo/stream/737adf09fed36d7dbd01ed.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: FB TV .b
+https://kinowatch.com/demo/stream/c37603e2ce9aacabaa08f6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: NBA TV HD .b
+https://kinowatch.com/demo/stream/082ccbf812b8d8638c652e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: S SPORT .b
+https://kinowatch.com/demo/stream/4dd6e147e33c0b040e798d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: S SPORT 2 .b
+https://kinowatch.com/demo/stream/45df4e326e7cc05abc8245.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: SPOR SMART .b
+https://kinowatch.com/demo/stream/d3905db8f9cef9ed9175d0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: SPORTS TV HD .b
+https://kinowatch.com/demo/stream/d6793ecfb0a3951e427a81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: TJK TV .b
+https://kinowatch.com/demo/stream/c23f3bdaff8c01c09e2e2a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: TRT SPOR HD .b
+https://kinowatch.com/demo/stream/5e009ab657ed84b0e2ee21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",4K TR: TRT SPOR YILDIZ .b
+https://kinowatch.com/demo/stream/1b9f6a434532c61ea093af.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",A SPOR .c
+https://kinowatch.com/demo/stream/3fbb594b968d89a992fbdd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",A SPOR .s
+https://kinowatch.com/demo/stream/b3dbfba33a0aba2f28c4ad.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",A SPOR FHD .b
+https://kinowatch.com/demo/stream/76b89761296a2d9e401ce5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",A SPOR HD .b
+https://kinowatch.com/demo/stream/e978fa4fd5bf7cf2ff22d3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",A SPOR HEVC .b
+https://kinowatch.com/demo/stream/8d2e84fdbae402bdbd6a75.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR:beIN Sport" user-agent="VAVOO/2.6",A SPOR RAW .b
+https://kinowatch.com/demo/stream/6b801b6ef2f44b5cb074cb.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
-
 
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",BEIN SPORTS 1 FRANCE
 https://futbol9865.ultratv13.workers.dev/deportivo111/1.m3u8
@@ -297,8 +315,602 @@ http://151.80.18.177:86/Infosport+_HD/index.m3u8
 
 
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 1 .b
+https://kinowatch.com/demo/stream/ba36a49579472a997a77a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 1 .c
+https://kinowatch.com/demo/stream/667825ecc438c74297ea05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 1 (BACKUP) .b
+https://kinowatch.com/demo/stream/23780c9887bd8cae9bb4ce.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 1 FHD .b
+https://kinowatch.com/demo/stream/5f1bb897d202006fcfe203.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] .s
+https://kinowatch.com/demo/stream/ea2f0eff5e50cbfa0e66a3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 1 HD .b
+https://kinowatch.com/demo/stream/3cbb937d02dbf1a6e4d65f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY] .s
+https://kinowatch.com/demo/stream/6a40b150d9fa614ddf0fbe.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 2 .b
+https://kinowatch.com/demo/stream/5c0e1e068e91e7e68cc85f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 2 .c
+https://kinowatch.com/demo/stream/6f2e7f84d0c0ea7a25393a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 2 (BACKUP) .b
+https://kinowatch.com/demo/stream/47ba6f82d7988cc2a62b0c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 2 FHD .b
+https://kinowatch.com/demo/stream/b2499f9b71eab6edc038c0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 2 FHD .s
+https://kinowatch.com/demo/stream/7124272438d14623325756.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 2 HD .b
+https://kinowatch.com/demo/stream/55cb0bdc56b96e0838a573.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 3 .b
+https://kinowatch.com/demo/stream/671aee10c4ba760c4889c4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 3 .c
+https://kinowatch.com/demo/stream/b91f70695062560cea5900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 3 .s
+https://kinowatch.com/demo/stream/c9f168fa7e18024ad534a0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 3 (BACKUP) .b
+https://kinowatch.com/demo/stream/4fa3a19a9b18b22e5cf9ee.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 3 FHD .b
+https://kinowatch.com/demo/stream/8ad0e4dda95847cc06a851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS 3 HD .b
+https://kinowatch.com/demo/stream/a97db7bbb73092cad0dc4e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 10 .b
+https://kinowatch.com/demo/stream/1a031d9cb7a622a8cbfd96.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 10 .c
+https://kinowatch.com/demo/stream/728776fa4cb4e0b25a2b58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 10 FHD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/4c089b8f9bc71c266222a6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 10 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/cba2ecb9edc50aa4658248.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 4 .b
+https://kinowatch.com/demo/stream/be5c645bf3b9dc5b0a216a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 4 .c
+https://kinowatch.com/demo/stream/20f65c09fe3b5dcb27cc42.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 4 FHD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/30250b6ad0879fcc7c49ec.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 4 HD .b
+https://kinowatch.com/demo/stream/6ac8f557a39a135202dfe4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 4 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/ec35ee63763532da39f09e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 4 HD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/cc18935b48f5359a94082a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 5 .b
+https://kinowatch.com/demo/stream/883dc70712b341faeda0f6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 5 .c
+https://kinowatch.com/demo/stream/449c3c720a34eb158819b5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 5 FHD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/9dabf800c12377bcde1ea1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 5 HD .b
+https://kinowatch.com/demo/stream/159e22668742d238803419.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 5 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/94e46ebb04a89c34308f3c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 6 .b
+https://kinowatch.com/demo/stream/8464c4d91e5ac17f313ce4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 6 .c
+https://kinowatch.com/demo/stream/446430b5d33d6b09510f11.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 6 HD .b
+https://kinowatch.com/demo/stream/85d9ac6856b75a57761f6e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 6 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/249f8c0aa0632355423b95.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 7 .b
+https://kinowatch.com/demo/stream/9ee85a6442730047983924.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 7 .c
+https://kinowatch.com/demo/stream/b64bc2a61ed71fff29ef9f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 7 FHD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/b004ec6447e1df357dcea4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 7 HD .b
+https://kinowatch.com/demo/stream/485f407e725a37496def33.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 7 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/632fb2f87b3017728b94ad.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 7 HD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/c36841067e1df7fb45d4ab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 8 .b
+https://kinowatch.com/demo/stream/ddf522471731cdc384ab69.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 8 .c
+https://kinowatch.com/demo/stream/a05b544451e13a7b8fca18.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 8 FHD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/b873f431a6c305940908e6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 8 HD .b
+https://kinowatch.com/demo/stream/b3a3af3f8f37ef58dabac3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 8 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/18377e921e5db54d0cc022.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 9 HD .b
+https://kinowatch.com/demo/stream/d1aeeab47c940303be91b0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 9 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/e9e860611539a0dc15a51a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽" user-agent="VAVOO/2.6",BEIN SPORTS MAX 9 HD (EVENT ONLY) .s
+https://kinowatch.com/demo/stream/912ef8894dee472ea3e00e.m3u8
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",AFC WIMBLEDON .s
+https://kinowatch.com/demo/stream/d34120aebf62eb8eacbf58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",ASTRO BADMINTON .s
+https://kinowatch.com/demo/stream/1cf45da5fa8ccb880a0f5b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",ASTRO BADMINTON 2 .s
+https://kinowatch.com/demo/stream/4f3f77111a8359764d91d9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",ASTRO GRANDSTAND .s
+https://kinowatch.com/demo/stream/bacc8ac68f8fc9837d5a3a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",ASTRO PL2 .s
+https://kinowatch.com/demo/stream/e5952eee8a4430ce2022da.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",ASTRO PREMIER LEAGUE .s
+https://kinowatch.com/demo/stream/af9ca6bae03ff6dd16c6f6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",ASTRO PREMIER LEAGUE 2 .s
+https://kinowatch.com/demo/stream/a71ea0bb976d59c1471629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",ASTRO SPORTS PLUS .s
+https://kinowatch.com/demo/stream/503ae5dbc8a15e2fb5657e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BARNET F.C. .s
+https://kinowatch.com/demo/stream/ca2050fae8dd4b1afa26db.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BARNSLEY F.C. .s
+https://kinowatch.com/demo/stream/99ce84d2579e813c636a7d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BEIN SPORTS ENGLISH 2 .s
+https://kinowatch.com/demo/stream/b2abd229c8cfb9b6549e83.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BEIN SPORTS LA LIGA .b
+https://kinowatch.com/demo/stream/c5027fcbf91bc0a53f1d0d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BEIN SPORTS USA .s
+https://kinowatch.com/demo/stream/6b3417874969e466797a78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BLACKPOOL F.C. .s
+https://kinowatch.com/demo/stream/633efdd82919b7304c0f09.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BOLTON WANDERERS F.C. .s
+https://kinowatch.com/demo/stream/5dbb7d512663c0546bb094.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BOX NATION .b
+https://kinowatch.com/demo/stream/ffc595ebf619e0897fccba.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BOX NATION .s
+https://kinowatch.com/demo/stream/7a2549440f8af0047a22d4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BOX NATION (BACKUP 2) .b
+https://kinowatch.com/demo/stream/e0c918533398d1d978e028.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BOX NATION (BACKUP) .b
+https://kinowatch.com/demo/stream/866c69fd65e9383d0be48a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BRADFORD CITY A.F.C. .s
+https://kinowatch.com/demo/stream/ae86cad4db2385612582a6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BRISTOL ROVERS F.C. .s
+https://kinowatch.com/demo/stream/f3dcfd091559f6632b07f5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BROMLEY FC .s
+https://kinowatch.com/demo/stream/2aab036185246b2514a514.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 1 .b
+https://kinowatch.com/demo/stream/806fe5bd137374ad7bbf14.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 1 (BACKUP) .b
+https://kinowatch.com/demo/stream/9926c81860deae751b9736.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 1 HD .b
+https://kinowatch.com/demo/stream/0cfa3467a74a90fd01d0c2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 2 .b
+https://kinowatch.com/demo/stream/b9113ac755f5a4d9f212fa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 2 (BACKUP) .b
+https://kinowatch.com/demo/stream/2b17ea4e8471e9d610fab8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 2 HD .b
+https://kinowatch.com/demo/stream/f1586d4fd882e20a266cbd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 3 .b
+https://kinowatch.com/demo/stream/efd280fb1fe59ce713a551.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 3 (BACKUP) .b
+https://kinowatch.com/demo/stream/75f36f92bc966487a65b9b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT 3 HD .b
+https://kinowatch.com/demo/stream/a560f9b300a80c029ec140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT ESPN .b
+https://kinowatch.com/demo/stream/ecce58b047007afbfaf82f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BT SPORT ESPN HD .b
+https://kinowatch.com/demo/stream/fd59d387015b849c49e93f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",BURTON ALBION F.C. .s
+https://kinowatch.com/demo/stream/4b483f22eb48c464590e17.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CAMBRIDGE UNITED F.C. .s
+https://kinowatch.com/demo/stream/200a9888b5c3901ddb3193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CARDIFF CITY F.C. .s
+https://kinowatch.com/demo/stream/cdd1507423f2c87bb96092.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS BIRMINGHAM CITY .s
+https://kinowatch.com/demo/stream/0054e3d9421182df91ff02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS BRISTOL CITY .s
+https://kinowatch.com/demo/stream/ba1de304084a895ce5f085.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS COVENTRY CITY .s
+https://kinowatch.com/demo/stream/c8ecf975bc8b370b66ef30.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS DERBY COUNTY .s
+https://kinowatch.com/demo/stream/33071c3304515eb08143fe.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS HULL CITY .s
+https://kinowatch.com/demo/stream/0eeccd3849037888514001.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS IPSWICH TOWN F.C. .s
+https://kinowatch.com/demo/stream/24913f5980c383d253fa62.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS LEICESTER CITY F.C. .s
+https://kinowatch.com/demo/stream/c081d18110cace028be2b3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS MIDDLESBROUGH F.C. .s
+https://kinowatch.com/demo/stream/1d024f17c8d03bd35bc50e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS NORWICH CITY .s
+https://kinowatch.com/demo/stream/e54583cac5c3714188943d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS OXFORD UNITED F.C. .s
+https://kinowatch.com/demo/stream/0249a11f6572c5d396a7a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS PORTSMOUTH FC .s
+https://kinowatch.com/demo/stream/7d1e142c46aaed07483bb0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS PRESTON NORTH END F.C. .s
+https://kinowatch.com/demo/stream/397638b9f7e60448d59b80.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS QUEENS PARK RANGERS F.C. .s
+https://kinowatch.com/demo/stream/9ad0e66de49ca6491e53b6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS SHEFFIELD UNITED F.C. .s
+https://kinowatch.com/demo/stream/2f04ae7cb53e5678722244.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ UK SPORT  ⚽" user-agent="VAVOO/2.6",CHAMPS SOUTHAMPTON F.C. .s
+https://kinowatch.com/demo/stream/14585f5527ebeb8e68b462.m3u8
+
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 1 .c
+https://kinowatch.com/demo/stream/1d9b8081706d591e7fac09.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 10 .c
+https://kinowatch.com/demo/stream/90cc4d17fab459ca7ec00e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 2 .c
+https://kinowatch.com/demo/stream/925ddf118ae688dd83b8b0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 3 .c
+https://kinowatch.com/demo/stream/0842afb5a72b5491e4a843.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 4 .c
+https://kinowatch.com/demo/stream/9f21c0ce99606c56aebf19.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 5 .c
+https://kinowatch.com/demo/stream/4ce0a13ccffdf170a60d25.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 6 .c
+https://kinowatch.com/demo/stream/54b2a23173333dc0a5ed65.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 7 .c
+https://kinowatch.com/demo/stream/2b563e2df9508e752a16d1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 8 .c
+https://kinowatch.com/demo/stream/f943a9891fa56ec5a28e81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ARENA SPORT 9 .c
+https://kinowatch.com/demo/stream/0e4ced330ebfa567970263.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",HAJDUK TV .c
+https://kinowatch.com/demo/stream/c85c5904228f17c6e0eef7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",KREATOR TV .c
+https://kinowatch.com/demo/stream/cd3f3975062817a2b022ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",LOV I RIBOLOV .c
+https://kinowatch.com/demo/stream/d486d64997965d453a5dbb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 1 .c
+https://kinowatch.com/demo/stream/0d75852a209df79d9ad21d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 2 .c
+https://kinowatch.com/demo/stream/52dbe7ace318ad187df6c2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 1 .c
+https://kinowatch.com/demo/stream/95db5a9a5e0fda1bf577c6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 10 .c
+https://kinowatch.com/demo/stream/92e7f26f74b542b141970a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 2 .c
+https://kinowatch.com/demo/stream/ab00136d50b17ff8e63673.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 3 .c
+https://kinowatch.com/demo/stream/a56ef326d809a81017b82a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 4 .c
+https://kinowatch.com/demo/stream/3b4bead3823476af168c37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 5 .c
+https://kinowatch.com/demo/stream/09860bf023cc17b6136af7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 6 .c
+https://kinowatch.com/demo/stream/109e4819fe708d154e1a1d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 7 .c
+https://kinowatch.com/demo/stream/9364e1a6b793c8cdbea538.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 8 .c
+https://kinowatch.com/demo/stream/7982efaaf67930a17cfd17.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB 9 .c
+https://kinowatch.com/demo/stream/45c0e73f8a91f85c46b084.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORT KLUB FIGHT .c
+https://kinowatch.com/demo/stream/5bb690f0b0d651aa895b6d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SPORTSKA .c
+https://kinowatch.com/demo/stream/d078c68d28a1da574ba0c6.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SUPERSPORT 1 .c
+https://kinowatch.com/demo/stream/supersport1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SUPERSPORT 2 .c
+https://kinowatch.com/demo/stream/supersport2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",SUPERSPORT 3 .c
+https://kinowatch.com/demo/stream/supersport3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",TRING SPORT 1 .c
+https://kinowatch.com/demo/stream/tringsport1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",OVERSPORT 1 .c
+https://kinowatch.com/demo/stream/oversport1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",A BOLA TV .b
+https://kinowatch.com/demo/stream/eb3490d2d3fed74d0dca6c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",A BOLA TV .c
+https://kinowatch.com/demo/stream/748ed117d5bdaf93497ab4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",BENFICA TV .b
+https://kinowatch.com/demo/stream/ac0a489994c80cdbde3820.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",BENFICA TV (BACKUP) .b
+https://kinowatch.com/demo/stream/cb8b37427a5f1a6ae2ecaa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",BTV (BENFICA) .c
+https://kinowatch.com/demo/stream/c2afb1db1ccf7633f9e43e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",BTV HD .b
+https://kinowatch.com/demo/stream/2d37110322d428e2d87ef3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL 11 .c
+https://kinowatch.com/demo/stream/c0847b78ae4c44b1c79d78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL 11 HD .b
+https://kinowatch.com/demo/stream/ab9baa04114bd96c9aa71d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL 11 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/6f7403c3d389dc2e5d1cb5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",COMBATE .c
+https://kinowatch.com/demo/stream/562d3aa9d3c4d9e043562e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DAZN 1 .c
+https://kinowatch.com/demo/stream/7f356eff3a97620ffc7edb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DAZN 2 .c
+https://kinowatch.com/demo/stream/fa86cc5e3762a0477bbeff.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DAZN 3 .c
+https://kinowatch.com/demo/stream/b7be01af2412bd06ce3a1d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DAZN 4 .c
+https://kinowatch.com/demo/stream/91f615eb94434658a40a6a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DAZN 5 .c
+https://kinowatch.com/demo/stream/8c4dce16214c1a84eca351.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 1 .b
+https://kinowatch.com/demo/stream/a01a70d0dd834bb7a163a3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 1 (BACKUP) .b
+https://kinowatch.com/demo/stream/e85452e5d5a01b13cc071a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 2 .b
+https://kinowatch.com/demo/stream/c04c62202272b98389205a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 2 (BACKUP) .b
+https://kinowatch.com/demo/stream/8da0b848fa8db45b4d0edb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 3 .b
+https://kinowatch.com/demo/stream/347f648ecf3b4e0009332c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 4 HD .b
+https://kinowatch.com/demo/stream/687da308be2a8f41a22b6b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 5 HD .b
+https://kinowatch.com/demo/stream/bb84edc79b6d1a3910a00d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORT 6 .b
+https://kinowatch.com/demo/stream/2b53206390340d7ad0f6df.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 1 HD .b
+https://kinowatch.com/demo/stream/fcb103889fec093816e5d9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 1 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/85f6957b4e30033f79f603.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 2 HD .b
+https://kinowatch.com/demo/stream/9c7f1196a2e3703c0d0634.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 2 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/5d325e5c707dbed3182dd6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 3 HD .b
+https://kinowatch.com/demo/stream/e1aff6f4628b03c050c353.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 3 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/e3418d56959ef591b6d367.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 4 HD .b
+https://kinowatch.com/demo/stream/d874199fc53e78c0f52c0a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 4 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/75f07237c26838d8814193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 5 FHD .b
+https://kinowatch.com/demo/stream/293e1748c7401b3402fdf2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 5 HD .b
+https://kinowatch.com/demo/stream/0d1ff8b6dc33e50a23c542.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 6 HD .b
+https://kinowatch.com/demo/stream/6addc2e92c4d6a4d88c835.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",ELEVEN SPORTS 6 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/4483be9cf2d5553e5dcce7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 1 .b
+https://kinowatch.com/demo/stream/5409e3eaee91100710e515.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 1 .c
+https://kinowatch.com/demo/stream/2833345cea3a57ff8fcdae.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 1 HD .b
+https://kinowatch.com/demo/stream/855b9f2283da7177d8c79c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 2 .b
+https://kinowatch.com/demo/stream/c3833ba3dc8348af8b991b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 2 .c
+https://kinowatch.com/demo/stream/685898ac660b7b0be5c29d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 2 (BACKUP) .b
+https://kinowatch.com/demo/stream/504b421aa02c3057f9e70c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",FIGHT NETWORK .c
+https://kinowatch.com/demo/stream/14485e5aebdf542aa9dfe5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",FUEL TV .b
+https://kinowatch.com/demo/stream/7e79231f380d31d38554ad.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",FUEL TV .c
+https://kinowatch.com/demo/stream/ff6c19912518d3cc24886e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",FUEL TV (BACKUP) .b
+https://kinowatch.com/demo/stream/394147a764f59c7514c00c.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL SPORT 1 HD .b
+https://kinowatch.com/demo/stream/7116f8cc933b796085c27d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL SPORT 2 HD .b
+https://kinowatch.com/demo/stream/8e4e815b664867e26c3afb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL SPORT 2 HD (BACKUP) .b
+https://kinowatch.com/demo/stream/58453cc7c8f2188590cfcc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL SPORT 3 HD .b
+https://kinowatch.com/demo/stream/51fad710694c68023704b3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL SPORT 4 HD .b
+https://kinowatch.com/demo/stream/3516116cb866e04ee0a5aa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL SPORT HD .b
+https://kinowatch.com/demo/stream/1365208b98658cab7dbd1a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ EXTRA 1 .c
+https://kinowatch.com/demo/stream/85ab0122a60157a8142d34.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ EXTRA 2 .c
+https://kinowatch.com/demo/stream/9e721333a6bbb63c2176d5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ EXTRA 3 .c
+https://kinowatch.com/demo/stream/7ab4af78d2b6aa3e53ce0c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ EXTRA 4 .c
+https://kinowatch.com/demo/stream/53ce3f7aa28a38bc03145d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ EXTRA 5 .c
+https://kinowatch.com/demo/stream/dab839f8b1a1cb1c64828d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ EXTRA 6 .c
+https://kinowatch.com/demo/stream/cd83020329f874bff831c0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ EXTRA 7 .c
+https://kinowatch.com/demo/stream/323f3fb6a551ce78225a58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT .b
+https://kinowatch.com/demo/stream/bf3141293af89bfd86fc86.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT .c
+https://kinowatch.com/demo/stream/8b78929c0f4cf2d35157e7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT 2 .b
+https://kinowatch.com/demo/stream/a7c34b5c2032983365c3d2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT 2 .c
+https://kinowatch.com/demo/stream/54927b9df81354d8385bf8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT 3 .b
+https://kinowatch.com/demo/stream/73cd264483a3d9135ec63b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT 3 .c
+https://kinowatch.com/demo/stream/7a374d9e25701356d1d83f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT 4 .b
+https://kinowatch.com/demo/stream/91224bb547b5a8a477a05a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT 4 .c
+https://kinowatch.com/demo/stream/f1d8a9d9abf58470612160.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",CANAL+ SPORT 5 .c
+https://kinowatch.com/demo/stream/3d879fd9ff97bc8744dad0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",AUTO MOTOR SPORT .c
+https://kinowatch.com/demo/stream/555b655a8542f176a86c7d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",AUTO MOTOR SPORT .s
+https://kinowatch.com/demo/stream/1fd35f1a24a21f4c204bb7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIEMA SPORT 2 .c
+https://kinowatch.com/demo/stream/fbf14169656b33295fa27d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIEMA SPORT 2 .s
+https://kinowatch.com/demo/stream/10f1447d5d084d3ef9eb5e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIEMA SPORT 3 .c
+https://kinowatch.com/demo/stream/b9c2dacc7c7b5f8f6752aa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 1 .c
+https://kinowatch.com/demo/stream/1f03997f726b694eb5c3d3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 2 .c
+https://kinowatch.com/demo/stream/8163b4e3b9a5007be8756e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",FIGHTBOX .c
+https://kinowatch.com/demo/stream/6d5b5320c57203524bb7c5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 1 .c
+https://kinowatch.com/demo/stream/7345b057e1d3181b44122f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 1 .s
+https://kinowatch.com/demo/stream/50342fee85236f571c07d8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 2 .c
+https://kinowatch.com/demo/stream/cdfd3ff5a03c451101c9db.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 2 .s
+https://kinowatch.com/demo/stream/29acb41bb479c87efeb1f6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 3 .c
+https://kinowatch.com/demo/stream/49e025a69a40926711e70c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 3 .s
+https://kinowatch.com/demo/stream/fdc3192643b1541cfc610d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",MAX SPORT 4 .c
+https://kinowatch.com/demo/stream/85a217afbd86734852e556.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",RING .c
+https://kinowatch.com/demo/stream/0e6349833cdce153169248.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",RING .s
+https://kinowatch.com/demo/stream/4e6c4d443e6649bdbe8ab7.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",AUTO MOTOR SPORT .s
+https://kinowatch.com/demo/stream/ea963c1a50b7be9a108be9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 1 .b
+https://kinowatch.com/demo/stream/9b50e54ac63f4b52bfec16.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 1 .s
+https://kinowatch.com/demo/stream/ad6631aa60599a408d6dc2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 1 HD .b
+https://kinowatch.com/demo/stream/1da6dfce39315a6bc413ab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 2 .b
+https://kinowatch.com/demo/stream/87ae3d081195d87dfc3fc8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 2 .s
+https://kinowatch.com/demo/stream/d990c11711744495dfecaf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 2 HD .b
+https://kinowatch.com/demo/stream/472f6c85c6fb57985c4484.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 3 .b
+https://kinowatch.com/demo/stream/eb8436ce7ab6934285765d.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 3 .s
+https://kinowatch.com/demo/stream/d87ef9af8d17ff6ece2312.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 3 HD .b
+https://kinowatch.com/demo/stream/c04d5075ecd576c7810b49.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 4 .b
+https://kinowatch.com/demo/stream/f4dcbe514741fe316c12ba.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 4 .s
+https://kinowatch.com/demo/stream/97475539118000f105ef26.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DIGI SPORT 4 HD .b
+https://kinowatch.com/demo/stream/0eba78a61320632a778edf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EUROSPORT 1 .s
+https://kinowatch.com/demo/stream/9bbfaac29a7c6e150e870c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EXTREME SPORT .s
+https://kinowatch.com/demo/stream/03516854078b538ec588d1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EXTREME SPORT RO .b
+https://kinowatch.com/demo/stream/9734df2299266ca5f6066c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",EXTREME SPORTS CHANNEL .s
+https://kinowatch.com/demo/stream/ce96bb0224ae83f644b1eb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",FIGHTBOX .s
+https://kinowatch.com/demo/stream/0f21cb2945cc9f88412686.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",FIGHTBOX HD .b
+https://kinowatch.com/demo/stream/217fc3208f944a88c553ef.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽" user-agent="VAVOO/2.6",DAZN 1 HD .b
+https://kinowatch.com/demo/stream/cc74433b88cb69a8252341.m3u8
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="SportKlub1.rs" group-title="⚽Sport VIP+⚽",Sportklub 1
+https://kinowatch.com/demo/stream/c38ebb81644287f6ba5c2b.m3u8
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="⚽Sport VIP+⚽",Sportklub 2
+https://kinowatch.com/demo/stream/f7f50978f5c1994c3a446e.m3u8
+#EXTINF:0 tvg-id="SportKlub3.rs" group-title="⚽Sport VIP+⚽",Sportklub 3
+https://kinowatch.com/demo/stream/0ca7c27e0dbe176a8fd711.m3u8
+#EXTINF:0 tvg-id="SportKlub4.rs" group-title="⚽Sport VIP+⚽",Sportklub 4
+https://kinowatch.com/demo/stream/267132993c98f6beaf74fc.m3u8
+#EXTINF:0 tvg-id="SportKlub5.rs" group-title="⚽Sport VIP+⚽",Sportklub 5
+https://kinowatch.com/demo/stream/064549a2fade63e06f9dcf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena 1 Premium
+https://kinowatch.com/demo/stream/54c52ef75c1733a279975f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena 2 Premium
+https://kinowatch.com/demo/stream/5398c69eea3b04d9bd615a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena 3 Premium
+https://kinowatch.com/demo/stream/bdd33a754200f483639d80.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena 4 Premium
+https://kinowatch.com/demo/stream/b8dda4f2b7c8a6790c9327.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena 5 Premium
+https://kinowatch.com/demo/stream/014ab93b71957a06d8c9a8.m3u8
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="NovaSport1.cz" group-title="⚽Sport VIP+⚽",Nova Sport
+http://newtv.exyutv.info:836/live?cId=168&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",MaxSport 1
+http://newtv.exyutv.info:836/live?cId=246&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Premium 1 (SRB)
+http://newtv.exyutv.info:836/live?cId=124&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Premium 2 (SRB)
+http://newtv.exyutv.info:836/live?cId=125&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Premium 3 (SRB)
+http://newtv.exyutv.info:836/live?cId=169&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="esp" group-title="⚽Sport VIP+⚽",Eurosport 1 HD
+http://newtv.exyutv.info:836/live?cId=68&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="esp2" group-title="⚽Sport VIP+⚽",Eurosport 2 HD
+http://newtv.exyutv.info:836/live?cId=69&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="SportKlub.pl" group-title="⚽Sport VIP+⚽",Sport Klub HD
+http://newtv.exyutv.info:836/live?cId=245&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 1 (HR)
+http://newtv.exyutv.info:836/live?cId=164&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 2 (HR)
+http://newtv.exyutv.info:836/live?cId=173&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 3 (HR)
+http://newtv.exyutv.info:836/live?cId=174&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 4 (HR)
+http://newtv.exyutv.info:836/live?cId=238&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 5 (HR)
+http://newtv.exyutv.info:836/live?cId=239&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 6 (HR)
+http://newtv.exyutv.info:836/live?cId=240&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 1 (HR)
+http://newtv.exyutv.info:836/live?cId=84&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 2 (HR)
+http://newtv.exyutv.info:836/live?cId=85&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="⚽Sport VIP+⚽",Arena Sport 3 (HR)
+http://newtv.exyutv.info:836/live?cId=86&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 4 (HR)
+http://newtv.exyutv.info:836/live?cId=87&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 5 (HR)
+http://newtv.exyutv.info:836/live?cId=88&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 6 (HR)
+http://newtv.exyutv.info:836/live?cId=89&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 7 (HR)
+http://newtv.exyutv.info:836/live?cId=234&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 8 (HR)
+http://newtv.exyutv.info:836/live?cId=235&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 9 (HR)
+http://newtv.exyutv.info:836/live?cId=236&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 10 (HR)
+http://newtv.exyutv.info:836/live?cId=237&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 1 (SRB)
+http://newtv.exyutv.info:836/live?cId=43&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 2 (SRB)
+http://newtv.exyutv.info:836/live?cId=44&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 3 (SRB)
+http://newtv.exyutv.info:836/live?cId=45&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Sport Klub 4 (SRB)
+http://newtv.exyutv.info:836/live?cId=46&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 1 (SRB)
+http://newtv.exyutv.info:836/live?cId=115&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 2 (SRB)
+http://newtv.exyutv.info:836/live?cId=116&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 3 (SRB)
+http://newtv.exyutv.info:836/live?cId=117&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 4 (SRB)
+http://newtv.exyutv.info:836/live?cId=118&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Sport 5 (SRB)
+http://newtv.exyutv.info:836/live?cId=119&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Premium 1 (BiH Test)
+http://newtv.exyutv.info:836/live?cId=270&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Premium 2 (BiH Test)
+http://newtv.exyutv.info:836/live?cId=271&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+#EXTINF:0 tvg-id="ext" group-title="⚽Sport VIP+⚽",Arena Premium 3 (BiH Test)
+http://newtv.exyutv.info:836/live?cId=272&uid=26&deviceUser=ThDHCuCF1sxaeeWy&devicePass=wBzAHxsXkUcm8Dh6
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="AR | THMANYAH  الثمانية |",📡SPORT CHANNELS
@@ -385,7 +997,39 @@ http://176.65.146.100:8037/play/a04s/index.m3u8
 http://149.100.11.235:8080/NileSport/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-
+#EXTM3U
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="⚽ SPORT VIP+1 ⚽",SPORTV 1
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#EXTINF:0 tvg-id="Sportv2.br" group-title="⚽ SPORT VIP+1 ⚽",SPORTV 2
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
+#EXTINF:0 tvg-id="Sportv3.br" group-title="⚽ SPORT VIP+1 ⚽",SPORTV 3
+http://177.52.24.163/SPORTV-3-HD/index.m3u8
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="⚽ SPORT VIP+1 ⚽",ESPN 1
+http://177.52.24.163/ESPN-1-HD/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.br" group-title="⚽ SPORT VIP+1 ⚽",ESPN 2
+http://177.52.24.163/ESPN-2-HD/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.br" group-title="⚽ SPORT VIP+1 ⚽",ESPN 3
+http://177.52.24.163/ESPN-3-HD/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="⚽ SPORT VIP+1 ⚽",ESPN 4
+http://177.52.24.163/ESPN-4-HD/index.m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="⚽ SPORT VIP+1 ⚽",ESPN 5
+http://177.52.24.163/ESPN-5-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere1.al" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 1
+http://177.52.24.163/PREMIERE-1-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere2.al" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 2
+http://177.52.24.163/PREMIERE-2-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere3.al" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 3
+http://177.52.24.163/PREMIERE-3-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere4.al" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 4
+http://177.52.24.163/PREMIERE-4-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere5.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 5
+http://177.52.24.163/PREMIERE-5-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere6.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 6
+http://177.52.24.163/PREMIERE-6-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere7.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 7
+http://177.52.24.163/PREMIERE-7-HD/index.m3u8
+#EXTINF:0 tvg-id="Premiere8.br" group-title="⚽ SPORT VIP+1 ⚽",PREMIERE 8
+http://177.52.24.163/PREMIERE-8-HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ SPORT VIP+1 ⚽",📡 Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png" group-title="⚽ SPORT VIP+1 ⚽",📡 Trace Sports
@@ -413,6 +1057,14 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="⚽ SPORT VIP+2 ⚽",Nova Sport 1
+http://88.212.15.19/live/test_ns1_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="⚽ SPORT VIP+2 ⚽",Nova Sport 2
+http://88.212.15.19/live/test_ns2_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="⚽ SPORT VIP+2 ⚽",Eurosport 4K
+https://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="⚽ SPORT VIP+2 ⚽",Story4 CZ
+http://88.212.15.19/live/story_4_cze_atk/index.m3u8
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="⚽ SPORT VIP+2 ⚽",sporttv1
 http://94.130.32.19:8080/sporttv1/index.m3u8
