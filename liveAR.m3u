@@ -145,22 +145,21 @@ https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
-#EXTINF:-1, Bein Sports 1 France
-http://99.27.51.147:8080/BeinSport/playlist.m3u8
-#EXTINF:-1, Bein Sports 2 France
-http://99.27.51.147:8080/BeinSport2/playlist.m3u8
-#EXTINF:-1, Bein Sports 3 France
-http://99.27.51.147:8080/BeinSport3/playlist.m3u8
 
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",BEIN SPORTS 1 FRANCE
+https://futbol9865.ultratv13.workers.dev/deportivo111/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",BEIN SPORTS 2 FRANCE
+https://futbol9865.ultratv13.workers.dev/deportivo111/2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",BEIN SPORTS 3 FRANCE
+https://futbol9865.ultratv13.workers.dev/deportivo111/3.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="⚽ SPORT VIP+2 ⚽",BeIN Sports 3
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",📡Bein Sport 1 🇫🇷
-http://99.27.51.147:8080/BeinSport/index.m3u8
+http://99.27.51.147:8080/BeinSport/playlist.m3u8
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="⚽ RMC SPORT FR ⚽",Bein Sport 2 HD
-http://99.27.51.147:8080/BeinSport2/index.m3u8
+http://99.27.51.147:8080/BeinSport2/playlist.m3u8
 #EXTINF:-1 tvg-name="FR : beIN SPOR 3 HD" tvg-logo="http://tayaara.store/live/france/max3.jpg" group-title="⚽ RMC SPORT FR ⚽",📡FR : beIN SPOR 3 FHD
-http://99.27.51.147:8080/BeinSport3/index.m3u8
+http://99.27.51.147:8080/BeinSport3/playlist.m3u8
 #EXTINF:0 tvg-id="esp" group-title="⚽ RMC SPORT FR ⚽",Euro Sport HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⚽ RMC SPORT FR ⚽",Euro Sport 1 HD
