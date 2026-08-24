@@ -31,26 +31,34 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
 http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
 http://cp11.adabmedia.com/hls2/persiana.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 2
 http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 3
 https://hrthrtjhrtijkhiurt.chkgjkg.online/live/x2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/8VZdj5-si5HmSjDfzALXCWFT1GaV451SATeqFOfGTlJNnK6puF18_IFMkRv3yNT0SvGzM3e7jk5Aq_WYhKzE6w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bfwwbffi1IKYveMdGJ7S2WPAFeHT0dHmhdGIlcFVpk8iegzWj2JvPDRi2iJv_rqTzV1amew71kJQ2ClC6B2R3w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
-https://ecf38996d918.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.098767424220.channel.qsb45IQUhhqf.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 4
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/JnS7GOBs3lOw9UPWrr4dUpdHRa33B1hPgFvEQ6b6G_cpbj7w1RmmFN7re18LtfajWfFiwQTOQFHnqjnGlJUugQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 5
+http://50.7.120.34:8080/DAZN1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 6
+https://1nyaler.streamhostingcdn.top/stream/68/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 7
+https://1nyaler.streamhostingcdn.top/stream/77/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 8
+https://zonetake.sbs/list/1
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 9
+http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2550/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 10
+https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 11
+http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2526/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 12
+https://super-livetv.vercel.app/SUPERTV_1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
