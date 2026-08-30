@@ -33,6 +33,18 @@ https://bit.ly/airmaxtvproooO
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE1HD
+https://ye-m3u8.tofi-xtv.com/_iptv/stream/621/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE2HD
+https://ye-m3u8.tofi-xtv.com/_iptv/stream/622/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE3HD
+https://ye-m3u8.tofi-xtv.com/_iptv/stream/623/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE4HD
+https://ye-m3u8.tofi-xtv.com/_iptv/stream/624/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_1
 https://sr.oztvlb.site/bein_sport_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_2
