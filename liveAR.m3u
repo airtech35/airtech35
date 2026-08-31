@@ -32,59 +32,19 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE1HD
-https://ye-m3u8.tofi-xtv.com/_iptv/stream/621/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE2HD
-https://ye-m3u8.tofi-xtv.com/_iptv/stream/622/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE3HD
-https://ye-m3u8.tofi-xtv.com/_iptv/stream/623/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE4HD
-https://ye-m3u8.tofi-xtv.com/_iptv/stream/624/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_1
-https://sr.oztvlb.site/bein_sport_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_2
-https://sr.oztvlb.site/bein_sport_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_3
-https://sr.oztvlb.site/bein_sport_3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_4
-https://sr.oztvlb.site/bein_sport_4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_5
-https://sr.oztvlb.site/bein_sport_5/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_6
-https://sr.oztvlb.site/bein_sport_6/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_7
-https://sr.oztvlb.site/bein_sport_7/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_8
-https://sr.oztvlb.site/bein_sport_8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", bein_sport_9
-https://sr.oztvlb.site/bein_sport_9/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+http://50.7.120.34:8080/DAZN1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 2
 http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/2527/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 3
 http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/2523/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
 http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
-http://cp11.adabmedia.com/hls2/persiana.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 2
-http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 3
-https://hrthrtjhrtijkhiurt.chkgjkg.online/live/c1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 4
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/JnS7GOBs3lOw9UPWrr4dUpdHRa33B1hPgFvEQ6b6G_cpbj7w1RmmFN7re18LtfajWfFiwQTOQFHnqjnGlJUugQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 5
-http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 6
 http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2550/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 7
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 5
 http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2526/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
