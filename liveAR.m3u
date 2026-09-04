@@ -48,6 +48,33 @@ http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2550/index.m3u8
 http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2526/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.1
+https://flu.systemnet.tv/BeinHD.1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.2
+https://flu.systemnet.tv/BeinHD.2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beinsports1
+https://extraali4k-plasma4k-thm.b-cdn.net/beinsports1/index.m3u8?token=krikartv
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beinsports2
+https://extraali4k-plasma4k-thm.b-cdn.net/beinsports2/index.m3u8?token=krikartv
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beinsports3
+https://extraali4k-plasma4k-thm.b-cdn.net/beinsports3/index.m3u8?token=krikartv
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beinsports4
+https://extraali4k-plasma4k-thm.b-cdn.net/beinsports4/index.m3u8?token=krikartv
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports 1
+https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports 2
+https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/25.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports 3
+https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/26.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports 4
+https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/27.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports 2+
+https://nt2.rahomigi.workers.dev/p?url=http%3A%2F%2Fre.new-redirect.online%2F0021012254%2F10011244%2F13195.pdf
+
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE +1
 http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE +2
