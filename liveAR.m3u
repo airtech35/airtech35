@@ -62,6 +62,12 @@ https://extraali4k-plasma4k-thm.b-cdn.net/beinsports3/index.m3u8?token=krikartv
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beinsports4
 https://extraali4k-plasma4k-thm.b-cdn.net/beinsports4/index.m3u8?token=krikartv
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports 1 +
+http://iptv.1stv.xyz:88/live/1stMovies/IK5Vmn5D5YHO1/5192.ts?token=
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE +1
 http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8
@@ -93,8 +99,7 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
-#EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE+++
-https://ksasports3.houdatv.workers.dev/live.m3u8?key=12345
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
@@ -358,6 +363,15 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjXvhtQ.png" group-title="SPORT رياضية",📡Bahrain Sports 2 HD
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT رياضية",📡ksasports 1
+https://ksasports1.houdatv.workers.dev/live.m3u8?key=12345
+#EXTINF:-1 tvg-logo="" group-title="SPORT رياضية",📡ksasports 2
+https://ksasports2.houdatv.workers.dev/live.m3u8?key=12345
+#EXTINF:-1 tvg-logo="" group-title="SPORT رياضية",📡ksasports 3
+https://ksasports3.houdatv.workers.dev/live.m3u8?key=12345
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",📡Nile sport
 http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",📡Jordan sport
