@@ -31,7 +31,10 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports
+http://iptv.1stv.xyz:88/live/1stMovies/IK5Vmn5D5YHO1/1223.ts?token=
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",bein sports news
+http://iptv.1stv.xyz:88/live/1stMovies/IK5Vmn5D5YHO1/68.ts?token=
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 2
