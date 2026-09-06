@@ -128,8 +128,7 @@ https://popcdn.kianezidi.workers.dev/beINAR8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  9 (SD)
 https://popcdn.kianezidi.workers.dev/beINAR9.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", Al-Fajer 1
-https://sptvspk.st-plasma.workers.dev/f1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
@@ -147,6 +146,38 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ Al-Fajer ⚽", Al-Fajer 1
+https://sptvspk.st-plasma.workers.dev/f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ Al-Fajer ⚽", Al-Fajer 2
+https://sptvspk.st-plasma.workers.dev/f2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ Al-Fajer ⚽", Al-Fajer 3
+https://sptvspk.st-plasma.workers.dev/f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ Al-Fajer ⚽", Al-Fajer 4
+https://sptvspk.st-plasma.workers.dev/f4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ Al-Fajer ⚽", Al-Fajer 5
+https://sptvspk.st-plasma.workers.dev/f5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ Al-Fajer ⚽", Al-Fajer 6
+https://sptvspk.st-plasma.workers.dev/f6/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ Al-Fajer ⚽", Al-Fajer 7
+https://sptvspk.st-plasma.workers.dev/f7/index.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ Alwan sport ⚽",Alwan sport 1
+https://blcco.linkip.org/live/3461_.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ Alwan sport ⚽",Alwan sport 2
+https://blcco.linkip.org/live/3460_.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ Alwan sport ⚽",Alwan sport 3
+https://blcco.linkip.org/live/3459_.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ Alwan sport ⚽",Alwan sport 4
+https://blcco.linkip.org/live/3457_.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="⚽ Alwan sport ⚽",Alwan sport 5
+https://blcco.linkip.org/live/3456_.m3u8
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
@@ -367,10 +398,11 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 1
-
+https://blcco.linkip.org/live/3455_.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 2
-
+https://blcco.linkip.org/live/3454_.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1763202599698759680/KMKU4U_X_400x400.jpg" group-title="AR | THMANYAH  الثمانية |",📡 THMANYAH 3
+https://blcco.linkip.org/live/3453_.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xhj0ALd6xDbUI56nJmXHWKIKW5aXDglX1w&s" group-title="AR | THMANYAH  الثمانية |",📡 shahid sports
 https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8
@@ -1741,7 +1773,7 @@ https://utviraqi-live.lg.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.iq" tvg-logo="https://shams.tv/_next/static/media/logo.fa219549.svg" group-title="🇮🇶العراق IRAQ",📡Shams TV
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="🇮🇶العراق IRAQ",📡Alawla TV
-https://live.alawla.tv/hls/2/stream.m3u8
+https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",📡Samirra
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",📡Al-Sharqiya 🇮🇶
