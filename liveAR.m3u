@@ -128,6 +128,9 @@ https://popcdn.kianezidi.workers.dev/beINAR8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  9 (SD)
 https://popcdn.kianezidi.workers.dev/beINAR9.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽", Al-Fajer 1
+https://sptvspk.st-plasma.workers.dev/f1/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 3
