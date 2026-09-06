@@ -52,23 +52,17 @@ https://flu.systemnet.tv/BeinHD.1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.2
 https://flu.systemnet.tv/BeinHD.2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein +0
 https://d1p3khpsqzcyso.cloudfront.net/live/bein1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein ++0
 https://d1p3khpsqzcyso.cloudfront.net/live/bein1_720p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
-http://f5944e6a.edemist.com/iptv/9EMB9V8Z6Z8CB7/31578/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein +++0
 http://1f43b15b.amazzin.pw/iptv/SLY4D5AMC4HPKWGG6MMLWEP8/31602/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
-http://vpzj3gcw.virelloso.top/iptv/W7QS9MQ998T25T/20068/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein ++++0
 http://bhkb93ji.lunexas.top/iptv/R2TUZXS9ZXKK7G4D367R4ZNN/31602/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein +++++0
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6566/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/31602/index.m3u8 1080 HD
+
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE +1
 http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8
