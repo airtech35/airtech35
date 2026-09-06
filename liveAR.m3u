@@ -1356,6 +1356,25 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://platform.topuphost.com:8558/img/baha.png" group-title="Children أطفال",📡تلفزيون البهاء 2
 http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
+#EXTINF:-1 tvg-chno="722" channel-number="722" tvg-id="722" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 13" group-title="Children أطفال",BOX OFFICE KIDS 1
+https://blc2cr.linkip.org/live/90024_.m3u8?play=
+#EXTINF:-1 tvg-chno="723" channel-number="723" tvg-id="723" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 14" group-title="Children أطفال",BOX OFFICE KIDS 2
+https://blc2cr.linkip.org/live/90025_.m3u8?play=
+#EXTINF:-1 tvg-chno="724" channel-number="724" tvg-id="724" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 15" group-title="Children أطفال",BOX OFFICE KIDS 3
+https://blc2cr.linkip.org/live/90026_.m3u8?play=
+#EXTINF:-1 tvg-chno="725" channel-number="725" tvg-id="725" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 16" group-title="Children أطفال",BOX OFFICE KIDS 4
+https://blc2cr.linkip.org/live/90027_.m3u8?play=
+#EXTINF:-1 tvg-chno="726" channel-number="726" tvg-id="726" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 17" group-title="Children أطفال",BOX OFFICE KIDS 5
+https://blc2cr.linkip.org/live/90028_.m3u8?play=
+#EXTINF:-1 tvg-chno="727" channel-number="727" tvg-id="727" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 18" group-title="Children أطفال",BOX OFFICE KIDS 6
+https://blc2cr.linkip.org/live/90029_.m3u8?play=
+#EXTINF:-1 tvg-chno="728" channel-number="728" tvg-id="728" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 19" group-title="Children أطفال",BOX OFFICE KIDS 7
+https://blc2cr.linkip.org/live/90030_.m3u8?play=
+#EXTINF:-1 tvg-chno="729" channel-number="729" tvg-id="729" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 20" group-title="Children أطفال",BOX OFFICE KIDS 8
+https://blc2cr.linkip.org/live/90031_.m3u8?play=
+#EXTINF:-1 tvg-chno="730" channel-number="730" tvg-id="730" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 21" group-title="Children أطفال",BOX OFFICE KIDS 9
+https://blc2cr.linkip.org/live/90032_.m3u8?play=
+
 #EXTINF:0 type="stream" tvg-logo="https://i.ibb.co/LPbD6Lv/Nickelodeon1.png" group-title="Children أطفال",📡nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/246vm7R.png" group-title="Children أطفال",📡ZooMoo HD
