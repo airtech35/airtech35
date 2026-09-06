@@ -906,6 +906,8 @@ https://blc2cr.linkip.org/live/90020_.m3u8?play=
 https://blc2cr.linkip.org/live/90021_.m3u8?play=
 #EXTINF:-1 tvg-logo="https://img.otf-tv.com/img/balance_128491.jpg" group-title="Cinema VIP",📡Box Office 10
 https://blc2cr.linkip.org/live/90022_.m3u8?play=
+#EXTINF:-1 tvg-chno="721" channel-number="721" tvg-id="721" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 12" group-title="Cinema VIP",BOX OFFICE 11
+https://blc2cr.linkip.org/live/90023_.m3u8?play=
 #EXTINF:-1 tvg-logo="https://img.otf-tv.com/img/balance_162900.jpg" group-title="Cinema VIP",📡Starz Cinema
 https://blc2cr.linkip.org/live/90155_.m3u8?play=
 #EXTINF:-1 tvg-logo="https://img.otf-tv.com/img/balance_189308.jpg" group-title="Cinema VIP",📡Starz Comedy
