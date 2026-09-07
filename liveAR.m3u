@@ -715,26 +715,16 @@ https://shd-amg-fast.akamaized.net/tx005/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx022/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Shahid TV VIP",📡قناة-باب-الحارة
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡مالك-بالطويلة
-https://shd-amg-fast.edgenextcdn.net/tx032/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡قناة-فريج
-https://shd-amg-fast.akamaized.net/tx034/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 مسلسل عروس بيروت
 https://shd-amg-fast.edgenextcdn.net:443/tx024/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 مسلسل ستيلتو
 https://shd-amg-fast.edgenextcdn.net:443/tx026/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 روح الحج
 https://shd-amg-fast.edgenextcdn.net:443/tx028/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 سين
-https://shd-amg-fast.edgenextcdn.net:443/tx030/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡قناة-اللعبة
-https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 السورية
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 FIFA+
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-fifa-plus/cbf387ad92f13b24a3be8a5c99e77835/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 AWSN
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-women-sports/c07bfc8d23bc0c71ba8fda9299225f51/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 UNBEATEN
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-unbeaten/b912825e16d6b489e6b545aee1739ee5/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",📡 الشرق-الوثائقية
@@ -1470,8 +1460,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC أم بي سي",📡MBC 2 HD
 http://185.9.2.18/chid_375/index.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="MBC أم بي سي",📡MBC 2 HD (Backup 1)
-http://154.58.202.18:8080/mbc2/index.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC أم بي سي",📡MBC 3 USA (4K)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC أم بي سي",📡MBC 4 (4K)
