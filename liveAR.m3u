@@ -49,10 +49,22 @@ http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/2523/index.m3u8
 http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 4
-http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2550/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 5
-http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/2526/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+1
+https://dltcbnt3gcg1g.cloudfront.net/live/bein1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+2
+https://dltcbnt3gcg1g.cloudfront.net/live/bein1_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+3
+https://dltcbnt3gcg1g.cloudfront.net/live/bein2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+4
+https://dltcbnt3gcg1g.cloudfront.net/live/bein2_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+5
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Zk8afFNBPrVHUAgPNiws-quzswQ34urPBIZoy981p9PXgk7L8b2R2Wj0IFUe-E4f-Sk7_XwAbCxVktxMgFgdPw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+6
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/EhDhAW8v8PiiEpHfM0CLiwuJHf3EpD-O0XVTPaQIZxOPJ2HjiS9PSosx_XyVfOrYBWaqChUBADtmlfUTWlAEkA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE7
+https://balance.footballii.ir/hls2/bein1.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.1
