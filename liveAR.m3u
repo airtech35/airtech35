@@ -41,6 +41,9 @@ http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="⚽ BEIN SPORT ⚽",DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein HD 1
+https://balance.footballii.ir/hls2/bein1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 2
 http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/2527/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 3
@@ -49,6 +52,36 @@ http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/2523/index.m3u8
 http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE001
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/2522/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE002
+http://d1r6cpqq.zyntras.top/iptv/9ETYFY3QDH8YBT/2522/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE003
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/7269/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE004
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4N9GESHLXBUSDA/6543/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE005
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/31602/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE006
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/6541/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE007
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6541/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE008
+http://mmhiktxe.nexeraso.top/iptv/5G5LB3LYFYA9P2/2506/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE009
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/2506/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE010
+http://mmhiktxe.nexeraso.top/iptv/5G5LB3LYFYA9P2/2506/index.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+1
@@ -84,10 +117,6 @@ http://iyh5mlxw.klaipedalt.org/iptv/Q9HCQVD66DX86T/2561/index.m3u8
 http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/271/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE -2
 http://bhkb93ji.lunexas.top/iptv/R2TUZXS9ZXKK7G4D367R4ZNN/20166/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE -3
-http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/7263/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  1 (SD)
@@ -138,6 +167,23 @@ http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/325799
 https://popcdn.kianezidi.workers.dev/beINAR8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  9 (SD)
 https://popcdn.kianezidi.workers.dev/beINAR9.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS1
+https://panel.tofi-xtv.com/live/free/free-vip/10.ts
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS2
+https://panel.tofi-xtv.com/live/free/free-vip/11.ts
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS3
+https://panel.tofi-xtv.com/live/free/free-vip/12.ts
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS4
+https://panel.tofi-xtv.com/live/free/free-vip/13.ts
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS5
+https://panel.tofi-xtv.com/live/free/free-vip/14.ts
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS5
+https://panel.tofi-xtv.com/live/free/free-vip/15.ts
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS6
+https://panel.tofi-xtv.com/live/free/free-vip/16.ts
 
 
 
