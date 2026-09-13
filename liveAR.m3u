@@ -155,24 +155,6 @@ https://popcdn.kianezidi.workers.dev/beINAR8.m3u8
 https://popcdn.kianezidi.workers.dev/beINAR9.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS1
-https://panel.tofi-xtv.com/live/free/free-vip/10.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS2
-https://panel.tofi-xtv.com/live/free/free-vip/11.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS3
-https://panel.tofi-xtv.com/live/free/free-vip/12.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS4
-https://panel.tofi-xtv.com/live/free/free-vip/13.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS5
-https://panel.tofi-xtv.com/live/free/free-vip/14.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS5
-https://panel.tofi-xtv.com/live/free/free-vip/15.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS6
-https://panel.tofi-xtv.com/live/free/free-vip/16.ts
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 3
