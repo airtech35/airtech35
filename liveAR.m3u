@@ -53,7 +53,8 @@ http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE000
+https://live-cdn.tofi-xtv.com/hls/bein2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE001
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/2522/index.m3u8
