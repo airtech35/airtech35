@@ -1787,6 +1787,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="AmmanTV.jo" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="🇯🇴الاردنJORDAN",📡Amman TV
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="AmmanTV.jo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDh_DlhK6oluTP0FcrwwIMDiJ2KBGti-PPREPN5l-nfA&s" group-title="🇯🇴الاردنJORDAN",📡Roya TV
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="🇯🇴الاردنJORDAN",📡Al Mamlaka TV
 https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWlod3RhLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNTgwOTE1MTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA5MTUxMDAxIl0sImp0aSI6IjYzNzY4MjYyMDAxMTIifQ.EBaDAQiDkyoRKYIjLROyrZzKFPcftOUxk4ftmhtVsEk/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="JordanArchive.jo" tvg-logo="https://i.imgur.com/8UrCl4k.png" group-title="🇯🇴الاردنJORDAN",📡Jordan Archive
