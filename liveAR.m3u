@@ -42,11 +42,11 @@ http://23.237.104.106:8080/DAZN_3/index.m3u8
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE
 https://cp11.adabmedia.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.1
+https://flu.systemnet.tv/BeinHD.1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.2
+https://flu.systemnet.tv/BeinHD.2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 2
-http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/2527/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE 3
-http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/2523/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
 http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
@@ -92,10 +92,7 @@ https://d2ya92o8s3voih.cloudfront.net/live/bein4_360p.m3u8
 https://d2ya92o8s3voih.cloudfront.net/live/bein1_360p.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.1
-https://flu.systemnet.tv/BeinHD.1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.2
-https://flu.systemnet.tv/BeinHD.2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein +
 http://1f43b15b.amazzin.pw/iptv/SLY4D5AMC4HPKWGG6MMLWEP8/31602/index.m3u8
