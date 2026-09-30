@@ -1844,7 +1844,7 @@ https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/04/iraqia-sport.png" group-title="🇮🇶العراق IRAQ",📡Al Iraqia Sport 
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title="🇮🇶العراق IRAQ",📡UTV
-https://utviraqi-live.lg.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
+https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.iq" tvg-logo="https://shams.tv/_next/static/media/logo.fa219549.svg" group-title="🇮🇶العراق IRAQ",📡Shams TV
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="🇮🇶العراق IRAQ",📡Alawla TV
