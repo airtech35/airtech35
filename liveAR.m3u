@@ -48,7 +48,7 @@ https://flu.systemnet.tv/BeinHD.1/index.m3u8
 https://flu.systemnet.tv/BeinHD.2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein 4K.1
-https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b1sa/chunks.m3u8
+https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b1go/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein 4K.2
 https://pl-4k-ea4k.b-cdn.net/ssh101/ssh101/b2go/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein 4K.3
@@ -461,15 +461,15 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 
 #EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",📡Alkass One
-https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
+https://kass.super-stv.workers.dev/alkass.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",📡Alkass Two
-https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8
+https://kass.super-stv.workers.dev/alkass2.m3u8
 #EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",📡Alkass Three
-https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8
+https://kass.super-stv.workers.dev/alkass3.m3u8
 #EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",📡Alkass Four
-https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8
+https://kass.super-stv.workers.dev/alkass4.m3u8
 #EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",📡Alkass Five
-https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8
+https://kass.super-stv.workers.dev/alkass5.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://shoof.alkass.net/assets/images/six.png" group-title="SPORT رياضية",📡alkass six
 https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="SPORT رياضية",📡Alkass Seven
