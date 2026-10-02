@@ -46,132 +46,58 @@ https://cp11.adabmedia.com/hls2/bein1.m3u8
 https://flu.systemnet.tv/BeinHD.1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BeinHD.2
 https://flu.systemnet.tv/BeinHD.2/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
 http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE01
-https://cdn.gamhed.online/hls/bein1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE02
-https://cdn.gamhed.online/hls/bein2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE03
-https://cdn.gamhed.online/hls/bein3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE04
-https://cdn.gamhed.online/hls/bein4.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 1
+https://18soso.s3.us-east-2.amazonaws.com/bein2/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 2
+https://18soso.s3.us-east-2.amazonaws.com/bein2/720p/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 3
+https://balance.footballii.ir/hls2/bein2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 4
+https://18soso.s3.us-east-2.amazonaws.com/bein1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 5
+https://18soso.s3.us-east-2.amazonaws.com/bein1/720p/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 6
+https://balance.footballii.ir/hls2/bein1.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE001
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/2522/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE002
 http://d1r6cpqq.zyntras.top/iptv/9ETYFY3QDH8YBT/2522/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE003
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/7269/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE004
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE002
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4N9GESHLXBUSDA/6543/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE005
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE003
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/31602/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE006
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE004
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/6541/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE007
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6541/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE008
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE005
 http://mmhiktxe.nexeraso.top/iptv/5G5LB3LYFYA9P2/2506/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE009
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE006
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/2506/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE010
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE007
 http://mmhiktxe.nexeraso.top/iptv/5G5LB3LYFYA9P2/2506/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+0
-https://d2ya92o8s3voih.cloudfront.net/live/bein2_360p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+1
-https://d2ya92o8s3voih.cloudfront.net/live/beinex2_360p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+2
-https://d2ya92o8s3voih.cloudfront.net/live/bein4_360p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE+3
-https://d2ya92o8s3voih.cloudfront.net/live/bein1_360p.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein +
-http://1f43b15b.amazzin.pw/iptv/SLY4D5AMC4HPKWGG6MMLWEP8/31602/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",Bein ++
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6566/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE +1
 http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE +2
 http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/270/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE +3
 http://iyh5mlxw.klaipedalt.org/iptv/Q9HCQVD66DX86T/2561/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE -1
 http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/271/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE -2
 http://bhkb93ji.lunexas.top/iptv/R2TUZXS9ZXKK7G4D367R4ZNN/20166/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  1 (SD)
-https://prime-fast.sytes.net/prime-tv/stream/25.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  1 (HD)
-https://prime-fast.sytes.net/prime-tv/stream/63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  1 (FHD)
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6131/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  1 (4k)
-https://prime-fast.sytes.net/prime-tv/stream/74.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  2 (SD)
-https://prime-fast.sytes.net/prime-tv/stream/26.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  2 (HD)
-https://prime-fast.sytes.net/prime-tv/stream/64.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  2 (FHD)
-https://prime-fast.sytes.net/prime-tv/stream/75.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  3 (SD)
-https://prime-fast.sytes.net/prime-tv/stream/27.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  3 (HD)
-https://prime-fast.sytes.net/prime-tv/stream/65.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  3 (FHD)
-https://prime-fast.sytes.net/prime-tv/stream/76.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  3 (4k)
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6124/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  4 (HD)
-http://185.191.126.127:8080/live/ksa92543/49566522386/325796.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  4 (FHD)
-https://prime-fast.sytes.net/prime-tv/stream/77.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  4 (SD)
-https://prime-fast.sytes.net/prime-tv/stream/28.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  4 (للنت الضعيف)
-https://max-9l1.pages.dev/sd/bein_sport_4_sd_2m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  5 (HD)
-http://185.191.126.127:8080/live/ksa92543/49566522386/325797.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  5 (FHD)
-https://prime-fast.sytes.net/prime-tv/stream/78.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  5 (للنت الضعيف)
-https://max-9l1.pages.dev/sd/bein_sport_5_sd_2m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  6 (SD)
-http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/325798
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  6 (احتياطي)
-http://185.191.126.127:8080/live/ksa92543/49566522386/325798.ts
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  7 (SD)
-https://popcdn.kianezidi.workers.dev/beINAR7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  7 (HD)
-http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/325799
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  8 (SD)
-https://popcdn.kianezidi.workers.dev/beINAR8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS  9 (SD)
-https://popcdn.kianezidi.workers.dev/beINAR9.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 3
 http://flu.systemnet.tv/BeinHD3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 4
-http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="⚽ BEIN SPORT ⚽",CAZE TV 1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -00
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -01
