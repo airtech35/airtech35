@@ -51,19 +51,23 @@ http://ar.ycncdn.online/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein1 
+https://balance.footballii.ir/hls2/bein1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein2
+https://balance.footballii.ir/hls2/bein2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein3 
+https://balance.footballii.ir/hls2/bein3.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 1
 https://18soso.s3.us-east-2.amazonaws.com/bein2/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 2
 https://18soso.s3.us-east-2.amazonaws.com/bein2/720p/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 3
-https://balance.footballii.ir/hls2/bein2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 4
 https://18soso.s3.us-east-2.amazonaws.com/bein1/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 5
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 4
 https://18soso.s3.us-east-2.amazonaws.com/bein1/720p/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test 6
-https://balance.footballii.ir/hls2/bein1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE001
