@@ -1773,9 +1773,10 @@ https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/samirra.iq.png?raw=true" group-title="🇮🇶العراق IRAQ",📡Samirra
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="🇮🇶العراق IRAQ",📡Al-Sharqiya 🇮🇶
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+https://indexforce.com/tvhighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="🇮🇶العراق IRAQ",📡Al Sharqiya News
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8 
+https://indexforce.com/newshighres/mystream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="🇮🇶العراق IRAQ",📡Al Rasheed TV
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="🇮🇶العراق IRAQ",📡Al-Jawadain TV
