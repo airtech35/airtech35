@@ -1769,7 +1769,7 @@ http://185.9.2.18/chid_387/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡LBC International
 http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡ALJADEED
-http://41.205.93.154/ALJADEED/index.m3u8?125
+http://41.205.93.154/ALJADEED/index.m3u8
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="🇱🇧LEBANON لبنان",📡OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Lb| LBC Sat" tvg-name="AR | [LIB] LBC " tvg-logo="https://bit.ly/42tbgMf" group-title="🇱🇧LEBANON لبنان",📡LBC
