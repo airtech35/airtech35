@@ -571,7 +571,7 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 
 #EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",📡Alkass One
-https://kass.super-stv.workers.dev/alkass.m3u8
+https://news-akko-tmk-aktoo.lol/kass/?id=alkass1
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",📡Alkass Two
 https://kass.super-stv.workers.dev/alkass2.m3u8
 #EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",📡Alkass Three
@@ -1315,6 +1315,8 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="🆁™ أخبارWorld News 🌍",📡AL Mashhad  🇦🇪
 https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/AsharqNewsLogo.png" group-title="SRMG",asharq news 
+https://live-news-v2.asharq.com/asharq.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="KTVNews.kw" tvg-logo="https://i.imgur.com/erZ0Ol1.png" group-title="🆁™ أخبارWorld News 🌍",📡KTV News 🇰🇼
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
@@ -1438,6 +1440,8 @@ https://bit.ly/airmaxtvproooO
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" group-title="​🆁™ وثائقيDoc & History 🏛️",📡Asharq Discovery HD
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SrOY6vepSht7siyL7hbbaCJ24wffxvObsXh7__9LGxpgdYJHa0TS-Ef93eAvgr9n60GcKy3xGA=s900-c-k-c0x00ffffff-no-rj" group-title="SRMG",thaqafiya
+https://live-thaqafeyah.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="​🆁™ وثائقيDoc & History 🏛️",📡ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="​🆁™ وثائقيDoc & History 🏛️",📡National Geographic Abu Dhabi HD
