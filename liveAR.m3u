@@ -40,13 +40,13 @@ http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="⚽ BEIN SPORT ⚽",DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="⚽ BEIN SPORT ⚽",LIVE
 https://cp11.adabmedia.com/hls2/bein1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein1 
 https://balance.footballii.ir/hls2/bein1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein2
 https://balance.footballii.ir/hls2/bein2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein3 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein3 
 https://balance.footballii.ir/hls2/bein3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS 1
@@ -138,11 +138,11 @@ http://86.192.195.47:9034/stream/9/index.m3u8
 http://86.192.195.47:9034/stream/10/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
+#EXTINF:-1 tvg-logo=https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ON_Sport_Logo.svg/250px-ON_Sport_Logo.svg.png"" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
 http://ar.ycncdn.online/live/006900/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
+#EXTINF:-1 tvg-logo="https://koraplus.com/images/2026/3/large/164414004210420260326103401341.jpg" group-title="⚽ BEIN SPORT ⚽",📡ON Sport max
 http://ar.ycncdn.online/live/007000/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/795133992785719296/vGCRqoty_400x400.jpg" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:0 group-title="⚽ BEIN SPORT ⚽" tvg-logo="https://bit.ly/4193wOv",📡LIVE 24 -01
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
