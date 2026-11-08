@@ -1324,7 +1324,8 @@ https://stream.shams.tv/hls/stream.m3u8
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHj-EmMMI8-3LyEfoo1PwSk3wWQq9KggdO8Dq-envDBhkTfDtyJ3VZYTj&s=10" group-title="🆁™ أخبارWorld News 🌍",📡iNEWS TV 🇮🇶
 https://live.i-news.tv/hls/stream.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="🆁™ أخبارWorld News 🌍",i24NEWS Arabi
+https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="🆁™ أخبارWorld News 🌍",📡Nabaa TV
 https://media2.streambrothers.com:1936/aggutshtkm/aggutshtkm/playlist.m3u8
@@ -1358,7 +1359,7 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="🆁™ أخبارWorld News 🌍",📡AL ALAM 🇮🇷
-https://live2.alalam.ir/live/Alalam/index.m3u8
+http://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="🆁™ أخبارWorld News 🌍",📡Iran International 🇮🇷
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
@@ -1547,12 +1548,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="Children أطفال",📡Spacetoon+
 http://149.100.11.235:8080/SPACETOONARABIC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Children أطفال",VOD-Series
-https://fast.spacetoongo.com/channels/32f56574-6af3-4fc9-a59d-7dfec23eca0a/master1000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" group-title="Children أطفال",Cartoon Network Arabic
+http://149.100.11.252:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Children أطفال",📡ROYA KIDS
 https://fast.kwikmotion.com/roya/kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children أطفال",📡 ماجد
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15202/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ymHLyF" group-title="Children أطفال",📡Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children أطفال",📡Amou Yazid TV
@@ -1847,7 +1846,7 @@ https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.postimg.cc/4xnhPmjk/tahatv.png" group-title="🇱🇧LEBANON لبنان",📡Taha TV
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="🇱🇧LEBANON لبنان",📡Ifilm Tv
-https://live.presstv.ir/hls/ifilmar.m3u8
+https://live.presstv.co.uk/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/KolWUTEcPB5R3iKRWYSkfwPmNTjxHgRm39qyOAeLgwAk8YZW5DVXeY8LLhtuII8i5O4oiIE5=s900-c-k-c0x00ffffff-no-rj" group-title="🇱🇧LEBANON لبنان",📡RED لبنان
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Qn_da7QAlW8wiPygCo_FbyY4zss3gdWX3AKPVjr_0W3cUz-KJMdFk6bBSn0LQ5JxVQ" group-title="🇱🇧LEBANON لبنان",📡Senses TV
@@ -2155,6 +2154,8 @@ https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8
 http://185.9.2.18/chid_741/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇹🇳تونسTUNISIE",📡HANNIBAL TV
 http://185.9.2.18/chid_615/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.elyssatv.com/logo.png" group-title="🇹🇳تونسTUNISIE",Elyssa TV
+https://tv.elyssatv.com/live/master.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇩🇿الجزائرALGERIEN",📡 🇩🇿الجزائرALGERIEN
