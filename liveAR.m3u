@@ -1321,7 +1321,7 @@ https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://play-lh.googleusercontent.com/p0JDkC7_seHXD_hU1DN0NN_Or5h8ROQg7_WazWKdCXIMbIlTGrzOWXaP8ARckxx8oFYBtKTiVZlTdF44WLuXEw=w240-h480-rw" group-title="🆁™ أخبارWorld News 🌍",📡Shams TV 🇮🇶
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/18/b1/b8/18b1b893-6534-db82-056e-2a79dad84357/source/512x512bb.jpg" group-title="🆁™ أخبارWorld News 🌍",📡Al-Sharqiya News 🇮🇶
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+https://indexforce.com/newshighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHj-EmMMI8-3LyEfoo1PwSk3wWQq9KggdO8Dq-envDBhkTfDtyJ3VZYTj&s=10" group-title="🆁™ أخبارWorld News 🌍",📡iNEWS TV 🇮🇶
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="🆁™ أخبارWorld News 🌍",i24NEWS Arabi
@@ -2156,6 +2156,9 @@ http://185.9.2.18/chid_741/index.m3u8
 http://185.9.2.18/chid_615/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.elyssatv.com/logo.png" group-title="🇹🇳تونسTUNISIE",Elyssa TV
 https://tv.elyssatv.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mRSQ5bP.png" group-title="🇹🇳تونسTUNISIE",Jawhara TV
+
+https://streaming.toutech.net/live/jtv/index.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="🇩🇿الجزائرALGERIEN",📡 🇩🇿الجزائرALGERIEN
