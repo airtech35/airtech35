@@ -542,21 +542,6 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="SPORT رياضية",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
 
-#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",📡Alkass One
-https://is.gd/WJAZc0?.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",📡Alkass Two
-https://kass.super-stv.workers.dev/alkass2.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",📡Alkass Three
-https://kass.super-stv.workers.dev/alkass3.m3u8
-#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",📡Alkass Four
-https://kass.super-stv.workers.dev/alkass4.m3u8
-#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",📡Alkass Five
-https://kass.super-stv.workers.dev/alkass5.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://shoof.alkass.net/assets/images/six.png" group-title="SPORT رياضية",📡alkass six
-https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="SPORT رياضية",📡Alkass Seven
-https://storage.googleapis.com/livealkass-eu/alkass7-p/main.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeUlOGA.png" group-title="SPORT رياضية",📡Oman TV Sport HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="SPORT رياضية",📡Kuwait Sports HD
@@ -579,11 +564,27 @@ https://ksasports3.houdatv.workers.dev/live.m3u8?key=12345
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",📡Nile sport
 http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",📡Jordan sport
-http://93.184.10.248/JordanSport/index.m3u8
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 group-title="SPORT رياضية" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",📡Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",📡NileSport
 http://149.100.11.235:8080/NileSport/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",📡Alkass One
+https://is.gd/WJAZc0?.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",📡Alkass Two
+https://kass.super-stv.workers.dev/alkass2.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",📡Alkass Three
+https://kass.super-stv.workers.dev/alkass3.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",📡Alkass Four
+https://kass.super-stv.workers.dev/alkass4.m3u8
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",📡Alkass Five
+https://kass.super-stv.workers.dev/alkass5.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://shoof.alkass.net/assets/images/six.png" group-title="SPORT رياضية",📡alkass six
+https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="SPORT رياضية",📡Alkass Seven
+https://storage.googleapis.com/livealkass-eu/alkass7-p/main.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
