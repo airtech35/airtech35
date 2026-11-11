@@ -44,7 +44,8 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 https://cp11.adabmedia.com/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="⚽ BEIN SPORT ⚽",LIVE+
 https://app.site2026.top/mobile/PAXHsPp6Y67_HPB_kHd-xQ/1788634802/1788634541/0/bein101.m3u8
-
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/ar/thumb/7/7f/FajerTV_Logo.jpg/250px-FajerTV_Logo.jpg" group-title="⚽ BEIN SPORT ⚽",AL fajertv 1 HD
+http://ar.ycncdn.online/live/011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein1 
 https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="⚽ BEIN SPORT ⚽",LIVE Test Bein2
@@ -193,6 +194,10 @@ https://blcco.linkip.org/live/3457_.m3u8
 https://blcco.linkip.org/live/3456_.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="TR:beIN Sport",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
