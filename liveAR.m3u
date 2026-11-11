@@ -21,7 +21,6 @@ https://bit.ly/3rYm5G5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="قسم الدعم الفني للتطبيق",📡❤️تحميل airmaxعلى الشاشات الاندرويد
 https://bit.ly/3OG5wq7
 
-
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡BEIN SPORT⚽️
@@ -30,6 +29,8 @@ https://bit.ly/3xYLaRh
 https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeair.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/jpgairmaxtv" group-title="⚽ BEIN SPORT ⚽",📡 airmax النسخة المدفوعة
 https://bit.ly/airmaxtvproooO
+#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS NEWS
+https://blcco.linkip.org/live/3464_.m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="⚽ BEIN SPORT ⚽",DAZN 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
@@ -178,6 +179,21 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] One Movies
+https://ffs2.gulfsat.com/OneMovies/video.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay SPORTS 1
+https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd&keys=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay SPORTS 2
+https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd?aws.manifestfilter=audio_language:ara&keys=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay SPORTS 3
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?aws.manifestfilter=audio_language:ara&keys=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
+➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
+
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="⚽ Alwan sport ⚽",Alwan Sport 1 HD
 https://blcco.linkip.org/live/3461_.m3u8
@@ -642,6 +658,28 @@ https://alkass.super-stv.workers.dev/alkass5.m3u8
 https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="SPORT رياضية",📡Alkass Seven
 https://storage.googleapis.com/livealkass-eu/alkass7-p/main.m3u8
+
+
+#EXTINF:-1 group-title="SPORT رياضية",AD SPORTS 1
+https://blcco.linkip.org/live/1142_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",AD SPORTS 2
+https://blcco.linkip.org/live/1141_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",AHLY - S1
+https://blcco.linkip.org/live/1146_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",AHLY - S2
+https://blcco.linkip.org/live/1615_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",AHLY - S3
+https://blcco.linkip.org/live/1143_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",ALRABIAA
+https://blcco.linkip.org/live/2174_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",NILE SPORTS
+https://blcco.linkip.org/live/1122_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",ON SPORTS AUTO
+https://fastly.live.brightcove.com/6386028928112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjg5MjgxMTIifQ.7pBZHXb93BJ47HBrEiPQvSquoHi92NStYSX3JKYcznQ/playlist-hls.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",SHAID SPORTS
+https://blcco.linkip.org/live/2475_.m3u8
+#EXTINF:-1 group-title="SPORT رياضية",Zamalek
+https://blcco.linkip.org/live/1145_.m3u8
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
@@ -1171,6 +1209,41 @@ https://blc2cr.linkip.org/live/90087_.m3u8
 https://blc2cr.linkip.org/live/90088_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡شاهد هندي 
 https://blc2cr.linkip.org/live/90089_.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance
+https://blc2cr.linkip.org/live/90001_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance افلام
+https://blc2cr.linkip.org/live/90043_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance افلام 2
+https://blc2cr.linkip.org/live/90044_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance افلام 3
+https://blc2cr.linkip.org/live/90045_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance اكشن
+https://blc2cr.linkip.org/live/90055_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance ست كوميدي
+https://blc2cr.linkip.org/live/90052_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance سينما
+https://blc2cr.linkip.org/live/90047_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance كلاسيك
+https://blc2cr.linkip.org/live/90046_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance كوميدى
+https://blc2cr.linkip.org/live/90048_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Balance مسرح زمان
+https://blc2cr.linkip.org/live/90051_.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Watch CINEMA
+https://blcco.linkip.org/live/1017_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Watch Hindi
+https://blcco.linkip.org/live/1014_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Watch Horror
+https://blcco.linkip.org/live/1015_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Watch kids
+https://blcco.linkip.org/live/1012_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cinema VIP",📡Watch MOVIES
+https://blcco.linkip.org/live/1016_.m3u8
+
+
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
 
@@ -2101,6 +2174,10 @@ https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="🇪🇬المصرية Egypt",📡El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt",Alhayat Drama
+https://fastly.live.brightcove.com/1843521635140662966/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjE2MzUxNDA2NjI5NjYifQ.3f6Ek99wdZf_GSaWnd7hHgbJOSa2zbyqt2cUoxyTHzk/playlist-hls.m3u8
+#EXTINF:-1 group-title="🇪🇬المصرية Egypt",ON E
+https://fastly.live.brightcove.com/1843587421941170322/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1ODc0MjE5NDExNzAzMjIifQ.r6YCffy47zkO1b8ng0w4Cxe8QVIsrat2RiuQrGYemyk/playlist-hls.m3u8
 
 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 
 
