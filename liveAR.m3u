@@ -31,14 +31,6 @@ https://github.com/airtech35/airtech35/raw/refs/heads/airtech35-patch-1/coodeeai
 https://bit.ly/airmaxtvproooO
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/13449275.54841bbb71180.png" group-title="⚽ BEIN SPORT ⚽",BEIN SPORTS NEWS
 https://blcco.linkip.org/live/3464_.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="⚽ BEIN SPORT ⚽",DAZN 1
-http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN2.uk" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="⚽ BEIN SPORT ⚽",DAZN 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="⚽ BEIN SPORT ⚽",DAZN 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="⚽ BEIN SPORT ⚽",DAZN 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="⚽ BEIN SPORT ⚽",LIVE
 https://cp11.adabmedia.com/hls2/bein1.m3u8
@@ -166,41 +158,6 @@ https://man1ted.com/watch/beee6.m3u8
 https://man1ted.com/watch/beee7.m3u8
 #EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472fncu45.png" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 8 HD+
 https://man1ted.com/watch/beee8.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1
-https://vg162.adcdsd123321.shop/7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2
-https://vg162.adcdsd123321.shop/8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3
-https://vg162.adcdsd123321.shop/9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4
-https://vg162.adcdsd123321.shop/10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5
-https://vg162.adcdsd123321.shop/11.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 6
-https://vg162.adcdsd123321.shop/6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 7
-https://vg162.adcdsd123321.shop/14.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 8
-https://vg162.adcdsd123321.shop/16.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 9
-https://vg162.adcdsd123321.shop/17.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 1
-https://vg162.adcdsd123321.shop/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 2
-https://vg162.adcdsd123321.shop/2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 3
-https://vg162.adcdsd123321.shop/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 4
-https://vg162.adcdsd123321.shop/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚽ BEIN SPORT ⚽",beIN SPORTS 5
-https://vg162.adcdsd123321.shop/5.m3u8
-.
-
 
 #EXTINF:-1 tvg-logo=https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ON_Sport_Logo.svg/250px-ON_Sport_Logo.svg.png"" group-title="⚽ BEIN SPORT ⚽",📡ON Sport
 http://ar.ycncdn.online/live/006900/index.m3u8
