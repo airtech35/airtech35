@@ -1801,9 +1801,11 @@ https://bit.ly/airmaxtvproooO
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-id="Lb| MTV Lebanon 4K" tvg-name="AR | [LIB] MTV " tvg-logo="https://bit.ly/4atmfY7" group-title="🇱🇧LEBANON لبنان",📡MTV (backup)
 http://185.9.2.18/chid_387/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡LBC International
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_LBC_International_%28Lebanon%29.png" group-title="🇱🇧LEBANON لبنان",📡LBC International
 http://185.9.2.18/chid_521/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇱🇧LEBANON لبنان",📡ALJADEED
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="🇱🇧LEBANON لبنان",📡ALJADEED
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_jadeed/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="🇱🇧LEBANON لبنان",📡ALJADEED
 http://41.205.93.154/ALJADEED/index.m3u8
 #EXTINF:-1 tvg-id="otvlebanon.lb" tvg-name="AR | [LIB] OTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="🇱🇧LEBANON لبنان",📡OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
